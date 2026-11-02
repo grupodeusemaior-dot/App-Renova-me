@@ -322,7 +322,7 @@ function renderChapter(book, chapter) {
 }
 
 
-// CHAMADOS PARA SERVIR — módulo independente com três livros.
+// CHAMADOS PARA SERVIR — três livros com leitura diária, sumário e navegação.
 const chamadosBooks = [
   {
     key: "profissional",
@@ -346,20 +346,20 @@ const chamadosBooks = [
     file: `${ROOT}/ChamadosParaServir/liderar_sem_perder_a_alma.json`
   }
 ];
+let chamadosCurrentBook = null;
+let chamadosRecords = [];
 
+function chamadosImageUrl(path) {
+  return new URL(path, APP_ROOT).href;
+}
 function openChamados() {
   state.currentDailyType = null;
   clearTimeout(state.dailyTimer);
-  showPanel(
-    "Chamados para Servir",
-    "O trabalho como serviço a Deus.",
-    "VOCAÇÃO, FÉ E SERVIÇO",
-    "chamados"
-  );
-
+  chamadosCurrentBook = null;
+  showPanel("Chamados para Servir", "O trabalho como serviço a Deus.", "VOCAÇÃO, FÉ E SERVIÇO", "chamados");
   const hero = document.createElement("div");
   hero.className = "chamados-hero";
-  hero.style.backgroundImage = 'linear-gradient(0deg,rgba(9,20,24,.78),rgba(9,20,24,.04)),url("chamados-para-servir-capa.png")';
+  hero.style.backgroundImage = `linear-gradient(0deg,rgba(9,20,24,.72),rgba(9,20,24,.04)),url("${chamadosImageUrl("imagens/chamados-para-servir/chamados-para-servir-capa.png")}")`;
   const heroTitle = document.createElement("strong");
   heroTitle.textContent = "Chamados para Servir";
   const heroText = document.createElement("span");
@@ -375,9 +375,10 @@ function openChamados() {
     button.className = "chamados-book-card";
     const image = document.createElement("img");
     image.className = "chamados-book-image";
-    image.src = book.image;
-    image.alt = "";
+    image.src = chamadosImageUrl(book.image);
+    image.alt = `Capa: ${book.title}`;
     image.loading = "lazy";
+    image.onerror = () => { image.classList.add("image-failed"); image.alt = "Imagem indisponível"; };
     const title = document.createElement("strong");
     title.textContent = book.title;
     const subtitle = document.createElement("small");
@@ -392,37 +393,20 @@ function openChamados() {
   content.append(cards);
 }
 
-async function openChamadosBook(book) {
+async function openChamadosBook(book, showContents = false) {
+  state.currentDailyType = "chamados";
+  clearTimeout(state.dailyTimer);
+  chamadosCurrentBook = book;
   showPanel(book.title, book.subtitle, "CHAMADOS PARA SERVIR", "chamados");
   message("Carregando o conteúdo…");
   try {
     const data = await loadJson(book.file);
-    const records = extractRecords(data);
-    if (!records.length) throw new Error("O livro não contém registros reconhecidos.");
-    content.replaceChildren();
-
-    const intro = document.createElement("p");
-    intro.className = "chamados-count";
-    intro.textContent = `${records.length} textos · ${data.slogan || "O trabalho como serviço a Deus"}`;
-    content.append(intro);
-
-    const list = document.createElement("div");
-    list.className = "chamados-lesson-list";
-    records.forEach((record, index) => {
-      const button = document.createElement("button");
-      button.type = "button";
-      button.className = "chamados-lesson-link";
-      const number = record.numero == null ? "Epílogo" : `Parte ${record.numero}`;
-      const name = document.createElement("span");
-      name.textContent = `${number} · ${record.titulo || "Sem título"}`;
-      const arrow = document.createElement("b");
-      arrow.textContent = "›";
-      button.append(name, arrow);
-      button.addEventListener("click", () => renderChamadosRecord(book, records, index));
-      list.append(button);
-    });
-    content.append(list);
-    content.append(makeButton("← Voltar aos três livros", openChamados, "back-inline"));
+    chamadosRecords = extractRecords(data).sort((a,b) => Number(a.numero || 0) - Number(b.numero || 0));
+    if (!chamadosRecords.length) throw new Error("O livro não contém textos reconhecidos.");
+    state.items = chamadosRecords;
+    state.index = showContents ? 0 : dailyIndex(chamadosRecords.length);
+    renderChamadosBook(book, showContents);
+    scheduleChamadosRefresh();
   } catch (error) {
     content.replaceChildren();
     message(`Não foi possível abrir ${book.title}: ${error.message}`, "error");
@@ -430,46 +414,70 @@ async function openChamadosBook(book) {
   }
 }
 
-function renderChamadosRecord(book, records, index) {
-  const record = records[index];
-  content.replaceChildren();
+function scheduleChamadosRefresh() {
+  clearTimeout(state.dailyTimer);
+  const now = new Date();
+  const midnight = new Date(now.getFullYear(), now.getMonth(), now.getDate()+1, 0, 0, 1);
+  state.dailyTimer = setTimeout(() => {
+    if (state.currentDailyType === "chamados" && chamadosCurrentBook && chamadosRecords.length) {
+      state.index = dailyIndex(chamadosRecords.length);
+      renderChamadosBook(chamadosCurrentBook, false);
+    }
+    if (state.currentDailyType === "chamados") scheduleChamadosRefresh();
+  }, Math.max(1000, midnight.getTime()-now.getTime()));
+}
 
-  const back = makeButton("← Voltar ao sumário", () => openChamadosBook(book), "back-inline");
-  content.append(back);
+function renderChamadosBook(book, showContents = false) {
+  content.replaceChildren();
+  const tools = document.createElement("div");
+  tools.className = "chamados-tools";
+  tools.append(
+    makeButton("← Três livros", openChamados, "back-inline"),
+    makeButton("☷ Sumário", () => renderChamadosSummary(book), "back-inline")
+  );
+  content.append(tools);
+  if (showContents) {
+    renderChamadosSummary(book);
+    return;
+  }
+  const item = chamadosRecords[state.index];
+  if (!item) { message("Texto não encontrado.", "warning"); return; }
+
+  const hero = document.createElement("div");
+  hero.className = "chamados-book-banner";
+  const image = document.createElement("img");
+  image.src = chamadosImageUrl(book.image);
+  image.alt = "";
+  hero.append(image);
+  content.append(hero);
 
   const card = document.createElement("article");
   card.className = "reading-card chamados-reading-card";
+  const stamp = document.createElement("p");
+  stamp.className = "daily-stamp";
+  stamp.textContent = `CONTEÚDO DO DIA · ${formatToday()}`;
   const kicker = document.createElement("p");
   kicker.className = "reading-kicker";
-  kicker.textContent = record.numero == null ? "EPÍLOGO" : `PARTE ${record.numero}`;
+  kicker.textContent = item.numero == null ? "EPÍLOGO" : `TEXTO ${item.numero} DE ${chamadosRecords.length}`;
   const heading = document.createElement("h3");
-  heading.textContent = record.titulo || "Leitura";
-  card.append(kicker, heading);
+  heading.textContent = item.titulo || "Leitura";
+  card.append(stamp, kicker, heading);
 
   const labels = {
-    subtitulo: "Sobre este capítulo",
-    versiculo: "Versículo",
-    leitura: "Leitura bíblica",
-    versiculo_chave: "Versículo-chave",
-    reflexao: "Reflexão",
-    reflexao_introdutoria: "Reflexão introdutória",
-    pratica_no_trabalho: "Prática no trabalho",
-    aplicacao: "Aplicação",
-    exame_pessoal: "Exame pessoal",
-    oracao: "Oração",
-    reflexao_final: "Reflexão final",
-    conteudo: "Conteúdo"
+    subtitulo:"Apresentação", versiculo:"Versículo", leitura:"Leitura bíblica",
+    versiculo_chave:"Versículo-chave", reflexao:"Reflexão",
+    reflexao_introdutoria:"Reflexão introdutória", pratica_no_trabalho:"Prática no trabalho",
+    aplicacao:"Aplicação", exame_pessoal:"Exame pessoal", oracao:"Oração",
+    reflexao_final:"Reflexão final", conteudo:"Conteúdo"
   };
-  const skip = new Set(["identificador", "numero", "titulo", "tipo"]);
-  Object.entries(record).forEach(([key, value]) => {
-    if (skip.has(key) || value == null || value === "") return;
+  const excluded = new Set(["identificador","numero","titulo","tipo"]);
+  Object.entries(item).forEach(([key,value]) => {
+    if (excluded.has(key) || value == null || value === "") return;
     const label = document.createElement("h4");
     label.className = "chamados-field-label";
-    label.textContent = labels[key] || key.replaceAll("_", " ");
+    label.textContent = labels[key] || key.replaceAll("_"," ");
     card.append(label);
-
-    const values = Array.isArray(value) ? value : [value];
-    values.forEach(part => {
+    (Array.isArray(value) ? value : [value]).forEach(part => {
       if (typeof part !== "string" || !part.trim()) return;
       const paragraph = document.createElement("p");
       paragraph.className = "reading-body chamados-paragraph";
@@ -482,23 +490,48 @@ function renderChamadosRecord(book, records, index) {
   const nav = document.createElement("div");
   nav.className = "reading-nav";
   const previous = document.createElement("button");
-  previous.type = "button";
-  previous.className = "nav-button";
-  previous.textContent = "← Anterior";
-  previous.disabled = index === 0;
-  previous.addEventListener("click", () => renderChamadosRecord(book, records, index - 1));
+  previous.type = "button"; previous.className = "nav-button";
+  previous.textContent = "← Anterior"; previous.disabled = state.index === 0;
+  previous.addEventListener("click", () => { state.index--; renderChamadosBook(book); });
   const count = document.createElement("span");
-  count.className = "reading-count";
-  count.textContent = `${index + 1} de ${records.length}`;
+  count.className = "reading-count"; count.textContent = `${state.index+1} de ${chamadosRecords.length}`;
   const next = document.createElement("button");
-  next.type = "button";
-  next.className = "nav-button primary";
-  next.textContent = index === records.length - 1 ? "Sumário" : "Próximo →";
-  next.addEventListener("click", () => index === records.length - 1
-    ? openChamadosBook(book)
-    : renderChamadosRecord(book, records, index + 1));
-  nav.append(previous, count, next);
+  next.type = "button"; next.className = "nav-button primary";
+  next.textContent = "Próximo →"; next.disabled = state.index >= chamadosRecords.length-1;
+  next.addEventListener("click", () => { state.index++; renderChamadosBook(book); });
+  nav.append(previous,count,next);
   content.append(nav);
+}
+
+function renderChamadosSummary(book) {
+  content.replaceChildren();
+  const heading = document.createElement("h3");
+  heading.className = "chamados-summary-title";
+  heading.textContent = `Sumário — ${book.title}`;
+  const today = document.createElement("p");
+  today.className = "chamados-count";
+  today.textContent = `O texto sugerido para hoje é o nº ${dailyIndex(chamadosRecords.length)+1}. Selecione qualquer título para ler.`;
+  content.append(heading,today);
+  const list = document.createElement("div");
+  list.className = "chamados-lesson-list";
+  chamadosRecords.forEach((record,index) => {
+    const button = document.createElement("button");
+    button.type = "button"; button.className = "chamados-lesson-link";
+    const name = document.createElement("span");
+    name.textContent = `${record.numero == null ? "Epílogo" : record.numero+". "+(record.titulo || "Sem título")}`;
+    const arrow = document.createElement("b"); arrow.textContent = "›";
+    button.append(name,arrow);
+    button.addEventListener("click", () => {
+      state.index = index;
+      renderChamadosBook(book);
+    });
+    list.append(button);
+  });
+  content.append(list);
+  content.append(makeButton("← Voltar ao conteúdo do dia", () => {
+    state.index = dailyIndex(chamadosRecords.length);
+    renderChamadosBook(book);
+  }, "back-inline"));
 }
 
 function openCredits() {
