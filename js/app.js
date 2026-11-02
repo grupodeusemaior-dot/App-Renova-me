@@ -321,12 +321,197 @@ function renderChapter(book, chapter) {
   nav.append(back, count, next); content.append(nav);
 }
 
+
+// CHAMADOS PARA SERVIR — módulo independente com três livros.
+const chamadosBooks = [
+  {
+    key: "profissional",
+    title: "O profissional que Deus Aprova",
+    subtitle: "Fé, caráter e propósito no trabalho.",
+    file: `${ROOT}/ChamadosParaServir/O-profissional-que-Deus-Aprova.json`
+  },
+  {
+    key: "cristo",
+    title: "Como Deus Ensinou",
+    subtitle: "Aprendendo com Cristo a trabalhar e servir.",
+    file: `${ROOT}/ChamadosParaServir/como_deus_ensinou.json`
+  },
+  {
+    key: "liderar",
+    title: "Liderar Sem Perder a Alma",
+    subtitle: "Liderança com sabedoria, caráter e humanidade.",
+    file: `${ROOT}/ChamadosParaServir/liderar_sem_perder_a_alma.json`
+  }
+];
+
+function openChamados() {
+  state.currentDailyType = null;
+  clearTimeout(state.dailyTimer);
+  showPanel(
+    "Chamados para Servir",
+    "O trabalho como serviço a Deus.",
+    "VOCAÇÃO, FÉ E SERVIÇO",
+    "chamados"
+  );
+
+  const hero = document.createElement("div");
+  hero.className = "chamados-hero";
+  hero.style.backgroundImage = 'linear-gradient(0deg,rgba(9,20,24,.78),rgba(9,20,24,.04)),url("Chamados para Servir: Fé e Trabalho.png")';
+  const heroTitle = document.createElement("strong");
+  heroTitle.textContent = "Chamados para Servir";
+  const heroText = document.createElement("span");
+  heroText.textContent = "O trabalho como serviço a Deus.";
+  hero.append(heroTitle, heroText);
+  content.append(hero);
+
+  const cards = document.createElement("div");
+  cards.className = "chamados-book-grid";
+  chamadosBooks.forEach(book => {
+    const button = document.createElement("button");
+    button.type = "button";
+    button.className = "chamados-book-card";
+    const title = document.createElement("strong");
+    title.textContent = book.title;
+    const subtitle = document.createElement("small");
+    subtitle.textContent = book.subtitle;
+    const action = document.createElement("span");
+    action.className = "chamados-book-action";
+    action.textContent = "Abrir livro →";
+    button.append(title, subtitle, action);
+    button.addEventListener("click", () => openChamadosBook(book));
+    cards.append(button);
+  });
+  content.append(cards);
+}
+
+async function openChamadosBook(book) {
+  showPanel(book.title, book.subtitle, "CHAMADOS PARA SERVIR", "chamados");
+  message("Carregando o conteúdo…");
+  try {
+    const data = await loadJson(book.file);
+    const records = extractRecords(data);
+    if (!records.length) throw new Error("O livro não contém registros reconhecidos.");
+    content.replaceChildren();
+
+    const intro = document.createElement("p");
+    intro.className = "chamados-count";
+    intro.textContent = `${records.length} textos · ${data.slogan || "O trabalho como serviço a Deus"}`;
+    content.append(intro);
+
+    const list = document.createElement("div");
+    list.className = "chamados-lesson-list";
+    records.forEach((record, index) => {
+      const button = document.createElement("button");
+      button.type = "button";
+      button.className = "chamados-lesson-link";
+      const number = record.numero == null ? "Epílogo" : `Parte ${record.numero}`;
+      const name = document.createElement("span");
+      name.textContent = `${number} · ${record.titulo || "Sem título"}`;
+      const arrow = document.createElement("b");
+      arrow.textContent = "›";
+      button.append(name, arrow);
+      button.addEventListener("click", () => renderChamadosRecord(book, records, index));
+      list.append(button);
+    });
+    content.append(list);
+    content.append(makeButton("← Voltar aos três livros", openChamados, "back-inline"));
+  } catch (error) {
+    content.replaceChildren();
+    message(`Não foi possível abrir ${book.title}: ${error.message}`, "error");
+    content.append(makeButton("← Voltar aos três livros", openChamados, "back-inline"));
+  }
+}
+
+function renderChamadosRecord(book, records, index) {
+  const record = records[index];
+  content.replaceChildren();
+
+  const back = makeButton("← Voltar ao sumário", () => openChamadosBook(book), "back-inline");
+  content.append(back);
+
+  const card = document.createElement("article");
+  card.className = "reading-card chamados-reading-card";
+  const kicker = document.createElement("p");
+  kicker.className = "reading-kicker";
+  kicker.textContent = record.numero == null ? "EPÍLOGO" : `PARTE ${record.numero}`;
+  const heading = document.createElement("h3");
+  heading.textContent = record.titulo || "Leitura";
+  card.append(kicker, heading);
+
+  const labels = {
+    subtitulo: "Sobre este capítulo",
+    versiculo: "Versículo",
+    leitura: "Leitura bíblica",
+    versiculo_chave: "Versículo-chave",
+    reflexao: "Reflexão",
+    reflexao_introdutoria: "Reflexão introdutória",
+    pratica_no_trabalho: "Prática no trabalho",
+    aplicacao: "Aplicação",
+    exame_pessoal: "Exame pessoal",
+    oracao: "Oração",
+    reflexao_final: "Reflexão final",
+    conteudo: "Conteúdo"
+  };
+  const skip = new Set(["identificador", "numero", "titulo", "tipo"]);
+  Object.entries(record).forEach(([key, value]) => {
+    if (skip.has(key) || value == null || value === "") return;
+    const label = document.createElement("h4");
+    label.className = "chamados-field-label";
+    label.textContent = labels[key] || key.replaceAll("_", " ");
+    card.append(label);
+
+    const values = Array.isArray(value) ? value : [value];
+    values.forEach(part => {
+      if (typeof part !== "string" || !part.trim()) return;
+      const paragraph = document.createElement("p");
+      paragraph.className = "reading-body chamados-paragraph";
+      paragraph.textContent = part;
+      card.append(paragraph);
+    });
+  });
+  content.append(card);
+
+  const nav = document.createElement("div");
+  nav.className = "reading-nav";
+  const previous = document.createElement("button");
+  previous.type = "button";
+  previous.className = "nav-button";
+  previous.textContent = "← Anterior";
+  previous.disabled = index === 0;
+  previous.addEventListener("click", () => renderChamadosRecord(book, records, index - 1));
+  const count = document.createElement("span");
+  count.className = "reading-count";
+  count.textContent = `${index + 1} de ${records.length}`;
+  const next = document.createElement("button");
+  next.type = "button";
+  next.className = "nav-button primary";
+  next.textContent = index === records.length - 1 ? "Sumário" : "Próximo →";
+  next.addEventListener("click", () => index === records.length - 1
+    ? openChamadosBook(book)
+    : renderChamadosRecord(book, records, index + 1));
+  nav.append(previous, count, next);
+  content.append(nav);
+}
+
+function openCredits() {
+  showPanel("Créditos", "Conheça os responsáveis pela elaboração do aplicativo.", "RENOVA-ME DEUS MEU", "default");
+  const card = document.createElement("article");
+  card.className = "reading-card credits-card";
+  const heading = document.createElement("h3");
+  heading.textContent = "Créditos";
+  const paragraph = document.createElement("p");
+  paragraph.textContent = "Elaborado por Rosilene Maria da Silva Oliveira e Ricardo Augusto de Oliveira, criadores da Renova-me Deus Meu, com uso de ferramentas como ChatGPT, Visual Studio, e GitHub, 02/11/2026";
+  card.append(heading, paragraph);
+  content.append(card);
+}
+
 const actions = {
   biblia: openBible,
   sermoes: () => openSequential("sermoes"),
   liturgias: () => openSequential("liturgias"),
   devocionais: () => openSequential("devocionais"),
-  promessas: openPromises
+  promessas: openPromises,
+  chamados: openChamados
 };
 document.querySelectorAll("[data-section]").forEach(card => card.addEventListener("click", event => {
   event.preventDefault(); const key = card.dataset.section; history.replaceState(null, "", `#${key}`); actions[key]?.();
@@ -335,6 +520,7 @@ document.getElementById("backButton").addEventListener("click", () => {
   state.currentDailyType = null; clearTimeout(state.dailyTimer);
   panel.hidden = true; grid.hidden = false; history.replaceState(null, "", location.pathname); window.scrollTo({ top: 0, behavior: "smooth" });
 });
+document.getElementById("creditsButton").addEventListener("click", openCredits);
 document.getElementById("menuButton").addEventListener("click", event => {
   const expanded = event.currentTarget.getAttribute("aria-expanded") === "true";
   event.currentTarget.setAttribute("aria-expanded", String(!expanded)); event.currentTarget.textContent = expanded ? "☰" : "×";

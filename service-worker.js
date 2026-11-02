@@ -1,10 +1,14 @@
-const VERSION = 'renova-me-pwa-v1';
+const VERSION = 'renova-me-pwa-v2-chamados';
 const CORE = [
   './', './index.html', './manifest.webmanifest', './css/style.css', './js/app.js',
   './js/catalogo-biblia.js', './Logo-Renova-me.jpg', './assets/capa-app.png',
   './icons/icon-192.png', './icons/icon-512.png', './icons/icon-maskable-512.png', './icons/apple-touch-icon.png',
   './Bíblia.png', './Sermões.png', './Liturgias.png', './Devocional.png', './Caixinha das Promessas.png',
-  './Ver a Jesus.png', './Caminhar com Cristo.png', './Preciosa.png', './Preciosa e Segura.png'
+  './Ver a Jesus.png', './Caminhar com Cristo.png', './Preciosa.png', './Preciosa e Segura.png',
+  './Chamados para Servir: Fé e Trabalho.png',
+  './Dados_JSON/ChamadosParaServir/O-profissional-que-Deus-Aprova.json',
+  './Dados_JSON/ChamadosParaServir/como_deus_ensinou.json',
+  './Dados_JSON/ChamadosParaServir/liderar_sem_perder_a_alma.json'
 ];
 self.addEventListener('install', event => {
   event.waitUntil(caches.open(VERSION).then(async cache => { await Promise.allSettled(CORE.map(path => cache.add(new Request(path, {cache:'reload'})))); }).then(() => self.skipWaiting()));

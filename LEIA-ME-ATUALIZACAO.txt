@@ -1,0 +1,20 @@
+ATUALIZAÇÃO DO APP RENOVA-ME DEUS MEU — CHAMADOS PARA SERVIR
+
+Este pacote é uma sobreposição para o projeto Renova-me_PWA_GitHub_Pages_06.
+Copie o conteúdo mantendo a estrutura de pastas, substituindo os arquivos:
+- index.html
+- js/app.js
+- css/style.css
+- service-worker.js
+
+Adicione também:
+- Chamados para Servir: Fé e Trabalho.png
+- Dados_JSON/ChamadosParaServir/ (os três JSONs)
+
+A tela inicial recebe o sexto cartão Chamados para Servir.
+Dentro dele, há três livros independentes, sumário, leitura de cada registro
+e navegação anterior/próximo. Os botões Créditos e Nosso Site! ficam no rodapé.
+O Service Worker foi atualizado para incluir os novos recursos no cache offline.
+
+Mantenha as demais pastas e arquivos do aplicativo. Não substitua Dados_JSON
+inteira nem apague DadosBase, catálogo bíblico, imagens ou outros conteúdos.
