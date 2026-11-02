@@ -359,7 +359,7 @@ function openChamados() {
   showPanel("Chamados para Servir", "O trabalho como serviço a Deus.", "VOCAÇÃO, FÉ E SERVIÇO", "chamados");
   const hero = document.createElement("div");
   hero.className = "chamados-hero";
-  hero.style.backgroundImage = `linear-gradient(0deg,rgba(9,20,24,.72),rgba(9,20,24,.04)),url("${chamadosImageUrl("Chamados para Servir: Fé e Trabalho.png")}")`;
+  hero.style.backgroundImage = `linear-gradient(0deg,rgba(9,20,24,.72),rgba(9,20,24,.04)),url("${chamadosImageUrl("LogodoChamadosparaServir.png")}")`;
   const heroTitle = document.createElement("strong");
   heroTitle.textContent = "Chamados para Servir";
   const heroText = document.createElement("span");
