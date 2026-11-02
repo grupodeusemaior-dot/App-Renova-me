@@ -327,18 +327,21 @@ const chamadosBooks = [
   {
     key: "profissional",
     title: "O profissional que Deus Aprova",
+    image: "imagens/chamados-para-servir/profissional-que-deus-aprova.png",
     subtitle: "Fé, caráter e propósito no trabalho.",
     file: `${ROOT}/ChamadosParaServir/O-profissional-que-Deus-Aprova.json`
   },
   {
     key: "cristo",
     title: "Como Deus Ensinou",
+    image: "imagens/chamados-para-servir/como-deus-ensinou.png",
     subtitle: "Aprendendo com Cristo a trabalhar e servir.",
     file: `${ROOT}/ChamadosParaServir/como_deus_ensinou.json`
   },
   {
     key: "liderar",
     title: "Liderar Sem Perder a Alma",
+    image: "imagens/chamados-para-servir/liderar-sem-perder-a-alma.png",
     subtitle: "Liderança com sabedoria, caráter e humanidade.",
     file: `${ROOT}/ChamadosParaServir/liderar_sem_perder_a_alma.json`
   }
@@ -356,7 +359,7 @@ function openChamados() {
 
   const hero = document.createElement("div");
   hero.className = "chamados-hero";
-  hero.style.backgroundImage = 'linear-gradient(0deg,rgba(9,20,24,.78),rgba(9,20,24,.04)),url("Chamados para Servir: Fé e Trabalho.png")';
+  hero.style.backgroundImage = 'linear-gradient(0deg,rgba(9,20,24,.78),rgba(9,20,24,.04)),url("chamados-para-servir-capa.png")';
   const heroTitle = document.createElement("strong");
   heroTitle.textContent = "Chamados para Servir";
   const heroText = document.createElement("span");
@@ -370,6 +373,11 @@ function openChamados() {
     const button = document.createElement("button");
     button.type = "button";
     button.className = "chamados-book-card";
+    const image = document.createElement("img");
+    image.className = "chamados-book-image";
+    image.src = book.image;
+    image.alt = "";
+    image.loading = "lazy";
     const title = document.createElement("strong");
     title.textContent = book.title;
     const subtitle = document.createElement("small");
@@ -377,7 +385,7 @@ function openChamados() {
     const action = document.createElement("span");
     action.className = "chamados-book-action";
     action.textContent = "Abrir livro →";
-    button.append(title, subtitle, action);
+    button.append(image, title, subtitle, action);
     button.addEventListener("click", () => openChamadosBook(book));
     cards.append(button);
   });
