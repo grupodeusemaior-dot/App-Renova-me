@@ -1,4 +1,4 @@
-const VERSION = 'renova-me-pwa-v3-chamados-diario';
+const VERSION = 'renova-me-pwa-v3-chamados-audio-diario';
 const CORE = [
   './', './index.html', './manifest.webmanifest', './css/style.css', './js/app.js',
   './js/catalogo-biblia.js', './Logo-Renova-me.jpg', './assets/capa-app.png',

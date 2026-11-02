@@ -359,7 +359,7 @@ function openChamados() {
   showPanel("Chamados para Servir", "O trabalho como serviço a Deus.", "VOCAÇÃO, FÉ E SERVIÇO", "chamados");
   const hero = document.createElement("div");
   hero.className = "chamados-hero";
-  hero.style.backgroundImage = `linear-gradient(0deg,rgba(9,20,24,.72),rgba(9,20,24,.04)),url("${chamadosImageUrl("imagens/chamados-para-servir/chamados-para-servir-capa.png")}")`;
+  hero.style.backgroundImage = `linear-gradient(0deg,rgba(9,20,24,.72),rgba(9,20,24,.04)),url("${chamadosImageUrl("Chamados para Servir: Fé e Trabalho.png")}")`;
   const heroTitle = document.createElement("strong");
   heroTitle.textContent = "Chamados para Servir";
   const heroText = document.createElement("span");
@@ -485,6 +485,54 @@ function renderChamadosBook(book, showContents = false) {
       card.append(paragraph);
     });
   });
+  // Leitura em voz alta do conteúdo completo do texto atual.
+  const listen = document.createElement("button");
+  listen.type = "button";
+  listen.className = "nav-button listen-button chamados-listen-button";
+  listen.textContent = "🔊 Ouvir leitura";
+  listen.setAttribute("aria-label", "Ouvir leitura do texto atual");
+  const spokenParts = [
+    item.titulo,
+    item.subtitulo,
+    item.versiculo,
+    item.versiculo_chave,
+    item.leitura,
+    item.reflexao,
+    item.reflexao_introdutoria,
+    item.pratica_no_trabalho,
+    item.aplicacao,
+    item.exame_pessoal,
+    item.oracao,
+    item.reflexao_final,
+    ...(Array.isArray(item.conteudo) ? item.conteudo : [item.conteudo])
+  ];
+  const spokenText = spokenParts
+    .flatMap(value => Array.isArray(value) ? value : [value])
+    .filter(value => typeof value === "string" && value.trim())
+    .join(". ");
+  listen.addEventListener("click", () => {
+    if (!("speechSynthesis" in window) || typeof SpeechSynthesisUtterance === "undefined") {
+      message("Este navegador não oferece leitura em voz alta. Experimente usar Chrome ou Edge atualizado.", "warning");
+      return;
+    }
+    const speech = window.speechSynthesis;
+    if (speech.speaking || speech.paused) {
+      speech.cancel();
+      listen.textContent = "🔊 Ouvir leitura";
+      state.speechText = null;
+      return;
+    }
+    speech.cancel();
+    const utterance = new SpeechSynthesisUtterance(spokenText);
+    utterance.lang = "pt-BR";
+    utterance.rate = 0.95;
+    utterance.onend = () => { listen.textContent = "🔊 Ouvir leitura"; state.speechText = null; };
+    utterance.onerror = () => { listen.textContent = "🔊 Ouvir leitura"; state.speechText = null; };
+    state.speechText = utterance;
+    listen.textContent = "■ Parar áudio";
+    speech.speak(utterance);
+  });
+  card.append(listen);
   content.append(card);
 
   const nav = document.createElement("div");
