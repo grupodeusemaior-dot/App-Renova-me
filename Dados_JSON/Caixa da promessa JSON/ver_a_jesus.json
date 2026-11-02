@@ -1,0 +1,871 @@
+{
+  "colecao": "Ver a Jesus",
+  "total_registros": 121,
+  "partes": [
+    {
+      "parte": 1,
+      "titulo": "O que vemos em Jesus"
+    },
+    {
+      "parte": 2,
+      "titulo": "O que acontece conosco quando contemplamos Cristo"
+    },
+    {
+      "parte": 3,
+      "titulo": "Aprendendo a olhar para Jesus nas dificuldades"
+    },
+    {
+      "parte": 4,
+      "titulo": "Tornando-nos semelhantes a Jesus"
+    }
+  ],
+  "textos": [
+    {
+      "identificador": "ver_a_jesus_001",
+      "numero": 1,
+      "titulo": "A santidade de Cristo",
+      "versiculo": "Isaías 6:3 — “Santo, santo, santo é o Senhor.”",
+      "licao": "Contemplar a santidade de Deus nos ensina a abandonar a superficialidade e desejar uma vida que lhe agrade."
+    },
+    {
+      "identificador": "ver_a_jesus_002",
+      "numero": 2,
+      "titulo": "A glória de Cristo",
+      "versiculo": "João 1:14 — “Vimos a sua glória.”",
+      "licao": "Em Jesus, a glória de Deus se manifesta de maneira extraordinária. Conhecê-lo é descobrir a beleza daquele que veio habitar entre nós."
+    },
+    {
+      "identificador": "ver_a_jesus_003",
+      "numero": 3,
+      "titulo": "A compaixão de Jesus",
+      "versiculo": "Mateus 9:36 — Jesus viu as multidões e compadeceu-se delas.",
+      "licao": "O olhar de Cristo não ignora pessoas feridas. Quem aprende com Ele deixa de enxergar apenas problemas e passa a reconhecer pessoas que precisam de cuidado."
+    },
+    {
+      "identificador": "ver_a_jesus_004",
+      "numero": 4,
+      "titulo": "A humildade de Cristo",
+      "versiculo": "Filipenses 2:7–8 — Cristo assumiu a condição de servo e humilhou-se.",
+      "licao": "A grandeza de Jesus não se revelou na busca por privilégios, mas na disposição de servir. Segui-lo é aprender a amar sem precisar ocupar o primeiro lugar."
+    },
+    {
+      "identificador": "ver_a_jesus_005",
+      "numero": 5,
+      "titulo": "A autoridade de Jesus",
+      "versiculo": "Mateus 28:18 — “Toda a autoridade me foi dada no céu e na terra.”",
+      "licao": "Jesus não é apenas um exemplo inspirador. Ele é o Senhor a quem devemos confiar nossa vida e obedecer de coração."
+    },
+    {
+      "identificador": "ver_a_jesus_006",
+      "numero": 6,
+      "titulo": "A bondade do Senhor",
+      "versiculo": "Salmo 34:8 — “Provai e vede que o Senhor é bom.”",
+      "licao": "A bondade de Deus não é uma ideia distante. Ao conhecermos seu caráter e suas obras, aprendemos a confiar nele mesmo quando não compreendemos tudo."
+    },
+    {
+      "identificador": "ver_a_jesus_007",
+      "numero": 7,
+      "titulo": "O amor de Cristo",
+      "versiculo": "Efésios 3:19 — Conhecer o amor de Cristo, que excede todo entendimento.",
+      "licao": "O amor de Jesus ultrapassa nossa capacidade de compreender plenamente. Quanto mais conhecemos esse amor, mais aprendemos a amar sem egoísmo."
+    },
+    {
+      "identificador": "ver_a_jesus_008",
+      "numero": 8,
+      "titulo": "A mansidão de Jesus",
+      "versiculo": "Mateus 11:29 — “Sou manso e humilde de coração.”",
+      "licao": "A mansidão de Cristo nos ensina que firmeza não exige brutalidade e que a verdadeira força pode se manifestar com gentileza."
+    },
+    {
+      "identificador": "ver_a_jesus_009",
+      "numero": 9,
+      "titulo": "A justiça de Cristo",
+      "versiculo": "Atos 3:14 — Pedro anuncia Jesus como o Santo e Justo.",
+      "licao": "Em um mundo marcado pela injustiça, olhar para Cristo nos lembra que a justiça de Deus é perfeita e nos chama a agir com retidão."
+    },
+    {
+      "identificador": "ver_a_jesus_010",
+      "numero": 10,
+      "titulo": "A fidelidade do Senhor",
+      "versiculo": "2 Timóteo 2:13 — “Ele permanece fiel.”",
+      "licao": "Nossa instabilidade não altera o caráter de Deus. Sua fidelidade nos chama a confiar em suas promessas e a permanecer firmes na fé."
+    },
+    {
+      "identificador": "ver_a_jesus_011",
+      "numero": 11,
+      "titulo": "A paciência de Jesus",
+      "versiculo": "1 Timóteo 1:16 — Paulo menciona a extraordinária paciência de Cristo.",
+      "licao": "Jesus demonstra paciência com pecadores sem tratar o pecado como algo insignificante. Sua graça nos conduz ao arrependimento e nos ensina a tratar os outros com misericórdia."
+    },
+    {
+      "identificador": "ver_a_jesus_012",
+      "numero": 12,
+      "titulo": "A sabedoria de Cristo",
+      "versiculo": "Colossenses 2:3 — Em Cristo estão os tesouros da sabedoria e do conhecimento.",
+      "licao": "A verdadeira sabedoria não se limita ao conhecimento humano. Em Cristo encontramos a verdade que orienta nossas escolhas e transforma nossa maneira de viver."
+    },
+    {
+      "identificador": "ver_a_jesus_013",
+      "numero": 13,
+      "titulo": "O poder de Jesus",
+      "versiculo": "Mateus 19:26 — “A Deus tudo é possível.”",
+      "licao": "Nossas limitações não limitam o poder de Deus. Aprendemos a depender dele sem presumir que podemos determinar como ou quando Ele agirá."
+    },
+    {
+      "identificador": "ver_a_jesus_014",
+      "numero": 14,
+      "titulo": "A misericórdia de Cristo",
+      "versiculo": "Lucas 23:34 — Jesus intercede por seus algozes.",
+      "licao": "Na cruz, vemos a profundidade da misericórdia de Cristo. Seu exemplo nos confronta com a necessidade de abandonar a vingança e buscar um coração disposto a perdoar."
+    },
+    {
+      "identificador": "ver_a_jesus_015",
+      "numero": 15,
+      "titulo": "A pureza de Jesus",
+      "versiculo": "1 Pedro 2:22 — “O qual não cometeu pecado.”",
+      "licao": "Jesus é o exemplo perfeito de santidade. Ao contemplarmos sua pureza, reconhecemos nosso pecado e nossa necessidade de sua graça."
+    },
+    {
+      "identificador": "ver_a_jesus_016",
+      "numero": 16,
+      "titulo": "A generosidade de Cristo",
+      "versiculo": "2 Coríntios 8:9 — Cristo se fez pobre por amor de nós.",
+      "licao": "Jesus não viveu para acumular vantagens pessoais. Seu amor nos ensina a usar o que temos para servir e abençoar outras pessoas."
+    },
+    {
+      "identificador": "ver_a_jesus_017",
+      "numero": 17,
+      "titulo": "A obediência de Jesus",
+      "versiculo": "João 6:38 — Jesus veio para fazer a vontade daquele que o enviou.",
+      "licao": "A vida de Cristo foi marcada pela submissão ao Pai. Segui-lo significa aprender a colocar a vontade de Deus acima das nossas preferências."
+    },
+    {
+      "identificador": "ver_a_jesus_018",
+      "numero": 18,
+      "titulo": "A sensibilidade de Jesus",
+      "versiculo": "João 11:35 — “Jesus chorou.”",
+      "licao": "Cristo não permaneceu indiferente diante da dor humana. Seu exemplo nos ensina que a compaixão também se manifesta na presença silenciosa e respeitosa junto de quem sofre."
+    },
+    {
+      "identificador": "ver_a_jesus_019",
+      "numero": 19,
+      "titulo": "A soberania de Cristo",
+      "versiculo": "Colossenses 1:17 — “Ele é antes de todas as coisas.”",
+      "licao": "Jesus não está à mercê do caos do mundo. Reconhecer sua soberania nos ajuda a enfrentar as incertezas com confiança e humildade."
+    },
+    {
+      "identificador": "ver_a_jesus_020",
+      "numero": 20,
+      "titulo": "A beleza do caráter de Cristo",
+      "versiculo": "João 14:9 — “Quem me vê a mim vê o Pai.”",
+      "licao": "Em Jesus conhecemos o Pai de maneira verdadeira e profunda. Contemplar Cristo é aprender a reconhecer o caráter de Deus revelado em seu Filho."
+    },
+    {
+      "identificador": "ver_a_jesus_021",
+      "numero": 21,
+      "titulo": "Ver a Jesus nos humilha",
+      "versiculo": "Lucas 5:8 — Pedro reconhece sua condição pecaminosa diante de Jesus.",
+      "licao": "Quanto mais percebemos a santidade de Cristo, menos confiamos em nossos próprios méritos e mais reconhecemos nossa necessidade da graça."
+    },
+    {
+      "identificador": "ver_a_jesus_022",
+      "numero": 22,
+      "titulo": "Ver a Jesus nos salva",
+      "versiculo": "Isaías 45:22 — “Olhai para mim e sede salvos.”",
+      "licao": "Nossa esperança não está em conquistar a salvação por esforço próprio, mas em voltar-nos para Deus e confiar na salvação que Ele oferece."
+    },
+    {
+      "identificador": "ver_a_jesus_023",
+      "numero": 23,
+      "titulo": "Ver a Jesus nos ilumina",
+      "versiculo": "Salmo 34:5 — “Olharam para ele, e foram iluminados.”",
+      "licao": "Quando voltamos os olhos para o Senhor, encontramos luz para a alma e esperança para continuar, mesmo quando as circunstâncias parecem escuras."
+    },
+    {
+      "identificador": "ver_a_jesus_024",
+      "numero": 24,
+      "titulo": "Ver a Jesus nos dá coragem",
+      "versiculo": "Hebreus 11:27 — Moisés permaneceu firme como quem vê o invisível.",
+      "licao": "A fé nos ajuda a obedecer mesmo quando não enxergamos todas as respostas, porque confiamos no Deus que prometeu estar conosco."
+    },
+    {
+      "identificador": "ver_a_jesus_025",
+      "numero": 25,
+      "titulo": "Ver a Jesus nos transforma",
+      "versiculo": "2 Coríntios 3:18 — Somos transformados à imagem do Senhor.",
+      "licao": "O Espírito Santo trabalha em nós para que nosso caráter se torne cada vez mais semelhante ao de Cristo."
+    },
+    {
+      "identificador": "ver_a_jesus_026",
+      "numero": 26,
+      "titulo": "Ver a Jesus nos dá direção",
+      "versiculo": "Hebreus 12:2 — “Olhando para Jesus.”",
+      "licao": "Quando Cristo ocupa o centro de nossa atenção, encontramos direção para perseverar sem permitir que as distrações governem nossa caminhada."
+    },
+    {
+      "identificador": "ver_a_jesus_027",
+      "numero": 27,
+      "titulo": "Ver a Jesus nos conduz ao arrependimento",
+      "versiculo": "Jó 42:5–6 — Jó reconhece a grandeza de Deus e sua própria condição.",
+      "licao": "Um conhecimento mais profundo de Deus produz humildade. Sua santidade nos leva a reconhecer nossos pecados e a buscar uma vida renovada."
+    },
+    {
+      "identificador": "ver_a_jesus_028",
+      "numero": 28,
+      "titulo": "Ver a Jesus renova nossa esperança",
+      "versiculo": "Salmo 16:8 — O salmista mantém o Senhor continuamente diante de si.",
+      "licao": "A presença de Deus não elimina todas as dificuldades, mas nos sustenta para atravessá-las confiando em sua fidelidade."
+    },
+    {
+      "identificador": "ver_a_jesus_029",
+      "numero": 29,
+      "titulo": "Ver a Jesus nos ensina a amar",
+      "versiculo": "João 13:34 — “Que vos ameis uns aos outros; assim como eu vos amei.”",
+      "licao": "Quem contempla o amor de Cristo aprende a tratar as pessoas com misericórdia, paciência e disposição para servir."
+    },
+    {
+      "identificador": "ver_a_jesus_030",
+      "numero": 30,
+      "titulo": "Ver a Jesus fortalece nossa perseverança",
+      "versiculo": "Hebreus 12:1–2 — Corramos com perseverança a carreira proposta.",
+      "licao": "A vida cristã exige constância. Olhar para Jesus nos ajuda a continuar, lembrando que nossa caminhada tem um propósito eterno."
+    },
+    {
+      "identificador": "ver_a_jesus_031",
+      "numero": 31,
+      "titulo": "Ver a Jesus nos dá esperança eterna",
+      "versiculo": "1 João 3:2 — “Havemos de vê-lo como ele é.”",
+      "licao": "Nossa esperança ultrapassa esta vida. Aguardamos o dia em que estaremos com Cristo e o conheceremos plenamente."
+    },
+    {
+      "identificador": "ver_a_jesus_032",
+      "numero": 32,
+      "titulo": "Ver a Jesus nos liberta do domínio do pecado",
+      "versiculo": "João 8:36 — “Se, pois, o Filho vos libertar, verdadeiramente sereis livres.”",
+      "licao": "A verdadeira liberdade não consiste em fazer tudo o que desejamos, mas em sermos libertos por Cristo para viver de acordo com a vontade de Deus."
+    },
+    {
+      "identificador": "ver_a_jesus_033",
+      "numero": 33,
+      "titulo": "Ver a Jesus nos dá paz",
+      "versiculo": "João 14:27 — Jesus oferece a paz que o mundo não pode dar.",
+      "licao": "A paz de Cristo não depende de circunstâncias perfeitas. Ela nos sustenta para atravessar tempos difíceis confiando em sua presença."
+    },
+    {
+      "identificador": "ver_a_jesus_034",
+      "numero": 34,
+      "titulo": "Ver a Jesus fortalece nossa fé",
+      "versiculo": "Romanos 10:17 — A fé vem pelo ouvir a Palavra de Cristo.",
+      "licao": "A fé cresce quando ouvimos e recebemos a Palavra de Deus. Por isso, conhecer as Escrituras é essencial para manter os olhos fixos em Jesus."
+    },
+    {
+      "identificador": "ver_a_jesus_035",
+      "numero": 35,
+      "titulo": "Ver a Jesus nos ensina a depender de Deus",
+      "versiculo": "João 15:5 — “Sem mim nada podeis fazer.”",
+      "licao": "A vida cristã não é sustentada pela autossuficiência. Precisamos permanecer em Cristo para produzir frutos que glorifiquem a Deus."
+    },
+    {
+      "identificador": "ver_a_jesus_036",
+      "numero": 36,
+      "titulo": "Ver a Jesus nos consola",
+      "versiculo": "Mateus 5:4 — “Bem-aventurados os que choram.”",
+      "licao": "Jesus não despreza os que sofrem. Nele encontramos consolo e a certeza de que a dor não tem a palavra final sobre aqueles que pertencem a Deus."
+    },
+    {
+      "identificador": "ver_a_jesus_037",
+      "numero": 37,
+      "titulo": "Ver a Jesus nos dá segurança",
+      "versiculo": "João 10:28 — Cristo dá vida eterna às suas ovelhas.",
+      "licao": "A segurança da salvação repousa na fidelidade e no poder de Cristo, o Bom Pastor que guarda aqueles que lhe pertencem."
+    },
+    {
+      "identificador": "ver_a_jesus_038",
+      "numero": 38,
+      "titulo": "Ver a Jesus desperta gratidão",
+      "versiculo": "Colossenses 3:15 — “E sede agradecidos.”",
+      "licao": "Quando compreendemos a graça que recebemos em Cristo, deixamos de enxergar apenas o que falta e aprendemos a reconhecer os motivos de gratidão que Deus nos concede."
+    },
+    {
+      "identificador": "ver_a_jesus_039",
+      "numero": 39,
+      "titulo": "Ver a Jesus nos ensina a confiar",
+      "versiculo": "Provérbios 3:5–6 — Confia no Senhor de todo o coração.",
+      "licao": "Nem sempre entenderemos o caminho à nossa frente. A confiança bíblica nos chama a reconhecer Deus em nossas decisões e descansar em sua sabedoria."
+    },
+    {
+      "identificador": "ver_a_jesus_040",
+      "numero": 40,
+      "titulo": "Ver a Jesus nos conduz à adoração",
+      "versiculo": "João 4:23–24 — O Pai procura adoradores que o adorem em espírito e em verdade.",
+      "licao": "A verdadeira adoração nasce do conhecimento de Deus e da resposta sincera do coração à sua verdade, não apenas de emoções passageiras."
+    },
+    {
+      "identificador": "ver_a_jesus_041",
+      "numero": 41,
+      "titulo": "Quando o medo nos cerca",
+      "versiculo": "Isaías 41:10 — “Não temas, porque eu sou contigo.”",
+      "licao": "O medo não precisa governar nossas decisões. Deus nos chama a confiar em sua presença e a caminhar sustentados por seu poder."
+    },
+    {
+      "identificador": "ver_a_jesus_042",
+      "numero": 42,
+      "titulo": "Quando a ansiedade nos inquieta",
+      "versiculo": "Filipenses 4:6–7 — Apresentemos nossos pedidos a Deus em oração.",
+      "licao": "Em vez de carregar sozinhos nossas preocupações, somos convidados a levá-las ao Senhor, buscando sua paz e sabedoria."
+    },
+    {
+      "identificador": "ver_a_jesus_043",
+      "numero": 43,
+      "titulo": "Quando o sofrimento chega",
+      "versiculo": "Romanos 8:18 — Os sofrimentos presentes não se comparam à glória futura.",
+      "licao": "A dor desta vida é real, mas não é eterna. A promessa da glória futura nos ajuda a perseverar sem desprezar o sofrimento presente."
+    },
+    {
+      "identificador": "ver_a_jesus_044",
+      "numero": 44,
+      "titulo": "Quando precisamos esperar",
+      "versiculo": "Salmo 27:14 — “Espera pelo Senhor.”",
+      "licao": "Esperar em Deus não é desistir. É continuar confiando e fazendo o que é correto enquanto aguardamos sua direção."
+    },
+    {
+      "identificador": "ver_a_jesus_045",
+      "numero": 45,
+      "titulo": "Quando não entendemos o caminho",
+      "versiculo": "Provérbios 16:9 — O ser humano planeja, mas o Senhor dirige seus passos.",
+      "licao": "Podemos planejar com responsabilidade sem presumir que controlamos o futuro. A humildade nos ensina a submeter nossos caminhos a Deus."
+    },
+    {
+      "identificador": "ver_a_jesus_046",
+      "numero": 46,
+      "titulo": "Quando nos sentimos fracos",
+      "versiculo": "2 Coríntios 12:9 — “A minha graça te basta.”",
+      "licao": "Nossa fraqueza não impede Deus de agir. Ela pode nos ensinar a depender mais profundamente da graça e do poder do Senhor."
+    },
+    {
+      "identificador": "ver_a_jesus_047",
+      "numero": 47,
+      "titulo": "Quando enfrentamos a solidão",
+      "versiculo": "Mateus 28:20 — “E eis que estou convosco todos os dias.”",
+      "licao": "Cristo promete estar com seu povo. Mesmo quando nos sentimos sozinhos, podemos buscar sua presença e também acolher a comunhão de outros cristãos."
+    },
+    {
+      "identificador": "ver_a_jesus_048",
+      "numero": 48,
+      "titulo": "Quando somos rejeitados",
+      "versiculo": "João 1:11–12 — Os que recebem Cristo tornam-se filhos de Deus.",
+      "licao": "A rejeição humana não determina nosso valor diante do Senhor. Em Cristo, encontramos a graça de sermos recebidos na família de Deus."
+    },
+    {
+      "identificador": "ver_a_jesus_049",
+      "numero": 49,
+      "titulo": "Quando enfrentamos injustiça",
+      "versiculo": "1 Pedro 2:23 — Jesus confiava naquele que julga retamente.",
+      "licao": "Cristo nos ensina a não entregar o coração à vingança. Podemos buscar a justiça com coragem, confiando que Deus julga com retidão."
+    },
+    {
+      "identificador": "ver_a_jesus_050",
+      "numero": 50,
+      "titulo": "Quando a culpa nos pesa",
+      "versiculo": "1 João 1:9 — Deus é fiel e justo para perdoar os pecados confessados.",
+      "licao": "Não precisamos esconder nossos pecados do Senhor. O arrependimento sincero nos leva a confessá-los e a confiar no perdão de Deus."
+    },
+    {
+      "identificador": "ver_a_jesus_051",
+      "numero": 51,
+      "titulo": "Quando atravessamos o luto",
+      "versiculo": "João 11:25 — “Eu sou a ressurreição e a vida.”",
+      "licao": "Jesus não trata a morte com indiferença. Sua promessa de ressurreição oferece esperança verdadeira àqueles que choram e creem nele."
+    },
+    {
+      "identificador": "ver_a_jesus_052",
+      "numero": 52,
+      "titulo": "Quando a vida parece incerta",
+      "versiculo": "Salmo 46:1 — “Deus é o nosso refúgio e fortaleza.”",
+      "licao": "Em meio às mudanças e incertezas, podemos encontrar em Deus um refúgio seguro, sem depender da ilusão de controlar tudo."
+    },
+    {
+      "identificador": "ver_a_jesus_053",
+      "numero": 53,
+      "titulo": "Quando enfrentamos oposição",
+      "versiculo": "Romanos 8:31 — “Se Deus é por nós, quem será contra nós?”",
+      "licao": "A oposição não anula o propósito de Deus. Podemos permanecer fiéis sem permitir que o medo da opinião alheia determine nossa obediência."
+    },
+    {
+      "identificador": "ver_a_jesus_054",
+      "numero": 54,
+      "titulo": "Quando estamos cansados",
+      "versiculo": "Mateus 11:28 — “Vinde a mim, todos os que estais cansados.”",
+      "licao": "Jesus convida os cansados a se aproximarem dele. Reconhecer nossos limites e buscar descanso também faz parte de uma vida de dependência de Deus."
+    },
+    {
+      "identificador": "ver_a_jesus_055",
+      "numero": 55,
+      "titulo": "Quando enfrentamos tentações",
+      "versiculo": "Hebreus 4:15–16 — Cristo conhece nossas fraquezas e nos convida a buscar graça.",
+      "licao": "Não precisamos enfrentar a tentação confiando apenas em nossa força. Podemos buscar a ajuda de Deus e recorrer aos meios que Ele nos oferece para resistir."
+    },
+    {
+      "identificador": "ver_a_jesus_056",
+      "numero": 56,
+      "titulo": "Quando falhamos",
+      "versiculo": "Provérbios 24:16 — O justo pode cair e tornar a levantar-se.",
+      "licao": "Uma queda não precisa se transformar em abandono da fé. Com arrependimento, ajuda e dependência de Deus, podemos nos levantar e continuar obedecendo."
+    },
+    {
+      "identificador": "ver_a_jesus_057",
+      "numero": 57,
+      "titulo": "Quando enfrentamos perdas",
+      "versiculo": "Jó 1:21 — Jó reconhece a soberania do Senhor em meio à perda.",
+      "licao": "A fé não exige que neguemos a dor. Ela nos ensina a lamentar com sinceridade e a reconhecer que Deus continua sendo Deus mesmo nos dias mais difíceis."
+    },
+    {
+      "identificador": "ver_a_jesus_058",
+      "numero": 58,
+      "titulo": "Quando não temos respostas",
+      "versiculo": "Deuteronômio 29:29 — As coisas encobertas pertencem ao Senhor.",
+      "licao": "Nem todos os mistérios serão esclarecidos nesta vida. A humildade cristã aprende a confiar no que Deus revelou sem exigir conhecimento de tudo o que Ele não revelou."
+    },
+    {
+      "identificador": "ver_a_jesus_059",
+      "numero": 59,
+      "titulo": "Quando somos perseguidos por causa da fé",
+      "versiculo": "Mateus 5:10 — Bem-aventurados os perseguidos por causa da justiça.",
+      "licao": "Seguir a Cristo pode trazer oposição. Ainda assim, somos chamados a permanecer fiéis, respondendo com verdade, coragem e amor."
+    },
+    {
+      "identificador": "ver_a_jesus_060",
+      "numero": 60,
+      "titulo": "Quando precisamos recomeçar",
+      "versiculo": "Lamentações 3:22–23 — As misericórdias do Senhor se renovam a cada manhã.",
+      "licao": "A fidelidade de Deus nos dá razões para recomeçar. O passado não precisa determinar todos os nossos passos quando nos voltamos para Ele com arrependimento e fé."
+    },
+    {
+      "identificador": "ver_a_jesus_061",
+      "numero": 61,
+      "titulo": "Aprendendo a perdoar",
+      "versiculo": "Efésios 4:32 — “Perdoando-vos uns aos outros, como também Deus vos perdoou em Cristo.”",
+      "licao": "O perdão cristão nasce da consciência de que também fomos alcançados pela misericórdia. Perdoar não significa chamar o mal de bem, mas renunciar à vingança e buscar uma resposta que honre a Deus."
+    },
+    {
+      "identificador": "ver_a_jesus_062",
+      "numero": 62,
+      "titulo": "Aprendendo a servir",
+      "versiculo": "Marcos 10:45 — O Filho do Homem veio para servir.",
+      "licao": "Jesus redefine a grandeza. Em vez de procurar apenas reconhecimento, somos chamados a usar nossas capacidades para o bem das pessoas."
+    },
+    {
+      "identificador": "ver_a_jesus_063",
+      "numero": 63,
+      "titulo": "Aprendendo a ser humildes",
+      "versiculo": "Filipenses 2:3 — Considerar os outros com humildade.",
+      "licao": "A humildade nos liberta da necessidade de provar que somos superiores. Podemos reconhecer nossos dons sem desprezar as qualidades e necessidades dos outros."
+    },
+    {
+      "identificador": "ver_a_jesus_064",
+      "numero": 64,
+      "titulo": "Aprendendo a ter misericórdia",
+      "versiculo": "Lucas 6:36 — “Sede misericordiosos, como também é misericordioso vosso Pai.”",
+      "licao": "A misericórdia cristã olha para além das aparências e procura responder às necessidades humanas sem abandonar a verdade."
+    },
+    {
+      "identificador": "ver_a_jesus_065",
+      "numero": 65,
+      "titulo": "Aprendendo a amar o próximo",
+      "versiculo": "Marcos 12:31 — “Amarás o teu próximo como a ti mesmo.”",
+      "licao": "O amor ao próximo nos chama a tratar cada pessoa com dignidade, considerando suas necessidades e agindo com responsabilidade."
+    },
+    {
+      "identificador": "ver_a_jesus_066",
+      "numero": 66,
+      "titulo": "Aprendendo a dominar nossas palavras",
+      "versiculo": "Efésios 4:29 — Que nenhuma palavra prejudicial saia da boca.",
+      "licao": "Nossas palavras podem ferir ou edificar. Quem deseja refletir o caráter de Cristo aprende a falar com verdade, graça e consideração."
+    },
+    {
+      "identificador": "ver_a_jesus_067",
+      "numero": 67,
+      "titulo": "Aprendendo a ter paciência",
+      "versiculo": "Colossenses 3:12 — Revesti-vos de humildade, mansidão e paciência.",
+      "licao": "A paciência nos ajuda a tratar as pessoas como seres em crescimento, sem exigir que todos amadureçam no mesmo ritmo que nós."
+    },
+    {
+      "identificador": "ver_a_jesus_068",
+      "numero": 68,
+      "titulo": "Aprendendo a ser generosos",
+      "versiculo": "Atos 20:35 — “Mais bem-aventurada coisa é dar do que receber.”",
+      "licao": "A generosidade desloca nosso olhar do acúmulo para o serviço. Podemos compartilhar tempo, recursos, atenção e cuidado para aliviar o peso de alguém."
+    },
+    {
+      "identificador": "ver_a_jesus_069",
+      "numero": 69,
+      "titulo": "Aprendendo a buscar a paz",
+      "versiculo": "Romanos 12:18 — “Tende paz com todos os homens.”",
+      "licao": "Somos chamados a fazer o que estiver ao nosso alcance para promover a paz. Isso exige diálogo, humildade e coragem para enfrentar conflitos de maneira justa."
+    },
+    {
+      "identificador": "ver_a_jesus_070",
+      "numero": 70,
+      "titulo": "Aprendendo a acolher",
+      "versiculo": "Romanos 15:7 — “Acolhei-vos uns aos outros, como também Cristo nos acolheu.”",
+      "licao": "O acolhimento cristão não se limita a abrir uma porta. Significa tratar as pessoas com dignidade e ajudá-las a encontrar lugar na comunhão."
+    },
+    {
+      "identificador": "ver_a_jesus_071",
+      "numero": 71,
+      "titulo": "Aprendendo a ouvir",
+      "versiculo": "Tiago 1:19 — “Todo homem seja pronto para ouvir.”",
+      "licao": "Ouvir com atenção é uma forma de respeito. Antes de responder ou julgar, precisamos compreender o que a outra pessoa está tentando comunicar."
+    },
+    {
+      "identificador": "ver_a_jesus_072",
+      "numero": 72,
+      "titulo": "Aprendendo a cuidar dos vulneráveis",
+      "versiculo": "Tiago 1:27 — Cuidar dos órfãos e das viúvas em suas tribulações.",
+      "licao": "A fé verdadeira se manifesta em cuidado concreto. Deus nos chama a perceber aqueles que facilmente são esquecidos e a agir em favor deles."
+    },
+    {
+      "identificador": "ver_a_jesus_073",
+      "numero": 73,
+      "titulo": "Aprendendo a agir com justiça",
+      "versiculo": "Miqueias 6:8 — Praticar a justiça, amar a misericórdia e andar humildemente com Deus.",
+      "licao": "A vida com Deus envolve mais do que palavras religiosas. Ela se manifesta na maneira justa como tratamos as pessoas e assumimos nossas responsabilidades."
+    },
+    {
+      "identificador": "ver_a_jesus_074",
+      "numero": 74,
+      "titulo": "Aprendendo a servir sem buscar aplausos",
+      "versiculo": "Mateus 6:3–4 — Fazer o bem sem transformar isso em espetáculo.",
+      "licao": "O valor de uma boa ação não depende de quantas pessoas a veem. Podemos servir com sinceridade, buscando agradar a Deus em vez de construir nossa própria reputação."
+    },
+    {
+      "identificador": "ver_a_jesus_075",
+      "numero": 75,
+      "titulo": "Aprendendo a amar os inimigos",
+      "versiculo": "Mateus 5:44 — “Amai os vossos inimigos.”",
+      "licao": "Jesus nos chama a romper o ciclo do ódio. Amar os inimigos significa buscar o bem e orar por eles, sem fingir que a injustiça não existe."
+    },
+    {
+      "identificador": "ver_a_jesus_076",
+      "numero": 76,
+      "titulo": "Aprendendo a corrigir com mansidão",
+      "versiculo": "Gálatas 6:1 — Restaurar alguém com espírito de mansidão.",
+      "licao": "A correção cristã não deve ser instrumento de humilhação. Quando necessário, corrigimos com verdade e humildade, conscientes de que também precisamos da graça de Deus."
+    },
+    {
+      "identificador": "ver_a_jesus_077",
+      "numero": 77,
+      "titulo": "Aprendendo a chorar com os que choram",
+      "versiculo": "Romanos 12:15 — “Chorai com os que choram.”",
+      "licao": "A empatia cristã não exige que tenhamos todas as respostas. Às vezes, amar é permanecer perto, ouvir com paciência e compartilhar o peso de quem sofre."
+    },
+    {
+      "identificador": "ver_a_jesus_078",
+      "numero": 78,
+      "titulo": "Aprendendo a celebrar o bem alheio",
+      "versiculo": "Romanos 12:15 — “Alegrai-vos com os que se alegram.”",
+      "licao": "O amor vence a inveja quando conseguimos celebrar sinceramente as bênçãos recebidas por outras pessoas."
+    },
+    {
+      "identificador": "ver_a_jesus_079",
+      "numero": 79,
+      "titulo": "Aprendendo a ser honestos",
+      "versiculo": "Efésios 4:25 — “Deixai a mentira e falai a verdade.”",
+      "licao": "A honestidade demonstra respeito por Deus e pelo próximo. Viver na verdade constrói confiança e impede que nossos relacionamentos sejam sustentados por enganos."
+    },
+    {
+      "identificador": "ver_a_jesus_080",
+      "numero": 80,
+      "titulo": "Aprendendo a viver em santidade",
+      "versiculo": "1 Pedro 1:15–16 — Sede santos em todo o vosso procedimento.",
+      "licao": "A graça não nos chama a permanecer como estamos. Deus nos convoca a uma vida separada para Ele, refletindo seu caráter em nossas escolhas diárias."
+    },
+    {
+      "identificador": "ver_a_jesus_081",
+      "numero": 81,
+      "titulo": "Jesus, o Verbo eterno",
+      "versiculo": "João 1:1 — “No princípio era o Verbo.”",
+      "licao": "Jesus não começou a existir em Belém. Ele é o Filho eterno de Deus, e conhecê-lo é reconhecer aquele que estava com Deus e era Deus."
+    },
+    {
+      "identificador": "ver_a_jesus_082",
+      "numero": 82,
+      "titulo": "Jesus, o Cordeiro de Deus",
+      "versiculo": "João 1:29 — “Eis o Cordeiro de Deus.”",
+      "licao": "João Batista aponta para Jesus como aquele que tira o pecado do mundo. Nossa esperança está na obra redentora de Cristo, não em nossos próprios esforços."
+    },
+    {
+      "identificador": "ver_a_jesus_083",
+      "numero": 83,
+      "titulo": "Jesus, a luz do mundo",
+      "versiculo": "João 8:12 — “Eu sou a luz do mundo.”",
+      "licao": "Cristo revela a verdade de Deus e ilumina nosso caminho. Segui-lo significa abandonar as trevas do pecado e caminhar em sua luz."
+    },
+    {
+      "identificador": "ver_a_jesus_084",
+      "numero": 84,
+      "titulo": "Jesus, o pão da vida",
+      "versiculo": "João 6:35 — “Eu sou o pão da vida.”",
+      "licao": "Assim como o alimento sustenta o corpo, somente Cristo pode satisfazer nossa necessidade espiritual mais profunda e conceder vida eterna."
+    },
+    {
+      "identificador": "ver_a_jesus_085",
+      "numero": 85,
+      "titulo": "Jesus, a porta",
+      "versiculo": "João 10:9 — “Eu sou a porta.”",
+      "licao": "Jesus é o acesso à salvação e à comunhão com Deus. Não precisamos inventar caminhos alternativos para alcançar o Pai: somos chamados a confiar no Filho."
+    },
+    {
+      "identificador": "ver_a_jesus_086",
+      "numero": 86,
+      "titulo": "Jesus, o Bom Pastor",
+      "versiculo": "João 10:11 — “Eu sou o bom Pastor.”",
+      "licao": "Cristo conhece suas ovelhas e entrega a vida por elas. Seu cuidado nos ensina a descansar em sua direção e a cuidar daqueles que Deus coloca sob nossa responsabilidade."
+    },
+    {
+      "identificador": "ver_a_jesus_087",
+      "numero": 87,
+      "titulo": "Jesus, a ressurreição e a vida",
+      "versiculo": "João 11:25 — “Eu sou a ressurreição e a vida.”",
+      "licao": "A morte não terá a palavra final sobre aqueles que estão em Cristo. Sua ressurreição fundamenta nossa esperança na vida eterna."
+    },
+    {
+      "identificador": "ver_a_jesus_088",
+      "numero": 88,
+      "titulo": "Jesus, o caminho, a verdade e a vida",
+      "versiculo": "João 14:6 — “Eu sou o caminho, e a verdade, e a vida.”",
+      "licao": "Cristo não é apenas alguém que aponta uma direção. Ele é o único caminho para o Pai e o fundamento de nossa fé e esperança."
+    },
+    {
+      "identificador": "ver_a_jesus_089",
+      "numero": 89,
+      "titulo": "Jesus, a videira verdadeira",
+      "versiculo": "João 15:1 — “Eu sou a videira verdadeira.”",
+      "licao": "Nossa vida espiritual depende da comunhão com Cristo. Permanecer nele é indispensável para produzir frutos que glorifiquem a Deus."
+    },
+    {
+      "identificador": "ver_a_jesus_090",
+      "numero": 90,
+      "titulo": "Jesus, o Rei prometido",
+      "versiculo": "Zacarias 9:9 — O Rei vem humilde, montado num jumento.",
+      "licao": "Jesus é o Rei prometido, mas sua chegada revela uma realeza marcada pela humildade. Seu reino confronta nossa ambição e redefine o significado do poder."
+    },
+    {
+      "identificador": "ver_a_jesus_091",
+      "numero": 91,
+      "titulo": "Jesus, o Servo sofredor",
+      "versiculo": "Isaías 53:5 — Ele foi ferido por causa das nossas transgressões.",
+      "licao": "O sofrimento de Cristo não foi um acidente sem propósito. Sua obra sacrificial revela a gravidade do pecado e a profundidade do amor redentor de Deus."
+    },
+    {
+      "identificador": "ver_a_jesus_092",
+      "numero": 92,
+      "titulo": "Jesus, o cumprimento das promessas",
+      "versiculo": "Lucas 24:27 — Jesus explica o que as Escrituras diziam a respeito dele.",
+      "licao": "A história bíblica encontra seu centro em Cristo. Ao lermos as Escrituras, precisamos considerar como as promessas e os propósitos de Deus se cumprem nele."
+    },
+    {
+      "identificador": "ver_a_jesus_093",
+      "numero": 93,
+      "titulo": "Jesus, o Filho amado",
+      "versiculo": "Mateus 3:17 — “Este é o meu Filho amado.”",
+      "licao": "A identidade de Jesus é confirmada pelo Pai. Nossa fé repousa em quem Cristo realmente é, não apenas na impressão que formamos dele."
+    },
+    {
+      "identificador": "ver_a_jesus_094",
+      "numero": 94,
+      "titulo": "Jesus, o Senhor que perdoa",
+      "versiculo": "Marcos 2:10 — O Filho do Homem tem autoridade para perdoar pecados.",
+      "licao": "Jesus possui autoridade para tratar nossa necessidade mais profunda: a reconciliação com Deus. O perdão que Ele oferece nos chama a uma vida de arrependimento e fé."
+    },
+    {
+      "identificador": "ver_a_jesus_095",
+      "numero": 95,
+      "titulo": "Jesus, o Senhor dos ventos e do mar",
+      "versiculo": "Marcos 4:39 — Jesus ordena que o vento e o mar se aquietem.",
+      "licao": "O poder de Cristo supera aquilo que nos parece incontrolável. Mesmo quando enfrentamos tempestades, podemos recorrer a Ele com fé e reverência."
+    },
+    {
+      "identificador": "ver_a_jesus_096",
+      "numero": 96,
+      "titulo": "Jesus, o amigo dos pecadores",
+      "versiculo": "Mateus 11:19 — Jesus é descrito como amigo de publicanos e pecadores.",
+      "licao": "Cristo se aproxima de pecadores para chamá-los ao arrependimento. Sua graça nos impede de desprezar pessoas e nos lembra de nossa própria necessidade de misericórdia."
+    },
+    {
+      "identificador": "ver_a_jesus_097",
+      "numero": 97,
+      "titulo": "Jesus, o servo que lava os pés",
+      "versiculo": "João 13:14–15 — Jesus lava os pés dos discípulos e lhes dá o exemplo.",
+      "licao": "O Senhor se inclina para servir. Seu exemplo confronta nosso orgulho e nos chama a demonstrar amor por meio de atitudes concretas."
+    },
+    {
+      "identificador": "ver_a_jesus_098",
+      "numero": 98,
+      "titulo": "Jesus, o Salvador crucificado",
+      "versiculo": "1 Coríntios 1:23–24 — Cristo crucificado é poder e sabedoria de Deus para os chamados.",
+      "licao": "A cruz pode parecer fraqueza aos olhos do mundo, mas nela Deus revela seu poder salvador. Nossa mensagem e nossa esperança estão em Cristo crucificado."
+    },
+    {
+      "identificador": "ver_a_jesus_099",
+      "numero": 99,
+      "titulo": "Jesus, o Senhor ressuscitado",
+      "versiculo": "Mateus 28:6 — “Ele não está aqui, porque já ressuscitou.”",
+      "licao": "A ressurreição confirma a vitória de Cristo sobre a morte e fundamenta a esperança cristã. Nossa fé não termina na cruz, mas anuncia o Salvador vivo."
+    },
+    {
+      "identificador": "ver_a_jesus_100",
+      "numero": 100,
+      "titulo": "Jesus, o Cordeiro vitorioso",
+      "versiculo": "Apocalipse 5:12 — O Cordeiro é digno de receber honra, glória e louvor.",
+      "licao": "Aquele que foi sacrificado é digno de toda adoração. A história não termina com o triunfo do mal, mas com a vitória do Cordeiro de Deus."
+    },
+    {
+      "identificador": "ver_a_jesus_101",
+      "numero": 101,
+      "titulo": "Esperando a volta de Cristo",
+      "versiculo": "João 14:3 — Jesus promete voltar e receber os seus para si.",
+      "licao": "A promessa da volta de Cristo nos chama a viver com esperança e fidelidade, sem tratar as preocupações deste mundo como se fossem eternas."
+    },
+    {
+      "identificador": "ver_a_jesus_102",
+      "numero": 102,
+      "titulo": "Vivendo preparados",
+      "versiculo": "Mateus 24:44 — “Estai vós apercebidos.”",
+      "licao": "Não sabemos o dia da volta do Senhor. Por isso, somos chamados a viver em vigilância, fé e obediência, em vez de adiar nosso compromisso com Deus."
+    },
+    {
+      "identificador": "ver_a_jesus_103",
+      "numero": 103,
+      "titulo": "Aguardando nossa transformação",
+      "versiculo": "Filipenses 3:20–21 — Cristo transformará nosso corpo para ser semelhante ao seu corpo glorioso.",
+      "licao": "Nossa esperança inclui a redenção completa. Deus não abandonará sua obra: aguardamos a transformação prometida por meio de Jesus Cristo."
+    },
+    {
+      "identificador": "ver_a_jesus_104",
+      "numero": 104,
+      "titulo": "Esperando a ressurreição",
+      "versiculo": "1 Coríntios 15:52 — Os mortos serão ressuscitados incorruptíveis.",
+      "licao": "A esperança cristã não é apenas a sobrevivência da alma, mas a promessa da ressurreição. Em Cristo, a morte será vencida definitivamente."
+    },
+    {
+      "identificador": "ver_a_jesus_105",
+      "numero": 105,
+      "titulo": "Aguardando novos céus e nova terra",
+      "versiculo": "2 Pedro 3:13 — Esperamos novos céus e nova terra, nos quais habita a justiça.",
+      "licao": "Deus prometeu renovar todas as coisas. Essa esperança nos encoraja a perseverar e a praticar a justiça enquanto aguardamos o cumprimento de sua promessa."
+    },
+    {
+      "identificador": "ver_a_jesus_106",
+      "numero": 106,
+      "titulo": "Esperando o fim das lágrimas",
+      "versiculo": "Apocalipse 21:4 — Deus enxugará dos olhos toda lágrima.",
+      "licao": "O sofrimento não permanecerá para sempre. A promessa de Deus nos consola e nos lembra que a restauração final será completa."
+    },
+    {
+      "identificador": "ver_a_jesus_107",
+      "numero": 107,
+      "titulo": "Esperando a comunhão perfeita com Deus",
+      "versiculo": "Apocalipse 21:3 — Deus habitará com seu povo.",
+      "licao": "O propósito final da redenção é a comunhão plena com Deus. Nossa esperança não está apenas em receber bênçãos, mas em desfrutar para sempre de sua presença."
+    },
+    {
+      "identificador": "ver_a_jesus_108",
+      "numero": 108,
+      "titulo": "Esperando a coroa da justiça",
+      "versiculo": "2 Timóteo 4:8 — Paulo fala da coroa reservada aos que amam a vinda de Cristo.",
+      "licao": "A perseverança cristã olha para além do reconhecimento humano. Esperamos a aprovação justa do Senhor, que conhece nossa caminhada e julga com retidão."
+    },
+    {
+      "identificador": "ver_a_jesus_109",
+      "numero": 109,
+      "titulo": "Esperando com paciência",
+      "versiculo": "Tiago 5:7–8 — Sede pacientes até a vinda do Senhor.",
+      "licao": "Esperar por Cristo exige perseverança. Continuamos semeando o bem e permanecendo fiéis, mesmo quando os resultados parecem demorados."
+    },
+    {
+      "identificador": "ver_a_jesus_110",
+      "numero": 110,
+      "titulo": "Vivendo como cidadãos do céu",
+      "versiculo": "Filipenses 3:20 — “A nossa cidade está nos céus.”",
+      "licao": "Nossa identidade eterna muda a maneira como vivemos no presente. Somos chamados a agir com responsabilidade neste mundo sem transformar suas recompensas em nosso maior tesouro."
+    },
+    {
+      "identificador": "ver_a_jesus_111",
+      "numero": 110,
+      "titulo": "Vivendo como cidadãos do céu",
+      "versiculo": "Filipenses 3:20 — “A nossa cidade está nos céus.”",
+      "licao": "Nossa identidade eterna muda a maneira como vivemos no presente. Somos chamados a agir com responsabilidade neste mundo sem transformar suas recompensas em nosso maior tesouro."
+    },
+    {
+      "identificador": "ver_a_jesus_112",
+      "numero": 111,
+      "titulo": "Mantendo a esperança viva",
+      "versiculo": "1 Pedro 1:3 — Deus nos regenerou para uma viva esperança pela ressurreição de Jesus Cristo.",
+      "licao": "A esperança cristã não depende de pensamentos positivos. Ela nasce da ressurreição de Cristo e permanece firme porque está fundamentada na obra de Deus."
+    },
+    {
+      "identificador": "ver_a_jesus_113",
+      "numero": 112,
+      "titulo": "Perseverando até o fim",
+      "versiculo": "Mateus 24:13 — “Aquele que perseverar até ao fim será salvo.”",
+      "licao": "A fé verdadeira é chamada a perseverar. Não confiamos em nossa própria força, mas na graça de Deus, que nos sustenta na caminhada cristã."
+    },
+    {
+      "identificador": "ver_a_jesus_114",
+      "numero": 113,
+      "titulo": "Aguardando a manifestação de Cristo",
+      "versiculo": "Tito 2:13 — Aguardamos a bendita esperança e a manifestação da glória de Jesus Cristo.",
+      "licao": "A esperança da volta de Cristo orienta nossa vida hoje. Esperar por Ele significa viver com fé, domínio próprio e dedicação às boas obras."
+    },
+    {
+      "identificador": "ver_a_jesus_115",
+      "numero": 114,
+      "titulo": "Vivendo em pureza",
+      "versiculo": "1 João 3:3 — Quem tem essa esperança purifica-se a si mesmo.",
+      "licao": "A esperança de ver Cristo não nos leva à passividade. Ela nos motiva a buscar uma vida santa, coerente com aquele que aguardamos."
+    },
+    {
+      "identificador": "ver_a_jesus_116",
+      "numero": 115,
+      "titulo": "Consolando uns aos outros",
+      "versiculo": "1 Tessalonicenses 4:18 — “Consolai-vos, pois, uns aos outros.”",
+      "licao": "A promessa da ressurreição nos dá palavras de consolo diante do luto. Compartilhar essa esperança é uma maneira de cuidar de quem sofre."
+    },
+    {
+      "identificador": "ver_a_jesus_117",
+      "numero": 116,
+      "titulo": "Mantendo os olhos no eterno",
+      "versiculo": "2 Coríntios 4:18 — Atentamos nas coisas eternas, que não se veem.",
+      "licao": "Nem tudo o que importa pode ser medido pelo que vemos agora. A eternidade nos ajuda a colocar as dificuldades e conquistas presentes na perspectiva correta."
+    },
+    {
+      "identificador": "ver_a_jesus_118",
+      "numero": 117,
+      "titulo": "Esperando a vitória definitiva",
+      "versiculo": "1 Coríntios 15:57 — “Graças a Deus, que nos dá a vitória por nosso Senhor Jesus Cristo.”",
+      "licao": "Nossa vitória final não vem da capacidade humana, mas de Cristo. Por isso, podemos permanecer firmes sabendo que nosso trabalho no Senhor não é inútil."
+    },
+    {
+      "identificador": "ver_a_jesus_119",
+      "numero": 118,
+      "titulo": "Aguardando o encontro com Cristo",
+      "versiculo": "1 Tessalonicenses 4:17 — Estaremos para sempre com o Senhor.",
+      "licao": "O maior bem da esperança cristã é estar com Cristo. Mais do que desejar escapar das dificuldades, aguardamos a alegria de sua presença eterna."
+    },
+    {
+      "identificador": "ver_a_jesus_120",
+      "numero": 119,
+      "titulo": "Vivendo à luz da eternidade",
+      "versiculo": "Colossenses 3:1–2 — Buscai as coisas do alto e pensai nas coisas do alto.",
+      "licao": "Pensar nas coisas do alto não significa abandonar nossas responsabilidades terrenas. Significa cumprir essas responsabilidades sob o governo de Cristo e com os valores de seu reino."
+    },
+    {
+      "identificador": "ver_a_jesus_121",
+      "numero": 120,
+      "titulo": "Até que o vejamos face a face",
+      "versiculo": "1 Coríntios 13:12 — “Então, veremos face a face.”",
+      "licao": "Hoje conhecemos em parte, mas nossa esperança aponta para a plenitude que Deus prometeu. Enquanto aguardamos esse dia, seguimos pela fé, vivendo em amor e confiando em Cristo."
+    }
+  ]
+}

@@ -1,0 +1,360 @@
+{
+  "livro": "2 Timóteo",
+  "identificador": "2-timoteo",
+  "testamento": "Novo Testamento",
+  "traducao": "JFAC1948",
+  "capitulos": [
+    {
+      "numero": 1,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Paulo, apóstolo de Jesus Cristo, pela vontade de Deus, segundo a promessa da vida que está em Cristo Jesus,"
+        },
+        {
+          "numero": 2,
+          "texto": "a Timóteo, meu amado filho: graça, misericórdia e paz, da parte de Deus Pai, e da de Cristo Jesus, Senhor nosso."
+        },
+        {
+          "numero": 3,
+          "texto": "Dou graças a Deus, a quem, desde os meus antepassados, sirvo com uma consciência pura, porque sem cessar faço memória de ti nas minhas orações, noite e dia;"
+        },
+        {
+          "numero": 4,
+          "texto": "desejando muito ver-te, lembrando-me das tuas lágrimas, para me encher de gozo;"
+        },
+        {
+          "numero": 5,
+          "texto": "trazendo à memória a fé não fingida que em ti há, a qual habitou primeiro em tua avó Lóide e em tua mãe Eunice, e estou certo de que também habita em ti."
+        },
+        {
+          "numero": 6,
+          "texto": "Por este motivo, te lembro que despertes o dom de Deus, que existe em ti pela imposição das minhas mãos."
+        },
+        {
+          "numero": 7,
+          "texto": "Porque Deus não nos deu o espírito de temor, mas de fortaleza, e de amor, e de moderação."
+        },
+        {
+          "numero": 8,
+          "texto": "Portanto, não te envergonhes do testemunho de nosso Senhor, nem de mim, que sou prisioneiro seu; antes, participa das aflições do evangelho, segundo o poder de Deus,"
+        },
+        {
+          "numero": 9,
+          "texto": "que nos salvou e chamou com uma santa vocação; não segundo as nossas obras, mas segundo o seu próprio propósito e graça que nos foi dada em Cristo Jesus, antes dos tempos dos séculos,"
+        },
+        {
+          "numero": 10,
+          "texto": "e que é manifesta, agora, pela aparição de nosso Salvador Jesus Cristo, o qual aboliu a morte e trouxe à luz a vida e a incorrupção, pelo evangelho,"
+        },
+        {
+          "numero": 11,
+          "texto": "para o que fui constituído pregador, e apóstolo, e doutor dos gentios;"
+        },
+        {
+          "numero": 12,
+          "texto": "por cuja causa padeço também isto, mas não me envergonho, porque eu sei em quem tenho crido e estou certo de que é poderoso para guardar o meu depósito até àquele Dia."
+        },
+        {
+          "numero": 13,
+          "texto": "Conserva o modelo das sãs palavras que de mim tens ouvido, na fé e na caridade que há em Cristo Jesus."
+        },
+        {
+          "numero": 14,
+          "texto": "Guarda o bom depósito pelo Espírito Santo que habita em nós."
+        },
+        {
+          "numero": 15,
+          "texto": "Bem sabes isto: que os que estão na Ásia todos se apartaram de mim; entre os quais foram Fígelo e Hermógenes."
+        },
+        {
+          "numero": 16,
+          "texto": "O Senhor conceda misericórdia à casa de Onesíforo, porque muitas vezes me recreou e não se envergonhou das minhas cadeias;"
+        },
+        {
+          "numero": 17,
+          "texto": "antes, vindo ele a Roma, com muito cuidado me procurou e me achou."
+        },
+        {
+          "numero": 18,
+          "texto": "O Senhor lhe conceda que, naquele Dia, ache misericórdia diante do Senhor. E, quanto me ajudou em Éfeso, melhor o sabes tu."
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Tu, pois, meu filho, fortifica-te na graça que há em Cristo Jesus."
+        },
+        {
+          "numero": 2,
+          "texto": "E o que de mim, entre muitas testemunhas, ouviste, confia-o a homens fiéis, que sejam idôneos para também ensinarem os outros."
+        },
+        {
+          "numero": 3,
+          "texto": "Sofre, pois, comigo, as aflições, como bom soldado de Jesus Cristo."
+        },
+        {
+          "numero": 4,
+          "texto": "Ninguém que milita se embaraça com negócio d esta vida, a fim de agradar àquele que o alistou para a guerra."
+        },
+        {
+          "numero": 5,
+          "texto": "E, se alguém também milita, não é coroado se não militar legitimamente."
+        },
+        {
+          "numero": 6,
+          "texto": "O lavrador que trabalha deve ser o primeiro a gozar dos frutos."
+        },
+        {
+          "numero": 7,
+          "texto": "Considera o que digo, porque o Senhor te dará entendimento em tudo."
+        },
+        {
+          "numero": 8,
+          "texto": "Lembra-te de que Jesus Cristo, que é da descendência de Davi, ressuscitou dos mortos, segundo o meu evangelho;"
+        },
+        {
+          "numero": 9,
+          "texto": "pelo que sofro trabalhos e até prisões, como um malfeitor; mas a palavra de Deus não está presa."
+        },
+        {
+          "numero": 10,
+          "texto": "Portanto, tudo sofro por amor dos escolhidos, para que também eles alcancem a salvação que está em Cristo Jesus com glória eterna."
+        },
+        {
+          "numero": 11,
+          "texto": "Palavra fiel é esta: que, se morrermos com ele, também com ele viveremos;"
+        },
+        {
+          "numero": 12,
+          "texto": "se sofrermos, também com ele reinaremos; se o negarmos, também ele nos negará;"
+        },
+        {
+          "numero": 13,
+          "texto": "se formos infiéis, ele permanece fiel; não pode negar-se a si mesmo."
+        },
+        {
+          "numero": 14,
+          "texto": "Traze estas coisas à memória, ordenando-lhes diante do Senhor que não tenham contendas de palavras, que para nada aproveitam e são para perversão dos ouvintes."
+        },
+        {
+          "numero": 15,
+          "texto": "Procura apresentar-te a Deus aprovado, como obreiro que não tem de que se envergonhar, que maneja bem a palavra da verdade."
+        },
+        {
+          "numero": 16,
+          "texto": "Mas evita os falatórios profanos, porque produzirão maior impiedade."
+        },
+        {
+          "numero": 17,
+          "texto": "E a palavra desses roerá como gangrena; entre os quais são Himeneu e Fileto;"
+        },
+        {
+          "numero": 18,
+          "texto": "os quais se desviaram da verdade, dizendo que a ressurreição era já feita, e perverteram a fé de alguns."
+        },
+        {
+          "numero": 19,
+          "texto": "Todavia, o fundamento de Deus fica firme, tendo este selo: O Senhor conhece os que são seus, e qualquer que profere o nome de Cristo aparte-se da iniqüidade."
+        },
+        {
+          "numero": 20,
+          "texto": "Ora, numa grande casa não somente há vasos de ouro e de prata, mas também de pau e de barro; uns para honra, outros, porém, para desonra."
+        },
+        {
+          "numero": 21,
+          "texto": "De sorte que, se alguém se purificar destas coisas, será vaso para honra, santificado e idôneo para uso do Senhor e preparado para toda boa obra."
+        },
+        {
+          "numero": 22,
+          "texto": "Foge, também, dos desejos da mocidade; e segue a justiça, a fé, a caridade e a paz com os que, com um coração puro, invocam o Senhor."
+        },
+        {
+          "numero": 23,
+          "texto": "E rejeita as questões loucas e sem instrução, sabendo que produzem contendas."
+        },
+        {
+          "numero": 24,
+          "texto": "E ao servo do Senhor não convém contender, mas, sim, ser manso para com todos, apto para ensinar, sofredor;"
+        },
+        {
+          "numero": 25,
+          "texto": "instruindo com mansidão os que resistem, a ver se, porventura, Deus lhes dará arrependimento para conhecerem a verdade"
+        },
+        {
+          "numero": 26,
+          "texto": "e tornarem a despertar, desprendendo-se dos laços do diabo, em cuja vontade estão presos."
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Sabe, porém, isto: que nos últimos dias sobrevirão tempos trabalhosos;"
+        },
+        {
+          "numero": 2,
+          "texto": "porque haverá homens amantes de si mesmos, avarentos, presunçosos, soberbos, blasfemos, desobedientes a pais e mães, ingratos, profanos,"
+        },
+        {
+          "numero": 3,
+          "texto": "sem afeto natural, irreconciliáveis, caluniadores, incontinentes, cruéis, sem amor para com os bons,"
+        },
+        {
+          "numero": 4,
+          "texto": "traidores, obstinados, orgulhosos, mais amigos dos deleites do que amigos de Deus,"
+        },
+        {
+          "numero": 5,
+          "texto": "tendo aparência de piedade, mas negando a eficácia dela. Destes afasta-te."
+        },
+        {
+          "numero": 6,
+          "texto": "Porque deste número são os que se introduzem pelas casas e levam cativas mulheres néscias carregadas de pecados, levadas de várias concupiscências,"
+        },
+        {
+          "numero": 7,
+          "texto": "que aprendem sempre e nunca podem chegar ao conhecimento da verdade."
+        },
+        {
+          "numero": 8,
+          "texto": "E, como Janes e Jambres resistiram a Moisés, assim também estes resistem à verdade, sendo homens corruptos de entendimento e réprobos quanto à fé."
+        },
+        {
+          "numero": 9,
+          "texto": "Não irão, porém, avante; porque a todos será manifesto o seu desvario, como também o foi o daqueles."
+        },
+        {
+          "numero": 10,
+          "texto": "Tu, porém, tens seguido a minha doutrina, modo de viver, intenção, fé, longanimidade, caridade, paciência,"
+        },
+        {
+          "numero": 11,
+          "texto": "perseguições e aflições tais quais me aconteceram em Antioquia, em Icônio e em Listra; quantas perseguições sofri, e o Senhor de todas me livrou."
+        },
+        {
+          "numero": 12,
+          "texto": "E também todos os que piamente querem viver em Cristo Jesus padecerão perseguições."
+        },
+        {
+          "numero": 13,
+          "texto": "Mas os homens maus e enganadores irão de mal para pior, enganando e sendo enganados."
+        },
+        {
+          "numero": 14,
+          "texto": "Tu, porém, permanece naquilo que aprendeste e de que foste inteirado, sabendo de quem o tens aprendido."
+        },
+        {
+          "numero": 15,
+          "texto": "E que, desde a tua meninice, sabes as sagradas letras, que podem fazer-te sábio para a salvação, pela fé que há em Cristo Jesus."
+        },
+        {
+          "numero": 16,
+          "texto": "Toda Escritura divinamente inspirada é proveitosa para ensinar, para redargüir, para corrigir, para instruir em justiça,"
+        },
+        {
+          "numero": 17,
+          "texto": "para que o homem de Deus seja perfeito e perfeitamente instruído para toda boa obra."
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Conjuro- te, pois, diante de Deus e do Senhor Jesus Cristo, que há de julgar os vivos e os mortos, na sua vinda e no seu Reino,"
+        },
+        {
+          "numero": 2,
+          "texto": "que pregues a palavra, instes a tempo e fora de tempo, redarguas, repreendas, exortes, com toda a longanimidade e doutrina."
+        },
+        {
+          "numero": 3,
+          "texto": "Porque virá tempo em que não sofrerão a sã doutrina; mas, tendo comichão nos ouvidos, amontoarão para si doutores conforme as suas próprias concupiscências;"
+        },
+        {
+          "numero": 4,
+          "texto": "e desviarão os ouvidos da verdade, voltando às fábulas."
+        },
+        {
+          "numero": 5,
+          "texto": "Mas tu sê sóbrio em tudo, sofre as aflições, faze a obra de um evangelista, cumpre o teu ministério."
+        },
+        {
+          "numero": 6,
+          "texto": "Porque eu já estou sendo oferecido por aspersão de sacrifício, e o tempo da minha partida está próximo."
+        },
+        {
+          "numero": 7,
+          "texto": "Combati o bom combate, acabei a carreira, guardei a fé."
+        },
+        {
+          "numero": 8,
+          "texto": "Desde agora, a coroa da justiça me está guardada, a qual o Senhor, justo juiz, me dará naquele Dia; e não somente a mim, mas também a todos os que amarem a sua vinda."
+        },
+        {
+          "numero": 9,
+          "texto": "Procura vir ter comigo depressa."
+        },
+        {
+          "numero": 10,
+          "texto": "Porque Demas me desamparou, amando o presente século, e foi para Tessalônica; Crescente, para a Galácia, Tito, para a Dalmácia."
+        },
+        {
+          "numero": 11,
+          "texto": "Só Lucas está comigo. Toma Marcos e traze-o contigo, porque me é muito útil para o ministério."
+        },
+        {
+          "numero": 12,
+          "texto": "Também enviei Tíquico a Éfeso."
+        },
+        {
+          "numero": 13,
+          "texto": "Quando vieres, traze a capa que deixei em Trôade, em casa de Carpo, e os livros, principalmente os pergaminhos."
+        },
+        {
+          "numero": 14,
+          "texto": "Alexandre, o latoeiro, causou-me muitos males; o Senhor lhe pague segundo as suas obras."
+        },
+        {
+          "numero": 15,
+          "texto": "Tu, guarda-te também dele, porque resistiu muito às nossas palavras."
+        },
+        {
+          "numero": 16,
+          "texto": "Ninguém me assistiu na minha primeira defesa; antes, todos me desampararam. Que isto lhes não seja imputado."
+        },
+        {
+          "numero": 17,
+          "texto": "Mas o Senhor assistiu-me e fortaleceu-me, para que, por mim, fosse cumprida a pregação e todos os gentios a ouvissem; e fiquei livre da boca do leão."
+        },
+        {
+          "numero": 18,
+          "texto": "E o Senhor me livrará de toda má obra e guardar-me-á para o seu Reino celestial; a quem seja glória para todo o sempre. Amém!"
+        },
+        {
+          "numero": 19,
+          "texto": "Saúda a Prisca, e a Áqüila, e à casa de Onesíforo."
+        },
+        {
+          "numero": 20,
+          "texto": "Erasto ficou em Corinto, e deixei Trófimo doente em Mileto."
+        },
+        {
+          "numero": 21,
+          "texto": "Procura vir antes do inverno. Êubulo, e Pudente, e Lino, e Cláudia, e todos os irmãos te saúdam."
+        },
+        {
+          "numero": 22,
+          "texto": "O Senhor Jesus Cristo seja com o teu espírito. A graça seja convosco. Amém!"
+        }
+      ]
+    }
+  ]
+}

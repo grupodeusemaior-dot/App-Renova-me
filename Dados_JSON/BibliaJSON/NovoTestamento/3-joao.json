@@ -1,0 +1,69 @@
+{
+  "livro": "3 João",
+  "identificador": "3-joao",
+  "testamento": "Novo Testamento",
+  "traducao": "JFAC1948",
+  "capitulos": [
+    {
+      "numero": 1,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "O presbítero ao amado Gaio, a quem, na verdade, eu amo."
+        },
+        {
+          "numero": 2,
+          "texto": "Amado, desejo que te vá bem em todas as coisas e que tenhas saúde, assim como bem vai a tua alma."
+        },
+        {
+          "numero": 3,
+          "texto": "Porque muito me alegrei quando os irmãos vieram e testificaram da tua verdade, como tu andas na verdade."
+        },
+        {
+          "numero": 4,
+          "texto": "Não tenho maior gozo do que este: o de ouvir que os meus filhos andam na verdade."
+        },
+        {
+          "numero": 5,
+          "texto": "Amado, procedes fielmente em tudo o que fazes para com os irmãos e para com os estranhos,"
+        },
+        {
+          "numero": 6,
+          "texto": "que em presença da igreja testificaram da tua caridade, aos quais, se conduzires como é digno para com Deus, bem farás;"
+        },
+        {
+          "numero": 7,
+          "texto": "porque pelo seu Nome saíram, nada tomando dos gentios."
+        },
+        {
+          "numero": 8,
+          "texto": "Portanto, aos tais devemos receber, para que sejamos cooperadores da verdade."
+        },
+        {
+          "numero": 9,
+          "texto": "Tenho escrito à igreja; mas Diótrefes, que procura ter entre eles o primado, não nos recebe."
+        },
+        {
+          "numero": 10,
+          "texto": "Pelo que, se eu for, trarei à memória as obras que ele faz, proferindo contra nós palavras maliciosas; e, não contente com isto, não recebe os irmãos, e impede os que querem recebê-los, e os lança fora da igreja."
+        },
+        {
+          "numero": 11,
+          "texto": "Amado, não sigas o mal, mas o bem. Quem faz bem é de Deus; mas quem faz mal não tem visto a Deus."
+        },
+        {
+          "numero": 12,
+          "texto": "Todos dão testemunho de Demétrio, até a mesma verdade; e também nós testemunhamos; e vós bem sabeis que o nosso testemunho é verdadeiro."
+        },
+        {
+          "numero": 13,
+          "texto": "Tinha muito que escrever, mas não quero escrever-te com tinta e pena."
+        },
+        {
+          "numero": 14,
+          "texto": "Espero, porém, ver-te brevemente, e falaremos de boca a boca."
+        }
+      ]
+    }
+  ]
+}

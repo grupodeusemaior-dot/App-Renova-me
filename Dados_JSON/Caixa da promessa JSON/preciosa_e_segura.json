@@ -1,0 +1,567 @@
+{
+  "colecao": "Preciosa e Segura",
+  "subtitulo": "Lições sobre cuidado e relacionamentos",
+  "total_registros": 70,
+  "textos": [
+    {
+      "identificador": "preciosa_e_segura_001",
+      "numero": 1,
+      "titulo": "Você também merece o seu cuidado",
+      "licao": "Cuidar de si não é egoísmo. A mulher também precisa receber o carinho e a atenção que oferece aos outros.",
+      "mensagem": "“Cuide de si com o mesmo amor que dedica a quem ama.”",
+      "inspiracao_biblica": "Marcos 12:31 — Amar o próximo como a si mesma."
+    },
+    {
+      "identificador": "preciosa_e_segura_002",
+      "numero": 2,
+      "titulo": "Seu valor não depende da aparência",
+      "licao": "O valor de uma mulher não se mede pela idade, pelo peso, pela pele ou pelos padrões de beleza.",
+      "mensagem": "“Você é preciosa além daquilo que os olhos podem ver.”",
+      "inspiracao_biblica": "1 Samuel 16:7 — Deus não vê como o ser humano vê; Ele olha para o coração."
+    },
+    {
+      "identificador": "preciosa_e_segura_003",
+      "numero": 3,
+      "titulo": "Trate-se com ternura",
+      "licao": "Reconhecer os próprios limites e imperfeições é parte de uma relação saudável consigo mesma.",
+      "mensagem": "“Não seja abrigo para todos e abandono para si.”",
+      "inspiracao_biblica": "Efésios 5:29 — Nutrir e cuidar do próprio corpo."
+    },
+    {
+      "identificador": "preciosa_e_segura_004",
+      "numero": 4,
+      "titulo": "A idade não diminui sua beleza",
+      "licao": "Envelhecer é parte da vida. Cada fase merece respeito, saúde, acolhimento e oportunidades de florescer.",
+      "mensagem": "“O tempo muda o rosto, mas não apaga o valor de uma mulher.”",
+      "inspiracao_biblica": "Provérbios 31:25 — A mulher virtuosa se reveste de força e dignidade."
+    },
+    {
+      "identificador": "preciosa_e_segura_005",
+      "numero": 5,
+      "titulo": "Você não precisa dar conta de tudo",
+      "licao": "Pedir ajuda, dividir responsabilidades e reconhecer o cansaço são atitudes de sabedoria, não de fraqueza.",
+      "mensagem": "“Ser forte também é reconhecer quando você precisa de cuidado.”",
+      "inspiracao_biblica": "Êxodo 18:17–18 — O conselho de Jetro a Moisés mostra que carregar tudo sozinho pode ser pesado demais."
+    },
+    {
+      "identificador": "preciosa_e_segura_006",
+      "numero": 6,
+      "titulo": "Seu corpo merece atenção",
+      "licao": "Observar mudanças no corpo, respeitar os próprios limites e buscar orientação profissional são atitudes essenciais para cuidar da saúde.",
+      "mensagem": "“Escute seu corpo. Não ignore os sinais que ele apresenta.”",
+      "inspiracao_biblica": "1 Coríntios 6:19–20 — O corpo como algo precioso que merece cuidado."
+    },
+    {
+      "identificador": "preciosa_e_segura_007",
+      "numero": 7,
+      "titulo": "Prevenir é um ato de amor",
+      "licao": "Consultas e exames preventivos adequados a cada fase da vida ajudam a identificar problemas de saúde e favorecem o cuidado precoce.",
+      "mensagem": "“Não espere a dor pedir atenção para cuidar da sua saúde.”",
+      "inspiracao_biblica": "Provérbios 27:12 — A prudência nos ajuda a reconhecer os perigos e agir a tempo."
+    },
+    {
+      "identificador": "preciosa_e_segura_008",
+      "numero": 8,
+      "titulo": "Conheça seu corpo sem vergonha",
+      "licao": "Conhecer o próprio corpo, compreender suas mudanças e conversar abertamente sobre dúvidas de saúde são atitudes de autocuidado e responsabilidade.",
+      "mensagem": "“Conhecer seu corpo é cuidado, não motivo de vergonha.”",
+      "inspiracao_biblica": "Salmos 139:14 — Somos criaturas admiráveis, feitas de maneira maravilhosa."
+    },
+    {
+      "identificador": "preciosa_e_segura_009",
+      "numero": 9,
+      "titulo": "Pequenos hábitos, grandes cuidados",
+      "licao": "Alimentação equilibrada, atividade física, hidratação e sono adequado contribuem para a saúde física e emocional da mulher.",
+      "mensagem": "“Cada pequeno cuidado é uma escolha a favor da vida.”",
+      "inspiracao_biblica": "1 Coríntios 10:31 — Fazer todas as coisas para a glória de Deus."
+    },
+    {
+      "identificador": "preciosa_e_segura_010",
+      "numero": 10,
+      "titulo": "Descansar também é necessário",
+      "licao": "O descanso faz parte de uma vida saudável. A mulher não precisa chegar à exaustão para provar sua força, dedicação ou valor.",
+      "mensagem": "“Você não precisa se esgotar para provar que é forte.”",
+      "inspiracao_biblica": "Marcos 6:31 — Jesus convidou seus discípulos a se afastarem um pouco e descansarem."
+    },
+    {
+      "identificador": "preciosa_e_segura_011",
+      "numero": 11,
+      "titulo": "Câncer de mama: informação salva vidas",
+      "licao": "Conhecer o próprio corpo, perceber mudanças nas mamas e procurar avaliação profissional diante de alterações são atitudes importantes. Os exames de rastreamento devem seguir as recomendações de saúde adequadas a cada mulher.",
+      "mensagem": "“Sua saúde importa. Informe-se, observe-se e cuide-se.”",
+      "inspiracao_biblica": "Provérbios 4:7 — Buscar sabedoria e entendimento."
+    },
+    {
+      "identificador": "preciosa_e_segura_012",
+      "numero": 12,
+      "titulo": "Saúde íntima também é saúde",
+      "licao": "Menstruação, sexualidade, menopausa e sintomas íntimos merecem atenção, informação confiável e acompanhamento profissional, sem vergonha ou preconceito.",
+      "mensagem": "“Nenhuma mulher deveria sentir vergonha de cuidar da própria saúde.”",
+      "inspiracao_biblica": "Gálatas 6:2 — Ajudar uns aos outros a carregar seus fardos."
+    },
+    {
+      "identificador": "preciosa_e_segura_013",
+      "numero": 13,
+      "titulo": "Prevenir o câncer do colo do útero",
+      "licao": "A vacinação contra o HPV e o rastreamento recomendado são medidas importantes para prevenir a doença e identificar alterações precocemente.",
+      "mensagem": "“Informação, prevenção e cuidado podem proteger o seu futuro.”",
+      "inspiracao_biblica": "Provérbios 22:3 — A pessoa prudente reconhece o perigo e toma precauções."
+    },
+    {
+      "identificador": "preciosa_e_segura_014",
+      "numero": 14,
+      "titulo": "Sua saúde emocional importa",
+      "licao": "Tristeza persistente, ansiedade e sofrimento emocional merecem acolhimento e atenção. Buscar ajuda profissional é um gesto de coragem e cuidado consigo mesma.",
+      "mensagem": "“Cuidar da mente também é cuidar da vida.”",
+      "inspiracao_biblica": "Provérbios 4:23 — Guardar o coração, pois dele procedem as fontes da vida."
+    },
+    {
+      "identificador": "preciosa_e_segura_015",
+      "numero": 15,
+      "titulo": "Você pode chorar e continuar sendo forte",
+      "licao": "Chorar não significa fraqueza. Reconhecer a tristeza e permitir-se sentir são formas de respeitar as próprias emoções e iniciar um processo de recuperação.",
+      "mensagem": "“Sua força não precisa esconder suas lágrimas.”",
+      "inspiracao_biblica": "Eclesiastes 3:4 — Há tempo de chorar e tempo de rir; tempo de prantear e tempo de dançar."
+    },
+    {
+      "identificador": "preciosa_e_segura_016",
+      "numero": 16,
+      "titulo": "Não silencie o que sente",
+      "licao": "Expressar sentimentos com segurança e conversar com alguém de confiança pode aliviar o peso emocional. A mulher não precisa esconder sua dor para parecer forte.",
+      "mensagem": "“O que você sente merece ser ouvido, inclusive por você.”",
+      "inspiracao_biblica": "Salmos — muitos salmos mostram que podemos expressar nossas angústias, medos e tristezas diante de Deus."
+    },
+    {
+      "identificador": "preciosa_e_segura_017",
+      "numero": 17,
+      "titulo": "Dizer não também é se cuidar",
+      "licao": "Estabelecer limites saudáveis é uma forma de proteger a própria saúde emocional, o tempo e a dignidade. A mulher pode ser bondosa sem aceitar tudo.",
+      "mensagem": "“Seu limite não é falta de amor; é parte do respeito.”",
+      "inspiracao_biblica": "Mateus 5:37 — Que o seu sim seja sim, e o seu não seja não."
+    },
+    {
+      "identificador": "preciosa_e_segura_018",
+      "numero": 18,
+      "titulo": "Pedir ajuda é um ato de coragem",
+      "licao": "Buscar apoio médico, psicológico, familiar ou comunitário não diminui a mulher. Reconhecer que precisa de ajuda pode ser o primeiro passo para recuperar o equilíbrio.",
+      "mensagem": "“Você não precisa enfrentar tudo sozinha.”",
+      "inspiracao_biblica": "Eclesiastes 4:9–10 — Duas pessoas podem se ajudar e levantar uma à outra quando uma cai."
+    },
+    {
+      "identificador": "preciosa_e_segura_019",
+      "numero": 19,
+      "titulo": "A culpa não precisa governar sua vida",
+      "licao": "Reconhecer os erros é diferente de viver em constante punição. A mulher merece aprender com suas experiências, reparar o que for possível e seguir em frente com sabedoria.",
+      "mensagem": "“Você pode aprender com o passado sem deixar de acolher quem é hoje.”",
+      "inspiracao_biblica": "Romanos 8:1 — A mensagem de que não há condenação para os que estão em Cristo Jesus."
+    },
+    {
+      "identificador": "preciosa_e_segura_020",
+      "numero": 20,
+      "titulo": "Amor não deve ferir",
+      "licao": "Humilhação, ameaças, controle e violência não são demonstrações de amor. Toda mulher merece segurança, respeito e liberdade. Buscar proteção diante de uma situação de violência é legítimo e necessário.",
+      "mensagem": "“Onde existe amor saudável, sua dignidade não é colocada em risco.”",
+      "inspiracao_biblica": "1 Coríntios 13:4–5 — O amor é paciente, bondoso e não age com desrespeito."
+    },
+    {
+      "identificador": "preciosa_e_segura_021",
+      "numero": 21,
+      "titulo": "Uma mulher pode ser apoio para outra",
+      "licao": "Acolher sem julgar, compartilhar informações confiáveis e ajudar outra mulher a encontrar apoio são atitudes que fortalecem a solidariedade e promovem saúde e bem-estar.",
+      "mensagem": "“Que nenhuma mulher precise enfrentar sua dor sem acolhimento.”",
+      "inspiracao_biblica": "1 Tessalonicenses 5:11 — Encorajar uns aos outros e edificar uns aos outros."
+    },
+    {
+      "identificador": "preciosa_e_segura_022",
+      "numero": 22,
+      "titulo": "Sua voz merece respeito",
+      "licao": "Dúvidas, sintomas, desconfortos e preocupações com a saúde devem ser levados a sério. Toda mulher tem o direito de fazer perguntas, compreender suas opções e participar das decisões sobre seu tratamento.",
+      "mensagem": "“Você tem o direito de perguntar, compreender e participar das decisões sobre sua saúde.”",
+      "inspiracao_biblica": "Provérbios 31:8–9 — Abrir a boca em favor de quem precisa ser ouvido e defender os direitos dos necessitados."
+    },
+    {
+      "identificador": "preciosa_e_segura_023",
+      "numero": 23,
+      "titulo": "Fé também é buscar cuidado",
+      "licao": "A fé pode oferecer consolo, força e esperança nos momentos difíceis. Orar e buscar ajuda médica não são atitudes contrárias: cuidar da saúde também é uma maneira de valorizar a vida.",
+      "mensagem": "“Ore com fé, caminhe com esperança e cuide da vida que Deus lhe confiou.”",
+      "inspiracao_biblica": "Tiago 2:17 — A fé se manifesta também por meio das ações."
+    },
+    {
+      "identificador": "preciosa_e_segura_024",
+      "numero": 24,
+      "titulo": "Recomeçar também é florescer",
+      "licao": "Depois de períodos difíceis, é possível reconstruir hábitos, buscar apoio e recuperar gradualmente a confiança. Cada pequeno passo em direção ao bem-estar merece ser valorizado.",
+      "mensagem": "“Ainda há vida, cuidado e beleza nos caminhos que você pode recomeçar.”",
+      "inspiracao_biblica": "Lamentações 3:22–23 — As misericórdias do Senhor se renovam a cada manhã."
+    },
+    {
+      "identificador": "preciosa_e_segura_025",
+      "numero": 25,
+      "titulo": "Você continua sendo preciosa",
+      "licao": "Nenhuma fase difícil, enfermidade, cicatriz, limitação ou mudança física elimina a dignidade de uma mulher. Ela continua merecendo amor, respeito e cuidado em todas as etapas da vida.",
+      "mensagem": "“Você não deixa de ser preciosa quando precisa de cuidado.”",
+      "inspiracao_biblica": "Isaías 43:4 — Deus declara que seu povo é precioso e digno de honra aos seus olhos."
+    },
+    {
+      "identificador": "preciosa_e_segura_026",
+      "numero": 26,
+      "titulo": "Sua saúde não pode ficar sempre para depois",
+      "licao": "Entre trabalho, família e responsabilidades, muitas mulheres acabam adiando consultas e cuidados pessoais. Reservar tempo para a própria saúde é uma necessidade, não um luxo.",
+      "mensagem": "“Sua vida também merece um lugar na sua lista de prioridades.”",
+      "inspiracao_biblica": "Efésios 5:29 — Cuidar e nutrir o próprio corpo."
+    },
+    {
+      "identificador": "preciosa_e_segura_027",
+      "numero": 27,
+      "titulo": "Menopausa: uma nova fase, não o fim da sua vitalidade",
+      "licao": "A menopausa pode trazer mudanças físicas, emocionais e no sono. Com informação e acompanhamento profissional, é possível compreender os sintomas e encontrar formas adequadas de cuidar do bem-estar.",
+      "mensagem": "“Uma nova fase da vida não diminui sua beleza, sua força nem seu valor.”",
+      "inspiracao_biblica": "Isaías 46:4 — Deus promete sustentar seu povo mesmo na velhice."
+    },
+    {
+      "identificador": "preciosa_e_segura_028",
+      "numero": 28,
+      "titulo": "Sua saúde não deve ser motivo de vergonha",
+      "licao": "Alterações menstruais, perdas urinárias, dores durante as relações e outros sintomas íntimos merecem atenção profissional. O constrangimento não deve impedir uma mulher de receber cuidado.",
+      "mensagem": "“Sentir vergonha não precisa impedir você de buscar ajuda.”",
+      "inspiracao_biblica": "Salmo 139:1–3 — Deus conhece profundamente cada pessoa, inclusive aquilo que ela não consegue expressar em palavras."
+    },
+    {
+      "identificador": "preciosa_e_segura_029",
+      "numero": 29,
+      "titulo": "Sono também é cuidado",
+      "licao": "Dormir bem contribui para a memória, o humor, a concentração e a saúde física. Quando as dificuldades para dormir são frequentes, vale investigar suas causas e procurar orientação.",
+      "mensagem": "“Seu corpo não foi feito apenas para produzir; ele também precisa repousar.”",
+      "inspiracao_biblica": "Salmo 127:2 — O valor do descanso concedido por Deus aos seus amados."
+    },
+    {
+      "identificador": "preciosa_e_segura_030",
+      "numero": 30,
+      "titulo": "Não normalize a dor constante",
+      "licao": "Dores menstruais intensas, dores pélvicas persistentes ou desconfortos frequentes não devem ser simplesmente aceitos como parte de ser mulher. Uma avaliação profissional pode identificar causas e orientar o tratamento adequado.",
+      "mensagem": "“Ser mulher não significa ter que suportar a dor em silêncio.”",
+      "inspiracao_biblica": "Salmo 34:18 — O Senhor está perto dos que têm o coração quebrantado e salva os de espírito abatido."
+    },
+    {
+      "identificador": "preciosa_e_segura_031",
+      "numero": 31,
+      "titulo": "Alimentar-se bem é um gesto de amor",
+      "licao": "Uma alimentação variada e equilibrada ajuda a fortalecer o organismo e contribui para a saúde ao longo da vida. Comer não deve ser motivo de culpa, mas uma oportunidade de nutrir o corpo com cuidado.",
+      "mensagem": "“Alimente seu corpo com carinho, não com culpa.”",
+      "inspiracao_biblica": "1 Coríntios 10:31 — Fazer tudo para a glória de Deus, inclusive nas atividades cotidianas."
+    },
+    {
+      "identificador": "preciosa_e_segura_032",
+      "numero": 32,
+      "titulo": "Seu coração também precisa de cuidado",
+      "licao": "As doenças cardiovasculares são uma importante causa de adoecimento e morte entre mulheres. Acompanhar a pressão arterial, o colesterol e a glicemia, além de manter hábitos saudáveis, ajuda a proteger o coração.",
+      "mensagem": "“Cuide do coração que acompanha cada capítulo da sua história.”",
+      "inspiracao_biblica": "Provérbios 4:23 — Sobre guardar o coração, fonte da vida."
+    },
+    {
+      "identificador": "preciosa_e_segura_033",
+      "numero": 33,
+      "titulo": "Movimento é saúde, não castigo",
+      "licao": "A atividade física regular pode melhorar o humor, o sono, a disposição e a saúde cardiovascular. Cada mulher pode encontrar uma forma de movimento compatível com suas condições e possibilidades.",
+      "mensagem": "“Movimente-se por amor à sua saúde, não por rejeição ao seu corpo.”",
+      "inspiracao_biblica": "1 Coríntios 6:19 — O corpo como templo do Espírito Santo."
+    },
+    {
+      "identificador": "preciosa_e_segura_034",
+      "numero": 34,
+      "titulo": "A saúde mental não é falta de fé",
+      "licao": "Ansiedade, depressão e outros sofrimentos emocionais não são sinais de fraqueza espiritual. A fé pode ser fonte de apoio, e o acompanhamento psicológico ou médico pode ser necessário e benéfico.",
+      "mensagem": "“Você pode confiar em Deus e também procurar ajuda profissional.”",
+      "inspiracao_biblica": "Provérbios 11:14 — A importância de buscar orientação e conselho sábio."
+    },
+    {
+      "identificador": "preciosa_e_segura_035",
+      "numero": 35,
+      "titulo": "Não se compare: cada mulher tem sua história",
+      "licao": "Comparar o próprio corpo, a idade, as conquistas ou o ritmo de vida com os de outras mulheres pode gerar sofrimento desnecessário. Cada pessoa possui uma trajetória, necessidades e circunstâncias próprias.",
+      "mensagem": "“Floresça no seu tempo. A sua jornada não precisa copiar a de ninguém.”",
+      "inspiracao_biblica": "Gálatas 6:4–5 — Cada pessoa deve examinar suas próprias ações e assumir sua responsabilidade."
+    },
+    {
+      "identificador": "preciosa_e_segura_036",
+      "numero": 36,
+      "titulo": "Cuidar de si não é abandonar quem você ama",
+      "licao": "Muitas mulheres sentem culpa ao reservar tempo para si mesmas. Entretanto, cuidar da própria saúde ajuda a construir uma vida mais equilibrada e não diminui o amor dedicado à família.",
+      "mensagem": "“Você pode amar e cuidar dos outros sem deixar de cuidar de si.”",
+      "inspiracao_biblica": "Marcos 6:31 — Jesus reconheceu a necessidade de seus discípulos descansarem."
+    },
+    {
+      "identificador": "preciosa_e_segura_037",
+      "numero": 37,
+      "titulo": "Seu ciclo menstrual merece atenção",
+      "licao": "Conhecer o próprio ciclo menstrual ajuda a perceber mudanças importantes. Sangramentos muito intensos, irregularidades persistentes ou dores que prejudicam a rotina merecem avaliação profissional.",
+      "mensagem": "“Conhecer seu ciclo é conhecer melhor os sinais do seu corpo.”",
+      "inspiracao_biblica": "Provérbios 4:7 — Buscar sabedoria e entendimento."
+    },
+    {
+      "identificador": "preciosa_e_segura_038",
+      "numero": 38,
+      "titulo": "Você não precisa esconder suas cicatrizes",
+      "licao": "Cicatrizes físicas e emocionais podem fazer parte da história de uma mulher. Elas não diminuem sua beleza, sua dignidade ou sua capacidade de viver novas experiências.",
+      "mensagem": "“Suas marcas contam parte da sua história, mas não definem todo o seu valor.”",
+      "inspiracao_biblica": "Salmo 147:3 — Deus cura os quebrantados de coração e trata suas feridas."
+    },
+    {
+      "identificador": "preciosa_e_segura_039",
+      "numero": 39,
+      "titulo": "Ser mãe não faz você deixar de ser mulher",
+      "licao": "A maternidade pode transformar a rotina, o corpo e as emoções, mas as necessidades pessoais da mulher continuam existindo. A mãe também precisa de descanso, acompanhamento médico, apoio e momentos para si.",
+      "mensagem": "“Por trás da mãe que cuida, existe uma mulher que também precisa ser cuidada.”",
+      "inspiracao_biblica": "Marcos 12:31 — Amar o próximo como a si mesma."
+    },
+    {
+      "identificador": "preciosa_e_segura_040",
+      "numero": 40,
+      "titulo": "Sua saúde merece atenção em todas as fases",
+      "licao": "Da adolescência à velhice, as necessidades de saúde da mulher mudam. Acompanhamento preventivo, informação confiável e cuidados adequados a cada etapa ajudam a promover qualidade de vida.",
+      "mensagem": "“Cada fase da sua vida merece cuidado, respeito e atenção.”",
+      "inspiracao_biblica": "Eclesiastes 3:1 — Tudo tem seu tempo determinado, e há um tempo para cada propósito debaixo do céu."
+    },
+    {
+      "identificador": "preciosa_e_segura_041",
+      "numero": 41,
+      "titulo": "A pressão de ser perfeita também cansa",
+      "licao": "A cobrança para ser uma mãe perfeita, uma profissional exemplar, uma companheira ideal e uma mulher sempre forte pode gerar exaustão emocional. Você não precisa cumprir todos os papéis sem falhar para ter valor.",
+      "mensagem": "“Você não precisa ser perfeita para ser uma mulher extraordinária.”",
+      "inspiracao_biblica": "Salmo 103:14 — Deus conhece nossa estrutura e se lembra de que somos pó."
+    },
+    {
+      "identificador": "preciosa_e_segura_042",
+      "numero": 42,
+      "titulo": "Sua autoestima não deve depender da aprovação alheia",
+      "licao": "Viver buscando elogios e aprovação pode afastar a mulher de suas próprias necessidades e convicções. Reconhecer seu valor ajuda a construir relações mais saudáveis e decisões mais conscientes.",
+      "mensagem": "“Não entregue aos olhos dos outros o poder de decidir quanto você vale.”",
+      "inspiracao_biblica": "Gálatas 1:10 — A reflexão sobre buscar agradar a Deus em vez de viver apenas para agradar às pessoas."
+    },
+    {
+      "identificador": "preciosa_e_segura_043",
+      "numero": 43,
+      "titulo": "A ansiedade merece acolhimento, não julgamento",
+      "licao": "A ansiedade pode afetar o sono, a concentração, o corpo e a rotina. Em vez de se culpar por sentir demais, a mulher pode buscar apoio, aprender estratégias de enfrentamento e procurar ajuda profissional quando necessário.",
+      "mensagem": "“Você não é fraca por sentir ansiedade; merece cuidado para atravessar esse momento.”",
+      "inspiracao_biblica": "Filipenses 4:6–7 — Um convite à oração e à busca da paz em meio às preocupações."
+    },
+    {
+      "identificador": "preciosa_e_segura_044",
+      "numero": 44,
+      "titulo": "Cuidar da saúde é também respeitar seus limites",
+      "licao": "Ignorar o cansaço constante e ultrapassar os próprios limites pode prejudicar o bem-estar. Aprender a reconhecer quando é hora de desacelerar faz parte de uma vida mais saudável.",
+      "mensagem": "“Respeitar seus limites é uma forma de proteger a mulher que você é.”",
+      "inspiracao_biblica": "Marcos 2:27 — O princípio de que o sábado foi feito para o ser humano, e não o ser humano para o sábado."
+    },
+    {
+      "identificador": "preciosa_e_segura_045",
+      "numero": 45,
+      "titulo": "Você merece relações que façam bem",
+      "licao": "Relações saudáveis devem oferecer respeito, confiança, liberdade e segurança emocional. A mulher não precisa aceitar humilhações ou controle para provar que ama alguém.",
+      "mensagem": "“O amor que você merece não exige que você abandone a si mesma.”",
+      "inspiracao_biblica": "1 Coríntios 13:5–6 — O amor não busca apenas os próprios interesses e não se alegra com a injustiça."
+    },
+    {
+      "identificador": "preciosa_e_segura_046",
+      "numero": 46,
+      "titulo": "A solidão também merece cuidado",
+      "licao": "Mesmo cercada de pessoas, uma mulher pode sentir-se sozinha. Reconhecer essa dor, fortalecer vínculos de confiança e buscar apoio são passos importantes para a saúde emocional.",
+      "mensagem": "“Você não precisa esconder sua solidão para parecer forte. Você merece acolhimento.”",
+      "inspiracao_biblica": "Salmo 34:18 — O Senhor está perto dos que têm o coração quebrantado."
+    },
+    {
+      "identificador": "preciosa_e_segura_047",
+      "numero": 47,
+      "titulo": "Sua saúde não deve depender apenas da sua força",
+      "licao": "Ser resiliente não significa suportar tudo sem ajuda. Consultas, tratamentos, apoio emocional e descanso são recursos legítimos para enfrentar os desafios da vida.",
+      "mensagem": "“Ser forte não é suportar tudo; é também reconhecer quando você precisa de ajuda.”",
+      "inspiracao_biblica": "Eclesiastes 4:9–10 — Dois são melhores do que um, pois podem ajudar um ao outro a se levantar."
+    },
+    {
+      "identificador": "preciosa_e_segura_048",
+      "numero": 48,
+      "titulo": "Cuide da sua saúde mesmo quando se sente bem",
+      "licao": "Nem todos os problemas de saúde apresentam sintomas no início. Acompanhar a pressão arterial, manter as vacinas em dia e realizar os cuidados preventivos recomendados são atitudes importantes mesmo quando tudo parece estar bem.",
+      "mensagem": "“Não espere o corpo adoecer para reconhecer o valor da prevenção.”",
+      "inspiracao_biblica": "Provérbios 27:12 — A pessoa prudente percebe o perigo e toma precauções."
+    },
+    {
+      "identificador": "preciosa_e_segura_049",
+      "numero": 49,
+      "titulo": "Seu passado não determina seu futuro",
+      "licao": "Experiências dolorosas, erros e perdas podem deixar marcas, mas não precisam definir todos os caminhos que ainda serão percorridos. Com tempo, apoio e cuidado, novos capítulos podem ser construídos.",
+      "mensagem": "“Sua história explica parte de você, mas não limita tudo o que você ainda pode viver.”",
+      "inspiracao_biblica": "Isaías 43:18–19 — O convite a não viver presa às coisas passadas e a reconhecer novos caminhos."
+    },
+    {
+      "identificador": "preciosa_e_segura_050",
+      "numero": 50,
+      "titulo": "Você merece envelhecer com saúde e dignidade",
+      "licao": "O envelhecimento traz mudanças naturais, mas a mulher continua merecendo atenção médica, movimento, convivência, autonomia e respeito. A idade não elimina o direito de viver com qualidade.",
+      "mensagem": "“Envelhecer não é perder o valor; é continuar merecendo cuidado em cada etapa da vida.”",
+      "inspiracao_biblica": "Provérbios 16:31 — As cãs são apresentadas como coroa de honra quando associadas a uma vida de justiça."
+    },
+    {
+      "identificador": "preciosa_e_segura_051",
+      "numero": 51,
+      "titulo": "Cansaço persistente não deve ser ignorado",
+      "licao": "O cansaço frequente pode ter diversas causas, como anemia, alterações hormonais, problemas de sono ou outras condições de saúde. Em vez de se acostumar com a exaustão, a mulher merece investigar o que está acontecendo.",
+      "mensagem": "“Você não precisa viver cansada para provar que é forte.”",
+      "inspiracao_biblica": "Salmo 23:3 — Deus restaura a alma e conduz por caminhos de cuidado."
+    },
+    {
+      "identificador": "preciosa_e_segura_052",
+      "numero": 52,
+      "titulo": "Prevenir também é uma forma de proteção",
+      "licao": "Manter as vacinas recomendadas em dia, realizar consultas preventivas e buscar informações confiáveis ajuda a proteger a saúde em diferentes fases da vida.",
+      "mensagem": "“Cada atitude de prevenção é uma escolha de cuidado com o seu futuro.”",
+      "inspiracao_biblica": "Provérbios 22:3 — A pessoa prudente percebe o perigo e toma precauções."
+    },
+    {
+      "identificador": "preciosa_e_segura_053",
+      "numero": 53,
+      "titulo": "Cuide dos seus ossos hoje",
+      "licao": "A saúde dos ossos merece atenção ao longo da vida, especialmente após a menopausa. Alimentação adequada, exercícios apropriados e avaliação dos fatores de risco ajudam a preservar a força e a mobilidade.",
+      "mensagem": "“Cuide da sua estrutura hoje para continuar caminhando com mais segurança amanhã.”",
+      "inspiracao_biblica": "Salmo 139:14 — Somos criaturas admiráveis, feitas de maneira maravilhosa."
+    },
+    {
+      "identificador": "preciosa_e_segura_054",
+      "numero": 54,
+      "titulo": "Sua saúde bucal também importa",
+      "licao": "Cuidar dos dentes e das gengivas, manter a higiene bucal e realizar consultas odontológicas contribui para a saúde e a qualidade de vida. Dor, sangramento gengival ou feridas persistentes merecem avaliação profissional.",
+      "mensagem": "“Seu sorriso merece cuidado, não apenas elogios.”",
+      "inspiracao_biblica": "Provérbios 31:26 — A mulher virtuosa fala com sabedoria e ensina com bondade."
+    },
+    {
+      "identificador": "preciosa_e_segura_055",
+      "numero": 55,
+      "titulo": "Conhecer seus riscos é cuidar do futuro",
+      "licao": "O diabetes pode evoluir por algum tempo sem sintomas evidentes. Conhecer os fatores de risco, acompanhar a glicemia quando indicado e conversar com um profissional de saúde ajuda na prevenção e na identificação precoce.",
+      "mensagem": "“Não espere sentir algo errado para começar a cuidar de você.”",
+      "inspiracao_biblica": "Provérbios 27:12 — A prudência nos ensina a reconhecer riscos e agir com sabedoria."
+    },
+    {
+      "identificador": "preciosa_e_segura_056",
+      "numero": 56,
+      "titulo": "Escolher cuidar de si é escolher a vida",
+      "licao": "O consumo de álcool pode trazer riscos à saúde, e esses riscos variam conforme a quantidade, a frequência e as condições individuais. Buscar informação sem vergonha ou julgamento é importante para fazer escolhas mais seguras.",
+      "mensagem": "“Você merece escolhas que protejam sua saúde, sua liberdade e seu futuro.”",
+      "inspiracao_biblica": "1 Coríntios 6:12 — Nem tudo o que é permitido convém; não devemos nos deixar dominar por nada."
+    },
+    {
+      "identificador": "preciosa_e_segura_057",
+      "numero": 57,
+      "titulo": "Respirar melhor também é cuidar de si",
+      "licao": "O tabagismo prejudica a saúde pulmonar e cardiovascular e aumenta o risco de diversas doenças. Parar de fumar traz benefícios em qualquer idade, e procurar apoio profissional pode tornar esse processo mais viável.",
+      "mensagem": "“Você merece respirar com liberdade e viver com mais saúde.”",
+      "inspiracao_biblica": "1 Coríntios 6:19–20 — O corpo como templo do Espírito Santo."
+    },
+    {
+      "identificador": "preciosa_e_segura_058",
+      "numero": 58,
+      "titulo": "Sua saúde sexual merece respeito",
+      "licao": "A saúde sexual envolve prevenção de infecções sexualmente transmissíveis, contracepção quando desejada, consentimento e acesso a informações confiáveis. Toda mulher tem direito a conversar sobre esses assuntos sem constrangimento.",
+      "mensagem": "“Cuidar da sua saúde sexual é exercer o direito de viver com informação, segurança e respeito.”",
+      "inspiracao_biblica": "Provérbios 31:8–9 — Usar a voz para defender direitos e promover justiça."
+    },
+    {
+      "identificador": "preciosa_e_segura_059",
+      "numero": 59,
+      "titulo": "Seu valor não depende da maternidade",
+      "licao": "A dificuldade para engravidar pode provocar tristeza, ansiedade e sentimentos difíceis. A infertilidade merece atenção médica e acolhimento emocional, mas não define a identidade, a feminilidade ou o valor de uma mulher.",
+      "mensagem": "“Ser mulher nunca dependeu de ser mãe. Você é preciosa por quem é.”",
+      "inspiracao_biblica": "Salmo 139:14 — A dignidade de cada pessoa como criatura admirável de Deus."
+    },
+    {
+      "identificador": "preciosa_e_segura_060",
+      "numero": 60,
+      "titulo": "O luto também precisa de cuidado",
+      "licao": "A perda de alguém querido pode afetar o sono, o apetite, a concentração e a saúde emocional. Cada pessoa vive o luto de uma maneira; acolhimento, tempo e apoio podem ajudar nessa travessia.",
+      "mensagem": "“Você não precisa apressar a cura do coração. Há dores que precisam ser acolhidas com ternura.”",
+      "inspiracao_biblica": "Mateus 5:4 — Bem-aventurados os que choram, porque serão consolados."
+    },
+    {
+      "identificador": "preciosa_e_segura_061",
+      "numero": 61,
+      "titulo": "Quem cuida também precisa ser cuidado",
+      "licao": "Muitas mulheres cuidam dos filhos, dos pais, do companheiro e de outras pessoas, deixando as próprias necessidades em segundo plano. A sobrecarga prolongada pode prejudicar a saúde física e emocional. Dividir responsabilidades e aceitar ajuda também são formas de amor.",
+      "mensagem": "“Você não precisa se abandonar para cuidar de quem ama.”",
+      "inspiracao_biblica": "Gálatas 6:2,5 — Ajudar uns aos outros a carregar os fardos, reconhecendo também as responsabilidades individuais."
+    },
+    {
+      "identificador": "preciosa_e_segura_062",
+      "numero": 62,
+      "titulo": "Depressão não é preguiça nem falta de fé",
+      "licao": "A depressão é uma condição de saúde que pode afetar os sentimentos, o sono, a energia e a capacidade de realizar atividades cotidianas. Ela merece acolhimento, avaliação profissional e tratamento adequado, sem julgamentos.",
+      "mensagem": "“Você não precisa ouvir cobranças quando precisa de cuidado.”",
+      "inspiracao_biblica": "Salmo 34:18 — O Senhor está perto dos que têm o coração quebrantado."
+    },
+    {
+      "identificador": "preciosa_e_segura_063",
+      "numero": 63,
+      "titulo": "Você merece cuidado mesmo quando sente medo",
+      "licao": "O medo de descobrir uma doença, receber um diagnóstico ou passar por um procedimento pode levar uma mulher a adiar a procura por ajuda. Acolher esse sentimento e buscar informações confiáveis pode tornar o primeiro passo menos difícil.",
+      "mensagem": "“A coragem não é ausência de medo; é permitir-se receber cuidado mesmo sentindo medo.”",
+      "inspiracao_biblica": "Isaías 41:10 — Um convite à confiança e à coragem diante das dificuldades."
+    },
+    {
+      "identificador": "preciosa_e_segura_064",
+      "numero": 64,
+      "titulo": "Violência psicológica também deixa marcas",
+      "licao": "Humilhações constantes, ameaças, isolamento, intimidação e controle podem prejudicar profundamente a saúde emocional. Reconhecer esses comportamentos e procurar apoio seguro são passos importantes para proteger a própria dignidade.",
+      "mensagem": "“Nem toda ferida aparece na pele. Você merece viver sem medo e sem humilhação.”",
+      "inspiracao_biblica": "1 Coríntios 13:4–5 — O amor é paciente, bondoso e não age com desrespeito."
+    },
+    {
+      "identificador": "preciosa_e_segura_065",
+      "numero": 65,
+      "titulo": "Sua autonomia também é saúde",
+      "licao": "Ter acesso à informação, participar das decisões sobre a própria vida e desenvolver autonomia financeira, quando possível, pode ampliar a segurança e a liberdade da mulher. Controle financeiro usado para intimidar ou impedir sua independência não é cuidado amoroso.",
+      "mensagem": "“Você merece respeito, voz e liberdade para participar das decisões sobre sua própria vida.”",
+      "inspiracao_biblica": "Provérbios 31:16–18 — A mulher descrita no texto demonstra iniciativa, discernimento e capacidade de administrar seus recursos."
+    },
+    {
+      "identificador": "preciosa_e_segura_066",
+      "numero": 66,
+      "titulo": "Amizades que também cuidam da alma",
+      "licao": "Relações de amizade baseadas em respeito, confiança e acolhimento podem contribuir para a saúde emocional. Ter alguém com quem conversar, compartilhar preocupações e celebrar conquistas ajuda a diminuir o sentimento de isolamento.",
+      "mensagem": "“Cultive amizades nas quais você também possa descansar o coração.”",
+      "inspiracao_biblica": "Provérbios 17:17 — O amigo ama em todos os momentos."
+    },
+    {
+      "identificador": "preciosa_e_segura_067",
+      "numero": 67,
+      "titulo": "Redescubra a mulher que existe em você",
+      "licao": "Entre responsabilidades familiares, profissionais e sociais, muitas mulheres deixam seus próprios interesses e sonhos de lado. Retomar atividades prazerosas e reservar tempo para si pode ajudar a recuperar a identidade e o bem-estar.",
+      "mensagem": "“Você continua existindo além dos papéis que desempenha na vida dos outros.”",
+      "inspiracao_biblica": "Eclesiastes 3:13 — Encontrar alegria nas coisas boas da vida como dádivas de Deus."
+    },
+    {
+      "identificador": "preciosa_e_segura_068",
+      "numero": 68,
+      "titulo": "Sua sexualidade merece acolhimento, não culpa",
+      "licao": "A sexualidade feminina envolve aspectos físicos, emocionais e relacionais. Mudanças no desejo, desconfortos e dúvidas merecem ser tratados com respeito, informação confiável e, quando necessário, acompanhamento profissional.",
+      "mensagem": "“Seu corpo merece respeito, e suas dúvidas merecem respostas sem vergonha.”",
+      "inspiracao_biblica": "Gênesis 1:27 — A dignidade humana como parte da criação de Deus."
+    },
+    {
+      "identificador": "preciosa_e_segura_069",
+      "numero": 69,
+      "titulo": "Perder urina não deve ser motivo de vergonha",
+      "licao": "A incontinência urinária pode afetar mulheres de diferentes idades, especialmente após a gestação ou durante o envelhecimento. Existem formas de avaliação e tratamento; procurar ajuda pode melhorar a qualidade de vida.",
+      "mensagem": "“Não esconda seu desconforto por vergonha. Você merece viver com mais segurança e liberdade.”",
+      "inspiracao_biblica": "Gálatas 6:2 — Ajudar uns aos outros a carregar seus fardos."
+    },
+    {
+      "identificador": "preciosa_e_segura_070",
+      "numero": 70,
+      "titulo": "Seu corpo merece acolhimento depois da doença",
+      "licao": "Após uma enfermidade, cirurgia ou tratamento difícil, o corpo pode apresentar cicatrizes, mudanças de peso, limitações ou alterações na aparência. A recuperação pode levar tempo, e cada mulher merece respeito durante esse processo.",
+      "mensagem": "“Seu corpo não precisa voltar a ser como antes para continuar merecendo amor.”",
+      "inspiracao_biblica": "Salmo 147:3 — Deus cura os quebrantados de coração e trata suas feridas."
+    }
+  ]
+}

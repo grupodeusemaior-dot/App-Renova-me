@@ -1,0 +1,3823 @@
+{
+  "livro": "Provérbios",
+  "identificador": "proverbios",
+  "testamento": "Antigo Testamento",
+  "traducao": "JFAC1948",
+  "capitulos": [
+    {
+      "numero": 1,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Provérbios de Salomão, filho de Davi, rei de Israel."
+        },
+        {
+          "numero": 2,
+          "texto": "Para se conhecer a sabedoria e a instrução; para se entenderem as palavras da prudência;"
+        },
+        {
+          "numero": 3,
+          "texto": "para se receber a instrução do entendimento, a justiça, o juízo e a eqüidade;"
+        },
+        {
+          "numero": 4,
+          "texto": "para dar aos simples prudência, e aos jovens conhecimento e bom siso;"
+        },
+        {
+          "numero": 5,
+          "texto": "para o sábio ouvir e crescer em sabedoria, e o instruído adquirir sábios conselhos;"
+        },
+        {
+          "numero": 6,
+          "texto": "para entender provérbios e sua interpretação, como também as palavras dos sábios e suas adivinhações."
+        },
+        {
+          "numero": 7,
+          "texto": "O temor do SENHOR é o princípio da ciência; os loucos desprezam a sabedoria e a instrução."
+        },
+        {
+          "numero": 8,
+          "texto": "Filho meu, ouve a instrução de teu pai e não deixes a doutrina de tua mãe."
+        },
+        {
+          "numero": 9,
+          "texto": "Porque diadema de graça serão para a tua cabeça e colares para o teu pescoço."
+        },
+        {
+          "numero": 10,
+          "texto": "Filho meu, se os pecadores, com blandícias, te quiserem tentar, não consintas."
+        },
+        {
+          "numero": 11,
+          "texto": "Se disserem: Vem conosco, espiemos o sangue, espreitemos sem razão os inocentes,"
+        },
+        {
+          "numero": 12,
+          "texto": "traguemo-los vivos, como a sepultura, e inteiros, como os que descem à cova;"
+        },
+        {
+          "numero": 13,
+          "texto": "acharemos toda sorte de fazenda preciosa; encheremos as nossas casas de despojos;"
+        },
+        {
+          "numero": 14,
+          "texto": "lançarás a tua sorte entre nós; teremos todos uma só bolsa."
+        },
+        {
+          "numero": 15,
+          "texto": "Filho meu, não te ponhas a caminho com eles; desvia o teu pé das suas veredas."
+        },
+        {
+          "numero": 16,
+          "texto": "Porque os pés deles correm para o mal e se apressam a derramar sangue."
+        },
+        {
+          "numero": 17,
+          "texto": "Na verdade, debalde se estenderia a rede perante os olhos de qualquer ave."
+        },
+        {
+          "numero": 18,
+          "texto": "E estes armam ciladas contra o seu próprio sangue; e a sua própria vida espreitam."
+        },
+        {
+          "numero": 19,
+          "texto": "Tais são as veredas de todo aquele que se entrega à cobiça; ela prenderá a alma dos que a possuem."
+        },
+        {
+          "numero": 20,
+          "texto": "A suprema Sabedoria altissonantemente clama de fora; pelas ruas levanta a sua voz."
+        },
+        {
+          "numero": 21,
+          "texto": "Nas encruzilhadas, no meio dos tumultos, clama; às entradas das portas e na cidade profere as suas palavras:"
+        },
+        {
+          "numero": 22,
+          "texto": "Até quando, ó néscios, amareis a necedade? E vós, escarnecedores, desejareis o escárnio? E vós, loucos, aborrecereis o conhecimento?"
+        },
+        {
+          "numero": 23,
+          "texto": "Convertei-vos pela minha repreensão; eis que abundantemente derramarei sobre vós meu espírito e vos farei saber as minhas palavras."
+        },
+        {
+          "numero": 24,
+          "texto": "Mas, porque clamei, e vós recusastes; porque estendi a minha mão, e não houve quem desse atenção;"
+        },
+        {
+          "numero": 25,
+          "texto": "antes, rejeitastes todo o meu conselho e não quisestes a minha repreensão;"
+        },
+        {
+          "numero": 26,
+          "texto": "também eu me rirei na vossa perdição e zombarei, vindo o vosso temor,"
+        },
+        {
+          "numero": 27,
+          "texto": "vindo como assolação o vosso temor, e vindo a vossa perdição como tormenta, sobrevindo-vos aperto e angústia."
+        },
+        {
+          "numero": 28,
+          "texto": "Então, a mim clamarão, mas eu não responderei; de madrugada me buscarão, mas não me acharão."
+        },
+        {
+          "numero": 29,
+          "texto": "Porquanto aborreceram o conhecimento e não preferiram o temor do SENHOR;"
+        },
+        {
+          "numero": 30,
+          "texto": "não quiseram o meu conselho e desprezaram toda a minha repreensão."
+        },
+        {
+          "numero": 31,
+          "texto": "Portanto, comerão do fruto do seu caminho e fartar-se-ão dos seus próprios conselhos."
+        },
+        {
+          "numero": 32,
+          "texto": "Porque o desvio dos simples os matará, e a prosperidade dos loucos os destruirá."
+        },
+        {
+          "numero": 33,
+          "texto": "Mas o que me der ouvidos habitará seguramente e estará descansado do temor do mal."
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Filho meu, se aceitares as minhas palavras e esconderes contigo os meus mandamentos,"
+        },
+        {
+          "numero": 2,
+          "texto": "para fazeres atento à sabedoria o teu ouvido, e para inclinares o teu coração ao entendimento,"
+        },
+        {
+          "numero": 3,
+          "texto": "e, se clamares por entendimento, e por inteligência alçares a tua voz,"
+        },
+        {
+          "numero": 4,
+          "texto": "se como a prata a buscares e como a tesouros escondidos a procurares,"
+        },
+        {
+          "numero": 5,
+          "texto": "então, entenderás o temor do SENHOR e acharás o conhecimento de Deus."
+        },
+        {
+          "numero": 6,
+          "texto": "Porque o SENHOR dá a sabedoria, e da sua boca vem o conhecimento e o entendimento."
+        },
+        {
+          "numero": 7,
+          "texto": "Ele reserva a verdadeira sabedoria para os retos; escudo é para os que caminham na sinceridade,"
+        },
+        {
+          "numero": 8,
+          "texto": "para que guarde as veredas do juízo e conserve o caminho dos seus santos."
+        },
+        {
+          "numero": 9,
+          "texto": "Então, entenderás justiça, e juízo, e eqüidade, e todas as boas veredas."
+        },
+        {
+          "numero": 10,
+          "texto": "Porquanto a sabedoria entrará no teu coração, e o conhecimento será suave à tua alma."
+        },
+        {
+          "numero": 11,
+          "texto": "O bom siso te guardará, e a inteligência te conservará;"
+        },
+        {
+          "numero": 12,
+          "texto": "para te livrar do mau caminho e do homem que diz coisas perversas;"
+        },
+        {
+          "numero": 13,
+          "texto": "dos que deixam as veredas da retidão, para andarem pelos caminhos das trevas;"
+        },
+        {
+          "numero": 14,
+          "texto": "que se alegram de mal fazer e folgam com as perversidades dos maus,"
+        },
+        {
+          "numero": 15,
+          "texto": "cujas veredas são tortuosas e desviadas nas suas carreiras;"
+        },
+        {
+          "numero": 16,
+          "texto": "para te livrar da mulher estranha e da estrangeira, que lisonjeia com suas palavras,"
+        },
+        {
+          "numero": 17,
+          "texto": "a qual deixa o guia da sua mocidade e se esquece do concerto do seu Deus;"
+        },
+        {
+          "numero": 18,
+          "texto": "porque a sua casa se inclina para a morte, e as suas veredas, para os mortos;"
+        },
+        {
+          "numero": 19,
+          "texto": "todos os que se dirigem a elas não voltarão e não atinarão com as veredas da vida."
+        },
+        {
+          "numero": 20,
+          "texto": "Para que andes pelo caminho dos bons e guardes as veredas dos justos."
+        },
+        {
+          "numero": 21,
+          "texto": "Porque os retos habitarão a terra, e os sinceros permanecerão nela."
+        },
+        {
+          "numero": 22,
+          "texto": "Mas os ímpios serão arrancados da terra, e os aleivosos serão dela exterminados."
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Filho meu, não te esqueças da minha lei, e o teu coração guarde os meus mandamentos."
+        },
+        {
+          "numero": 2,
+          "texto": "Porque eles aumentarão os teus dias e te acrescentarão anos de vida e paz."
+        },
+        {
+          "numero": 3,
+          "texto": "Não te desamparem a benignidade e a fidelidade; ata-as ao teu pescoço; escreve-as na tábua do teu coração"
+        },
+        {
+          "numero": 4,
+          "texto": "e acharás graça e bom entendimento aos olhos de Deus e dos homens."
+        },
+        {
+          "numero": 5,
+          "texto": "Confia no SENHOR de todo o teu coração e não te estribes no teu próprio entendimento."
+        },
+        {
+          "numero": 6,
+          "texto": "Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas."
+        },
+        {
+          "numero": 7,
+          "texto": "Não sejas sábio a teus próprios olhos; teme ao SENHOR e aparta-te do mal."
+        },
+        {
+          "numero": 8,
+          "texto": "Isso será remédio para o teu umbigo e medula para os teus ossos."
+        },
+        {
+          "numero": 9,
+          "texto": "Honra ao SENHOR com a tua fazenda e com as primícias de toda a tua renda;"
+        },
+        {
+          "numero": 10,
+          "texto": "e se encherão os teus celeiros abundantemente, e trasbordarão de mosto os teus lagares."
+        },
+        {
+          "numero": 11,
+          "texto": "Filho meu, não rejeites a correção do SENHOR, nem te enojes da sua repreensão."
+        },
+        {
+          "numero": 12,
+          "texto": "Porque o SENHOR repreende aquele a quem ama, assim como o pai, ao filho a quem quer bem."
+        },
+        {
+          "numero": 13,
+          "texto": "Bem-aventurado o homem que acha sabedoria, e o homem que adquire conhecimento."
+        },
+        {
+          "numero": 14,
+          "texto": "Porque melhor é a sua mercadoria do que a mercadoria de prata, e a sua renda do que o ouro mais fino."
+        },
+        {
+          "numero": 15,
+          "texto": "Mais preciosa é do que os rubins; e tudo o que podes desejar não se pode comparar a ela."
+        },
+        {
+          "numero": 16,
+          "texto": "Aumento de dias há na sua mão direita; na sua esquerda, riquezas e honra."
+        },
+        {
+          "numero": 17,
+          "texto": "Os seus caminhos são caminhos de delícias, e todas as suas veredas, paz."
+        },
+        {
+          "numero": 18,
+          "texto": "É árvore da vida para os que a seguram, e bem-aventurados são todos os que a retêm."
+        },
+        {
+          "numero": 19,
+          "texto": "O SENHOR, com sabedoria, fundou a terra; preparou os céus com inteligência."
+        },
+        {
+          "numero": 20,
+          "texto": "Pelo seu conhecimento, se fenderam os abismos, e as nuvens destilam o orvalho."
+        },
+        {
+          "numero": 21,
+          "texto": "Filho meu, não se apartem estas coisas dos teus olhos; guarda a verdadeira sabedoria e o bom siso;"
+        },
+        {
+          "numero": 22,
+          "texto": "porque serão vida para a tua alma e graça, para o teu pescoço."
+        },
+        {
+          "numero": 23,
+          "texto": "Então, andarás com confiança no teu caminho, e não tropeçará o teu pé."
+        },
+        {
+          "numero": 24,
+          "texto": "Quando te deitares, não temerás; sim, tu te deitarás, e o teu sono será suave."
+        },
+        {
+          "numero": 25,
+          "texto": "Não temas o pavor repentino, nem a assolação dos ímpios quando vier."
+        },
+        {
+          "numero": 26,
+          "texto": "Porque o SENHOR será a tua esperança e guardará os teus pés de serem presos."
+        },
+        {
+          "numero": 27,
+          "texto": "Não detenhas dos seus donos o bem, estando na tua mão poder fazê-lo."
+        },
+        {
+          "numero": 28,
+          "texto": "Não digas ao teu próximo: Vai e torna, e amanhã to darei, tendo-o tu contigo."
+        },
+        {
+          "numero": 29,
+          "texto": "Não maquines mal contra o teu próximo, pois habita contigo confiadamente."
+        },
+        {
+          "numero": 30,
+          "texto": "Não contendas com alguém sem razão, se te não tem feito mal."
+        },
+        {
+          "numero": 31,
+          "texto": "Não tenhas inveja do homem violento, nem escolhas nenhum de seus caminhos."
+        },
+        {
+          "numero": 32,
+          "texto": "Porque o perverso é abominação para o SENHOR, mas com os sinceros está o seu segredo."
+        },
+        {
+          "numero": 33,
+          "texto": "A maldição do SENHOR habita na casa do ímpio, mas a habitação dos justos ele abençoará."
+        },
+        {
+          "numero": 34,
+          "texto": "Certamente ele escarnecerá dos escarnecedores, mas dará graça aos mansos."
+        },
+        {
+          "numero": 35,
+          "texto": "Os sábios herdarão honra, mas os loucos tomam sobre si confusão."
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Ouvi, filhos, a correção do pai e estai atentos para conhecerdes a prudência."
+        },
+        {
+          "numero": 2,
+          "texto": "Pois dou-vos boa doutrina; não deixeis a minha lei."
+        },
+        {
+          "numero": 3,
+          "texto": "Porque eu era filho de meu pai, tenro e único em estima diante de minha mãe."
+        },
+        {
+          "numero": 4,
+          "texto": "E ele ensinava-me e dizia-me: Retenha as minhas palavras o teu coração; guarda os meus mandamentos e vive."
+        },
+        {
+          "numero": 5,
+          "texto": "Adquire a sabedoria, adquire a inteligência e não te esqueças nem te apartes das palavras da minha boca."
+        },
+        {
+          "numero": 6,
+          "texto": "Não desampares a sabedoria, e ela te guardará; ama-a, e ela te conservará."
+        },
+        {
+          "numero": 7,
+          "texto": "A sabedoria é a coisa principal; adquire, pois, a sabedoria; sim, com tudo o que possuis, adquire o conhecimento."
+        },
+        {
+          "numero": 8,
+          "texto": "Exalta-a, e ela te exaltará; e, abraçando-a tu, ela te honrará."
+        },
+        {
+          "numero": 9,
+          "texto": "Dará à tua cabeça um diadema de graça e uma coroa de glória te entregará."
+        },
+        {
+          "numero": 10,
+          "texto": "Ouve, filho meu, e aceita as minhas palavras, e se te multiplicarão os anos de vida."
+        },
+        {
+          "numero": 11,
+          "texto": "No caminho da sabedoria, te ensinei e, pelas carreiras direitas, te fiz andar."
+        },
+        {
+          "numero": 12,
+          "texto": "Por elas andando, não se embaraçarão os teus passos; e, se correres, não tropeçarás."
+        },
+        {
+          "numero": 13,
+          "texto": "Pega-te à correção e não a largues; guarda-a, porque ela é a tua vida."
+        },
+        {
+          "numero": 14,
+          "texto": "Não entres na vereda dos ímpios, nem andes pelo caminho dos maus."
+        },
+        {
+          "numero": 15,
+          "texto": "Evita-o; não passes por ele; desvia-te dele e passa de largo."
+        },
+        {
+          "numero": 16,
+          "texto": "Pois não dormem, se não fizerem mal, e foge deles o sono, se não fizerem tropeçar alguém."
+        },
+        {
+          "numero": 17,
+          "texto": "Porque comem o pão da impiedade e bebem o vinho das violências."
+        },
+        {
+          "numero": 18,
+          "texto": "Mas a vereda dos justos é como a luz da aurora, que vai brilhando mais e mais até ser dia perfeito."
+        },
+        {
+          "numero": 19,
+          "texto": "O caminho dos ímpios é como a escuridão; nem conhecem aquilo em que tropeçam."
+        },
+        {
+          "numero": 20,
+          "texto": "Filho meu, atenta para as minhas palavras; às minhas razões inclina o teu ouvido."
+        },
+        {
+          "numero": 21,
+          "texto": "Não as deixes apartar-se dos teus olhos; guarda-as no meio do teu coração."
+        },
+        {
+          "numero": 22,
+          "texto": "Porque são vida para os que as acham e saúde, para o seu corpo."
+        },
+        {
+          "numero": 23,
+          "texto": "Sobre tudo o que se deve guardar, guarda o teu coração, porque dele procedem as saídas da vida."
+        },
+        {
+          "numero": 24,
+          "texto": "Desvia de ti a tortuosidade da boca e alonga de ti a perversidade dos lábios."
+        },
+        {
+          "numero": 25,
+          "texto": "Os teus olhos olhem direitos, e as tuas pálpebras olhem diretamente diante de ti."
+        },
+        {
+          "numero": 26,
+          "texto": "Pondera a vereda de teus pés, e todos os teus caminhos sejam bem ordenados!"
+        },
+        {
+          "numero": 27,
+          "texto": "Não declines nem para a direita nem para a esquerda; retira o teu pé do mal."
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Filho meu, atende à minha sabedoria; à minha razão inclina o teu ouvido;"
+        },
+        {
+          "numero": 2,
+          "texto": "para que conserves os meus avisos, e os teus lábios guardem o conhecimento."
+        },
+        {
+          "numero": 3,
+          "texto": "Porque os lábios da mulher estranha destilam favos de mel, e o seu paladar é mais macio do que o azeite;"
+        },
+        {
+          "numero": 4,
+          "texto": "mas o seu fim é amargoso como o absinto, agudo como a espada de dois fios."
+        },
+        {
+          "numero": 5,
+          "texto": "Os seus pés descem à morte; os seus passos firmam-se no inferno."
+        },
+        {
+          "numero": 6,
+          "texto": "Ela não pondera a vereda da vida; as suas carreiras são variáveis, e não as conhece."
+        },
+        {
+          "numero": 7,
+          "texto": "Agora, pois, filhos, dai-me ouvidos e não vos desvieis das palavras da minha boca."
+        },
+        {
+          "numero": 8,
+          "texto": "Afasta dela o teu caminho e não te aproximes da porta da sua casa;"
+        },
+        {
+          "numero": 9,
+          "texto": "para que não dês a outros a tua honra, nem os teus anos a cruéis."
+        },
+        {
+          "numero": 10,
+          "texto": "Para que não se fartem os estranhos do teu poder, e todos os teus trabalhos entrem na casa do estrangeiro;"
+        },
+        {
+          "numero": 11,
+          "texto": "e gemas no teu fim, quando se consumirem a tua carne e o teu corpo,"
+        },
+        {
+          "numero": 12,
+          "texto": "e digas: Como aborreci a correção! E desprezou o meu coração a repreensão!"
+        },
+        {
+          "numero": 13,
+          "texto": "E não escutei a voz dos meus ensinadores, nem a meus mestres inclinei o meu ouvido!"
+        },
+        {
+          "numero": 14,
+          "texto": "Quase que em todo o mal me achei no meio da congregação e do ajuntamento."
+        },
+        {
+          "numero": 15,
+          "texto": "Bebe a água da tua cisterna e das correntes do teu poço."
+        },
+        {
+          "numero": 16,
+          "texto": "Derramar-se-iam por fora as tuas fontes, e pelas ruas, os ribeiros de águas?"
+        },
+        {
+          "numero": 17,
+          "texto": "Sejam para ti só e não para os estranhos contigo."
+        },
+        {
+          "numero": 18,
+          "texto": "Seja bendito o teu manancial, e alegra-te com a mulher da tua mocidade,"
+        },
+        {
+          "numero": 19,
+          "texto": "como cerva amorosa e gazela graciosa; saciem-te os seus seios em todo o tempo; e pelo seu amor sê atraído perpetuamente."
+        },
+        {
+          "numero": 20,
+          "texto": "E por que, filho meu, andarias atraído pela estranha e abraçarias o seio da estrangeira?"
+        },
+        {
+          "numero": 21,
+          "texto": "Porque os caminhos do homem estão perante os olhos do SENHOR, e ele aplana todas as suas carreiras."
+        },
+        {
+          "numero": 22,
+          "texto": "Quanto ao ímpio, as suas iniqüidades o prenderão, e, com as cordas do seu pecado, será detido."
+        },
+        {
+          "numero": 23,
+          "texto": "Ele morrerá, porque sem correção andou, e, pelo excesso da sua loucura, andará errado."
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Filho meu, se ficaste por fiador do teu companheiro, se deste a tua mão ao estranho,"
+        },
+        {
+          "numero": 2,
+          "texto": "enredaste-te com as palavras da tua boca, prendeste-te com as palavras da tua boca."
+        },
+        {
+          "numero": 3,
+          "texto": "Faze, pois, isto agora, filho meu, e livra-te, pois já caíste nas mãos do teu companheiro: vai, humilha-te e importuna o teu companheiro;"
+        },
+        {
+          "numero": 4,
+          "texto": "não dês sono aos teus olhos, nem repouso às tuas pálpebras;"
+        },
+        {
+          "numero": 5,
+          "texto": "livra-te, como a gazela, da mão do caçador e, como a ave, da mão do passarinheiro."
+        },
+        {
+          "numero": 6,
+          "texto": "Vai ter com a formiga, ó preguiçoso; olha para os seus caminhos e sê sábio."
+        },
+        {
+          "numero": 7,
+          "texto": "A qual, não tendo superior, nem oficial, nem dominador,"
+        },
+        {
+          "numero": 8,
+          "texto": "prepara no verão o seu pão; na sega ajunta o seu mantimento."
+        },
+        {
+          "numero": 9,
+          "texto": "Ó preguiçoso, até quando ficarás deitado? Quando te levantarás do teu sono?"
+        },
+        {
+          "numero": 10,
+          "texto": "Um pouco de sono, um pouco tosquenejando, um pouco encruzando as mãos, para estar deitado,"
+        },
+        {
+          "numero": 11,
+          "texto": "assim te sobrevirá a tua pobreza como um ladrão, e a tua necessidade, como um homem armado."
+        },
+        {
+          "numero": 12,
+          "texto": "O homem de Belial, o homem vicioso, anda em perversidade de boca."
+        },
+        {
+          "numero": 13,
+          "texto": "Acena com os olhos, fala com os pés, faz sinais com os dedos."
+        },
+        {
+          "numero": 14,
+          "texto": "Perversidade há no seu coração; todo o tempo maquina mal; anda semeando contendas."
+        },
+        {
+          "numero": 15,
+          "texto": "Pelo que a sua destruição virá repentinamente; subitamente será quebrantado, sem que haja cura."
+        },
+        {
+          "numero": 16,
+          "texto": "Estas seis coisas aborrece o SENHOR, e a sétima a sua alma abomina:"
+        },
+        {
+          "numero": 17,
+          "texto": "olhos altivos, e língua mentirosa, e mãos que derramam sangue inocente,"
+        },
+        {
+          "numero": 18,
+          "texto": "e coração que maquina pensamentos viciosos, e pés que se apressam a correr para o mal,"
+        },
+        {
+          "numero": 19,
+          "texto": "e testemunha falsa que profere mentiras, e o que semeia contendas entre irmãos."
+        },
+        {
+          "numero": 20,
+          "texto": "Filho meu, guarda o mandamento de teu pai e não deixes a lei de tua mãe."
+        },
+        {
+          "numero": 21,
+          "texto": "Ata-os perpetuamente ao teu coração e pendura-os ao teu pescoço."
+        },
+        {
+          "numero": 22,
+          "texto": "Quando caminhares, isso te guiará; quando te deitares, te guardará; quando acordares, falará contigo."
+        },
+        {
+          "numero": 23,
+          "texto": "Porque o mandamento é uma lâmpada, e a lei, uma luz, e as repreensões da correção são o caminho da vida,"
+        },
+        {
+          "numero": 24,
+          "texto": "para te guardarem da má mulher e das lisonjas da língua estranha."
+        },
+        {
+          "numero": 25,
+          "texto": "Não cobices no teu coração a sua formosura, nem te prendas com os seus olhos."
+        },
+        {
+          "numero": 26,
+          "texto": "Porque por causa de uma mulher prostituta se chega a pedir um bocado de pão; e a adúltera anda à caça de preciosa vida."
+        },
+        {
+          "numero": 27,
+          "texto": "Tomará alguém fogo no seu seio, sem que as suas vestes se queimem?"
+        },
+        {
+          "numero": 28,
+          "texto": "Ou andará alguém sobre as brasas, sem que se queimem os seus pés?"
+        },
+        {
+          "numero": 29,
+          "texto": "Assim será o que entrar à mulher do seu próximo; não ficará inocente todo aquele que a tocar."
+        },
+        {
+          "numero": 30,
+          "texto": "Não se injuria o ladrão, quando furta para saciar a sua alma, tendo fome;"
+        },
+        {
+          "numero": 31,
+          "texto": "mas, encontrado, pagará sete vezes tanto; dará toda a fazenda de sua casa."
+        },
+        {
+          "numero": 32,
+          "texto": "O que adultera com uma mulher é falto de entendimento; destrói a sua alma o que tal faz."
+        },
+        {
+          "numero": 33,
+          "texto": "Achará castigo e vilipêndio, e o seu opróbrio nunca se apagará."
+        },
+        {
+          "numero": 34,
+          "texto": "Porque furioso é o ciúme do marido; e de maneira nenhuma perdoará no dia da vingança."
+        },
+        {
+          "numero": 35,
+          "texto": "Nenhum resgate aceitará, nem consentirá, ainda que multipliques os presentes."
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Filho meu, guarda as minhas palavras e esconde dentro de ti os meus mandamentos."
+        },
+        {
+          "numero": 2,
+          "texto": "Guarda os meus mandamentos e vive; e a minha lei, como a menina dos teus olhos."
+        },
+        {
+          "numero": 3,
+          "texto": "Ata-os aos teus dedos, escreve-os na tábua do teu coração."
+        },
+        {
+          "numero": 4,
+          "texto": "Dize à Sabedoria: Tu és minha irmã; e à prudência chama tua parenta;"
+        },
+        {
+          "numero": 5,
+          "texto": "para te guardarem da mulher alheia, da estranha que lisonjeia com as suas palavras."
+        },
+        {
+          "numero": 6,
+          "texto": "Porque da janela da minha casa, por minhas grades olhando eu,"
+        },
+        {
+          "numero": 7,
+          "texto": "vi entre os simples, descobri entre os jovens, um jovem falto de juízo,"
+        },
+        {
+          "numero": 8,
+          "texto": "que passava pela rua junto à sua esquina e seguia o caminho da sua casa,"
+        },
+        {
+          "numero": 9,
+          "texto": "no crepúsculo, à tarde do dia, na escuridão e trevas da noite."
+        },
+        {
+          "numero": 10,
+          "texto": "E eis que uma mulher lhe saiu ao encontro, com enfeites de prostituta e astuto coração."
+        },
+        {
+          "numero": 11,
+          "texto": "Esta era alvoroçadora e contenciosa, e não paravam em casa os seus pés;"
+        },
+        {
+          "numero": 12,
+          "texto": "ora pelas ruas, ora pelas praças, espreitando por todos os cantos,"
+        },
+        {
+          "numero": 13,
+          "texto": "aproximou-se dele, e o beijou, e esforçou o seu rosto, e disse-lhe:"
+        },
+        {
+          "numero": 14,
+          "texto": "Sacrifícios pacíficos tenho comigo; hoje paguei os meus votos."
+        },
+        {
+          "numero": 15,
+          "texto": "Por isso, saí ao teu encontro, a buscar diligentemente a tua face, e te achei."
+        },
+        {
+          "numero": 16,
+          "texto": "Já cobri a minha cama com cobertas de tapeçaria, com obras lavradas com linho fino do Egito;"
+        },
+        {
+          "numero": 17,
+          "texto": "já perfumei o meu leito com mirra, aloés e canela."
+        },
+        {
+          "numero": 18,
+          "texto": "Vem, saciemo-nos de amores até pela manhã; alegremo-nos com amores."
+        },
+        {
+          "numero": 19,
+          "texto": "Porque o marido não está em casa, foi fazer uma jornada ao longe."
+        },
+        {
+          "numero": 20,
+          "texto": "Um saquitel de dinheiro levou na sua mão; só no dia marcado voltará a casa."
+        },
+        {
+          "numero": 21,
+          "texto": "Seduziu-o com a multidão das suas palavras, com as lisonjas dos seus lábios o persuadiu."
+        },
+        {
+          "numero": 22,
+          "texto": "E ele segue-a logo, como boi que vai ao matadouro; e, como o louco ao castigo das prisões,"
+        },
+        {
+          "numero": 23,
+          "texto": "até que a flecha lhe atravesse o fígado, como a ave que se apressa para o laço e não sabe que ele está ali contra a sua vida."
+        },
+        {
+          "numero": 24,
+          "texto": "Agora, pois, filhos, dai-me ouvidos e estai atentos às palavras da minha boca;"
+        },
+        {
+          "numero": 25,
+          "texto": "não se desvie para os seus caminhos o teu coração, e não andes perdido nas suas veredas;"
+        },
+        {
+          "numero": 26,
+          "texto": "porque a muitos feridos derribou; e são muitíssimos os que por ela foram mortos."
+        },
+        {
+          "numero": 27,
+          "texto": "Caminhos de sepultura é a sua casa, os quais descem às câmaras da morte."
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Não clama, porventura, a Sabedoria? E a Inteligência não dá a sua voz?"
+        },
+        {
+          "numero": 2,
+          "texto": "No cume das alturas, junto ao caminho, nas encruzilhadas das veredas, ela se coloca."
+        },
+        {
+          "numero": 3,
+          "texto": "Da banda das portas da cidade, à entrada da cidade e à entrada das portas está clamando:"
+        },
+        {
+          "numero": 4,
+          "texto": "A vós, ó homens, clamo; e a minha voz se dirige aos filhos dos homens."
+        },
+        {
+          "numero": 5,
+          "texto": "Entendei, ó simples, a prudência; e vós, loucos, entendei de coração."
+        },
+        {
+          "numero": 6,
+          "texto": "Ouvi, porque proferirei coisas excelentes; os meus lábios se abrirão para a eqüidade."
+        },
+        {
+          "numero": 7,
+          "texto": "Porque a minha boca proferirá a verdade; os meus lábios abominam a impiedade."
+        },
+        {
+          "numero": 8,
+          "texto": "Em justiça são todas as palavras da minha boca; não há nelas nenhuma coisa tortuosa nem perversa."
+        },
+        {
+          "numero": 9,
+          "texto": "Todas elas são retas para o que bem as entende e justas, para os que acham o conhecimento."
+        },
+        {
+          "numero": 10,
+          "texto": "Aceitai a minha correção, e não a prata, e o conhecimento mais do que o ouro fino escolhido."
+        },
+        {
+          "numero": 11,
+          "texto": "Porque melhor é a sabedoria do que os rubins; e de tudo o que se deseja nada se pode comparar com ela."
+        },
+        {
+          "numero": 12,
+          "texto": "Eu, a Sabedoria, habito com a prudência e acho a ciência dos conselhos."
+        },
+        {
+          "numero": 13,
+          "texto": "O temor do SENHOR é aborrecer o mal; a soberba, e a arrogância, e o mau caminho, e a boca perversa aborreço."
+        },
+        {
+          "numero": 14,
+          "texto": "Meu é o conselho e a verdadeira sabedoria; eu sou o entendimento, minha é a fortaleza."
+        },
+        {
+          "numero": 15,
+          "texto": "Por mim, reinam os reis, e os príncipes ordenam justiça."
+        },
+        {
+          "numero": 16,
+          "texto": "Por mim governam os príncipes e os nobres; sim, todos os juízes da terra."
+        },
+        {
+          "numero": 17,
+          "texto": "Eu amo os que me amam, e os que de madrugada me buscam me acharão."
+        },
+        {
+          "numero": 18,
+          "texto": "Riquezas e honra estão comigo; sim, riquezas duráveis e justiça."
+        },
+        {
+          "numero": 19,
+          "texto": "Melhor é o meu fruto do que o ouro, sim, do que o ouro refinado; e as minhas novidades, melhores do que a prata escolhida."
+        },
+        {
+          "numero": 20,
+          "texto": "Faço andar pelo caminho da justiça, no meio das veredas do juízo."
+        },
+        {
+          "numero": 21,
+          "texto": "Para fazer herdar bens permanentes aos que me amam e encher os seus tesouros."
+        },
+        {
+          "numero": 22,
+          "texto": "O SENHOR me possuiu no princípio de seus caminhos e antes de suas obras mais antigas."
+        },
+        {
+          "numero": 23,
+          "texto": "Desde a eternidade, fui ungida; desde o princípio, antes do começo da terra."
+        },
+        {
+          "numero": 24,
+          "texto": "Antes de haver abismos, fui gerada; e antes ainda de haver fontes carregadas de águas."
+        },
+        {
+          "numero": 25,
+          "texto": "Antes que os montes fossem firmados, antes dos outeiros, eu fui gerada."
+        },
+        {
+          "numero": 26,
+          "texto": "Ainda ele não tinha feito a terra, nem os campos, nem sequer o princípio do pó do mundo."
+        },
+        {
+          "numero": 27,
+          "texto": "Quando ele preparava os céus, aí estava eu; quando compassava ao redor a face do abismo;"
+        },
+        {
+          "numero": 28,
+          "texto": "quando firmava as nuvens de cima, quando fortificava as fontes do abismo;"
+        },
+        {
+          "numero": 29,
+          "texto": "quando punha ao mar o seu termo, para que as águas não trespassassem o seu mando; quando compunha os fundamentos da terra,"
+        },
+        {
+          "numero": 30,
+          "texto": "então, eu estava com ele e era seu aluno; e era cada dia as suas delícias, folgando perante ele em todo o tempo,"
+        },
+        {
+          "numero": 31,
+          "texto": "folgando no seu mundo habitável e achando as minhas delícias com os filhos dos homens."
+        },
+        {
+          "numero": 32,
+          "texto": "Agora, pois, filhos, ouvi-me, porque bem-aventurados serão os que guardarem os meus caminhos."
+        },
+        {
+          "numero": 33,
+          "texto": "Ouvi a correção, não a rejeiteis e sede sábios."
+        },
+        {
+          "numero": 34,
+          "texto": "Bem-aventurado o homem que me dá ouvidos, velando às minhas portas cada dia, esperando às ombreiras da minha entrada."
+        },
+        {
+          "numero": 35,
+          "texto": "Porque o que me achar achará a vida e alcançará favor do SENHOR."
+        },
+        {
+          "numero": 36,
+          "texto": "Mas o que pecar contra mim violentará a sua própria alma; todos os que me aborrecem amam a morte."
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "A sabedoria já edificou a sua casa, já lavrou as suas sete colunas."
+        },
+        {
+          "numero": 2,
+          "texto": "Já sacrificou as suas vítimas, misturou o seu vinho e já preparou a sua mesa."
+        },
+        {
+          "numero": 3,
+          "texto": "Já deu ordens às suas criadas, já anda convidando desde as alturas da cidade, dizendo:"
+        },
+        {
+          "numero": 4,
+          "texto": "Quem é simples volte-se para aqui. Aos faltos de entendimento diz:"
+        },
+        {
+          "numero": 5,
+          "texto": "Vinde, comei do meu pão e bebei do vinho que tenho misturado."
+        },
+        {
+          "numero": 6,
+          "texto": "Deixai os insensatos, e vivei, e andai pelo caminho do entendimento."
+        },
+        {
+          "numero": 7,
+          "texto": "O que repreende o escarnecedor afronta toma para si; e o que censura o ímpio recebe a sua mancha."
+        },
+        {
+          "numero": 8,
+          "texto": "Não repreendas o escarnecedor, para que te não aborreça; repreende o sábio, e amar-te-á."
+        },
+        {
+          "numero": 9,
+          "texto": "Dá instrução ao sábio, e ele se fará mais sábio; ensina ao justo, e ele crescerá em entendimento."
+        },
+        {
+          "numero": 10,
+          "texto": "O temor do SENHOR é o princípio da sabedoria, e a ciência do Santo, a prudência."
+        },
+        {
+          "numero": 11,
+          "texto": "Porque, por mim, se multiplicam os teus dias, e anos de vida se te acrescentarão."
+        },
+        {
+          "numero": 12,
+          "texto": "Se fores sábio, para ti sábio serás; e, se fores escarnecedor, tu só o suportarás."
+        },
+        {
+          "numero": 13,
+          "texto": "A mulher louca é alvoroçadora; é néscia e não sabe coisa alguma."
+        },
+        {
+          "numero": 14,
+          "texto": "E assenta-se à porta da sua casa ou numa cadeira, nas alturas da cidade,"
+        },
+        {
+          "numero": 15,
+          "texto": "para chamar os que passam e seguem direito o seu caminho."
+        },
+        {
+          "numero": 16,
+          "texto": "Quem é simples, volte-se para aqui. E aos faltos de entendimento diz:"
+        },
+        {
+          "numero": 17,
+          "texto": "As águas roubadas são doces, e o pão comido às ocultas é suave."
+        },
+        {
+          "numero": 18,
+          "texto": "Mas não sabem que ali estão os mortos, que os seus convidados estão nas profundezas do inferno."
+        }
+      ]
+    },
+    {
+      "numero": 10,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Provérbios de Salomão. O filho sábio alegra a seu pai, mas o filho louco é a tristeza de sua mãe."
+        },
+        {
+          "numero": 2,
+          "texto": "Os tesouros da impiedade de nada aproveitam; mas a justiça livra da morte."
+        },
+        {
+          "numero": 3,
+          "texto": "O SENHOR não deixa ter fome a alma do justo, mas o desejo dos ímpios rechaça."
+        },
+        {
+          "numero": 4,
+          "texto": "O que trabalha com mão enganosa empobrece, mas a mão dos diligentes enriquece."
+        },
+        {
+          "numero": 5,
+          "texto": "O que ajunta no verão é filho sábio, mas o que dorme na sega é filho que envergonha."
+        },
+        {
+          "numero": 6,
+          "texto": "Bênçãos há sobre a cabeça do justo, mas a violência cobre a boca dos ímpios."
+        },
+        {
+          "numero": 7,
+          "texto": "A memória do justo é abençoada, mas o nome dos ímpios apodrecerá."
+        },
+        {
+          "numero": 8,
+          "texto": "O sábio de coração aceita os mandamentos, mas o louco palrador será transtornado."
+        },
+        {
+          "numero": 9,
+          "texto": "Quem anda em sinceridade anda seguro, mas o que perverte os seus caminhos será conhecido."
+        },
+        {
+          "numero": 10,
+          "texto": "O que acena com os olhos dá dores, e o tolo de lábios será transtornado."
+        },
+        {
+          "numero": 11,
+          "texto": "A boca do justo é manancial de vida, mas a violência cobre a boca dos ímpios."
+        },
+        {
+          "numero": 12,
+          "texto": "O ódio excita contendas, mas o amor cobre todas as transgressões."
+        },
+        {
+          "numero": 13,
+          "texto": "Nos lábios do sábio se acha a sabedoria, mas a vara é para as costas do falto de entendimento."
+        },
+        {
+          "numero": 14,
+          "texto": "Os sábios escondem a sabedoria, mas a boca do tolo é uma destruição."
+        },
+        {
+          "numero": 15,
+          "texto": "A fazenda do rico é a cidade da sua fortaleza; a destruição dos pobres é a sua pobreza."
+        },
+        {
+          "numero": 16,
+          "texto": "A obra do justo conduz à vida, as produções do ímpio, ao pecado."
+        },
+        {
+          "numero": 17,
+          "texto": "O caminho para a vida é daquele que guarda a correção, mas o que abandona a repreensão erra."
+        },
+        {
+          "numero": 18,
+          "texto": "O que encobre o ódio tem lábios falsos, e o que difama é um insensato."
+        },
+        {
+          "numero": 19,
+          "texto": "Na multidão de palavras não falta transgressão, mas o que modera os seus lábios é prudente."
+        },
+        {
+          "numero": 20,
+          "texto": "Prata escolhida é a língua do justo; o coração dos ímpios é de nenhum preço."
+        },
+        {
+          "numero": 21,
+          "texto": "Os lábios do justo apascentam muitos, mas os tolos, por falta de entendimento, morrem."
+        },
+        {
+          "numero": 22,
+          "texto": "A bênção do SENHOR é que enriquece, e ele não acrescenta dores."
+        },
+        {
+          "numero": 23,
+          "texto": "Um divertimento é para o tolo praticar a iniqüidade; para o homem inteligente, o mesmo é o ser sábio."
+        },
+        {
+          "numero": 24,
+          "texto": "O temor do ímpio virá sobre ele, mas o desejo dos justos Deus o cumprirá."
+        },
+        {
+          "numero": 25,
+          "texto": "Como a tempestade, assim passa o ímpio, mas o justo tem perpétuo fundamento."
+        },
+        {
+          "numero": 26,
+          "texto": "Como vinagre para os dentes, como fumaça para os olhos, assim é o preguiçoso para aqueles que o mandam."
+        },
+        {
+          "numero": 27,
+          "texto": "O temor do SENHOR aumenta os dias, mas os anos dos ímpios serão abreviados."
+        },
+        {
+          "numero": 28,
+          "texto": "A esperança dos justos é alegria, mas a expectação dos ímpios perecerá."
+        },
+        {
+          "numero": 29,
+          "texto": "O caminho do SENHOR é fortaleza para os retos, mas ruína virá aos que praticam a iniqüidade."
+        },
+        {
+          "numero": 30,
+          "texto": "O justo nunca será abalado, mas os ímpios não habitarão a terra."
+        },
+        {
+          "numero": 31,
+          "texto": "A boca do justo produz sabedoria em abundância, mas a língua da perversidade será desarraigada."
+        },
+        {
+          "numero": 32,
+          "texto": "Os lábios do justo sabem o que agrada, mas a boca dos ímpios anda cheia de perversidades."
+        }
+      ]
+    },
+    {
+      "numero": 11,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Balança enganosa é abominação para o SENHOR, mas o peso justo é o seu prazer."
+        },
+        {
+          "numero": 2,
+          "texto": "Vindo a soberba, virá também a afronta; mas com os humildes está a sabedoria."
+        },
+        {
+          "numero": 3,
+          "texto": "A sinceridade dos sinceros os encaminhará, mas a perversidade dos desleais os destruirá."
+        },
+        {
+          "numero": 4,
+          "texto": "Não aproveitam as riquezas no dia da ira, mas a justiça livra da morte."
+        },
+        {
+          "numero": 5,
+          "texto": "A justiça do sincero endireitará o seu caminho, mas o ímpio, pela sua impiedade, cairá."
+        },
+        {
+          "numero": 6,
+          "texto": "A justiça dos virtuosos os livrará, mas, na sua perversidade, serão apanhados os iníquos."
+        },
+        {
+          "numero": 7,
+          "texto": "Morrendo o homem ímpio, perece a sua expectação, e a esperança da iniqüidade perde-se."
+        },
+        {
+          "numero": 8,
+          "texto": "O justo é libertado da angústia, e o ímpio fica em seu lugar."
+        },
+        {
+          "numero": 9,
+          "texto": "O hipócrita, com a boca, danifica o seu próximo, mas os justos são libertados pelo conhecimento."
+        },
+        {
+          "numero": 10,
+          "texto": "No bem dos justos, exulta a cidade; e, perecendo os ímpios, há júbilo."
+        },
+        {
+          "numero": 11,
+          "texto": "Pela bênção dos sinceros, se exalta a cidade, mas pela boca dos ímpios é derribada."
+        },
+        {
+          "numero": 12,
+          "texto": "O que despreza o seu próximo é falto de sabedoria, mas o homem de entendimento cala-se."
+        },
+        {
+          "numero": 13,
+          "texto": "O que anda praguejando descobre o segredo, mas o fiel de espírito encobre o negócio."
+        },
+        {
+          "numero": 14,
+          "texto": "Não havendo sábia direção, o povo cai, mas, na multidão de conselheiros, há segurança."
+        },
+        {
+          "numero": 15,
+          "texto": "Decerto sofrerá severamente aquele que fica por fiador do estranho, mas o que aborrece a fiança estará seguro."
+        },
+        {
+          "numero": 16,
+          "texto": "A mulher aprazível guarda a honra, como os violentos guardam as riquezas."
+        },
+        {
+          "numero": 17,
+          "texto": "O homem benigno faz bem à sua própria alma, mas o cruel perturba a sua própria carne."
+        },
+        {
+          "numero": 18,
+          "texto": "O ímpio recebe um salário enganoso, mas, para o que semeia justiça, haverá galardão certo."
+        },
+        {
+          "numero": 19,
+          "texto": "Como a justiça encaminha para a vida, assim o que segue o mal faz isso para sua morte."
+        },
+        {
+          "numero": 20,
+          "texto": "Abominação para o SENHOR são os perversos de coração, mas os que são perfeitos em seu caminho são o seu deleite."
+        },
+        {
+          "numero": 21,
+          "texto": "Ainda que o mau junte mão à mão, não ficará sem castigo, mas a semente dos justos escapará."
+        },
+        {
+          "numero": 22,
+          "texto": "Como jóia de ouro em focinho de porca, assim é a mulher formosa que se aparta da razão."
+        },
+        {
+          "numero": 23,
+          "texto": "O desejo dos justos é somente o bem, mas a esperança dos ímpios é a ira."
+        },
+        {
+          "numero": 24,
+          "texto": "Alguns há que espalham, e ainda se lhes acrescenta mais; e outros, que retêm mais do que é justo, mas é para a sua perda."
+        },
+        {
+          "numero": 25,
+          "texto": "A alma generosa engordará, e o que regar também será regado."
+        },
+        {
+          "numero": 26,
+          "texto": "Ao que retém o trigo o povo o amaldiçoa, mas bênção haverá sobre a cabeça do vendedor."
+        },
+        {
+          "numero": 27,
+          "texto": "O que busca cedo o bem busca favor, mas ao que procura o mal, este lhe sobrevirá."
+        },
+        {
+          "numero": 28,
+          "texto": "Aquele que confia nas suas riquezas cairá, mas os justos reverdecerão como a rama."
+        },
+        {
+          "numero": 29,
+          "texto": "O que perturba a sua casa herdará o vento, e o tolo será servo do sábio de coração."
+        },
+        {
+          "numero": 30,
+          "texto": "O fruto do justo é árvore de vida, e o que ganha almas sábio é."
+        },
+        {
+          "numero": 31,
+          "texto": "Eis que o justo é punido na terra; quanto mais o ímpio e o pecador!"
+        }
+      ]
+    },
+    {
+      "numero": 12,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "O que ama a correção ama o conhecimento, mas o que aborrece a repreensão é um bruto."
+        },
+        {
+          "numero": 2,
+          "texto": "O homem de bem alcançará o favor do SENHOR, mas ao homem de perversas imaginações ele condenará."
+        },
+        {
+          "numero": 3,
+          "texto": "O homem não se estabelecerá pela impiedade, mas a raiz dos justos não será removida."
+        },
+        {
+          "numero": 4,
+          "texto": "A mulher virtuosa é a coroa do seu marido, mas a que procede vergonhosamente é como apodrecimento nos seus ossos."
+        },
+        {
+          "numero": 5,
+          "texto": "Os pensamentos do justo são retos, mas os conselhos do ímpio, engano."
+        },
+        {
+          "numero": 6,
+          "texto": "As palavras dos ímpios são para armarem ciladas ao sangue, mas a boca dos retos os livrará."
+        },
+        {
+          "numero": 7,
+          "texto": "Transtornados serão os ímpios e não serão mais, mas a casa dos justos permanecerá."
+        },
+        {
+          "numero": 8,
+          "texto": "Segundo o seu entendimento, será louvado cada qual, mas o perverso de coração estará em desprezo."
+        },
+        {
+          "numero": 9,
+          "texto": "Melhor é o que se estima em pouco e tem servos do que o que se honra a si mesmo e tem falta de pão."
+        },
+        {
+          "numero": 10,
+          "texto": "O justo olha pela vida dos seus animais, mas as misericórdias dos ímpios são cruéis."
+        },
+        {
+          "numero": 11,
+          "texto": "O que lavra a sua terra se fartará de pão, mas o que segue os ociosos está falto de juízo."
+        },
+        {
+          "numero": 12,
+          "texto": "Deseja o ímpio a rede dos maus, mas a raiz dos justos produz o seu fruto."
+        },
+        {
+          "numero": 13,
+          "texto": "O laço do ímpio está na transgressão dos lábios, mas o justo sairá da angústia."
+        },
+        {
+          "numero": 14,
+          "texto": "Cada um se farta de bem pelo fruto da sua boca, e o que as mãos do homem fizerem isso ele receberá."
+        },
+        {
+          "numero": 15,
+          "texto": "O caminho do tolo é reto aos seus olhos, mas o que dá ouvidos ao conselho é sábio."
+        },
+        {
+          "numero": 16,
+          "texto": "A ira do louco se conhece no mesmo dia, mas o avisado encobre a afronta."
+        },
+        {
+          "numero": 17,
+          "texto": "O que diz a verdade manifesta a justiça, mas a testemunha falsa engana."
+        },
+        {
+          "numero": 18,
+          "texto": "Há alguns cujas palavras são como pontas de espada, mas a língua dos sábios é saúde."
+        },
+        {
+          "numero": 19,
+          "texto": "O lábio de verdade ficará para sempre, mas a língua mentirosa dura só um momento."
+        },
+        {
+          "numero": 20,
+          "texto": "Engano há no coração dos que maquinam mal, mas alegria têm os que aconselham a paz."
+        },
+        {
+          "numero": 21,
+          "texto": "Nenhum agravo sobrevirá ao justo, mas os ímpios ficam cheios de mal."
+        },
+        {
+          "numero": 22,
+          "texto": "Os lábios mentirosos são abomináveis ao SENHOR, mas os que agem fielmente são o seu deleite."
+        },
+        {
+          "numero": 23,
+          "texto": "O homem avisado encobre o conhecimento, mas o coração dos tolos proclama a estultícia."
+        },
+        {
+          "numero": 24,
+          "texto": "A mão dos diligentes dominará, mas os enganadores serão tributários."
+        },
+        {
+          "numero": 25,
+          "texto": "A solicitude no coração do homem o abate, mas uma boa palavra o alegra."
+        },
+        {
+          "numero": 26,
+          "texto": "O justo é um guia para o seu companheiro, mas o caminho dos ímpios os faz errar."
+        },
+        {
+          "numero": 27,
+          "texto": "O preguiçoso não assará a sua caça, mas o bem precioso do homem é ser diligente."
+        },
+        {
+          "numero": 28,
+          "texto": "Na vereda da justiça está a vida, e no caminho da sua carreira não há morte."
+        }
+      ]
+    },
+    {
+      "numero": 13,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "O filho sábio ouve a correção do pai, mas o escarnecedor não ouve a repreensão."
+        },
+        {
+          "numero": 2,
+          "texto": "Do fruto da boca cada um comerá o bem, mas a alma dos prevaricadores comerá a violência."
+        },
+        {
+          "numero": 3,
+          "texto": "O que guarda a sua boca conserva a sua alma, mas o que muito abre os lábios tem perturbação."
+        },
+        {
+          "numero": 4,
+          "texto": "A alma do preguiçoso deseja e coisa nenhuma alcança, mas a alma dos diligentes engorda."
+        },
+        {
+          "numero": 5,
+          "texto": "O justo aborrece a palavra de mentira, mas o ímpio é abominável e se confunde."
+        },
+        {
+          "numero": 6,
+          "texto": "A justiça guarda ao que é sincero no seu caminho, mas a impiedade transtornará o pecador."
+        },
+        {
+          "numero": 7,
+          "texto": "Há quem se faça rico, não tendo coisa nenhuma, e quem se faça pobre, tendo grande riqueza."
+        },
+        {
+          "numero": 8,
+          "texto": "O resgate da vida de cada um são as suas riquezas, mas o pobre não ouve as ameaças."
+        },
+        {
+          "numero": 9,
+          "texto": "A luz dos justos alegra, mas a candeia dos ímpios se apagará."
+        },
+        {
+          "numero": 10,
+          "texto": "Da soberba só provém a contenda, mas com os que se aconselham se acha a sabedoria."
+        },
+        {
+          "numero": 11,
+          "texto": "A fazenda que procede da vaidade diminuirá, mas quem a ajunta pelo trabalho terá aumento."
+        },
+        {
+          "numero": 12,
+          "texto": "A esperança demorada enfraquece o coração, mas o desejo chegado é árvore de vida."
+        },
+        {
+          "numero": 13,
+          "texto": "O que despreza a palavra perecerá, mas o que teme o mandamento será galardoado."
+        },
+        {
+          "numero": 14,
+          "texto": "A doutrina do sábio é uma fonte de vida para desviar dos laços da morte."
+        },
+        {
+          "numero": 15,
+          "texto": "O bom entendimento dá graça, mas o caminho dos prevaricadores é áspero."
+        },
+        {
+          "numero": 16,
+          "texto": "Todo prudente age com conhecimento, mas o tolo espraia a sua loucura."
+        },
+        {
+          "numero": 17,
+          "texto": "Um mau mensageiro cai no mal, mas o embaixador fiel é saúde."
+        },
+        {
+          "numero": 18,
+          "texto": "Pobreza e afronta virão ao que rejeita a correção, mas o que guarda a repreensão será venerado."
+        },
+        {
+          "numero": 19,
+          "texto": "O desejo que se cumpre deleita a alma, mas apartar-se do mal é abominação para os loucos."
+        },
+        {
+          "numero": 20,
+          "texto": "Anda com os sábios e serás sábio, mas o companheiro dos tolos será afligido."
+        },
+        {
+          "numero": 21,
+          "texto": "O mal perseguirá aos pecadores, mas os justos serão galardoados com o bem."
+        },
+        {
+          "numero": 22,
+          "texto": "O homem de bem deixa uma herança aos filhos de seus filhos, mas a riqueza do pecador é depositada para o justo."
+        },
+        {
+          "numero": 23,
+          "texto": "Abundância de mantimento há na lavoura do pobre, mas alguns há que se consomem por falta de juízo."
+        },
+        {
+          "numero": 24,
+          "texto": "O que retém a sua vara aborrece a seu filho, mas o que o ama, a seu tempo, o castiga."
+        },
+        {
+          "numero": 25,
+          "texto": "O justo come até que a sua alma fique satisfeita, mas o ventre dos ímpios terá necessidade."
+        }
+      ]
+    },
+    {
+      "numero": 14,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Toda mulher sábia edifica a sua casa, mas a tola derriba-a com as suas mãos."
+        },
+        {
+          "numero": 2,
+          "texto": "O que anda na sua sinceridade teme ao SENHOR, mas o que se desvia de seus caminhos despreza-o."
+        },
+        {
+          "numero": 3,
+          "texto": "Na boca do tolo está a vara da soberba, mas os lábios do sábio preservá-lo-ão."
+        },
+        {
+          "numero": 4,
+          "texto": "Não havendo bois, o celeiro fica limpo, mas, pela força do boi, há abundância de colheitas."
+        },
+        {
+          "numero": 5,
+          "texto": "A testemunha verdadeira não mentirá, mas a testemunha falsa se desboca em mentiras."
+        },
+        {
+          "numero": 6,
+          "texto": "O escarnecedor busca sabedoria e não a acha, mas para o prudente o conhecimento é fácil."
+        },
+        {
+          "numero": 7,
+          "texto": "Vai-te à presença do homem insensato e nele não divisarás os lábios do conhecimento."
+        },
+        {
+          "numero": 8,
+          "texto": "A sabedoria do prudente é entender o seu caminho, mas a estultícia dos tolos é enganar."
+        },
+        {
+          "numero": 9,
+          "texto": "Os loucos zombam do pecado, mas entre os retos há boa vontade."
+        },
+        {
+          "numero": 10,
+          "texto": "O coração conhece a sua própria amargura, e o estranho não se entremeterá na sua alegria."
+        },
+        {
+          "numero": 11,
+          "texto": "A casa dos ímpios se desfará, mas a tenda dos retos florescerá."
+        },
+        {
+          "numero": 12,
+          "texto": "Há caminho que ao homem parece direito, mas o fim dele são os caminhos da morte."
+        },
+        {
+          "numero": 13,
+          "texto": "Até no riso terá dor o coração, e o fim da alegria é tristeza."
+        },
+        {
+          "numero": 14,
+          "texto": "Dos seus caminhos se fartará o infiel de coração, mas o homem bom se fartará de si mesmo."
+        },
+        {
+          "numero": 15,
+          "texto": "O simples dá crédito a cada palavra, mas o prudente atenta para os seus passos."
+        },
+        {
+          "numero": 16,
+          "texto": "O sábio teme e desvia-se do mal, mas o tolo encoleriza-se e dá-se por seguro."
+        },
+        {
+          "numero": 17,
+          "texto": "O que presto se ira fará doidices, e o homem de más imaginações será aborrecido."
+        },
+        {
+          "numero": 18,
+          "texto": "Os simples herdarão a estultícia, mas os prudentes se coroarão de conhecimento."
+        },
+        {
+          "numero": 19,
+          "texto": "Os maus inclinam-se perante a face dos bons, e os ímpios, diante das portas do justo."
+        },
+        {
+          "numero": 20,
+          "texto": "O pobre é aborrecido até do companheiro, mas os amigos dos ricos são muitos."
+        },
+        {
+          "numero": 21,
+          "texto": "O que despreza ao seu companheiro peca, mas o que se compadece dos humildes é bem-aventurado."
+        },
+        {
+          "numero": 22,
+          "texto": "Porventura, não erram os que praticam o mal? Mas beneficência e fidelidade haverá para os que praticam o bem."
+        },
+        {
+          "numero": 23,
+          "texto": "Em todo trabalho há proveito, mas a palavra dos lábios só encaminha para a pobreza."
+        },
+        {
+          "numero": 24,
+          "texto": "A coroa dos sábios é a sua riqueza, a estultícia dos tolos é só estultícia."
+        },
+        {
+          "numero": 25,
+          "texto": "A testemunha verdadeira livra as almas, mas o que se desboca em mentiras é enganador."
+        },
+        {
+          "numero": 26,
+          "texto": "No temor do SENHOR, há firme confiança, e ele será um refúgio para seus filhos."
+        },
+        {
+          "numero": 27,
+          "texto": "O temor do SENHOR é uma fonte de vida para preservar dos laços da morte."
+        },
+        {
+          "numero": 28,
+          "texto": "Na multidão do povo está a magnificência do rei, mas, na falta de povo, a perturbação do príncipe."
+        },
+        {
+          "numero": 29,
+          "texto": "O longânimo é grande em entendimento, mas o de ânimo precipitado exalta a loucura."
+        },
+        {
+          "numero": 30,
+          "texto": "O coração com saúde é a vida da carne, mas a inveja é a podridão dos ossos."
+        },
+        {
+          "numero": 31,
+          "texto": "O que oprime ao pobre insulta aquele que o criou, mas o que se compadece do necessitado honra-o."
+        },
+        {
+          "numero": 32,
+          "texto": "Pela sua malícia, será lançado fora o ímpio, mas o justo até na sua morte tem esperança."
+        },
+        {
+          "numero": 33,
+          "texto": "No coração do prudente, repousa a sabedoria, mas o que há no interior dos tolos se conhece."
+        },
+        {
+          "numero": 34,
+          "texto": "A justiça exalta as nações, mas o pecado é o opróbrio dos povos."
+        },
+        {
+          "numero": 35,
+          "texto": "O rei tem seu contentamento no servo prudente, mas, sobre o que procede indignamente, cairá o seu furor."
+        }
+      ]
+    },
+    {
+      "numero": 15,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "A resposta branda desvia o furor, mas a palavra dura suscita a ira."
+        },
+        {
+          "numero": 2,
+          "texto": "A língua dos sábios adorna a sabedoria, mas a boca dos tolos derrama a estultícia."
+        },
+        {
+          "numero": 3,
+          "texto": "Os olhos do SENHOR estão em todo lugar, contemplando os maus e os bons."
+        },
+        {
+          "numero": 4,
+          "texto": "Uma língua saudável é árvore de vida, mas a perversidade nela quebranta o espírito."
+        },
+        {
+          "numero": 5,
+          "texto": "O tolo despreza a correção de seu pai, mas o que observa a repreensão prudentemente se haverá."
+        },
+        {
+          "numero": 6,
+          "texto": "Na casa do justo há um grande tesouro, mas nos frutos do ímpio há perturbação."
+        },
+        {
+          "numero": 7,
+          "texto": "Os lábios dos sábios derramarão o conhecimento, mas o coração dos tolos não fará assim."
+        },
+        {
+          "numero": 8,
+          "texto": "O sacrifício dos ímpios é abominável ao SENHOR, mas a oração dos retos é o seu contentamento."
+        },
+        {
+          "numero": 9,
+          "texto": "O caminho do ímpio é abominável ao SENHOR, mas ele ama o que segue a justiça."
+        },
+        {
+          "numero": 10,
+          "texto": "Correção molesta há para o que deixa a vereda, e o que aborrece a repreensão morrerá."
+        },
+        {
+          "numero": 11,
+          "texto": "O inferno e a perdição estão perante o SENHOR; quanto mais o coração dos filhos dos homens!"
+        },
+        {
+          "numero": 12,
+          "texto": "Não ama o escarnecedor aquele que o repreende, nem se chegará para os sábios."
+        },
+        {
+          "numero": 13,
+          "texto": "O coração alegre aformoseia o rosto, mas, pela dor do coração, o espírito se abate."
+        },
+        {
+          "numero": 14,
+          "texto": "O coração sábio buscará o conhecimento, mas a boca dos tolos se apascentará de estultícia."
+        },
+        {
+          "numero": 15,
+          "texto": "Todos os dias do aflito são maus, mas o de coração alegre tem um banquete contínuo."
+        },
+        {
+          "numero": 16,
+          "texto": "Melhor é o pouco com o temor do SENHOR do que um grande tesouro onde há inquietação."
+        },
+        {
+          "numero": 17,
+          "texto": "Melhor é a comida de hortaliça onde há amor do que o boi gordo e, com ele, o ódio."
+        },
+        {
+          "numero": 18,
+          "texto": "O homem iracundo suscita contendas, mas o longânimo apaziguará a luta."
+        },
+        {
+          "numero": 19,
+          "texto": "O caminho do preguiçoso é como a sebe de espinhos, mas a vereda dos retos está bem igualada."
+        },
+        {
+          "numero": 20,
+          "texto": "O filho sábio alegrará a seu pai, mas o homem insensato despreza a sua mãe."
+        },
+        {
+          "numero": 21,
+          "texto": "A estultícia é alegria para o que carece de entendimento, mas o homem sábio anda retamente."
+        },
+        {
+          "numero": 22,
+          "texto": "Onde não há conselho os projetos saem vãos, mas, com a multidão de conselheiros, se confirmarão."
+        },
+        {
+          "numero": 23,
+          "texto": "O homem se alegra na resposta da sua boca, e a palavra, a seu tempo, quão boa é!"
+        },
+        {
+          "numero": 24,
+          "texto": "Para o sábio, o caminho da vida é para cima, para que ele se desvie do inferno que está embaixo."
+        },
+        {
+          "numero": 25,
+          "texto": "O SENHOR arrancará a casa dos soberbos, mas firmará a herança da viúva."
+        },
+        {
+          "numero": 26,
+          "texto": "Abomináveis são para o SENHOR os pensamentos do mau, mas as palavras dos limpos são aprazíveis."
+        },
+        {
+          "numero": 27,
+          "texto": "O que se dá à cobiça perturba a sua casa, mas o que aborrece as dádivas viverá."
+        },
+        {
+          "numero": 28,
+          "texto": "O coração do justo medita o que há de responder, mas a boca dos ímpios derrama em abundância coisas más."
+        },
+        {
+          "numero": 29,
+          "texto": "Longe está o SENHOR dos ímpios, mas escutará a oração dos justos."
+        },
+        {
+          "numero": 30,
+          "texto": "A luz dos olhos alegra o coração; a boa fama engorda os ossos."
+        },
+        {
+          "numero": 31,
+          "texto": "Os ouvidos que escutam a repreensão da vida no meio dos sábios farão a sua morada."
+        },
+        {
+          "numero": 32,
+          "texto": "O que rejeita a correção menospreza a sua alma, mas o que escuta a repreensão adquire entendimento."
+        },
+        {
+          "numero": 33,
+          "texto": "O temor do SENHOR é a instrução da sabedoria, e diante da honra vai a humildade."
+        }
+      ]
+    },
+    {
+      "numero": 16,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Do homem são as preparações do coração, mas do SENHOR, a resposta da boca."
+        },
+        {
+          "numero": 2,
+          "texto": "Todos os caminhos do homem são limpos aos seus olhos, mas o SENHOR pesa os espíritos."
+        },
+        {
+          "numero": 3,
+          "texto": "Confia ao SENHOR as tuas obras, e teus pensamentos serão estabelecidos."
+        },
+        {
+          "numero": 4,
+          "texto": "O SENHOR fez todas as coisas para os seus próprios fins e até ao ímpio, para o dia do mal."
+        },
+        {
+          "numero": 5,
+          "texto": "Abominação é para o SENHOR todo altivo de coração; ainda que ele junte mão à mão, não ficará impune."
+        },
+        {
+          "numero": 6,
+          "texto": "Pela misericórdia e pela verdade, se purifica a iniqüidade; e, pelo temor do SENHOR, os homens se desviam do mal."
+        },
+        {
+          "numero": 7,
+          "texto": "Sendo os caminhos do homem agradáveis ao SENHOR, até a seus inimigos faz que tenham paz com ele."
+        },
+        {
+          "numero": 8,
+          "texto": "Melhor é o pouco com justiça do que a abundância de colheita com injustiça."
+        },
+        {
+          "numero": 9,
+          "texto": "O coração do homem considera o seu caminho, mas o SENHOR lhe dirige os passos."
+        },
+        {
+          "numero": 10,
+          "texto": "Adivinhação se acha nos lábios do rei; em juízo não prevaricará a sua boca."
+        },
+        {
+          "numero": 11,
+          "texto": "O peso e a balança justa são do SENHOR; obra sua são todas as pedras da bolsa."
+        },
+        {
+          "numero": 12,
+          "texto": "Abominação é para os reis o praticarem a impiedade, porque com justiça se estabelece o trono."
+        },
+        {
+          "numero": 13,
+          "texto": "Os lábios de justiça são o contentamento dos reis, e eles amarão o que fala coisas retas."
+        },
+        {
+          "numero": 14,
+          "texto": "O furor do rei é como um mensageiro da morte, mas o homem sábio o apaziguará."
+        },
+        {
+          "numero": 15,
+          "texto": "Na luz do rosto do rei está a vida, e a sua benevolência é como a nuvem de chuva serôdia."
+        },
+        {
+          "numero": 16,
+          "texto": "Quanto melhor é adquirir a sabedoria do que o ouro! E quanto mais excelente, adquirir a prudência do que a prata!"
+        },
+        {
+          "numero": 17,
+          "texto": "O alto caminho dos retos é desviar-se do mal; o que guarda o seu caminho preserva a sua alma."
+        },
+        {
+          "numero": 18,
+          "texto": "A soberba precede a ruína, e a altivez do espírito precede a queda."
+        },
+        {
+          "numero": 19,
+          "texto": "Melhor é ser humilde de espírito com os mansos do que repartir o despojo com os soberbos."
+        },
+        {
+          "numero": 20,
+          "texto": "O que atenta prudentemente para a palavra achará o bem, e o que confia no SENHOR será bem-aventurado."
+        },
+        {
+          "numero": 21,
+          "texto": "O sábio de coração será chamado prudente, e a doçura dos lábios aumentará o ensino."
+        },
+        {
+          "numero": 22,
+          "texto": "O entendimento, para aqueles que o possuem, é uma fonte de vida, mas a instrução dos tolos é a sua estultícia."
+        },
+        {
+          "numero": 23,
+          "texto": "O coração do sábio instrui a sua boca e acrescenta doutrina aos seus lábios."
+        },
+        {
+          "numero": 24,
+          "texto": "Favo de mel são as palavras suaves: doces para a alma e saúde para os ossos."
+        },
+        {
+          "numero": 25,
+          "texto": "Há caminho que parece direito ao homem, mas o seu fim são os caminhos da morte."
+        },
+        {
+          "numero": 26,
+          "texto": "O trabalhador trabalha para si mesmo, porque a sua boca o instiga."
+        },
+        {
+          "numero": 27,
+          "texto": "O homem vão cava o mal, e nos seus lábios se acha como que um fogo ardente."
+        },
+        {
+          "numero": 28,
+          "texto": "O homem perverso levanta a contenda, e o difamador separa os maiores amigos."
+        },
+        {
+          "numero": 29,
+          "texto": "O homem violento persuade o seu companheiro e guia-o por caminho não bom."
+        },
+        {
+          "numero": 30,
+          "texto": "Fecha os olhos para imaginar perversidades; mordendo os lábios, efetua o mal."
+        },
+        {
+          "numero": 31,
+          "texto": "Coroa de honra são as cãs, achando-se elas no caminho da justiça."
+        },
+        {
+          "numero": 32,
+          "texto": "Melhor é o longânimo do que o valente, e o que governa o seu espírito do que o que toma uma cidade."
+        },
+        {
+          "numero": 33,
+          "texto": "A sorte se lança no regaço, mas do SENHOR procede toda a sua disposição."
+        }
+      ]
+    },
+    {
+      "numero": 17,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Melhor é um bocado seco e com ele a tranqüilidade do que a casa cheia de vítimas, com contenda."
+        },
+        {
+          "numero": 2,
+          "texto": "O servo prudente dominará sobre o filho que procede indignamente; e entre os irmãos repartirá a herança."
+        },
+        {
+          "numero": 3,
+          "texto": "O crisol é para a prata, e o forno, para o ouro; mas o SENHOR prova os corações."
+        },
+        {
+          "numero": 4,
+          "texto": "O malfazejo atenta para o lábio iníquo; o mentiroso inclina os ouvidos para a língua maligna."
+        },
+        {
+          "numero": 5,
+          "texto": "O que escarnece do pobre insulta ao que o criou; o que se alegra da calamidade não ficará impune."
+        },
+        {
+          "numero": 6,
+          "texto": "Coroa dos velhos são os filhos dos filhos; e a glória dos filhos são seus pais."
+        },
+        {
+          "numero": 7,
+          "texto": "Não convém ao tolo a fala excelente; quanto menos ao príncipe, o lábio mentiroso!"
+        },
+        {
+          "numero": 8,
+          "texto": "Pedra preciosa é o presente aos olhos dos que o recebem; para onde quer que se volte, servirá de proveito."
+        },
+        {
+          "numero": 9,
+          "texto": "O que encobre a transgressão busca a amizade, mas o que renova a questão separa os maiores amigos."
+        },
+        {
+          "numero": 10,
+          "texto": "Mais profundamente entra a repreensão no prudente do que cem açoites no tolo."
+        },
+        {
+          "numero": 11,
+          "texto": "Na verdade, o rebelde não busca senão o mal, mas mensageiro cruel se enviará contra ele."
+        },
+        {
+          "numero": 12,
+          "texto": "Encontre-se com o homem a ursa à qual roubaram os filhos, mas não o louco na sua estultícia."
+        },
+        {
+          "numero": 13,
+          "texto": "Quanto àquele que torna mal por bem, não se apartará o mal da sua casa."
+        },
+        {
+          "numero": 14,
+          "texto": "Como o soltar as águas, é o princípio da contenda; deixa por isso a porfia, antes que sejas envolvido."
+        },
+        {
+          "numero": 15,
+          "texto": "O que justifica o ímpio e o que condena o justo abomináveis são para o SENHOR, tanto um como o outro."
+        },
+        {
+          "numero": 16,
+          "texto": "De que serviria o preço na mão do tolo para comprar a sabedoria, visto que não tem entendimento?"
+        },
+        {
+          "numero": 17,
+          "texto": "Em todo o tempo ama o amigo; e na angústia nasce o irmão."
+        },
+        {
+          "numero": 18,
+          "texto": "O homem falto de entendimento dá a mão, ficando por fiador do seu companheiro."
+        },
+        {
+          "numero": 19,
+          "texto": "O que ama a contenda ama a transgressão; o que alça a sua porta busca a ruína."
+        },
+        {
+          "numero": 20,
+          "texto": "O perverso de coração nunca achará o bem; e o que tem a língua dobre virá a cair no mal."
+        },
+        {
+          "numero": 21,
+          "texto": "O que gera um tolo, para sua tristeza o faz; e o pai do insensato não se alegrará."
+        },
+        {
+          "numero": 22,
+          "texto": "O coração alegre serve de bom remédio, mas o espírito abatido virá a secar os ossos."
+        },
+        {
+          "numero": 23,
+          "texto": "O ímpio tira o presente do seio para perverter as veredas da justiça."
+        },
+        {
+          "numero": 24,
+          "texto": "No rosto do sábio se vê a sabedoria, mas os olhos do louco estão nas extremidades da terra."
+        },
+        {
+          "numero": 25,
+          "texto": "O filho insensato é tristeza para seu pai e amargura para quem o deu à luz."
+        },
+        {
+          "numero": 26,
+          "texto": "Não é bom também punir o justo, nem ferirem os príncipes ao que age justamente."
+        },
+        {
+          "numero": 27,
+          "texto": "Retém as suas palavras o que possui o conhecimento, e o homem de entendimento é de precioso espírito."
+        },
+        {
+          "numero": 28,
+          "texto": "Até o tolo, quando se cala, será reputado por sábio; e o que cerrar os seus lábios, por sábio."
+        }
+      ]
+    },
+    {
+      "numero": 18,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Busca seu próprio desejo aquele que se separa; ele insurge-se contra a verdadeira sabedoria."
+        },
+        {
+          "numero": 2,
+          "texto": "Não toma prazer o tolo no entendimento, senão em que se descubra o seu coração."
+        },
+        {
+          "numero": 3,
+          "texto": "Vindo o ímpio, vem também o desprezo; e, com a ignomínia, a vergonha."
+        },
+        {
+          "numero": 4,
+          "texto": "Águas profundas são as palavras da boca do homem, e ribeiro transbordante é a fonte da sabedoria."
+        },
+        {
+          "numero": 5,
+          "texto": "Não é bom ter respeito à pessoa do ímpio, para derribar o justo em juízo."
+        },
+        {
+          "numero": 6,
+          "texto": "Os lábios do tolo entram na contenda, e a sua boca brada por açoites."
+        },
+        {
+          "numero": 7,
+          "texto": "A boca do tolo é a sua própria destruição, e os seus lábios, um laço para a sua alma."
+        },
+        {
+          "numero": 8,
+          "texto": "As palavras do linguareiro são como doces bocados, e elas descem ao íntimo do ventre."
+        },
+        {
+          "numero": 9,
+          "texto": "Também o negligente na sua obra é irmão do desperdiçador."
+        },
+        {
+          "numero": 10,
+          "texto": "Torre forte é o nome do SENHOR; para ela correrá o justo e estará em alto retiro."
+        },
+        {
+          "numero": 11,
+          "texto": "A fazenda do rico é sua cidade forte e, como um muro alto, na sua imaginação."
+        },
+        {
+          "numero": 12,
+          "texto": "Antes de ser quebrantado, eleva-se o coração do homem; e, diante da honra, vai a humildade."
+        },
+        {
+          "numero": 13,
+          "texto": "Responder antes de ouvir é estultícia e vergonha."
+        },
+        {
+          "numero": 14,
+          "texto": "O espírito do homem aliviará a sua enfermidade, mas ao espírito abatido, quem o levantará?"
+        },
+        {
+          "numero": 15,
+          "texto": "O coração do sábio adquire o conhecimento, e o ouvido dos sábios busca a ciência."
+        },
+        {
+          "numero": 16,
+          "texto": "O presente do homem alarga-lhe o caminho e leva-o à presença dos grandes."
+        },
+        {
+          "numero": 17,
+          "texto": "O que primeiro começa o seu pleito justo parece; mas vem o seu companheiro e o examina."
+        },
+        {
+          "numero": 18,
+          "texto": "A sorte faz cessar os pleitos e faz separação entre os poderosos."
+        },
+        {
+          "numero": 19,
+          "texto": "O irmão ofendido é mais difícil de conquistar do que uma cidade forte; e as contendas são como ferrolhos de um palácio."
+        },
+        {
+          "numero": 20,
+          "texto": "Do fruto da boca de cada um se fartará o seu ventre; dos renovos dos seus lábios se fartará."
+        },
+        {
+          "numero": 21,
+          "texto": "A morte e a vida estão no poder da língua; e aquele que a ama comerá do seu fruto."
+        },
+        {
+          "numero": 22,
+          "texto": "O que acha uma mulher acha uma coisa boa e alcançou a benevolência do SENHOR."
+        },
+        {
+          "numero": 23,
+          "texto": "O pobre fala com rogos, mas o rico responde com durezas."
+        },
+        {
+          "numero": 24,
+          "texto": "O homem que tem muitos amigos pode congratular-se, mas há amigo mais chegado do que um irmão."
+        }
+      ]
+    },
+    {
+      "numero": 19,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Melhor é o pobre que anda na sua sinceridade do que o perverso de lábios e tolo."
+        },
+        {
+          "numero": 2,
+          "texto": "Assim também ficar a alma sem conhecimento não é bom; e o que se apressa com seus pés peca."
+        },
+        {
+          "numero": 3,
+          "texto": "A estultícia do homem perverterá o seu caminho, e o seu coração se irará contra o SENHOR."
+        },
+        {
+          "numero": 4,
+          "texto": "As riquezas granjeiam muitos amigos, mas ao pobre o seu próprio amigo o deixa."
+        },
+        {
+          "numero": 5,
+          "texto": "A falsa testemunha não ficará inocente; e o que profere mentiras não escapará."
+        },
+        {
+          "numero": 6,
+          "texto": "Muitos suplicam a face do príncipe, e cada um é amigo daquele que dá presentes."
+        },
+        {
+          "numero": 7,
+          "texto": "Todos os irmãos do pobre o aborrecem; quanto mais se afastarão dele os seus amigos! Corre após eles com palavras, mas não servem de nada."
+        },
+        {
+          "numero": 8,
+          "texto": "O que adquire entendimento ama a sua alma; o que conserva a inteligência achará o bem."
+        },
+        {
+          "numero": 9,
+          "texto": "A falsa testemunha não ficará impune; e o que profere mentiras perecerá."
+        },
+        {
+          "numero": 10,
+          "texto": "Ao tolo não está bem o deleite; quanto menos ao servo dominar os príncipes!"
+        },
+        {
+          "numero": 11,
+          "texto": "O entendimento do homem retém a sua ira; e sua glória é passar sobre a transgressão."
+        },
+        {
+          "numero": 12,
+          "texto": "Como o bramido do filho do leão é a indignação do rei; mas, como o orvalho sobre a erva, é a sua benevolência."
+        },
+        {
+          "numero": 13,
+          "texto": "Grande miséria é para o pai o filho insensato, e um gotejar contínuo, as contenções da mulher."
+        },
+        {
+          "numero": 14,
+          "texto": "A casa e a fazenda são a herança dos pais; mas do SENHOR vem a mulher prudente."
+        },
+        {
+          "numero": 15,
+          "texto": "A preguiça faz cair em profundo sono, e a alma enganadora padecerá fome."
+        },
+        {
+          "numero": 16,
+          "texto": "O que guardar o mandamento guardará a sua alma; mas o que desprezar os seus caminhos morrerá."
+        },
+        {
+          "numero": 17,
+          "texto": "Ao SENHOR empresta o que se compadece do pobre, e ele lhe pagará o seu benefício."
+        },
+        {
+          "numero": 18,
+          "texto": "Castiga teu filho enquanto há esperança, mas para o matar não alçarás a tua alma."
+        },
+        {
+          "numero": 19,
+          "texto": "Homem de grande ira tem de sofrer o dano; porque, se tu o livrares, virás ainda a fazê-lo novamente."
+        },
+        {
+          "numero": 20,
+          "texto": "Ouve o conselho e recebe a correção, para que sejas sábio nos teus últimos dias."
+        },
+        {
+          "numero": 21,
+          "texto": "Muitos propósitos há no coração do homem, mas o conselho do SENHOR permanecerá."
+        },
+        {
+          "numero": 22,
+          "texto": "O desejo do homem é a sua beneficência; mas o pobre é melhor do que o mentiroso."
+        },
+        {
+          "numero": 23,
+          "texto": "O temor do SENHOR encaminha para a vida; aquele que o tem ficará satisfeito, e não o visitará mal nenhum."
+        },
+        {
+          "numero": 24,
+          "texto": "O preguiçoso esconde a mão no seio; enfada-se de a levar à boca."
+        },
+        {
+          "numero": 25,
+          "texto": "Fere o escarnecedor, e o simples tomará aviso; repreende ao sábio, e aprenderá conhecimento."
+        },
+        {
+          "numero": 26,
+          "texto": "O que aflige a seu pai ou afugenta a sua mãe filho é que envergonha e desonra."
+        },
+        {
+          "numero": 27,
+          "texto": "Cessa, filho meu, ouvindo a instrução, de te desviares das palavras do conhecimento."
+        },
+        {
+          "numero": 28,
+          "texto": "A testemunha de Belial escarnece do juízo, e a boca dos ímpios engole a iniqüidade."
+        },
+        {
+          "numero": 29,
+          "texto": "Preparados estão os juízos para os escarnecedores e os açoites para as costas dos tolos."
+        }
+      ]
+    },
+    {
+      "numero": 20,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "O vinho é escarnecedor, e a bebida forte, alvoroçadora; e todo aquele que neles errar nunca será sábio."
+        },
+        {
+          "numero": 2,
+          "texto": "Como o bramido do leão é o terror do rei; o que provoca a sua ira peca contra a sua própria alma."
+        },
+        {
+          "numero": 3,
+          "texto": "Honroso é para o homem o desviar-se de questões, mas todo tolo se entremete nelas."
+        },
+        {
+          "numero": 4,
+          "texto": "O preguiçoso não lavrará por causa do inverno, pelo que mendigará na sega e nada receberá."
+        },
+        {
+          "numero": 5,
+          "texto": "Como águas profundas é o conselho no coração do homem; mas o homem de inteligência o tirará para fora."
+        },
+        {
+          "numero": 6,
+          "texto": "Cada qual entre os homens apregoa a sua bondade; mas o homem fiel, quem o achará?"
+        },
+        {
+          "numero": 7,
+          "texto": "O justo anda na sua sinceridade; bem-aventurados serão os seus filhos depois dele."
+        },
+        {
+          "numero": 8,
+          "texto": "Assentando-se o rei no trono do juízo, com os seus olhos dissipa todo mal."
+        },
+        {
+          "numero": 9,
+          "texto": "Quem poderá dizer: Purifiquei o meu coração, limpo estou de meu pecado!"
+        },
+        {
+          "numero": 10,
+          "texto": "Duas espécies de peso e duas espécies de medida são abominação para o SENHOR, tanto uma coisa como outra."
+        },
+        {
+          "numero": 11,
+          "texto": "Até a criança se dará a conhecer pelas suas ações, se a sua obra for pura e reta."
+        },
+        {
+          "numero": 12,
+          "texto": "O ouvido que ouve e o olho que vê, o SENHOR os fez a ambos."
+        },
+        {
+          "numero": 13,
+          "texto": "Não ames o sono, para que não empobreças; abre os teus olhos e te fartarás de pão."
+        },
+        {
+          "numero": 14,
+          "texto": "Nada vale, nada vale, dirá o comprador, mas, indo-se, então, se gabará."
+        },
+        {
+          "numero": 15,
+          "texto": "Há ouro e abundância de rubins, mas os lábios do conhecimento são jóia preciosa."
+        },
+        {
+          "numero": 16,
+          "texto": "Aquele que fica por fiador do estranho tira a sua roupa e penhora-a por um estranho."
+        },
+        {
+          "numero": 17,
+          "texto": "Suave é ao homem o pão da mentira, mas, depois, a sua boca se encherá de pedrinhas de areia."
+        },
+        {
+          "numero": 18,
+          "texto": "Cada pensamento com conselho se confirma; e com conselhos prudentes faz a guerra."
+        },
+        {
+          "numero": 19,
+          "texto": "O que anda maldizendo descobre o segredo; pelo que, com o que afaga com seus lábios, não te entremetas."
+        },
+        {
+          "numero": 20,
+          "texto": "O que a seu pai ou a sua mãe amaldiçoar, apagar-se-lhe-á a sua lâmpada e ficará em trevas densas."
+        },
+        {
+          "numero": 21,
+          "texto": "Entrando-se apressadamente de posse de uma herança no princípio, o seu fim não será bendito."
+        },
+        {
+          "numero": 22,
+          "texto": "Não digas: Vingar-me-ei do mal; espera pelo SENHOR, e ele te livrará."
+        },
+        {
+          "numero": 23,
+          "texto": "Duas espécies de peso são abomináveis ao SENHOR, e balanças enganosas não são boas."
+        },
+        {
+          "numero": 24,
+          "texto": "Os passos do homem são dirigidos pelo SENHOR; o homem, pois, como entenderá o seu caminho?"
+        },
+        {
+          "numero": 25,
+          "texto": "Laço é para o homem dizer precipitadamente: É santo; e, feitos os votos, então, inquirir."
+        },
+        {
+          "numero": 26,
+          "texto": "O rei sábio dissipa os ímpios e faz girar sobre eles a roda."
+        },
+        {
+          "numero": 27,
+          "texto": "A alma do homem é a lâmpada do SENHOR, a qual esquadrinha todo o mais íntimo do ventre."
+        },
+        {
+          "numero": 28,
+          "texto": "Benignidade e verdade guardam o rei, e com benignidade sustém ele o seu trono."
+        },
+        {
+          "numero": 29,
+          "texto": "O ornato dos jovens é a sua força; e a beleza dos velhos, as cãs."
+        },
+        {
+          "numero": 30,
+          "texto": "Os vergões das feridas são a purificação dos maus, como também as pancadas que penetram até o mais íntimo do ventre."
+        }
+      ]
+    },
+    {
+      "numero": 21,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Como ribeiros de águas, assim é o coração do rei na mão do SENHOR; a tudo quanto quer o inclina."
+        },
+        {
+          "numero": 2,
+          "texto": "Todo caminho do homem é reto aos seus olhos, mas o SENHOR sonda os corações."
+        },
+        {
+          "numero": 3,
+          "texto": "Fazer justiça e julgar com retidão é mais aceitável ao SENHOR do que oferecer- lhe sacrifício."
+        },
+        {
+          "numero": 4,
+          "texto": "Olhar altivo, coração orgulhoso e até a lavoura dos ímpios são pecado."
+        },
+        {
+          "numero": 5,
+          "texto": "Os pensamentos do diligente tendem à abundância, mas os de todo apressado, tão-somente à pobreza."
+        },
+        {
+          "numero": 6,
+          "texto": "Trabalhar por ajuntar tesouro com língua falsa é uma vaidade, e aqueles que a isso são impelidos buscam a morte."
+        },
+        {
+          "numero": 7,
+          "texto": "As rapinas dos ímpios virão a destruí-los, porquanto eles recusam praticar a justiça."
+        },
+        {
+          "numero": 8,
+          "texto": "O caminho do homem perverso é inteiramente tortuoso, mas a obra do puro é reta."
+        },
+        {
+          "numero": 9,
+          "texto": "Melhor é morar n um canto de umas águas-furtadas do que com a mulher rixosa numa casa ampla."
+        },
+        {
+          "numero": 10,
+          "texto": "A alma do ímpio deseja o mal; o seu próximo não agrada aos seus olhos."
+        },
+        {
+          "numero": 11,
+          "texto": "Quando o escarnecedor é castigado, o simples torna-se sábio; e, quando o sábio é instruído, recebe o conhecimento."
+        },
+        {
+          "numero": 12,
+          "texto": "Prudentemente considera o justo a casa do ímpio, quando os ímpios são arrastados para o mal."
+        },
+        {
+          "numero": 13,
+          "texto": "O que tapa o seu ouvido ao clamor do pobre também clamará e não será ouvido."
+        },
+        {
+          "numero": 14,
+          "texto": "O presente que se dá em segredo abate a ira, e a dádiva no seio, uma forte indignação."
+        },
+        {
+          "numero": 15,
+          "texto": "Praticar a justiça é alegria para o justo, mas espanto para os que praticam a iniqüidade."
+        },
+        {
+          "numero": 16,
+          "texto": "O homem que anda desviado do caminho do entendimento na congregação dos mortos repousará."
+        },
+        {
+          "numero": 17,
+          "texto": "Necessidade padecerá o que ama os prazeres; o que ama o vinho e o azeite nunca enriquecerá."
+        },
+        {
+          "numero": 18,
+          "texto": "O resgate do justo é o ímpio; o do reto, o iníquo."
+        },
+        {
+          "numero": 19,
+          "texto": "Melhor é morar n uma terra deserta do que com a mulher rixosa e iracunda."
+        },
+        {
+          "numero": 20,
+          "texto": "Tesouro desejável e azeite há na casa do sábio, mas o homem insensato o devora."
+        },
+        {
+          "numero": 21,
+          "texto": "O que segue a justiça e a bondade achará a vida, a justiça e a honra."
+        },
+        {
+          "numero": 22,
+          "texto": "À cidade dos fortes sobe o sábio e derruba a força em que confiaram."
+        },
+        {
+          "numero": 23,
+          "texto": "O que guarda a boca e a língua guarda das angústias a sua alma."
+        },
+        {
+          "numero": 24,
+          "texto": "Quanto ao soberbo e presumido, zombador é seu nome; trata com indignação e soberba."
+        },
+        {
+          "numero": 25,
+          "texto": "O desejo do preguiçoso o mata, porque as suas mãos recusam-se a trabalhar."
+        },
+        {
+          "numero": 26,
+          "texto": "Todo o dia avidamente cobiça, mas o justo dá e nada retém."
+        },
+        {
+          "numero": 27,
+          "texto": "O sacrifício dos ímpios é abominação; quanto mais oferecendo-o com intenção maligna!"
+        },
+        {
+          "numero": 28,
+          "texto": "A testemunha mentirosa perecerá, mas o homem que ouve falará sem imputação."
+        },
+        {
+          "numero": 29,
+          "texto": "O homem ímpio endurece o seu rosto, mas o reto considera o seu caminho."
+        },
+        {
+          "numero": 30,
+          "texto": "Não há sabedoria, nem inteligência, nem conselho contra o SENHOR."
+        },
+        {
+          "numero": 31,
+          "texto": "O cavalo prepara-se para o dia da batalha, mas do SENHOR vem a vitória."
+        }
+      ]
+    },
+    {
+      "numero": 22,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Mais digno de ser escolhido é o bom nome do que as muitas riquezas; e a graça é melhor do que a riqueza e o ouro."
+        },
+        {
+          "numero": 2,
+          "texto": "O rico e o pobre se encontraram; a todos os fez o SENHOR."
+        },
+        {
+          "numero": 3,
+          "texto": "O avisado vê o mal e esconde-se; mas os simples passam e sofrem a pena."
+        },
+        {
+          "numero": 4,
+          "texto": "O galardão da humildade e o temor do SENHOR são riquezas, e honra, e vida."
+        },
+        {
+          "numero": 5,
+          "texto": "Espinhos e laços há no caminho do perverso; o que guarda a sua alma retira-se para longe dele."
+        },
+        {
+          "numero": 6,
+          "texto": "Instrui o menino no caminho em que deve andar, e, até quando envelhecer, não se desviará dele."
+        },
+        {
+          "numero": 7,
+          "texto": "O rico domina sobre os pobres, e o que toma emprestado é servo do que empresta."
+        },
+        {
+          "numero": 8,
+          "texto": "O que semear a perversidade segará males; e a vara da sua indignação falhará."
+        },
+        {
+          "numero": 9,
+          "texto": "O que é de bons olhos será abençoado, porque deu do seu pão ao pobre."
+        },
+        {
+          "numero": 10,
+          "texto": "Lança fora ao escarnecedor, e se irá a contenda; e cessará a questão e a vergonha."
+        },
+        {
+          "numero": 11,
+          "texto": "O que ama a pureza do coração e tem graça nos seus lábios terá por seu amigo o rei."
+        },
+        {
+          "numero": 12,
+          "texto": "Os olhos do SENHOR conservam o que tem conhecimento, mas as palavras do iníquo ele transtornará."
+        },
+        {
+          "numero": 13,
+          "texto": "Diz o preguiçoso: Um leão está lá fora; serei morto no meio das ruas."
+        },
+        {
+          "numero": 14,
+          "texto": "Cova profunda é a boca das mulheres estranhas; aquele contra quem o SENHOR se irar cairá nela."
+        },
+        {
+          "numero": 15,
+          "texto": "A estultícia está ligada ao coração do menino, mas a vara da correção a afugentará dele."
+        },
+        {
+          "numero": 16,
+          "texto": "O que oprime o pobre para se engrandecer a si ou o que dá ao rico, certamente, empobrecerá."
+        },
+        {
+          "numero": 17,
+          "texto": "Inclina o teu ouvido, e ouve as palavras dos sábios, e aplica o teu coração à minha ciência."
+        },
+        {
+          "numero": 18,
+          "texto": "Porque é coisa suave, se as guardares no teu coração, se as aplicares todas aos teus lábios."
+        },
+        {
+          "numero": 19,
+          "texto": "Para que a tua confiança esteja no SENHOR, a ti tas faço saber hoje, sim, a ti mesmo."
+        },
+        {
+          "numero": 20,
+          "texto": "Porventura, não te escrevi excelentes coisas acerca de todo conselho e conhecimento,"
+        },
+        {
+          "numero": 21,
+          "texto": "para te fazer saber a certeza das palavras de verdade, para que possas responder palavras de verdade aos que te enviarem?"
+        },
+        {
+          "numero": 22,
+          "texto": "Não roubes ao pobre, porque é pobre, nem atropeles, na porta, o aflito."
+        },
+        {
+          "numero": 23,
+          "texto": "Porque o SENHOR defenderá a sua causa em juízo, e aos que os roubam lhes tirará a vida."
+        },
+        {
+          "numero": 24,
+          "texto": "Não acompanhes o iracundo, nem andes com o homem colérico,"
+        },
+        {
+          "numero": 25,
+          "texto": "para que não aprendas as suas veredas e tomes um laço para a tua alma."
+        },
+        {
+          "numero": 26,
+          "texto": "Não estejas entre os que dão as mãos e entre os que ficam por fiadores de dívidas."
+        },
+        {
+          "numero": 27,
+          "texto": "Se não tens com que pagar, por que tirariam a tua cama de debaixo de ti?"
+        },
+        {
+          "numero": 28,
+          "texto": "Não removas os limites antigos que fizeram teus pais."
+        },
+        {
+          "numero": 29,
+          "texto": "Viste um homem diligente na sua obra? Perante reis será posto; não será posto perante os de baixa sorte."
+        }
+      ]
+    },
+    {
+      "numero": 23,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Quando te assentares a comer com um governador, atenta bem para o que se te pôs diante;"
+        },
+        {
+          "numero": 2,
+          "texto": "e põe uma faca à tua garganta, se és homem glutão."
+        },
+        {
+          "numero": 3,
+          "texto": "Não cobices os seus manjares gostosos, porque são pão de mentiras."
+        },
+        {
+          "numero": 4,
+          "texto": "Não te canses para enriqueceres; dá de mão à tua própria sabedoria."
+        },
+        {
+          "numero": 5,
+          "texto": "Porventura, fitarás os olhos naquilo que não é nada? Porque, certamente, isso se fará asas e voará ao céu como a águia."
+        },
+        {
+          "numero": 6,
+          "texto": "Não comas o pão daquele que tem os olhos malignos, nem cobices os seus manjares gostosos."
+        },
+        {
+          "numero": 7,
+          "texto": "Porque, como imaginou na sua alma, assim é; ele te dirá: Come e bebe; mas o seu coração não estará contigo."
+        },
+        {
+          "numero": 8,
+          "texto": "Vomitarias o bocado que comeste e perderias as tuas suaves palavras."
+        },
+        {
+          "numero": 9,
+          "texto": "Não fales aos ouvidos do tolo, porque desprezará a sabedoria das tuas palavras."
+        },
+        {
+          "numero": 10,
+          "texto": "Não removas os limites antigos, nem entres nas herdades dos órfãos,"
+        },
+        {
+          "numero": 11,
+          "texto": "porque o seu Redentor é forte; ele pleiteará a sua causa contra ti."
+        },
+        {
+          "numero": 12,
+          "texto": "Aplica à disciplina o teu coração e os teus ouvidos, às palavras do conhecimento."
+        },
+        {
+          "numero": 13,
+          "texto": "Não retires a disciplina da criança, porque, fustigando-a com a vara, nem por isso morrerá."
+        },
+        {
+          "numero": 14,
+          "texto": "Tu a fustigarás com a vara e livrarás a sua alma do inferno."
+        },
+        {
+          "numero": 15,
+          "texto": "Filho meu, se o teu coração for sábio, alegrar-se-á o meu coração, sim, o meu próprio."
+        },
+        {
+          "numero": 16,
+          "texto": "E exultará o meu íntimo, quando os teus lábios falarem coisas retas."
+        },
+        {
+          "numero": 17,
+          "texto": "Não tenha o teu coração inveja dos pecadores; antes, sê no temor do SENHOR todo o dia."
+        },
+        {
+          "numero": 18,
+          "texto": "Porque deveras há um fim bom; não será malograda a tua esperança."
+        },
+        {
+          "numero": 19,
+          "texto": "Ouve tu, filho meu, e sê sábio e dirige no caminho o teu coração."
+        },
+        {
+          "numero": 20,
+          "texto": "Não estejas entre os beberrões de vinho, nem entre os comilões de carne."
+        },
+        {
+          "numero": 21,
+          "texto": "Porque o beberrão e o comilão cairão em pobreza; e a sonolência faz trazer as vestes rotas."
+        },
+        {
+          "numero": 22,
+          "texto": "Ouve a teu pai, que te gerou, e não desprezes a tua mãe, quando vier a envelhecer."
+        },
+        {
+          "numero": 23,
+          "texto": "Compra a verdade e não a vendas; sim, a sabedoria, e a disciplina, e a prudência."
+        },
+        {
+          "numero": 24,
+          "texto": "Grandemente se regozijará o pai do justo, e o que gerar a um sábio se alegrará nele."
+        },
+        {
+          "numero": 25,
+          "texto": "Alegrem-se teu pai e tua mãe, e regozije-se a que te gerou."
+        },
+        {
+          "numero": 26,
+          "texto": "Dá-me, filho meu, o teu coração, e os teus olhos observem os meus caminhos."
+        },
+        {
+          "numero": 27,
+          "texto": "Porque cova profunda é a prostituta, e poço estreito, a estranha."
+        },
+        {
+          "numero": 28,
+          "texto": "Também ela, como um salteador, se põe a espreitar e multiplica entre os homens os iníquos."
+        },
+        {
+          "numero": 29,
+          "texto": "Para quem são os ais? Para quem, os pesares? Para quem, as pelejas? Para quem, as queixas? Para quem, as feridas sem causa? E para quem, os olhos vermelhos?"
+        },
+        {
+          "numero": 30,
+          "texto": "Para os que se demoram perto do vinho, para os que andam buscando bebida misturada."
+        },
+        {
+          "numero": 31,
+          "texto": "Não olhes para o vinho, quando se mostra vermelho, quando resplandece no copo e se escoa suavemente."
+        },
+        {
+          "numero": 32,
+          "texto": "No seu fim, morderá como a cobra e, como o basilisco, picará."
+        },
+        {
+          "numero": 33,
+          "texto": "Os teus olhos olharão para as mulheres estranhas, e o teu coração falará perversidades."
+        },
+        {
+          "numero": 34,
+          "texto": "E serás como o que dorme no meio do mar e como o que dorme no topo do mastro"
+        },
+        {
+          "numero": 35,
+          "texto": "e dirás: Espancaram-me, e não me doeu; bateram-me, e não o senti; quando virei a despertar? Ainda tornarei a buscá-la outra vez."
+        }
+      ]
+    },
+    {
+      "numero": 24,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Não tenhas inveja dos homens malignos, nem desejes estar com eles,"
+        },
+        {
+          "numero": 2,
+          "texto": "porque o seu coração medita a rapina, e os seus lábios falam maliciosamente."
+        },
+        {
+          "numero": 3,
+          "texto": "Com a sabedoria se edifica a casa, e com a inteligência ela se firma;"
+        },
+        {
+          "numero": 4,
+          "texto": "e pelo conhecimento se encherão as câmaras de todas as substâncias preciosas e deleitáveis."
+        },
+        {
+          "numero": 5,
+          "texto": "Um varão sábio é forte, e o varão de conhecimento consolida a força."
+        },
+        {
+          "numero": 6,
+          "texto": "Porque com conselhos prudentes tu farás a guerra; e há vitória na multidão dos conselheiros."
+        },
+        {
+          "numero": 7,
+          "texto": "É demasiadamente alta para o tolo toda a sabedoria; na porta não abrirá a boca."
+        },
+        {
+          "numero": 8,
+          "texto": "Aquele que cuida em fazer mal, mestre de maus intentos o chamarão."
+        },
+        {
+          "numero": 9,
+          "texto": "O pensamento do tolo é pecado, e é abominável aos homens o escarnecedor."
+        },
+        {
+          "numero": 10,
+          "texto": "Se te mostrares frouxo no dia da angústia, a tua força será pequena."
+        },
+        {
+          "numero": 11,
+          "texto": "Livra os que estão destinados à morte e salva os que são levados para a matança, se os puderes retirar."
+        },
+        {
+          "numero": 12,
+          "texto": "Se disseres: Eis que o não sabemos; porventura, aquele que pondera os corações não o considerará? E aquele que atenta para a tua alma não o saberá? Não pagará ele ao homem conforme a sua obra?"
+        },
+        {
+          "numero": 13,
+          "texto": "Come mel, meu filho, porque é bom, e o favo de mel, que é doce ao teu paladar."
+        },
+        {
+          "numero": 14,
+          "texto": "Tal será o conhecimento da sabedoria para a tua alma; se a achares, haverá para ti galardão, e não será cortada a tua expectação."
+        },
+        {
+          "numero": 15,
+          "texto": "Não espies a habitação do justo, ó ímpio, nem assoles a sua câmara."
+        },
+        {
+          "numero": 16,
+          "texto": "Porque sete vezes cairá o justo e se levantará; mas os ímpios tropeçarão no mal."
+        },
+        {
+          "numero": 17,
+          "texto": "Quando cair o teu inimigo, não te alegres, nem quando tropeçar se regozije o teu coração;"
+        },
+        {
+          "numero": 18,
+          "texto": "para que o SENHOR isso não veja, e seja mau aos seus olhos, e desvie dele a sua ira."
+        },
+        {
+          "numero": 19,
+          "texto": "Não te aflijas por causa dos malfeitores, nem tenhas inveja dos ímpios."
+        },
+        {
+          "numero": 20,
+          "texto": "Porque o maligno não terá galardão algum, e a lâmpada dos ímpios se apagará."
+        },
+        {
+          "numero": 21,
+          "texto": "Teme ao SENHOR, filho meu, e ao rei, e não te entremetas com os que buscam mudanças."
+        },
+        {
+          "numero": 22,
+          "texto": "Porque, de repente, se levantará a sua perdição, e a ruína deles, quem a conhecerá?"
+        },
+        {
+          "numero": 23,
+          "texto": "Também estes são provérbios dos sábios. Ter respeito a pessoas no juízo não é bom."
+        },
+        {
+          "numero": 24,
+          "texto": "O que disser ao ímpio: Justo és, os povos o amaldiçoarão, as nações o detestarão."
+        },
+        {
+          "numero": 25,
+          "texto": "Mas, para os que o repreenderem, haverá delícias, e sobre eles virá a bênção do bem."
+        },
+        {
+          "numero": 26,
+          "texto": "Beija com os lábios o que responde com palavras retas."
+        },
+        {
+          "numero": 27,
+          "texto": "Prepara fora a tua obra, e apronta-a no campo, e então edifica a tua casa."
+        },
+        {
+          "numero": 28,
+          "texto": "Não sejas testemunha sem causa contra o teu próximo; por que enganarias com os teus lábios?"
+        },
+        {
+          "numero": 29,
+          "texto": "Não digas: Como ele me fez a mim, assim lhe farei a ele; pagarei a cada um segundo a sua obra."
+        },
+        {
+          "numero": 30,
+          "texto": "Passei pelo campo do preguiçoso e junto à vinha do homem falto de entendimento;"
+        },
+        {
+          "numero": 31,
+          "texto": "e eis que toda estava cheia de cardos, e a sua superfície, coberta de urtigas, e a sua parede de pedra estava derribada."
+        },
+        {
+          "numero": 32,
+          "texto": "O que tendo eu visto, o considerei; e, vendo- o, recebi instrução."
+        },
+        {
+          "numero": 33,
+          "texto": "Um pouco de sono, adormecendo um pouco, encruzando as mãos outro pouco, para estar deitado,"
+        },
+        {
+          "numero": 34,
+          "texto": "assim sobrevirá a tua pobreza como um ladrão, e a tua necessidade, como um homem armado."
+        }
+      ]
+    },
+    {
+      "numero": 25,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Também estes são provérbios de Salomão, os quais transcreveram os homens de Ezequias, rei de Judá."
+        },
+        {
+          "numero": 2,
+          "texto": "A glória de Deus é encobrir o negócio, mas a glória dos reis é tudo investigar."
+        },
+        {
+          "numero": 3,
+          "texto": "Para a altura dos céus, e para a profundeza da terra, e para o coração dos reis, não há investigação alguma."
+        },
+        {
+          "numero": 4,
+          "texto": "Tira da prata as escórias, e sairá vaso para o fundidor."
+        },
+        {
+          "numero": 5,
+          "texto": "Tira o ímpio da presença do rei, e o seu trono se firmará na justiça."
+        },
+        {
+          "numero": 6,
+          "texto": "Não te glories na presença do rei, nem te ponhas no lugar dos grandes;"
+        },
+        {
+          "numero": 7,
+          "texto": "porque melhor é que te digam: Sobe para aqui, do que seres humilhado diante do príncipe a quem já os teus olhos viram."
+        },
+        {
+          "numero": 8,
+          "texto": "Não te apresses a litigar, para depois, ao fim, não saberes o que hás de fazer, podendo-te confundir o teu próximo."
+        },
+        {
+          "numero": 9,
+          "texto": "Pleiteia a tua causa com o teu próximo mesmo e não descubras o segredo de outro;"
+        },
+        {
+          "numero": 10,
+          "texto": "para que não te desonre o que o ouvir, não se apartando de ti a infâmia."
+        },
+        {
+          "numero": 11,
+          "texto": "Como maçãs de ouro em salvas de prata, assim é a palavra dita a seu tempo."
+        },
+        {
+          "numero": 12,
+          "texto": "Como pendentes de ouro e gargantilhas de ouro fino, assim é o sábio repreensor para o ouvido ouvinte."
+        },
+        {
+          "numero": 13,
+          "texto": "Como frieza de neve no tempo da sega, assim é o mensageiro fiel para com os que o enviam; porque alegra a alma dos seus senhores."
+        },
+        {
+          "numero": 14,
+          "texto": "Como nuvens e ventos que não trazem chuva, assim é o homem que se gaba falsamente de dádivas."
+        },
+        {
+          "numero": 15,
+          "texto": "Pela longanimidade se persuade o príncipe, e a língua branda quebranta os ossos."
+        },
+        {
+          "numero": 16,
+          "texto": "Achaste mel? Come o que te basta; para que, porventura, não te fartes dele e o venhas a vomitar."
+        },
+        {
+          "numero": 17,
+          "texto": "Retira o pé da casa do teu próximo, para que se não enfade de ti e te aborreça."
+        },
+        {
+          "numero": 18,
+          "texto": "Martelo, e espada, e flecha aguda é o homem que levanta falso testemunho contra o seu próximo."
+        },
+        {
+          "numero": 19,
+          "texto": "Como dente quebrado e pé deslocado, assim é a confiança no desleal, no tempo da angústia."
+        },
+        {
+          "numero": 20,
+          "texto": "O que entoa canções junto ao coração aflito é como aquele que se despe num dia de frio e como vinagre sobre salitre."
+        },
+        {
+          "numero": 21,
+          "texto": "Se o que te aborrece tiver fome, dá-lhe pão para comer; e, se tiver sede, dá-lhe água para beber,"
+        },
+        {
+          "numero": 22,
+          "texto": "porque, assim, brasas lhe amontoarás sobre a cabeça; e o SENHOR to pagará."
+        },
+        {
+          "numero": 23,
+          "texto": "O vento norte afungenta a chuva, e a língua fingida, a face irada."
+        },
+        {
+          "numero": 24,
+          "texto": "Melhor é morar num canto de umas águas-furtadas do que com a mulher rixosa numa casa ampla."
+        },
+        {
+          "numero": 25,
+          "texto": "Como água fria para uma alma cansada, assim são as boas-novas de terra remota."
+        },
+        {
+          "numero": 26,
+          "texto": "Como fonte turva e manancial corruto, assim é o justo que cai diante do ímpio."
+        },
+        {
+          "numero": 27,
+          "texto": "Comer muito mel não é bom; assim, a investigação da própria glória não é glória."
+        },
+        {
+          "numero": 28,
+          "texto": "Como a cidade derribada, que não tem muros, assim é o homem que não pode conter o seu espírito."
+        }
+      ]
+    },
+    {
+      "numero": 26,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Como a neve no verão e como a chuva na sega, assim não é conveniente ao louco a honra."
+        },
+        {
+          "numero": 2,
+          "texto": "Como o pássaro no seu vaguear, e como a andorinha no seu vôo, assim a maldição sem causa não virá."
+        },
+        {
+          "numero": 3,
+          "texto": "O açoite é para o cavalo, o freio, para o jumento, e a vara, para as costas dos tolos."
+        },
+        {
+          "numero": 4,
+          "texto": "Não respondas ao tolo segundo a sua estultícia, para que também te não faças semelhante a ele."
+        },
+        {
+          "numero": 5,
+          "texto": "Responde ao tolo segundo a sua estultícia, para que não seja sábio aos seus olhos."
+        },
+        {
+          "numero": 6,
+          "texto": "Os pés corta e o dano bebe quem manda mensagens pelas mãos de um tolo."
+        },
+        {
+          "numero": 7,
+          "texto": "Como as pernas do coxo, que pendem frouxas, assim é o provérbio na boca dos tolos."
+        },
+        {
+          "numero": 8,
+          "texto": "Como o que prende a pedra preciosa na funda, assim é aquele que dá honra ao tolo."
+        },
+        {
+          "numero": 9,
+          "texto": "Como o espinho que entra na mão do ébrio, assim é o provérbio na boca dos tolos."
+        },
+        {
+          "numero": 10,
+          "texto": "Como um besteiro que a todos espanta, assim é o que assalaria os tolos e os transgressores."
+        },
+        {
+          "numero": 11,
+          "texto": "Como o cão que torna ao seu vômito, assim é o tolo que reitera a sua estultícia."
+        },
+        {
+          "numero": 12,
+          "texto": "Tens visto um homem que é sábio a seus próprios olhos? Maior esperança há no tolo do que nele."
+        },
+        {
+          "numero": 13,
+          "texto": "Diz o preguiçoso: Um leão está no caminho; um leão está nas ruas."
+        },
+        {
+          "numero": 14,
+          "texto": "Como a porta se revolve nos seus gonzos, assim o preguiçoso, na sua cama."
+        },
+        {
+          "numero": 15,
+          "texto": "O preguiçoso esconde a mão no seio; enfada-se de a levar à sua boca."
+        },
+        {
+          "numero": 16,
+          "texto": "Mais sábio é o preguiçoso a seus olhos do que sete homens que bem respondem."
+        },
+        {
+          "numero": 17,
+          "texto": "O que, passando, se mete em questão alheia é como aquele que toma um cão pelas orelhas."
+        },
+        {
+          "numero": 18,
+          "texto": "Como o louco que lança de si faíscas, flechas e mortandades,"
+        },
+        {
+          "numero": 19,
+          "texto": "assim é o homem que engana o seu próximo e diz: Fiz isso por brincadeira."
+        },
+        {
+          "numero": 20,
+          "texto": "Sem lenha, o fogo se apagará; e, não havendo maldizente, cessará a contenda."
+        },
+        {
+          "numero": 21,
+          "texto": "Como o carvão é para o borralho, e a lenha, para o fogo, assim é o homem contencioso para acender rixas."
+        },
+        {
+          "numero": 22,
+          "texto": "As palavras do maldizente são como deliciosos bocados, que descem ao íntimo do ventre."
+        },
+        {
+          "numero": 23,
+          "texto": "Como o caco coberto de escórias de prata, assim são os lábios ardentes e o coração maligno."
+        },
+        {
+          "numero": 24,
+          "texto": "Aquele que aborrece dissimula com os seus lábios, mas no seu interior encobre o engano."
+        },
+        {
+          "numero": 25,
+          "texto": "Quando te suplicar com a sua voz, não te fies nele, porque sete abominações há no seu coração."
+        },
+        {
+          "numero": 26,
+          "texto": "Ainda que o seu ódio se encobre com engano, a sua malícia se descobrirá na congregação."
+        },
+        {
+          "numero": 27,
+          "texto": "O que faz uma cova nela cairá; e o que revolve a pedra, esta sobre ele rolará."
+        },
+        {
+          "numero": 28,
+          "texto": "A língua falsa aborrece aquele a quem ela tem maravilhado, e a boca lisonjeira opera a ruína."
+        }
+      ]
+    },
+    {
+      "numero": 27,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Não presumas do dia de amanhã, porque não sabes o que produzirá o dia."
+        },
+        {
+          "numero": 2,
+          "texto": "Louve-te o estranho, e não a tua boca, o estrangeiro, e não os teus lábios."
+        },
+        {
+          "numero": 3,
+          "texto": "Pesada é a pedra, e a areia também; mas a ira do insensato é mais pesada do que elas ambas."
+        },
+        {
+          "numero": 4,
+          "texto": "Cruel é o furor e a impetuosa ira, mas quem parará perante a inveja?"
+        },
+        {
+          "numero": 5,
+          "texto": "Melhor é a repreensão aberta do que o amor encoberto."
+        },
+        {
+          "numero": 6,
+          "texto": "Fiéis são as feridas feitas pelo que ama, mas os beijos do que aborrece são enganosos."
+        },
+        {
+          "numero": 7,
+          "texto": "A alma farta pisa o favo de mel, mas à alma faminta todo amargo é doce."
+        },
+        {
+          "numero": 8,
+          "texto": "Qual ave que vagueia longe do seu ninho, tal é o homem que anda vagueando longe do seu lugar."
+        },
+        {
+          "numero": 9,
+          "texto": "O óleo e o perfume alegram o coração; assim a doença do amigo, com o conselho cordial."
+        },
+        {
+          "numero": 10,
+          "texto": "Não abandones o teu amigo, nem o amigo de teu pai, nem entres na casa de teu irmão no dia da tua adversidade; melhor é o vizinho perto do que o irmão longe."
+        },
+        {
+          "numero": 11,
+          "texto": "Sê sábio, filho meu, e alegra o meu coração, para que tenha alguma coisa que responder àquele que me desprezar."
+        },
+        {
+          "numero": 12,
+          "texto": "O avisado vê o mal e esconde-se; mas os simples passam e sofrem a pena."
+        },
+        {
+          "numero": 13,
+          "texto": "Quando alguém fica por fiador do estranho, toma-lhe tu a sua roupa e penhora-o pela estranha."
+        },
+        {
+          "numero": 14,
+          "texto": "O que bendiz ao seu amigo em alta voz, madrugando pela manhã, por maldição se lhe contará."
+        },
+        {
+          "numero": 15,
+          "texto": "O gotejar contínuo no dia de grande chuva e a mulher rixosa, um e outro são semelhantes."
+        },
+        {
+          "numero": 16,
+          "texto": "Aquele que a contivesse, conteria o vento; e a sua destra acomete o óleo."
+        },
+        {
+          "numero": 17,
+          "texto": "Como o ferro com o ferro se aguça, assim o homem afia o rosto do seu amigo."
+        },
+        {
+          "numero": 18,
+          "texto": "O que guarda a figueira comerá do seu fruto; e o que vela pelo seu senhor será honrado."
+        },
+        {
+          "numero": 19,
+          "texto": "Como na água o rosto corresponde ao rosto, assim o coração do homem ao homem."
+        },
+        {
+          "numero": 20,
+          "texto": "O inferno e a perdição nunca se fartam, e os olhos do homem nunca se satisfazem."
+        },
+        {
+          "numero": 21,
+          "texto": "O crisol é para a prata, e o forno, para o ouro, e o homem é provado pelos louvores."
+        },
+        {
+          "numero": 22,
+          "texto": "Ainda que pisasses o tolo com uma mão de gral entre grãos de cevada pilada, não se iria dele a sua estultícia."
+        },
+        {
+          "numero": 23,
+          "texto": "Procura conhecer o estado das tuas ovelhas; põe o teu coração sobre o gado."
+        },
+        {
+          "numero": 24,
+          "texto": "Porque as riquezas não duram para sempre; e duraria a coroa de geração em geração?"
+        },
+        {
+          "numero": 25,
+          "texto": "Quando se mostrar a erva, e aparecerem os renovos, então, ajunta as ervas dos montes."
+        },
+        {
+          "numero": 26,
+          "texto": "Os cordeiros serão para te vestires, e os bodes, para o preço do campo."
+        },
+        {
+          "numero": 27,
+          "texto": "E haverá bastante leite de cabras para o teu sustento, para sustento da tua casa e para sustento das tuas criadas."
+        }
+      ]
+    },
+    {
+      "numero": 28,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Fogem os ímpios, sem que ninguém os persiga; mas qualquer justo está confiado como o filho do leão."
+        },
+        {
+          "numero": 2,
+          "texto": "Por causa da transgressão da terra, muitos são os seus príncipes, mas, por virtude de homens prudentes e sábios, ela continuará."
+        },
+        {
+          "numero": 3,
+          "texto": "O homem pobre que oprime os pobres é como chuva impetuosa, que não deixa nenhum trigo."
+        },
+        {
+          "numero": 4,
+          "texto": "Os que deixam a lei louvam o ímpio; mas os que guardam a lei pelejam contra eles."
+        },
+        {
+          "numero": 5,
+          "texto": "Os homens maus não entendem o juízo, mas os que buscam o SENHOR entendem tudo."
+        },
+        {
+          "numero": 6,
+          "texto": "Melhor é o pobre que anda na sua sinceridade do que o de caminhos perversos, ainda que seja rico."
+        },
+        {
+          "numero": 7,
+          "texto": "O que guarda a lei é filho sábio, mas o companheiro dos comilões envergonha a seu pai."
+        },
+        {
+          "numero": 8,
+          "texto": "O que aumenta a sua fazenda com usura e onzena ajunta-a para o que se compadece do pobre."
+        },
+        {
+          "numero": 9,
+          "texto": "O que desvia os seus ouvidos de ouvir a lei, até a sua oração será abominável."
+        },
+        {
+          "numero": 10,
+          "texto": "O que faz com que os retos se desviem para um mau caminho, ele mesmo cairá na sua cova; mas os sinceros herdarão o bem."
+        },
+        {
+          "numero": 11,
+          "texto": "O homem rico é sábio aos seus próprios olhos; mas o pobre que é sábio o examina."
+        },
+        {
+          "numero": 12,
+          "texto": "Quando os justos triunfam, há grande alegria; mas, quando os ímpios sobem, os homens escondem-se."
+        },
+        {
+          "numero": 13,
+          "texto": "O que encobre as suas transgressões nunca prosperará; mas o que as confessa e deixa alcançará misericórdia."
+        },
+        {
+          "numero": 14,
+          "texto": "Bem-aventurado o homem que continuamente teme; mas o que endurece o seu coração virá a cair no mal."
+        },
+        {
+          "numero": 15,
+          "texto": "Como leão bramidor e urso faminto, assim é o ímpio que domina sobre um povo pobre."
+        },
+        {
+          "numero": 16,
+          "texto": "O príncipe falto de inteligência também multiplica as opressões, mas o que aborrece a avareza prolongará os seus dias."
+        },
+        {
+          "numero": 17,
+          "texto": "O homem carregado do sangue de qualquer pessoa fugirá até à cova; ninguém o detenha."
+        },
+        {
+          "numero": 18,
+          "texto": "O que anda sinceramente salvar-se-á, mas o perverso em seus caminhos cairá logo."
+        },
+        {
+          "numero": 19,
+          "texto": "O que lavrar a sua terra virá a fartar-se de pão, mas o que segue a ociosos se fartará de pobreza."
+        },
+        {
+          "numero": 20,
+          "texto": "O homem fiel abundará em bênçãos, mas o que se apressa a enriquecer não ficará sem castigo."
+        },
+        {
+          "numero": 21,
+          "texto": "Ter respeito à aparência de pessoas não é bom, porque até por um bocado de pão o homem prevaricará."
+        },
+        {
+          "numero": 22,
+          "texto": "Aquele que tem um olho mau corre atrás das riquezas, mas não sabe que há de vir sobre ele a pobreza."
+        },
+        {
+          "numero": 23,
+          "texto": "O que repreende ao homem achará depois mais favor do que aquele que lisonjeia com a língua."
+        },
+        {
+          "numero": 24,
+          "texto": "O que rouba a seu pai ou a sua mãe e diz: Não há transgressão, companheiro é do destruidor."
+        },
+        {
+          "numero": 25,
+          "texto": "O altivo de ânimo levanta contendas, mas o que confia no SENHOR engordará."
+        },
+        {
+          "numero": 26,
+          "texto": "O que confia no seu próprio coração é insensato, mas o que anda sabiamente escapará."
+        },
+        {
+          "numero": 27,
+          "texto": "O que dá ao pobre não terá necessidade, mas o que esconde os olhos terá muitas maldições."
+        },
+        {
+          "numero": 28,
+          "texto": "Quando os ímpios sobem, os homens se escondem, mas, quando eles perecem, os justos se multiplicam."
+        }
+      ]
+    },
+    {
+      "numero": 29,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "O homem que muitas vezes repreendido endurece a cerviz será quebrantado de repente sem que haja cura."
+        },
+        {
+          "numero": 2,
+          "texto": "Quando os justos se engrandecem, o povo se alegra, mas, quando o ímpio domina, o povo suspira."
+        },
+        {
+          "numero": 3,
+          "texto": "O homem que ama a sabedoria alegra a seu pai, mas o companheiro de prostitutas desperdiça a fazenda."
+        },
+        {
+          "numero": 4,
+          "texto": "O rei com juízo sustém a terra, mas o amigo de subornos a transtorna."
+        },
+        {
+          "numero": 5,
+          "texto": "O homem que lisonjeia a seu próximo arma uma rede aos seus passos."
+        },
+        {
+          "numero": 6,
+          "texto": "Na transgressão do homem mau há laço, mas o justo canta e regozija-se."
+        },
+        {
+          "numero": 7,
+          "texto": "Informa-se o justo da causa dos pobres, mas o ímpio não compreende isso."
+        },
+        {
+          "numero": 8,
+          "texto": "Os homens escarnecedores abrasam a cidade, mas os sábios desviam a ira."
+        },
+        {
+          "numero": 9,
+          "texto": "O homem sábio que pleiteia com o tolo, quer se perturbe quer se ria, não terá descanso."
+        },
+        {
+          "numero": 10,
+          "texto": "Os homens sanguinários aborrecem aquele que é sincero, mas os retos procuram o seu bem."
+        },
+        {
+          "numero": 11,
+          "texto": "Um tolo expande toda a sua ira, mas o sábio a encobre e reprime."
+        },
+        {
+          "numero": 12,
+          "texto": "O governador que dá atenção às palavras mentirosas achará que todos os seus servos são ímpios."
+        },
+        {
+          "numero": 13,
+          "texto": "O pobre e o usurário se encontram, e o SENHOR alumia os olhos de ambos."
+        },
+        {
+          "numero": 14,
+          "texto": "O rei, que julga os pobres conforme a verdade, firmará o seu trono para sempre."
+        },
+        {
+          "numero": 15,
+          "texto": "A vara e a repreensão dão sabedoria, mas o rapaz entregue a si mesmo envergonha a sua mãe."
+        },
+        {
+          "numero": 16,
+          "texto": "Quando os ímpios se multiplicam, multiplicam-se as transgressões, mas os justos verão a sua queda."
+        },
+        {
+          "numero": 17,
+          "texto": "Castiga o teu filho, e te fará descansar e dará delícias à tua alma."
+        },
+        {
+          "numero": 18,
+          "texto": "Não havendo profecia, o povo se corrompe; mas o que guarda a lei, esse é bem-aventurado."
+        },
+        {
+          "numero": 19,
+          "texto": "O servo não se emendará com palavras, porque, ainda que te entenda, não te atenderá."
+        },
+        {
+          "numero": 20,
+          "texto": "Tens visto um homem precipitado nas suas palavras? Maior esperança há de um tolo do que dele."
+        },
+        {
+          "numero": 21,
+          "texto": "Quando alguém cria delicadamente o seu servo desde a mocidade, por derradeiro ele quererá ser seu filho."
+        },
+        {
+          "numero": 22,
+          "texto": "O homem iracundo levanta contendas; e o furioso multiplica as transgressões."
+        },
+        {
+          "numero": 23,
+          "texto": "A soberba do homem o abaterá, mas o humilde de espírito obterá honra."
+        },
+        {
+          "numero": 24,
+          "texto": "O que tem parte com o ladrão aborrece a sua própria alma; ouve maldições e não o denuncia."
+        },
+        {
+          "numero": 25,
+          "texto": "O receio do homem armará laços, mas o que confia no SENHOR será posto em alto retiro."
+        },
+        {
+          "numero": 26,
+          "texto": "Muitos buscam a face do príncipe, mas o juízo de cada um vem do SENHOR."
+        },
+        {
+          "numero": 27,
+          "texto": "Abominação é para os justos o homem iníquo, e abominação é para o ímpio o de retos caminhos."
+        }
+      ]
+    },
+    {
+      "numero": 30,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Palavras de Agur, filho de Jaque, o oráculo. Disse este varão a Itiel, a Itiel e a Ucal:"
+        },
+        {
+          "numero": 2,
+          "texto": "Na verdade, que eu sou mais bruto do que ninguém; não tenho o entendimento do homem,"
+        },
+        {
+          "numero": 3,
+          "texto": "nem aprendi a sabedoria, nem tenho o conhecimento do Santo."
+        },
+        {
+          "numero": 4,
+          "texto": "Quem subiu ao céu e desceu? Quem encerrou os ventos nos seus punhos? Quem amarrou as águas na sua roupa? Quem estabeleceu todas as extremidades da terra? Qual é o seu nome, e qual é o nome de seu filho, se é que o sabes?"
+        },
+        {
+          "numero": 5,
+          "texto": "Toda palavra de Deus é pura; escudo é para os que confiam nele."
+        },
+        {
+          "numero": 6,
+          "texto": "Nada acrescentes às suas palavras, para que não te repreenda, e sejas achado mentiroso."
+        },
+        {
+          "numero": 7,
+          "texto": "Duas coisas te pedi; não mas negues, antes que morra:"
+        },
+        {
+          "numero": 8,
+          "texto": "afasta de mim a vaidade e a palavra mentirosa; não me dês nem a pobreza nem a riqueza; mantém-me do pão da minha porção acostumada;"
+        },
+        {
+          "numero": 9,
+          "texto": "para que, porventura, de farto te não negue e diga: Quem é o SENHOR? Ou que, empobrecendo, venha a furtar e lance mão do nome de Deus."
+        },
+        {
+          "numero": 10,
+          "texto": "Não calunies o servo diante de seu senhor, para que te não amaldiçoe e fiques culpado."
+        },
+        {
+          "numero": 11,
+          "texto": "Há uma geração que amaldiçoa a seu pai e que não bendiz a sua mãe."
+        },
+        {
+          "numero": 12,
+          "texto": "Há uma geração que é pura aos seus olhos e que nunca foi lavada da sua imundícia."
+        },
+        {
+          "numero": 13,
+          "texto": "Há uma geração cujos olhos são altivos e cujas pálpebras são levantadas para cima."
+        },
+        {
+          "numero": 14,
+          "texto": "Há uma geração cujos dentes são espadas e cujos queixais são facas, para consumirem na terra os aflitos e os necessitados entre os homens."
+        },
+        {
+          "numero": 15,
+          "texto": "A sanguessuga tem duas filhas, a saber: Dá, Dá. Estas três coisas nunca se fartam; e quatro nunca dizem: Basta:"
+        },
+        {
+          "numero": 16,
+          "texto": "a sepultura, a madre estéril, a terra, que se não farta de água, e o fogo, que nunca diz: Basta."
+        },
+        {
+          "numero": 17,
+          "texto": "Os olhos que zombam do pai ou desprezam a obediência da mãe, corvos do ribeiro os arrancarão, e os pintãos da águia os comerão."
+        },
+        {
+          "numero": 18,
+          "texto": "Há três coisas que me maravilham, e a quarta não a conheço:"
+        },
+        {
+          "numero": 19,
+          "texto": "o caminho da águia no céu, o caminho da cobra na penha, o caminho do navio no meio do mar e o caminho do homem com uma virgem."
+        },
+        {
+          "numero": 20,
+          "texto": "Tal é o caminho da mulher adúltera: ela come, e limpa a sua boca, e diz: Não cometi maldade."
+        },
+        {
+          "numero": 21,
+          "texto": "Por três coisas se alvoroça a terra, e a quarta não a pode suportar:"
+        },
+        {
+          "numero": 22,
+          "texto": "pelo servo, quando reina; e pelo tolo, quando anda farto de pão;"
+        },
+        {
+          "numero": 23,
+          "texto": "pela mulher aborrecida, quando se casa; e pela serva, quando fica herdeira da sua senhora."
+        },
+        {
+          "numero": 24,
+          "texto": "Estas quatro coisas são das mais pequenas da terra, mas sábias, bem providas de sabedoria:"
+        },
+        {
+          "numero": 25,
+          "texto": "as formigas são um povo impotente; todavia, no verão preparam a sua comida;"
+        },
+        {
+          "numero": 26,
+          "texto": "os coelhos são um povo débil; e, contudo, fazem a sua casa nas rochas;"
+        },
+        {
+          "numero": 27,
+          "texto": "os gafanhotos não têm rei; e, contudo, todos saem e em bandos se repartem;"
+        },
+        {
+          "numero": 28,
+          "texto": "a aranha, que se apanha com as mãos e está nos paços dos reis."
+        },
+        {
+          "numero": 29,
+          "texto": "Há três que têm um bom andar, e o quarto passeia muito bem:"
+        },
+        {
+          "numero": 30,
+          "texto": "o leão, o mais forte entre os animais, que por ninguém torna atrás;"
+        },
+        {
+          "numero": 31,
+          "texto": "o cavalo de guerra, bem cingido pelos lombos; o bode também; e o rei, a quem se não pode resistir."
+        },
+        {
+          "numero": 32,
+          "texto": "Se procedeste loucamente, elevando-te, e se imaginaste o mal, põe a mão na boca."
+        },
+        {
+          "numero": 33,
+          "texto": "Porque o espremer do leite produz manteiga, e o espremer do nariz produz sangue, e o espremer da ira produz contenda."
+        }
+      ]
+    },
+    {
+      "numero": 31,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Palavras do rei Lemuel, a profecia que lhe ensinou sua mãe."
+        },
+        {
+          "numero": 2,
+          "texto": "Como, filho meu? E como, ó filho do meu ventre? E como, ó filho das minhas promessas?"
+        },
+        {
+          "numero": 3,
+          "texto": "Não dês às mulheres a tua força, nem os teus caminhos, ao que destrói os reis."
+        },
+        {
+          "numero": 4,
+          "texto": "Não é próprio dos reis, ó Lemuel, não é próprio dos reis beber vinho, nem dos príncipes desejar bebida forte."
+        },
+        {
+          "numero": 5,
+          "texto": "Para que não bebam, e se esqueçam do estatuto, e pervertam o juízo de todos os aflitos."
+        },
+        {
+          "numero": 6,
+          "texto": "Dai bebida forte aos que perecem, e o vinho, aos amargosos de espírito;"
+        },
+        {
+          "numero": 7,
+          "texto": "para que bebam, e se esqueçam da sua pobreza, e do seu trabalho não se lembrem mais."
+        },
+        {
+          "numero": 8,
+          "texto": "Abre a tua boca a favor do mudo, pelo direito de todos os que se acham em desolação."
+        },
+        {
+          "numero": 9,
+          "texto": "Abre a tua boca, julga retamente e faze justiça aos pobres e aos necessitados."
+        },
+        {
+          "numero": 10,
+          "texto": "Mulher virtuosa, quem a achará? O seu valor muito excede o de rubins."
+        },
+        {
+          "numero": 11,
+          "texto": "O coração do seu marido está nela confiado, e a ela nenhuma fazenda faltará."
+        },
+        {
+          "numero": 12,
+          "texto": "Ela lhe faz bem e não mal, todos os dias da sua vida."
+        },
+        {
+          "numero": 13,
+          "texto": "Busca lã e linho e trabalha de boa vontade com as suas mãos."
+        },
+        {
+          "numero": 14,
+          "texto": "É como o navio mercante: de longe traz o seu pão."
+        },
+        {
+          "numero": 15,
+          "texto": "Ainda de noite, se levanta e dá mantimento à sua casa e a tarefa às suas servas."
+        },
+        {
+          "numero": 16,
+          "texto": "Examina uma herdade e adquire-a; planta uma vinha com o fruto de suas mãos."
+        },
+        {
+          "numero": 17,
+          "texto": "Cinge os lombos de força e fortalece os braços."
+        },
+        {
+          "numero": 18,
+          "texto": "Prova e vê que é boa sua mercadoria; e a sua lâmpada não se apaga de noite."
+        },
+        {
+          "numero": 19,
+          "texto": "Estende as mãos ao fuso, e as palmas das suas mãos pegam na roca."
+        },
+        {
+          "numero": 20,
+          "texto": "Abre a mão ao aflito; e ao necessitado estende as mãos."
+        },
+        {
+          "numero": 21,
+          "texto": "Não temerá, por causa da neve, porque toda a sua casa anda forrada de roupa dobrada."
+        },
+        {
+          "numero": 22,
+          "texto": "Faz para si tapeçaria; de linho fino e de púrpura é a sua veste."
+        },
+        {
+          "numero": 23,
+          "texto": "Conhece-se o seu marido nas portas, quando se assenta com os anciãos da terra."
+        },
+        {
+          "numero": 24,
+          "texto": "Faz panos de linho fino, e vende-os, e dá cintas aos mercadores."
+        },
+        {
+          "numero": 25,
+          "texto": "A força e a glória são as suas vestes, e ri-se do dia futuro."
+        },
+        {
+          "numero": 26,
+          "texto": "Abre a boca com sabedoria, e a lei da beneficência está na sua língua."
+        },
+        {
+          "numero": 27,
+          "texto": "Olha pelo governo de sua casa e não come o pão da preguiça."
+        },
+        {
+          "numero": 28,
+          "texto": "Levantam-se seus filhos, e chamam-na bem-aventurada; como também seu marido, que a louva, dizendo:"
+        },
+        {
+          "numero": 29,
+          "texto": "Muitas filhas agiram virtuosamente, mas tu a todas és superior."
+        },
+        {
+          "numero": 30,
+          "texto": "Enganosa é a graça, e vaidade, a formosura, mas a mulher que teme ao SENHOR, essa será louvada."
+        },
+        {
+          "numero": 31,
+          "texto": "Dai-lhe do fruto das suas mãos, e louvem-na nas portas as suas obras."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4498 @@
+{
+  "livro": "Jó",
+  "identificador": "jo",
+  "testamento": "Antigo Testamento",
+  "traducao": "JFAC1948",
+  "capitulos": [
+    {
+      "numero": 1,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Havia um homem na terra de Uz, cujo nome era Jó; e este era homem sincero, reto e temente a Deus; e desviava-se do mal."
+        },
+        {
+          "numero": 2,
+          "texto": "E nasceram-lhe sete filhos e três filhas."
+        },
+        {
+          "numero": 3,
+          "texto": "E era o seu gado sete mil ovelhas, e três mil camelos, e quinhentas juntas de bois, e quinhentas jumentas; era também muitíssima a gente ao seu serviço, de maneira que este homem era maior do que todos os do Oriente."
+        },
+        {
+          "numero": 4,
+          "texto": "E iam seus filhos e faziam banquetes em casa de cada um no seu dia; e enviavam e convidavam as suas três irmãs a comerem e beberem com eles."
+        },
+        {
+          "numero": 5,
+          "texto": "Sucedia, pois, que, tendo decorrido o turno de dias de seus banquetes, enviava Jó, e os santificava, e se levantava de madrugada, e oferecia holocaustos segundo o número de todos eles; porque dizia Jó: Porventura, pecaram meus filhos e blasfemaram de Deus no seu coração. Assim o fazia Jó continuamente."
+        },
+        {
+          "numero": 6,
+          "texto": "E vindo um dia em que os filhos de Deus vieram apresentar-se perante o SENHOR, veio também Satanás entre eles."
+        },
+        {
+          "numero": 7,
+          "texto": "Então, o SENHOR disse a Satanás: De onde vens? E Satanás respondeu ao SENHOR e disse: De rodear a terra e passear por ela."
+        },
+        {
+          "numero": 8,
+          "texto": "E disse o SENHOR a Satanás: Observaste tu a meu servo Jó? Porque ninguém há na terra semelhante a ele, homem sincero, e reto, e temente a Deus, e desviando-se do mal."
+        },
+        {
+          "numero": 9,
+          "texto": "Então, respondeu Satanás ao SENHOR e disse: Porventura, teme Jó a Deus debalde?"
+        },
+        {
+          "numero": 10,
+          "texto": "Porventura, não o cercaste tu de bens a ele, e a sua casa, e a tudo quanto tem? A obra de suas mãos abençoaste, e o seu gado está aumentado na terra."
+        },
+        {
+          "numero": 11,
+          "texto": "Mas estende a tua mão, e toca- lhe em tudo quanto tem, e verás se não blasfema de ti na tua face!"
+        },
+        {
+          "numero": 12,
+          "texto": "E disse o SENHOR a Satanás: Eis que tudo quanto tem está na tua mão; somente contra ele não estendas a tua mão. E Satanás saiu da presença do SENHOR."
+        },
+        {
+          "numero": 13,
+          "texto": "E sucedeu um dia, em que seus filhos e suas filhas comiam e bebiam vinho na casa de seu irmão primogênito,"
+        },
+        {
+          "numero": 14,
+          "texto": "que veio um mensageiro a Jó e lhe disse: Os bois lavravam, e as jumentas pasciam junto a eles;"
+        },
+        {
+          "numero": 15,
+          "texto": "e eis que deram sobre eles os sabeus, e os tomaram, e aos moços feriram ao fio da espada; e eu somente escapei, para te trazer a nova."
+        },
+        {
+          "numero": 16,
+          "texto": "Estando este ainda falando, veio outro e disse: Fogo de Deus caiu do céu, e queimou as ovelhas e os moços, e os consumiu; e só eu escapei, para te trazer a nova."
+        },
+        {
+          "numero": 17,
+          "texto": "Estando ainda este falando, veio outro e disse: Ordenando os caldeus três bandos, deram sobre os camelos, e os tomaram, e aos moços feriram ao fio da espada; e só eu escapei, para te trazer a nova."
+        },
+        {
+          "numero": 18,
+          "texto": "Estando ainda este falando veio outro e disse: Estando teus filhos e tuas filhas comendo e bebendo vinho, em casa de seu irmão primogênito,"
+        },
+        {
+          "numero": 19,
+          "texto": "eis que um grande vento sobreveio dalém do deserto, e deu nos quatro cantos da casa, a qual caiu sobre os jovens, e morreram; e só eu escapei, para te trazer a nova."
+        },
+        {
+          "numero": 20,
+          "texto": "Então, Jó se levantou, e rasgou o seu manto, e rapou a sua cabeça, e se lançou em terra, e adorou,"
+        },
+        {
+          "numero": 21,
+          "texto": "e disse: Nu saí do ventre de minha mãe e nu tornarei para lá; o SENHOR o deu e o SENHOR o tomou; bendito seja o nome do SENHOR."
+        },
+        {
+          "numero": 22,
+          "texto": "Em tudo isto Jó não pecou, nem atribuiu a Deus falta alguma."
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "E, vindo outro dia, em que os filhos de Deus vieram apresentar-se perante o SENHOR, veio também Satanás entre eles apresentar-se perante o SENHOR."
+        },
+        {
+          "numero": 2,
+          "texto": "Então, o SENHOR disse a Satanás: De onde vens? E respondeu Satanás ao SENHOR e disse: De rodear a terra e passear por ela."
+        },
+        {
+          "numero": 3,
+          "texto": "E disse o SENHOR a Satanás: Observaste o meu servo Jó? Porque ninguém há na terra semelhante a ele, homem sincero e reto, temente a Deus, desviando-se do mal, e que ainda retém a sua sinceridade, havendo-me tu incitado contra ele, para o consumir sem causa."
+        },
+        {
+          "numero": 4,
+          "texto": "Então, Satanás respondeu ao SENHOR e disse: Pele por pele, e tudo quanto o homem tem dará pela sua vida."
+        },
+        {
+          "numero": 5,
+          "texto": "Estende, porém, a tua mão, e toca-lhe nos ossos e na carne, e verás se não blasfema de ti na tua face!"
+        },
+        {
+          "numero": 6,
+          "texto": "E disse o SENHOR a Satanás: Eis que ele está na tua mão; poupa, porém, a sua vida."
+        },
+        {
+          "numero": 7,
+          "texto": "Então, saiu Satanás da presença do SENHOR e feriu a Jó de uma chaga maligna, desde a planta do pé até ao alto da cabeça."
+        },
+        {
+          "numero": 8,
+          "texto": "E Jó, tomando um pedaço de telha para raspar com ele as feridas, assentou-se no meio da cinza."
+        },
+        {
+          "numero": 9,
+          "texto": "Então, sua mulher lhe disse: Ainda reténs a tua sinceridade? Amaldiçoa a Deus e morre."
+        },
+        {
+          "numero": 10,
+          "texto": "Mas ele lhe disse: Como fala qualquer doida, assim falas tu; receberemos o bem de Deus e não receberíamos o mal? Em tudo isto não pecou Jó com os seus lábios."
+        },
+        {
+          "numero": 11,
+          "texto": "Ouvindo, pois, três amigos de Jó todo este mal que tinha vindo sobre ele, vieram, cada um do seu lugar: Elifaz, o temanita, e Bildade, o suíta, e Zofar, o naamatita; e concertaram juntamente virem condoer-se dele e consolá-lo."
+        },
+        {
+          "numero": 12,
+          "texto": "E, levantando de longe os olhos e não o conhecendo, levantaram a voz e choraram; e rasgando cada um o seu manto, sobre a cabeça lançaram pó ao ar."
+        },
+        {
+          "numero": 13,
+          "texto": "E se assentaram juntamente com ele na terra, sete dias e sete noites; e nenhum lhe dizia palavra alguma, porque viam que a dor era muito grande."
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Depois disto, abriu Jó a boca e amaldiçoou o seu dia."
+        },
+        {
+          "numero": 2,
+          "texto": "E Jó, falando, disse:"
+        },
+        {
+          "numero": 3,
+          "texto": "Pereça o dia em que nasci, e a noite em que se disse: Foi concebido um homem!"
+        },
+        {
+          "numero": 4,
+          "texto": "Converta-se aquele dia em trevas; e Deus, lá de cima, não tenha cuidado dele, nem resplandeça sobre ele a luz!"
+        },
+        {
+          "numero": 5,
+          "texto": "Contaminem-no as trevas e a sombra da morte; habitem sobre ele nuvens; negros vapores do dia o espantem!"
+        },
+        {
+          "numero": 6,
+          "texto": "A escuridão tome aquela noite, e não se goze entre os dias do ano, e não entre no número dos meses!"
+        },
+        {
+          "numero": 7,
+          "texto": "Ah! Que solitária seja aquela noite e suave música não entre nela!"
+        },
+        {
+          "numero": 8,
+          "texto": "Amaldiçoem-na aqueles que amaldiçoam o dia, que estão prontos para fazer correr o seu pranto."
+        },
+        {
+          "numero": 9,
+          "texto": "Escureçam-se as estrelas do seu crepúsculo; que espere a luz, e não venha; e não veja as pestanas dos olhos da alva!"
+        },
+        {
+          "numero": 10,
+          "texto": "Porquanto não fechou as portas do ventre, nem escondeu dos meus olhos a canseira."
+        },
+        {
+          "numero": 11,
+          "texto": "Por que não morri eu desde a madre e, em saindo do ventre, não expirei?"
+        },
+        {
+          "numero": 12,
+          "texto": "Por que me receberam os joelhos? E por que os peitos, para que mamasse?"
+        },
+        {
+          "numero": 13,
+          "texto": "Porque já agora jazeria e repousaria; dormiria, e, então, haveria repouso para mim,"
+        },
+        {
+          "numero": 14,
+          "texto": "com os reis e conselheiros da terra que para si edificavam casas nos lugares assolados,"
+        },
+        {
+          "numero": 15,
+          "texto": "ou com os príncipes que tinham ouro, que enchiam as suas casas de prata;"
+        },
+        {
+          "numero": 16,
+          "texto": "ou, como aborto oculto, não existiria; como as crianças que nunca viram a luz."
+        },
+        {
+          "numero": 17,
+          "texto": "Ali, os maus cessam de perturbar; e, ali, repousam os cansados."
+        },
+        {
+          "numero": 18,
+          "texto": "Ali, os presos juntamente repousam e não ouvem a voz do exator."
+        },
+        {
+          "numero": 19,
+          "texto": "Ali, está o pequeno e o grande, e o servo fica livre de seu senhor."
+        },
+        {
+          "numero": 20,
+          "texto": "Por que se dá luz ao miserável, e vida aos amargurados de ânimo,"
+        },
+        {
+          "numero": 21,
+          "texto": "que esperam a morte, e ela não vem; e cavam em procura dela mais do que de tesouros ocultos;"
+        },
+        {
+          "numero": 22,
+          "texto": "que de alegria saltam, e exultam, achando a sepultura?"
+        },
+        {
+          "numero": 23,
+          "texto": "Por que se dá luz ao homem, cujo caminho é oculto, e a quem Deus o encobriu?"
+        },
+        {
+          "numero": 24,
+          "texto": "Porque antes do meu pão vem o meu suspiro; e os meus gemidos se derramam como água."
+        },
+        {
+          "numero": 25,
+          "texto": "Por que o que eu temia me veio, e o que receava me aconteceu?"
+        },
+        {
+          "numero": 26,
+          "texto": "Nunca estive descansado, nem sosseguei, nem repousei, mas veio sobre mim a perturbação."
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Então, respondeu Elifaz, o temanita, e disse:"
+        },
+        {
+          "numero": 2,
+          "texto": "Se intentarmos falar-te, enfadar-te-ás? Mas quem poderá conter as palavras?"
+        },
+        {
+          "numero": 3,
+          "texto": "Eis que ensinaste a muitos e esforçaste as mãos fracas."
+        },
+        {
+          "numero": 4,
+          "texto": "As tuas palavras levantaram os que tropeçavam, e os joelhos desfalecentes fortificaste."
+        },
+        {
+          "numero": 5,
+          "texto": "Mas agora a ti te vem, e te enfadas; e, tocando-te a ti, te perturbas."
+        },
+        {
+          "numero": 6,
+          "texto": "Porventura, não era o teu temor de Deus a tua confiança, e a tua esperança, a sinceridade dos teus caminhos?"
+        },
+        {
+          "numero": 7,
+          "texto": "Lembra-te, agora: qual é o inocente que jamais pereceu? E onde foram os sinceros destruídos?"
+        },
+        {
+          "numero": 8,
+          "texto": "Segundo eu tenho visto, os que lavram iniqüidade e semeiam o mal segam isso mesmo."
+        },
+        {
+          "numero": 9,
+          "texto": "Com o hálito de Deus perecem; e com o assopro da sua ira se consomem."
+        },
+        {
+          "numero": 10,
+          "texto": "O bramido do leão, e a voz do leão feroz, e os dentes dos leõezinhos se quebrantam."
+        },
+        {
+          "numero": 11,
+          "texto": "Perece o leão velho, porque não há presa, e os filhos da leoa andam dispersos."
+        },
+        {
+          "numero": 12,
+          "texto": "Uma palavra se me disse em segredo; e os meus ouvidos perceberam um sussurro dela."
+        },
+        {
+          "numero": 13,
+          "texto": "Entre pensamentos de visões da noite, quando cai sobre os homens o sono profundo,"
+        },
+        {
+          "numero": 14,
+          "texto": "sobreveio-me o espanto e o tremor, e todos os meus ossos estremeceram."
+        },
+        {
+          "numero": 15,
+          "texto": "Então, um espírito passou por diante de mim; fez-me arrepiar os cabelos da minha carne;"
+        },
+        {
+          "numero": 16,
+          "texto": "parou ele, mas não conheci a sua feição; um vulto estava diante dos meus olhos; e, calando-me, ouvi uma voz que dizia:"
+        },
+        {
+          "numero": 17,
+          "texto": "Seria, porventura, o homem mais justo do que Deus? Seria, porventura, o varão mais puro do que o seu Criador?"
+        },
+        {
+          "numero": 18,
+          "texto": "Eis que nos seus servos não confia e nos seus anjos encontra loucura;"
+        },
+        {
+          "numero": 19,
+          "texto": "quanto mais naqueles que habitam em casas de lodo, cujo fundamento está no pó, e são machucados como a traça!"
+        },
+        {
+          "numero": 20,
+          "texto": "Desde de manhã até à tarde são despedaçados; e eternamente perecem, sem que disso se faça caso."
+        },
+        {
+          "numero": 21,
+          "texto": "Porventura, não passa com eles a sua excelência? Morrem, mas sem sabedoria."
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Chama agora; há alguém que te responda? E para qual dos santos te virarás?"
+        },
+        {
+          "numero": 2,
+          "texto": "Porque a ira destrói o louco; e o zelo mata o tolo."
+        },
+        {
+          "numero": 3,
+          "texto": "Bem vi eu o louco lançar raízes; mas logo amaldiçoei a sua habitação."
+        },
+        {
+          "numero": 4,
+          "texto": "Seus filhos estão longe da salvação; e são despedaçados às portas, e não há quem os livre."
+        },
+        {
+          "numero": 5,
+          "texto": "A sua messe a devora o faminto, que até dentre os espinhos a tira; e o salteador traga a sua fazenda."
+        },
+        {
+          "numero": 6,
+          "texto": "Porque do pó não procede a aflição, nem da terra brota o trabalho."
+        },
+        {
+          "numero": 7,
+          "texto": "Mas o homem nasce para o trabalho, como as faíscas das brasas se levantam para voar."
+        },
+        {
+          "numero": 8,
+          "texto": "Mas quanto a mim eu buscaria a Deus, e a ele dirigiria a minha fala."
+        },
+        {
+          "numero": 9,
+          "texto": "Ele faz coisas tão grandiosas, que se não podem esquadrinhar; e tantas maravilhas que se não podem contar."
+        },
+        {
+          "numero": 10,
+          "texto": "Ele dá a chuva sobre a terra e envia água sobre os campos,"
+        },
+        {
+          "numero": 11,
+          "texto": "para pôr os abatidos num lugar alto; e para que os enlutados se exaltem na salvação."
+        },
+        {
+          "numero": 12,
+          "texto": "Ele aniquila as imaginações dos astutos, para que as suas mãos não possam levar coisa alguma a efeito."
+        },
+        {
+          "numero": 13,
+          "texto": "Ele apanha os sábios na sua própria astúcia; e o conselho dos perversos se precipita."
+        },
+        {
+          "numero": 14,
+          "texto": "Eles, de dia, encontram as trevas; e, ao meio-dia, andam como de noite, às apalpadelas."
+        },
+        {
+          "numero": 15,
+          "texto": "Mas ao necessitado livra da espada da sua boca, e da mão do forte."
+        },
+        {
+          "numero": 16,
+          "texto": "Assim, há esperança para o pobre; e a iniqüidade tapa a sua própria boca."
+        },
+        {
+          "numero": 17,
+          "texto": "Eis que bem-aventurado é o homem a quem Deus castiga; não desprezes, pois, o castigo do Todo-poderoso."
+        },
+        {
+          "numero": 18,
+          "texto": "Porque ele faz a chaga, e ele mesmo a liga; ele fere, e as suas mãos curam."
+        },
+        {
+          "numero": 19,
+          "texto": "Em seis angústias, te livrará; e, na sétima, o mal te não tocará."
+        },
+        {
+          "numero": 20,
+          "texto": "Na fome, te livrará da morte; e, na guerra, da violência da espada."
+        },
+        {
+          "numero": 21,
+          "texto": "Do açoite da língua estarás abrigado; e não temerás a assolação, quando vier."
+        },
+        {
+          "numero": 22,
+          "texto": "Da assolação e da fome te rirás; e os animais da terra não temerás."
+        },
+        {
+          "numero": 23,
+          "texto": "Porque até com as pedras do campo terás a tua aliança; e os animais do campo estarão contigo."
+        },
+        {
+          "numero": 24,
+          "texto": "E saberás que a tua tenda está em paz; e visitarás a tua habitação, e nada te faltará."
+        },
+        {
+          "numero": 25,
+          "texto": "Também saberás que se multiplicará a tua semente, e a tua posteridade, como a erva da terra."
+        },
+        {
+          "numero": 26,
+          "texto": "Na velhice virás à sepultura, como se recolhe o feixe de trigo a seu tempo."
+        },
+        {
+          "numero": 27,
+          "texto": "Eis que isto já o havemos inquirido, e assim é; ouve-o e medita nisso para teu bem."
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Então, Jó respondeu e disse:"
+        },
+        {
+          "numero": 2,
+          "texto": "Oh! Se a minha mágoa retamente se pesasse, e a minha miséria juntamente se pusesse numa balança!"
+        },
+        {
+          "numero": 3,
+          "texto": "Porque, na verdade, mais pesada seria do que a areia dos mares; por isso é que as minhas palavras têm sido inconsideradas."
+        },
+        {
+          "numero": 4,
+          "texto": "Porque as flechas do Todo-poderoso estão em mim, e o seu ardente veneno, o bebe o meu espírito; os terrores de Deus se armam contra mim."
+        },
+        {
+          "numero": 5,
+          "texto": "Porventura, zurrará o jumento montês junto à relva? Ou berrará o boi junto ao seu pasto?"
+        },
+        {
+          "numero": 6,
+          "texto": "Ou comer-se-á sem sal o que é insípido? Ou haverá gosto na clara do ovo?"
+        },
+        {
+          "numero": 7,
+          "texto": "A minha alma recusa tocar em vossas palavras, pois são como a minha comida fastienta."
+        },
+        {
+          "numero": 8,
+          "texto": "Quem dera que se cumprisse o meu desejo, e que Deus me desse o que espero!"
+        },
+        {
+          "numero": 9,
+          "texto": "E que Deus quisesse quebrantar-me, e soltasse a sua mão, e acabasse comigo!"
+        },
+        {
+          "numero": 10,
+          "texto": "Isto ainda seria a minha consolação e me refrigeraria no meu tormento, não me poupando ele; porque não repulsei as palavras do Santo."
+        },
+        {
+          "numero": 11,
+          "texto": "Qual é a minha força, para que eu espere? Ou qual é o meu fim, para que prolongue a minha vida?"
+        },
+        {
+          "numero": 12,
+          "texto": "É, porventura, a minha força a força da pedra? Ou é de cobre a minha carne?"
+        },
+        {
+          "numero": 13,
+          "texto": "Está em mim a minha ajuda? Não me desamparou todo auxílio eficaz?"
+        },
+        {
+          "numero": 14,
+          "texto": "Ao que está aflito devia o amigo mostrar compaixão, ainda ao que deixasse o temor do Todo-poderoso."
+        },
+        {
+          "numero": 15,
+          "texto": "Meus irmãos aleivosamente me trataram; são como um ribeiro, como a torrente dos ribeiros que passam,"
+        },
+        {
+          "numero": 16,
+          "texto": "que estão encobertos com a geada, e neles se esconde a neve."
+        },
+        {
+          "numero": 17,
+          "texto": "No tempo em que se derretem com o calor, se desfazem; e, em se aquentando, desaparecem do seu lugar."
+        },
+        {
+          "numero": 18,
+          "texto": "Desviam-se as caravanas dos seus caminhos; sobem ao vácuo e perecem."
+        },
+        {
+          "numero": 19,
+          "texto": "Os caminhantes de Temá os vêem; os passageiros de Sabá olham para eles."
+        },
+        {
+          "numero": 20,
+          "texto": "Foram envergonhados por terem confiado; e, chegando ali, se confundem."
+        },
+        {
+          "numero": 21,
+          "texto": "Agora, sois semelhantes a eles; vistes o terror e temestes."
+        },
+        {
+          "numero": 22,
+          "texto": "Disse- vos eu: dai-me ou oferecei-me da vossa fazenda presentes?"
+        },
+        {
+          "numero": 23,
+          "texto": "Ou: livrai-me das mãos do opressor? Ou: redimi-me das mãos dos tiranos?"
+        },
+        {
+          "numero": 24,
+          "texto": "Ensinai-me, e eu me calarei; e dai-me a entender em que errei."
+        },
+        {
+          "numero": 25,
+          "texto": "Oh! Quão fortes são as palavras da boa razão! Mas que é o que censura a vossa argüição?"
+        },
+        {
+          "numero": 26,
+          "texto": "Porventura, buscareis palavras para me repreenderdes, visto que as razões do desesperado são como vento?"
+        },
+        {
+          "numero": 27,
+          "texto": "Mas, antes, lançais sortes sobre o órfão e especulais com o vosso amigo."
+        },
+        {
+          "numero": 28,
+          "texto": "Agora, pois, se sois servidos, olhai para mim; e vede se minto em vossa presença."
+        },
+        {
+          "numero": 29,
+          "texto": "Voltai, pois, não haja iniqüidade; voltai, sim, que a minha causa é justa."
+        },
+        {
+          "numero": 30,
+          "texto": "Há, porventura, iniqüidade na minha língua? Ou não poderia o meu paladar dar a entender as minhas misérias?"
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Porventura, não tem o homem guerra sobre a terra? E não são os seus dias como os dias do jornaleiro?"
+        },
+        {
+          "numero": 2,
+          "texto": "Como o cervo que suspira pela sombra, e como o jornaleiro que espera pela sua paga,"
+        },
+        {
+          "numero": 3,
+          "texto": "assim me deram por herança meses de vaidade, e noites de trabalho me prepararam."
+        },
+        {
+          "numero": 4,
+          "texto": "Deitando-me a dormir, então, digo: quando me levantarei? Mas comprida é a noite, e farto-me de me voltar na cama até à alva."
+        },
+        {
+          "numero": 5,
+          "texto": "A minha carne se tem vestido de bichos e de torrões de pó; a minha pele está gretada e se fez abominável."
+        },
+        {
+          "numero": 6,
+          "texto": "Os meus dias são mais velozes do que a lançadeira do tecelão e perecem sem esperança."
+        },
+        {
+          "numero": 7,
+          "texto": "Lembra-te de que a minha vida é como o vento; os meus olhos não tornarão a ver o bem."
+        },
+        {
+          "numero": 8,
+          "texto": "Os olhos dos que agora me vêem não me verão mais; os teus olhos estarão sobre mim, mas não serei mais."
+        },
+        {
+          "numero": 9,
+          "texto": "Tal como a nuvem se desfaz e passa, aquele que desce à sepultura nunca tornará a subir."
+        },
+        {
+          "numero": 10,
+          "texto": "Nunca mais tornará à sua casa, nem o seu lugar jamais o conhecerá."
+        },
+        {
+          "numero": 11,
+          "texto": "Por isso, não reprimirei a minha boca; falarei na angústia do meu espírito; queixar-me-ei na amargura da minha alma."
+        },
+        {
+          "numero": 12,
+          "texto": "Sou eu, porventura, o mar, ou a baleia, para que me ponhas uma guarda?"
+        },
+        {
+          "numero": 13,
+          "texto": "Dizendo eu: Consolar-me-á a minha cama, meu leito aliviará a minha ânsia!"
+        },
+        {
+          "numero": 14,
+          "texto": "Então, me espantas com sonhos e com visões me assombras;"
+        },
+        {
+          "numero": 15,
+          "texto": "pelo que a minha alma escolheria, antes, a estrangulação; e, antes, a morte do que estes meus ossos."
+        },
+        {
+          "numero": 16,
+          "texto": "A minha vida abomino, pois não viverei para sempre; retira-te de mim, pois vaidade são os meus dias."
+        },
+        {
+          "numero": 17,
+          "texto": "Que é o homem, para que tanto o estimes, e ponhas sobre ele o teu coração,"
+        },
+        {
+          "numero": 18,
+          "texto": "e cada manhã o visites, e cada momento o proves?"
+        },
+        {
+          "numero": 19,
+          "texto": "Até quando me não deixarás, nem me largarás, até que engula a minha saliva?"
+        },
+        {
+          "numero": 20,
+          "texto": "Se pequei, que te farei, ó Guarda dos homens? Por que fizeste de mim um alvo para ti, para que a mim mesmo me seja pesado?"
+        },
+        {
+          "numero": 21,
+          "texto": "E por que me não perdoas a minha transgressão, e não tiras a minha iniqüidade? Pois agora me deitarei no pó, e de madrugada me buscarás, e não estarei lá."
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Então, respondeu Bildade, o suíta, e disse:"
+        },
+        {
+          "numero": 2,
+          "texto": "Até quando falarás tais coisas, e as razões da tua boca serão qual vento impetuoso?"
+        },
+        {
+          "numero": 3,
+          "texto": "Porventura, perverteria Deus o direito, e perverteria o Todo-poderoso a justiça?"
+        },
+        {
+          "numero": 4,
+          "texto": "Se teus filhos pecaram contra ele, também ele os lançou na mão da sua transgressão."
+        },
+        {
+          "numero": 5,
+          "texto": "Mas, se tu de madrugada buscares a Deus e ao Todo-poderoso pedires misericórdia,"
+        },
+        {
+          "numero": 6,
+          "texto": "se fores puro e reto, certamente, logo despertará por ti e restaurará a morada da tua justiça."
+        },
+        {
+          "numero": 7,
+          "texto": "O teu princípio, na verdade, terá sido pequeno, mas o teu último estado crescerá em extremo."
+        },
+        {
+          "numero": 8,
+          "texto": "Porque, eu te peço, pergunta agora às gerações passadas e prepara-te para a inquirição de seus pais."
+        },
+        {
+          "numero": 9,
+          "texto": "Porque nós somos de ontem e nada sabemos; porquanto nossos dias sobre a terra são como a sombra."
+        },
+        {
+          "numero": 10,
+          "texto": "Porventura, não te ensinarão eles, e não te falarão, e do seu coração não tirarão razões?"
+        },
+        {
+          "numero": 11,
+          "texto": "Porventura, sobe o junco sem lodo? Ou cresce a espadana sem água?"
+        },
+        {
+          "numero": 12,
+          "texto": "Estando ainda na sua verdura, e ainda não cortada, todavia, antes de qualquer outra erva, se seca."
+        },
+        {
+          "numero": 13,
+          "texto": "Assim são as veredas de todos quantos se esquecem de Deus; e a esperança do hipócrita perecerá."
+        },
+        {
+          "numero": 14,
+          "texto": "A sua esperança fica frustrada, e a sua confiança será como a teia de aranha;"
+        },
+        {
+          "numero": 15,
+          "texto": "encostar-se-á à sua casa, e ela não se terá firme; ampará-la-á, e ela não ficará em pé;"
+        },
+        {
+          "numero": 16,
+          "texto": "está sumarento antes que venha o sol, e os seus renovos saem sobre o seu jardim;"
+        },
+        {
+          "numero": 17,
+          "texto": "as suas raízes se entrelaçam junto à fonte; para o pedregal atenta;"
+        },
+        {
+          "numero": 18,
+          "texto": "desaparecendo ele do seu lugar, negá-lo-á este, dizendo: Nunca te vi;"
+        },
+        {
+          "numero": 19,
+          "texto": "eis que este é alegria do seu caminho, e outros brotarão do pó."
+        },
+        {
+          "numero": 20,
+          "texto": "Eis que Deus não rejeitará ao reto; nem toma pela mão aos malfeitores;"
+        },
+        {
+          "numero": 21,
+          "texto": "até que de riso te encha a boca, e os teus lábios, de louvor."
+        },
+        {
+          "numero": 22,
+          "texto": "Teus aborrecedores se vestirão de confusão, e a tenda dos ímpios não existirá mais."
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Então, Jó respondeu e disse:"
+        },
+        {
+          "numero": 2,
+          "texto": "Na verdade sei que assim é; porque como se justificaria o homem para com Deus?"
+        },
+        {
+          "numero": 3,
+          "texto": "Se quiser contender com ele, nem a uma de mil coisas lhe poderá responder."
+        },
+        {
+          "numero": 4,
+          "texto": "Ele é sábio de coração, poderoso em forças; quem se endureceu contra ele e teve paz?"
+        },
+        {
+          "numero": 5,
+          "texto": "Ele é o que transporta as montanhas, sem que o sintam, e o que, no seu furor, as transtorna;"
+        },
+        {
+          "numero": 6,
+          "texto": "o que remove a terra do seu lugar, e as suas colunas estremecem;"
+        },
+        {
+          "numero": 7,
+          "texto": "o que fala ao sol, e ele não sai, e sela as estrelas;"
+        },
+        {
+          "numero": 8,
+          "texto": "o que sozinho estende os céus e anda sobre os altos do mar;"
+        },
+        {
+          "numero": 9,
+          "texto": "o que faz a Ursa, e o Órion, e o Sete-estrelo, e as recâmaras do sul."
+        },
+        {
+          "numero": 10,
+          "texto": "O que faz coisas grandes, que se não podem esquadrinhar, e maravilhas tais que se não podem contar."
+        },
+        {
+          "numero": 11,
+          "texto": "Eis que passa por diante de mim, e não o vejo; e torna a passar perante mim, e não o sinto."
+        },
+        {
+          "numero": 12,
+          "texto": "Eis que arrebata a presa; quem lha fará restituir? Quem lhe dirá: Que fazes?"
+        },
+        {
+          "numero": 13,
+          "texto": "Deus não revogará a sua ira; debaixo dele se encurvam os auxiliadores soberbos."
+        },
+        {
+          "numero": 14,
+          "texto": "Quanto menos lhe poderei eu responder ou escolher diante dele as minhas palavras!"
+        },
+        {
+          "numero": 15,
+          "texto": "A ele, ainda que eu fosse justo, lhe não responderia; antes, ao meu juiz pediria misericórdia."
+        },
+        {
+          "numero": 16,
+          "texto": "Ainda que chamasse, e ele me respondesse, nem por isso creria que desse ouvidos à minha voz."
+        },
+        {
+          "numero": 17,
+          "texto": "Porque me quebranta com uma tempestade, e multiplica as minhas chagas sem causa."
+        },
+        {
+          "numero": 18,
+          "texto": "Nem me permite respirar; antes, me farta de amarguras."
+        },
+        {
+          "numero": 19,
+          "texto": "Quanto às forças, eis que ele é o forte; e, quanto ao juízo, quem me citará com ele?"
+        },
+        {
+          "numero": 20,
+          "texto": "Se eu me justificar, a minha boca me condenará; se reto me disser, então, me declarará perverso."
+        },
+        {
+          "numero": 21,
+          "texto": "Ainda que perfeito, não estimo a minha alma; desprezo a minha vida."
+        },
+        {
+          "numero": 22,
+          "texto": "A coisa é esta; por isso, eu digo que ele consome ao reto e ao ímpio."
+        },
+        {
+          "numero": 23,
+          "texto": "Matando o açoite de repente, então, se ri da prova dos inocentes."
+        },
+        {
+          "numero": 24,
+          "texto": "A terra é entregue às mãos do ímpio; Deus cobre o rosto dos juízes; se não é ele, quem é, logo?"
+        },
+        {
+          "numero": 25,
+          "texto": "E os meus dias são mais velozes do que um corredor; fugiram e nunca viram o bem."
+        },
+        {
+          "numero": 26,
+          "texto": "Passam como navios veleiros, como águia que se lança à comida."
+        },
+        {
+          "numero": 27,
+          "texto": "Se eu disser: Eu me esquecerei da minha queixa, mudarei o meu rosto e tomarei alento;"
+        },
+        {
+          "numero": 28,
+          "texto": "receio todas as minhas dores, porque bem sei que me não terás por inocente."
+        },
+        {
+          "numero": 29,
+          "texto": "E, sendo eu ímpio, por que trabalharei em vão?"
+        },
+        {
+          "numero": 30,
+          "texto": "Ainda que me lave com água de neve, e purifique as minhas mãos com sabão,"
+        },
+        {
+          "numero": 31,
+          "texto": "mesmo assim me submergirás no fosso, e as minhas próprias vestes me abominarão."
+        },
+        {
+          "numero": 32,
+          "texto": "Porque ele não é homem, como eu, a quem eu responda, vindo juntamente a juízo."
+        },
+        {
+          "numero": 33,
+          "texto": "Não há entre nós árbitro que ponha a mão sobre nós ambos."
+        },
+        {
+          "numero": 34,
+          "texto": "Tire ele a sua vara de cima de mim, e não me amedronte o seu terror."
+        },
+        {
+          "numero": 35,
+          "texto": "Então, falarei e não o temerei; porque, assim, não estou em mim."
+        }
+      ]
+    },
+    {
+      "numero": 10,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "A minha alma tem tédio de minha vida; darei livre curso à minha queixa, falarei na amargura da minha alma."
+        },
+        {
+          "numero": 2,
+          "texto": "Direi a Deus: não me condenes; faze-me saber por que contendes comigo."
+        },
+        {
+          "numero": 3,
+          "texto": "Parece-te bem que me oprimas, que rejeites o trabalho das tuas mãos e resplandeças sobre o conselho dos ímpios?"
+        },
+        {
+          "numero": 4,
+          "texto": "Tens tu, porventura, olhos de carne? Vês tu como vê o homem?"
+        },
+        {
+          "numero": 5,
+          "texto": "São os teus dias como os dias do homem? Ou são os teus anos como os anos de um homem,"
+        },
+        {
+          "numero": 6,
+          "texto": "para te informares da minha iniqüidade e averiguares o meu pecado?"
+        },
+        {
+          "numero": 7,
+          "texto": "Bem sabes tu que eu não sou ímpio; todavia, ninguém há que me livre da tua mão."
+        },
+        {
+          "numero": 8,
+          "texto": "As tuas mãos me fizeram e me entreteceram; e, todavia, me consomes."
+        },
+        {
+          "numero": 9,
+          "texto": "Peço-te que te lembres de que, como barro, me formaste, e de que ao pó me farás tornar."
+        },
+        {
+          "numero": 10,
+          "texto": "Porventura, não me vazaste como leite e como queijo me não coalhaste?"
+        },
+        {
+          "numero": 11,
+          "texto": "De pele e carne me vestiste e de ossos e nervos me entreteceste."
+        },
+        {
+          "numero": 12,
+          "texto": "Vida e beneficência me concedeste; e o teu cuidado guardou o meu espírito."
+        },
+        {
+          "numero": 13,
+          "texto": "Mas estas coisas as ocultaste no teu coração; bem sei eu que isto esteve contigo."
+        },
+        {
+          "numero": 14,
+          "texto": "Se eu pecar, tu me observas; e da minha iniqüidade não me escusarás."
+        },
+        {
+          "numero": 15,
+          "texto": "Se for ímpio, ai de mim! E se for justo, não levantarei a cabeça; cheio estou de ignomínia e olho para a minha miséria."
+        },
+        {
+          "numero": 16,
+          "texto": "Porque se me exalto, tu me caças como a um leão feroz, e de novo fazes maravilhas contra mim."
+        },
+        {
+          "numero": 17,
+          "texto": "Tu renovas contra mim as tuas testemunhas e multiplicas contra mim a tua ira; reveses e combate estão comigo."
+        },
+        {
+          "numero": 18,
+          "texto": "Por que, pois, me tiraste da madre? Ah! Se, então, dera o espírito, e olhos nenhuns me vissem!"
+        },
+        {
+          "numero": 19,
+          "texto": "Então, fora como se nunca houvera sido; e desde o ventre seria levado à sepultura!"
+        },
+        {
+          "numero": 20,
+          "texto": "Porventura, não são poucos os meus dias? Cessa, pois, e deixa-me para que por um pouco eu tome alento;"
+        },
+        {
+          "numero": 21,
+          "texto": "antes que me vá, para nunca mais voltar, à terra da escuridão e da sombra da morte;"
+        },
+        {
+          "numero": 22,
+          "texto": "terra escuríssima, como a mesma escuridão, terra da sombra da morte e sem ordem alguma, e onde a luz é como a escuridão."
+        }
+      ]
+    },
+    {
+      "numero": 11,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Então, respondeu Zofar, o naamatita, e disse:"
+        },
+        {
+          "numero": 2,
+          "texto": "Porventura, não se dará resposta à multidão de palavras? E o homem falador será justificado?"
+        },
+        {
+          "numero": 3,
+          "texto": "Às tuas mentiras se hão de calar os homens? E zombarás tu sem que ninguém te envergonhe?"
+        },
+        {
+          "numero": 4,
+          "texto": "Pois tu disseste: A minha doutrina é pura; limpo sou aos teus olhos."
+        },
+        {
+          "numero": 5,
+          "texto": "Mas, na verdade, prouvera Deus que ele falasse e abrisse os seus lábios contra ti,"
+        },
+        {
+          "numero": 6,
+          "texto": "e te fizesse saber os segredos da sabedoria, que é multíplice em eficácia; pelo que sabe que Deus exige de ti menos do que merece a tua iniqüidade."
+        },
+        {
+          "numero": 7,
+          "texto": "Porventura, alcançarás os caminhos de Deus ou chegarás à perfeição do Todo-poderoso?"
+        },
+        {
+          "numero": 8,
+          "texto": "Como as alturas dos céus é a sua sabedoria; que poderás tu fazer? Mais profunda é ela do que o inferno; que poderás tu saber?"
+        },
+        {
+          "numero": 9,
+          "texto": "Mais comprida é a sua medida do que a terra; e mais larga do que o mar."
+        },
+        {
+          "numero": 10,
+          "texto": "Se ele destruir, e encerrar, ou juntar, quem o impedirá?"
+        },
+        {
+          "numero": 11,
+          "texto": "Porque ele conhece os homens vãos e vê o vício; e não o terá em consideração?"
+        },
+        {
+          "numero": 12,
+          "texto": "Mas o homem vão é falto de entendimento; sim, o homem nasce como a cria do jumento montês."
+        },
+        {
+          "numero": 13,
+          "texto": "Se tu preparaste o teu coração, estende as tuas mãos para ele;"
+        },
+        {
+          "numero": 14,
+          "texto": "se há iniqüidade na tua mão, lança-a para longe de ti e não deixes habitar a injustiça nas tuas tendas,"
+        },
+        {
+          "numero": 15,
+          "texto": "porque, então, o teu rosto levantarás sem mácula; e estarás firme e não temerás."
+        },
+        {
+          "numero": 16,
+          "texto": "Porque te esquecerás dos trabalhos e te lembrarás deles como das águas que já passaram."
+        },
+        {
+          "numero": 17,
+          "texto": "E a tua vida mais clara se levantará do que o meio-dia; ainda que haja trevas, será como a manhã."
+        },
+        {
+          "numero": 18,
+          "texto": "E terás confiança, porque haverá esperança; olharás em volta e repousarás seguro."
+        },
+        {
+          "numero": 19,
+          "texto": "E deitar-te-ás, e ninguém te espantará; muitos acariciarão o teu rosto."
+        },
+        {
+          "numero": 20,
+          "texto": "Mas os olhos dos ímpios desfalecerão, e perecerá o seu refúgio; e a sua esperança será o expirar da alma."
+        }
+      ]
+    },
+    {
+      "numero": 12,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Então, Jó respondeu e disse:"
+        },
+        {
+          "numero": 2,
+          "texto": "Na verdade, que só vós sois o povo, e convosco morrerá a sabedoria."
+        },
+        {
+          "numero": 3,
+          "texto": "Também eu tenho um coração como vós e não vos sou inferior; e quem não sabe tais coisas como estas?"
+        },
+        {
+          "numero": 4,
+          "texto": "Eu sou irrisão para os meus amigos; eu, que invoco a Deus, e ele me responde; o justo e o reto servem de irrisão."
+        },
+        {
+          "numero": 5,
+          "texto": "Tocha desprezível é, na opinião do que está descansado, aquele que está pronto a tropeçar com os pés."
+        },
+        {
+          "numero": 6,
+          "texto": "As tendas dos assoladores têm descanso, e os que provocam a Deus estão seguros; nas suas mãos Deus lhes põe tudo."
+        },
+        {
+          "numero": 7,
+          "texto": "Mas, pergunta agora às alimárias, e cada uma delas to ensinará; e às aves dos céus, e elas to farão saber;"
+        },
+        {
+          "numero": 8,
+          "texto": "ou fala com a terra, e ela to ensinará; até os peixes do mar to contarão."
+        },
+        {
+          "numero": 9,
+          "texto": "Quem não entende por todas estas coisas que a mão do SENHOR fez isto,"
+        },
+        {
+          "numero": 10,
+          "texto": "que está na sua mão a alma de tudo quanto vive, e o espírito de toda carne humana?"
+        },
+        {
+          "numero": 11,
+          "texto": "Porventura, o ouvido não provará as palavras, como o paladar prova as comidas?"
+        },
+        {
+          "numero": 12,
+          "texto": "Com os idosos está a sabedoria, e na abundância de dias, o entendimento."
+        },
+        {
+          "numero": 13,
+          "texto": "Com ele está a sabedoria e a força; conselho e entendimento tem."
+        },
+        {
+          "numero": 14,
+          "texto": "Eis que ele derriba, e não se reedificará; e a quem ele encerra não se abrirá."
+        },
+        {
+          "numero": 15,
+          "texto": "Eis que ele retém as águas, e se secam; e as larga, e transtornam a terra."
+        },
+        {
+          "numero": 16,
+          "texto": "Com ele está a força e a sabedoria; seu é o que erra e o que faz errar."
+        },
+        {
+          "numero": 17,
+          "texto": "Aos conselheiros leva despojados e aos juízes faz desvairar."
+        },
+        {
+          "numero": 18,
+          "texto": "Solta a atadura dos reis e ata o cinto aos seus lombos."
+        },
+        {
+          "numero": 19,
+          "texto": "Aos príncipes leva despojados; aos poderosos transtorna."
+        },
+        {
+          "numero": 20,
+          "texto": "Aos confiados tira a fala e toma o entendimento aos velhos."
+        },
+        {
+          "numero": 21,
+          "texto": "Derrama desprezo sobre os príncipes e afrouxa o cinto dos fortes."
+        },
+        {
+          "numero": 22,
+          "texto": "As profundezas das trevas manifesta e a sombra da morte traz à luz."
+        },
+        {
+          "numero": 23,
+          "texto": "Multiplica os povos e os faz perecer; dispersa as nações e de novo as reconduz."
+        },
+        {
+          "numero": 24,
+          "texto": "Tira o coração aos chefes dos povos da terra e os faz vaguear pelos desertos, sem caminho."
+        },
+        {
+          "numero": 25,
+          "texto": "Nas trevas andam às apalpadelas, sem terem luz, e os faz desatinar como ébrios."
+        }
+      ]
+    },
+    {
+      "numero": 13,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Eis que tudo isto viram os meus olhos, e os meus ouvidos o ouviram e entenderam."
+        },
+        {
+          "numero": 2,
+          "texto": "Como vós o sabeis, o sei eu também; não vos sou inferior."
+        },
+        {
+          "numero": 3,
+          "texto": "Mas eu falarei ao Todo-poderoso; e quero defender-me perante Deus."
+        },
+        {
+          "numero": 4,
+          "texto": "Vós, porém, sois inventores de mentiras e vós todos, médicos que não valem nada."
+        },
+        {
+          "numero": 5,
+          "texto": "Tomara que vos calásseis de todo, que isso seria a vossa sabedoria!"
+        },
+        {
+          "numero": 6,
+          "texto": "Ouvi agora a minha defesa e escutai os argumentos dos meus lábios."
+        },
+        {
+          "numero": 7,
+          "texto": "Porventura, por Deus falareis perversidade e por ele enunciareis mentiras?"
+        },
+        {
+          "numero": 8,
+          "texto": "Fareis aceitação da sua pessoa? Contendereis por Deus?"
+        },
+        {
+          "numero": 9,
+          "texto": "Ser-vos-ia bom, se ele vos esquadrinhasse? Ou zombareis dele, como se zomba de qualquer homem?"
+        },
+        {
+          "numero": 10,
+          "texto": "Certamente, vos repreenderá, se em oculto fizerdes distinção de pessoas."
+        },
+        {
+          "numero": 11,
+          "texto": "Porventura, não vos espantará a sua alteza? E não cairá sobre vós o seu temor?"
+        },
+        {
+          "numero": 12,
+          "texto": "As vossas memórias são como a cinza; as vossas alturas, como alturas de lodo."
+        },
+        {
+          "numero": 13,
+          "texto": "Calai-vos perante mim, e falarei eu; e venha sobre mim o que vier."
+        },
+        {
+          "numero": 14,
+          "texto": "Por que razão tomaria eu a minha carne com os dentes e poria a minha vida na minha mão?"
+        },
+        {
+          "numero": 15,
+          "texto": "Ainda que ele me mate, nele esperarei; contudo, os meus caminhos defenderei diante dele."
+        },
+        {
+          "numero": 16,
+          "texto": "Também isto será a minha salvação, porque o ímpio não virá perante ele."
+        },
+        {
+          "numero": 17,
+          "texto": "Ouvi com atenção as minhas razões; e com os vossos ouvidos, a minha demonstração."
+        },
+        {
+          "numero": 18,
+          "texto": "Eis que já tenho ordenado a minha causa e sei que serei achado justo."
+        },
+        {
+          "numero": 19,
+          "texto": "Quem é o que contenderá comigo? Se eu agora me calasse, renderia o espírito."
+        },
+        {
+          "numero": 20,
+          "texto": "Duas coisas somente faze comigo; então, me não esconderei do teu rosto:"
+        },
+        {
+          "numero": 21,
+          "texto": "Desvia a tua mão para longe de mim e não me espante o teu terror."
+        },
+        {
+          "numero": 22,
+          "texto": "Chama, pois, e eu responderei; ou, eu falarei e tu, responde-me."
+        },
+        {
+          "numero": 23,
+          "texto": "Quantas culpas e pecados tenho eu? Notifica-me a minha transgressão e o meu pecado."
+        },
+        {
+          "numero": 24,
+          "texto": "Por que escondes o teu rosto e me tens por teu inimigo?"
+        },
+        {
+          "numero": 25,
+          "texto": "Porventura, quebrantarás a folha arrebatada pelo vento? E perseguirás o restolho seco?"
+        },
+        {
+          "numero": 26,
+          "texto": "Por que escreves contra mim coisas amargas e me fazes herdar as culpas da minha mocidade?"
+        },
+        {
+          "numero": 27,
+          "texto": "Também pões os meus pés em cepos, e observas todos os meus caminhos, e marcas os sinais dos meus pés,"
+        },
+        {
+          "numero": 28,
+          "texto": "apesar de eu ser como uma coisa podre que se consome e como a veste, a qual rói a traça."
+        }
+      ]
+    },
+    {
+      "numero": 14,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "O homem, nascido da mulher, é de bem poucos dias e cheio de inquietação."
+        },
+        {
+          "numero": 2,
+          "texto": "Sai como a flor e se seca; foge também como a sombra e não permanece."
+        },
+        {
+          "numero": 3,
+          "texto": "E sobre este tal abres os teus olhos, e a mim me fazes entrar em juízo contigo."
+        },
+        {
+          "numero": 4,
+          "texto": "(Quem do imundo tirará o puro? Ninguém!)"
+        },
+        {
+          "numero": 5,
+          "texto": "Visto que os seus dias estão determinados, contigo está o número dos seus meses; e tu lhe puseste limites, e não passará além deles."
+        },
+        {
+          "numero": 6,
+          "texto": "Desvia-te dele, para que tenha repouso, até que, como o jornaleiro, tenha contentamento no seu dia."
+        },
+        {
+          "numero": 7,
+          "texto": "Porque há esperança para a árvore, que, se for cortada, ainda se renovará, e não cessarão os seus renovos."
+        },
+        {
+          "numero": 8,
+          "texto": "Se envelhecer na terra a sua raiz, e morrer o seu tronco no pó,"
+        },
+        {
+          "numero": 9,
+          "texto": "ao cheiro das águas, brotará e dará ramos como a planta."
+        },
+        {
+          "numero": 10,
+          "texto": "Mas, morto o homem, é consumido; sim, rendendo o homem o espírito, então, onde está?"
+        },
+        {
+          "numero": 11,
+          "texto": "Como as águas se retiram do mar, e o rio se esgota e fica seco,"
+        },
+        {
+          "numero": 12,
+          "texto": "assim o homem se deita e não se levanta; até que não haja mais céus, não acordará, nem se erguerá de seu sono."
+        },
+        {
+          "numero": 13,
+          "texto": "Tomara que me escondesses na sepultura, e me ocultasses até que a tua ira se desviasse, e me pusesses um limite, e te lembrasses de mim!"
+        },
+        {
+          "numero": 14,
+          "texto": "Morrendo o homem, porventura, tornará a viver? Todos os dias de meu combate esperaria, até que viesse a minha mudança."
+        },
+        {
+          "numero": 15,
+          "texto": "Chamar-me-ias, e eu te responderia; afeiçoa-te à obra de tuas mãos."
+        },
+        {
+          "numero": 16,
+          "texto": "Mas agora contas os meus passos; não estás tu vigilante sobre o meu pecado?"
+        },
+        {
+          "numero": 17,
+          "texto": "A minha transgressão está selada num saco, e amontoas as minhas iniqüidades."
+        },
+        {
+          "numero": 18,
+          "texto": "E, na verdade, caindo a montanha, desfaz-se; e a rocha se remove do seu lugar."
+        },
+        {
+          "numero": 19,
+          "texto": "As águas gastam as pedras; as cheias afogam o pó da terra; e tu fazes perecer a esperança do homem."
+        },
+        {
+          "numero": 20,
+          "texto": "Tu para sempre prevaleces contra ele, e ele passa; tu, mudando o seu rosto, o despedes."
+        },
+        {
+          "numero": 21,
+          "texto": "Os seus filhos estão em honra, sem que ele o saiba; ou ficam minguados, sem que ele o perceba;"
+        },
+        {
+          "numero": 22,
+          "texto": "mas a sua carne, nele, tem dores; e a sua alma, nele, lamenta."
+        }
+      ]
+    },
+    {
+      "numero": 15,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Então, respondeu Elifaz, o temanita, e disse:"
+        },
+        {
+          "numero": 2,
+          "texto": "Porventura, dará o sábio, em resposta, ciência de vento? E encherá o seu ventre de vento oriental,"
+        },
+        {
+          "numero": 3,
+          "texto": "argüindo com palavras que de nada servem e com razões que de nada aproveitam?"
+        },
+        {
+          "numero": 4,
+          "texto": "E tu tens feito vão o temor e diminuis os rogos diante de Deus."
+        },
+        {
+          "numero": 5,
+          "texto": "Porque a tua boca declara a tua iniqüidade; e tu escolheste a língua dos astutos."
+        },
+        {
+          "numero": 6,
+          "texto": "A tua boca te condena, e não eu; e os teus lábios testificam contra ti."
+        },
+        {
+          "numero": 7,
+          "texto": "És tu, porventura, o primeiro homem que foi nascido? Ou foste gerado antes dos outeiros?"
+        },
+        {
+          "numero": 8,
+          "texto": "Ou ouviste o secreto conselho de Deus e a ti somente limitaste a sabedoria?"
+        },
+        {
+          "numero": 9,
+          "texto": "Que sabes tu, que nós não saibamos? Que entendes, que não haja em nós?"
+        },
+        {
+          "numero": 10,
+          "texto": "Também há entre nós encanecidos e idosos, muito mais idosos do que teu pai."
+        },
+        {
+          "numero": 11,
+          "texto": "Porventura, as consolações de Deus te são pequenas? Ou alguma coisa se oculta em ti?"
+        },
+        {
+          "numero": 12,
+          "texto": "Por que te arrebata o teu coração e por que piscas os teus olhos,"
+        },
+        {
+          "numero": 13,
+          "texto": "para virares contra Deus o teu espírito e deixares sair tais palavras da tua boca?"
+        },
+        {
+          "numero": 14,
+          "texto": "Que é o homem, para que seja puro? E o que nasce da mulher, para que fique justo?"
+        },
+        {
+          "numero": 15,
+          "texto": "Eis que nos seus santos não confiaria, e nem os céus são puros aos seus olhos."
+        },
+        {
+          "numero": 16,
+          "texto": "Quanto mais abominável e corrupto é o homem, que bebe a iniqüidade como a água?"
+        },
+        {
+          "numero": 17,
+          "texto": "Escuta-me, e mostrar- to- ei; e o que vi te contarei;"
+        },
+        {
+          "numero": 18,
+          "texto": "o que os sábios anunciaram, e o que ouviram de seus pais, e não ocultaram"
+        },
+        {
+          "numero": 19,
+          "texto": "(aos quais somente se dera a terra, e nenhum estranho passou por entre eles):"
+        },
+        {
+          "numero": 20,
+          "texto": "Todos os dias o ímpio se dá pena a si mesmo, no curto número de anos que se reservam para o tirano."
+        },
+        {
+          "numero": 21,
+          "texto": "O sonido dos horrores está nos seus ouvidos; até na paz lhe sobrevém o assolador."
+        },
+        {
+          "numero": 22,
+          "texto": "Não crê que tornará das trevas, mas que o espera a espada."
+        },
+        {
+          "numero": 23,
+          "texto": "Anda vagueando por pão, dizendo: Onde está? Bem sabe que o dia das trevas lhe está perto, à mão."
+        },
+        {
+          "numero": 24,
+          "texto": "Assombram-no a angústia e a tribulação; prevalecem contra ele, como o rei preparado para a peleja."
+        },
+        {
+          "numero": 25,
+          "texto": "Porque estendeu a sua mão contra Deus e contra o Todo-poderoso se embraveceu."
+        },
+        {
+          "numero": 26,
+          "texto": "Arremete contra ele com dura cerviz e com os pontos grossos dos seus escudos."
+        },
+        {
+          "numero": 27,
+          "texto": "Porquanto cobriu o rosto com a sua gordura e criou enxúndias nas ilhargas."
+        },
+        {
+          "numero": 28,
+          "texto": "E habitou em cidades assoladas, em casas em que ninguém morava, que estavam a ponto de fazer-se montões de ruínas."
+        },
+        {
+          "numero": 29,
+          "texto": "Não se enriquecerá, nem subsistirá a sua fazenda, nem se estenderão pela terra as suas possessões."
+        },
+        {
+          "numero": 30,
+          "texto": "Não escapará das trevas; a chama do fogo secará os seus renovos e, ao assopro da boca de Deus, desaparecerá."
+        },
+        {
+          "numero": 31,
+          "texto": "Não confie, pois, na vaidade enganando-se a si mesmo, porque a vaidade será a sua recompensa."
+        },
+        {
+          "numero": 32,
+          "texto": "Antes do seu dia ela se consumará; e o seu ramo não reverdecerá."
+        },
+        {
+          "numero": 33,
+          "texto": "Sacudirá as suas uvas verdes, como as da vide, e deixará cair a sua flor como a da oliveira."
+        },
+        {
+          "numero": 34,
+          "texto": "Porque o ajuntamento dos hipócritas se fará estéril, e o fogo consumirá as tendas do suborno."
+        },
+        {
+          "numero": 35,
+          "texto": "Concebem o trabalho e produzem a iniqüidade; e o seu ventre prepara enganos."
+        }
+      ]
+    },
+    {
+      "numero": 16,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Então, respondeu Jó e disse:"
+        },
+        {
+          "numero": 2,
+          "texto": "Tenho ouvido muitas coisas como estas; todos vós sois consoladores molestos."
+        },
+        {
+          "numero": 3,
+          "texto": "Porventura, não terão fim estas palavras de vento? Ou que te irrita, para assim responderes?"
+        },
+        {
+          "numero": 4,
+          "texto": "Falaria eu também como vós falais, se a vossa alma estivesse em lugar da minha alma? Ou amontoaria palavras contra vós e menearia contra vós a minha cabeça?"
+        },
+        {
+          "numero": 5,
+          "texto": "Antes, vos fortaleceria com a minha boca, e a consolação dos meus lábios abrandaria a vossa dor."
+        },
+        {
+          "numero": 6,
+          "texto": "Se eu falar, a minha dor não cessa; e, calando- me, qual é o meu alívio?"
+        },
+        {
+          "numero": 7,
+          "texto": "Na verdade, agora me molestou; tu assolaste toda a minha companhia."
+        },
+        {
+          "numero": 8,
+          "texto": "Testemunha disto é que já me fizeste enrugado, e a minha magreza já se levanta contra mim e no meu rosto testifica contra mim."
+        },
+        {
+          "numero": 9,
+          "texto": "Na sua ira, me despedaçou, e ele me perseguiu; rangeu os dentes contra mim; aguça o meu adversário os olhos contra mim."
+        },
+        {
+          "numero": 10,
+          "texto": "Abrem a boca contra mim; com desprezo me feriram nos queixos e contra mim se ajuntam todos."
+        },
+        {
+          "numero": 11,
+          "texto": "Entrega-me Deus ao perverso e nas mãos dos ímpios me faz cair."
+        },
+        {
+          "numero": 12,
+          "texto": "Descansado estava eu, porém ele me quebrantou; e pegou-me pelo pescoço e me despedaçou; também me pôs por seu alvo."
+        },
+        {
+          "numero": 13,
+          "texto": "Cercam-me os seus flecheiros; atravessa-me os rins e não me poupa; e o meu fel derrama pela terra."
+        },
+        {
+          "numero": 14,
+          "texto": "Quebranta-me com golpe sobre golpe; arremete contra mim como um valente."
+        },
+        {
+          "numero": 15,
+          "texto": "Cosi sobre a minha pele o cilício e revolvi a minha cabeça no pó."
+        },
+        {
+          "numero": 16,
+          "texto": "O meu rosto todo está descorado de chorar, e sobre as minhas pálpebras está a sombra da morte,"
+        },
+        {
+          "numero": 17,
+          "texto": "apesar de não haver violência nas minhas mãos e de ser pura a minha oração."
+        },
+        {
+          "numero": 18,
+          "texto": "Ah! terra, não cubras o meu sangue; e não haja lugar para o meu clamor!"
+        },
+        {
+          "numero": 19,
+          "texto": "Eis que também, agora, está a minha testemunha no céu, e o meu fiador, nas alturas."
+        },
+        {
+          "numero": 20,
+          "texto": "Os meus amigos são os que zombam de mim; os meus olhos se desfazem em lágrimas diante de Deus."
+        },
+        {
+          "numero": 21,
+          "texto": "Ah! Se alguém pudesse contender com Deus pelo homem, como o filho do homem pelo seu amigo!"
+        },
+        {
+          "numero": 22,
+          "texto": "Porque, decorridos poucos anos, eu seguirei o caminho por onde não tornarei."
+        }
+      ]
+    },
+    {
+      "numero": 17,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "O meu espírito se vai consumindo, os meus dias se vão apagando, e só tenho perante mim a sepultura."
+        },
+        {
+          "numero": 2,
+          "texto": "Porventura, não estão zombadores comigo? E os meus olhos não contemplam as suas amarguras?"
+        },
+        {
+          "numero": 3,
+          "texto": "Promete agora, e dá-me um fiador para contigo; quem há que me dê a mão?"
+        },
+        {
+          "numero": 4,
+          "texto": "Porque ao seu coração encobriste o entendimento, pelo que não os exaltarás."
+        },
+        {
+          "numero": 5,
+          "texto": "O que, lisonjeando, fala aos amigos, também os olhos de seus filhos desfalecerão."
+        },
+        {
+          "numero": 6,
+          "texto": "Mas a mim me pôs por um provérbio dos povos, de modo que me tornei uma abominação para eles."
+        },
+        {
+          "numero": 7,
+          "texto": "Pelo que já se escureceram de mágoa os meus olhos e já todos os meus membros são como a sombra;"
+        },
+        {
+          "numero": 8,
+          "texto": "os retos pasmarão disto, e o inocente se levantará contra o hipócrita."
+        },
+        {
+          "numero": 9,
+          "texto": "E o justo seguirá o seu caminho firmemente, e o puro de mãos irá crescendo em força."
+        },
+        {
+          "numero": 10,
+          "texto": "Mas, na verdade, tornai todos vós e vinde cá; porque sábio nenhum acho entre vós."
+        },
+        {
+          "numero": 11,
+          "texto": "Os meus dias passaram, e malograram-se os meus propósitos, as aspirações do meu coração."
+        },
+        {
+          "numero": 12,
+          "texto": "Trocaram a noite em dia; a luz está perto do fim, por causa das trevas."
+        },
+        {
+          "numero": 13,
+          "texto": "Se eu olhar a sepultura como a minha casa; se nas trevas estender a minha cama;"
+        },
+        {
+          "numero": 14,
+          "texto": "se à corrupção clamar: tu és meu pai; e aos bichos: vós sois minha mãe e minha irmã;"
+        },
+        {
+          "numero": 15,
+          "texto": "onde estaria, então, agora, a minha esperança? Sim, a minha esperança, quem a poderá ver?"
+        },
+        {
+          "numero": 16,
+          "texto": "Ela descerá até aos ferrolhos do Seol, quando juntamente no pó teremos descanso."
+        }
+      ]
+    },
+    {
+      "numero": 18,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Então, respondeu Bildade, o suíta, e disse:"
+        },
+        {
+          "numero": 2,
+          "texto": "Até quando usareis artifícios em vez de palavras? Considerai bem, e, então, falaremos."
+        },
+        {
+          "numero": 3,
+          "texto": "Por que somos tratados como animais, e como imundos aos vossos olhos?"
+        },
+        {
+          "numero": 4,
+          "texto": "Ó tu, que despedaças a tua alma na tua ira, será a terra deixada por tua causa? Remover-se-ão as rochas do seu lugar?"
+        },
+        {
+          "numero": 5,
+          "texto": "Na verdade, a luz dos ímpios se apagará, e a faísca do seu lar não resplandecerá."
+        },
+        {
+          "numero": 6,
+          "texto": "A luz se escurecerá nas suas tendas, e sua lâmpada sobre ele se apagará."
+        },
+        {
+          "numero": 7,
+          "texto": "Os seus passos firmes se estreitarão, e o seu próprio conselho o derribará."
+        },
+        {
+          "numero": 8,
+          "texto": "Porque por seus próprios pés é lançado na rede e andará nos fios enredados."
+        },
+        {
+          "numero": 9,
+          "texto": "O laço o apanhará pelo calcanhar, e prevalecerá contra ele o salteador."
+        },
+        {
+          "numero": 10,
+          "texto": "Está escondida debaixo da terra uma corda; e uma armadilha, na vereda."
+        },
+        {
+          "numero": 11,
+          "texto": "Os assombros o espantarão em redor e o farão correr de uma parte para a outra, por onde quer que apresse os passos."
+        },
+        {
+          "numero": 12,
+          "texto": "O seu poder será faminto, e a destruição está pronta ao seu lado."
+        },
+        {
+          "numero": 13,
+          "texto": "Ela devorará os membros do seu corpo; sim, o primogênito da morte devorará os seus membros."
+        },
+        {
+          "numero": 14,
+          "texto": "Será arrancado da sua tenda, onde estava confiado, e será levado ao rei dos terrores."
+        },
+        {
+          "numero": 15,
+          "texto": "Morará na sua tenda aquele que nada lhe era; espalhar-se-á enxofre sobre a sua habitação."
+        },
+        {
+          "numero": 16,
+          "texto": "Por baixo, se secarão as suas raízes, e, por cima, serão cortados os seus ramos."
+        },
+        {
+          "numero": 17,
+          "texto": "A sua memória perecerá na terra, e pelas praças não terá nome."
+        },
+        {
+          "numero": 18,
+          "texto": "Da luz o lançarão nas trevas e afugentá-lo-ão do mundo."
+        },
+        {
+          "numero": 19,
+          "texto": "Não terá filho nem neto entre o seu povo, e resto nenhum dele ficará nas suas moradas."
+        },
+        {
+          "numero": 20,
+          "texto": "Do seu dia se espantarão os vindouros, e os antigos serão sobressaltados de horror."
+        },
+        {
+          "numero": 21,
+          "texto": "Tais são, na verdade, as moradas do perverso, e este é o lugar do que não conhece a Deus."
+        }
+      ]
+    },
+    {
+      "numero": 19,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Respondeu, porém, Jó e disse:"
+        },
+        {
+          "numero": 2,
+          "texto": "Até quando entristecereis a minha alma e me quebrantareis com palavras?"
+        },
+        {
+          "numero": 3,
+          "texto": "Já dez vezes me envergonhastes; vergonha não tendes de contra mim vos endurecerdes."
+        },
+        {
+          "numero": 4,
+          "texto": "Embora haja eu, na verdade, errado, comigo ficará o meu erro."
+        },
+        {
+          "numero": 5,
+          "texto": "Se deveras vos levantais contra mim e me argüís pelo meu opróbrio,"
+        },
+        {
+          "numero": 6,
+          "texto": "sabei agora que Deus é que me transtornou e com a sua rede me cercou."
+        },
+        {
+          "numero": 7,
+          "texto": "Eis que clamo: Violência! Mas não sou ouvido; grito: Socorro! Mas não há justiça."
+        },
+        {
+          "numero": 8,
+          "texto": "O meu caminho ele entrincheirou, e não posso passar; e nas minhas veredas pôs trevas."
+        },
+        {
+          "numero": 9,
+          "texto": "Da minha honra me despojou; e tirou-me a coroa da minha cabeça."
+        },
+        {
+          "numero": 10,
+          "texto": "Quebrou-me de todos os lados, e eu me vou; e arrancou a minha esperança, como a uma árvore."
+        },
+        {
+          "numero": 11,
+          "texto": "E fez inflamar contra mim a sua ira e me reputou para consigo como um de seus inimigos."
+        },
+        {
+          "numero": 12,
+          "texto": "Juntas vieram as suas tropas, e prepararam contra mim o seu caminho, e se acamparam ao redor da minha tenda."
+        },
+        {
+          "numero": 13,
+          "texto": "Pôs longe de mim a meus irmãos, e os que me conhecem deveras me estranharam."
+        },
+        {
+          "numero": 14,
+          "texto": "Os meus parentes me deixaram, e os meus conhecidos se esqueceram de mim."
+        },
+        {
+          "numero": 15,
+          "texto": "Os meus domésticos e as minhas servas me reputaram como um estranho; vim a ser um estrangeiro aos seus olhos."
+        },
+        {
+          "numero": 16,
+          "texto": "Chamei a meu criado, e ele me não respondeu; cheguei a suplicar com a minha boca."
+        },
+        {
+          "numero": 17,
+          "texto": "O meu bafo se fez estranho a minha mulher; e a minha súplica, aos filhos do meu corpo."
+        },
+        {
+          "numero": 18,
+          "texto": "Até os rapazes me desprezam, e, levantando-me eu, falam contra mim."
+        },
+        {
+          "numero": 19,
+          "texto": "Todos os homens do meu secreto conselho me abominam, e até os que eu amava se tornaram contra mim."
+        },
+        {
+          "numero": 20,
+          "texto": "Os meus ossos se apegaram à minha pele e à minha carne, e escapei só com a pele dos meus dentes."
+        },
+        {
+          "numero": 21,
+          "texto": "Compadecei-vos de mim, amigos meus, compadecei-vos de mim, porque a mão de Deus me tocou."
+        },
+        {
+          "numero": 22,
+          "texto": "Por que me perseguis assim como Deus, e da minha carne vos não fartais?"
+        },
+        {
+          "numero": 23,
+          "texto": "Quem me dera, agora, que as minhas palavras se escrevessem! Quem me dera que se gravassem num livro!"
+        },
+        {
+          "numero": 24,
+          "texto": "E que, com pena de ferro e com chumbo, para sempre fossem esculpidas na rocha!"
+        },
+        {
+          "numero": 25,
+          "texto": "Porque eu sei que o meu Redentor vive, e que por fim se levantará sobre a terra."
+        },
+        {
+          "numero": 26,
+          "texto": "E depois de consumida a minha pele, ainda em minha carne verei a Deus."
+        },
+        {
+          "numero": 27,
+          "texto": "Vê-lo-ei por mim mesmo, e os meus olhos, e não outros, o verão; e, por isso, o meu coração se consome dentro de mim."
+        },
+        {
+          "numero": 28,
+          "texto": "Na verdade, que devíeis dizer: Por que o perseguimos? Pois a raiz da acusação se acha em mim."
+        },
+        {
+          "numero": 29,
+          "texto": "Temei vós mesmos a espada; porque o furor traz os castigos da espada, para saberdes que há um juízo."
+        }
+      ]
+    },
+    {
+      "numero": 20,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Então, respondeu Zofar, o naamatita, e disse:"
+        },
+        {
+          "numero": 2,
+          "texto": "Visto que os meus pensamentos me fazem responder, eu me apresso."
+        },
+        {
+          "numero": 3,
+          "texto": "Eu ouvi a repreensão, que me envergonha, mas o espírito do meu entendimento responderá por mim."
+        },
+        {
+          "numero": 4,
+          "texto": "Porventura, não sabes tu que desde a antiguidade, desde que o homem foi posto sobre a terra,"
+        },
+        {
+          "numero": 5,
+          "texto": "o júbilo dos ímpios é breve, e a alegria dos hipócritas, apenas de um momento?"
+        },
+        {
+          "numero": 6,
+          "texto": "Ainda que a sua altura suba até ao céu, e a sua cabeça chegue até às nuvens,"
+        },
+        {
+          "numero": 7,
+          "texto": "como o seu próprio esterco perecerá para sempre; e os que o viam dirão: Onde está?"
+        },
+        {
+          "numero": 8,
+          "texto": "Como um sonho, voa, e não será achado, e será afugentado como uma visão da noite."
+        },
+        {
+          "numero": 9,
+          "texto": "O olho que o viu jamais o verá, nem olhará mais para ele o seu lugar."
+        },
+        {
+          "numero": 10,
+          "texto": "Os seus filhos procurarão agradar aos pobres, e as suas mãos restaurarão a sua fazenda."
+        },
+        {
+          "numero": 11,
+          "texto": "Os seus ossos estão cheios do vigor da sua juventude, mas deitar-se-ão com ele no pó."
+        },
+        {
+          "numero": 12,
+          "texto": "Ainda que o mal lhe seja doce na boca, e ele o esconda debaixo da sua língua,"
+        },
+        {
+          "numero": 13,
+          "texto": "e o guarde, e o não deixe, antes, o retenha no seu paladar,"
+        },
+        {
+          "numero": 14,
+          "texto": "contudo, a sua comida se mudará nas suas entranhas; fel de áspides será interiormente."
+        },
+        {
+          "numero": 15,
+          "texto": "Engoliu fazendas, mas vomitá-las-á; do seu ventre, Deus as lançará."
+        },
+        {
+          "numero": 16,
+          "texto": "Veneno de áspides sorverá; língua de víbora o matará."
+        },
+        {
+          "numero": 17,
+          "texto": "Não verá as correntes, os rios e os ribeiros de mel e manteiga."
+        },
+        {
+          "numero": 18,
+          "texto": "Restituirá o seu trabalho e não o engolirá; conforme o poder de sua mudança, não saltará de gozo,"
+        },
+        {
+          "numero": 19,
+          "texto": "porque oprimiu, desamparou os pobres e roubou a casa que não edificou;"
+        },
+        {
+          "numero": 20,
+          "texto": "porquanto não sentiu sossego no seu ventre, da sua tão desejada fazenda coisa nenhuma reterá."
+        },
+        {
+          "numero": 21,
+          "texto": "Nada lhe sobejará para comer; pelo que a sua fazenda não será durável."
+        },
+        {
+          "numero": 22,
+          "texto": "Sendo plena a sua abastança, estará angustiado; toda a mão dos miseráveis virá sobre ele."
+        },
+        {
+          "numero": 23,
+          "texto": "Haja, porém, ainda, de que possa encher o seu ventre, e Deus mandará sobre ele o ardor da sua ira e a fará chover sobre ele quando for comer."
+        },
+        {
+          "numero": 24,
+          "texto": "Ainda que fuja das armas de ferro, o arco de aço o atravessará."
+        },
+        {
+          "numero": 25,
+          "texto": "Arrancará o dardo do seu corpo, e resplandecente virá do seu fel; e haverá sobre ele assombros."
+        },
+        {
+          "numero": 26,
+          "texto": "Toda a escuridão se ocultará nos seus esconderijos; um fogo não assoprado o consumirá, e devorará o que ficar na sua tenda."
+        },
+        {
+          "numero": 27,
+          "texto": "Os céus manifestarão a sua iniqüidade; e a terra se levantará contra ele."
+        },
+        {
+          "numero": 28,
+          "texto": "As rendas de sua casa serão transportadas; no dia da sua ira, todas se derramarão."
+        },
+        {
+          "numero": 29,
+          "texto": "Esta, da parte de Deus, é a porção do homem ímpio; esta é a herança que Deus lhe reserva."
+        }
+      ]
+    },
+    {
+      "numero": 21,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Respondeu, porém, Jó e disse:"
+        },
+        {
+          "numero": 2,
+          "texto": "Ouvi atentamente as minhas razões; e isto vos sirva de consolação."
+        },
+        {
+          "numero": 3,
+          "texto": "Sofrei-me, e eu falarei; e, havendo eu falado, zombai."
+        },
+        {
+          "numero": 4,
+          "texto": "Porventura, eu me queixo a algum homem? Mas, ainda que assim fosse, por que se não angustiaria o meu espírito?"
+        },
+        {
+          "numero": 5,
+          "texto": "Olhai para mim e pasmai; e ponde a mão sobre a boca,"
+        },
+        {
+          "numero": 6,
+          "texto": "Porque, quando me lembro disto, me perturbo, e a minha carne é sobressaltada de horror."
+        },
+        {
+          "numero": 7,
+          "texto": "Por que razão vivem os ímpios, envelhecem, e ainda se esforçam em poder?"
+        },
+        {
+          "numero": 8,
+          "texto": "A sua semente se estabelece com eles perante a sua face; e os seus renovos, perante os seus olhos."
+        },
+        {
+          "numero": 9,
+          "texto": "As suas casas têm paz, sem temor; e a vara de Deus não está sobre eles."
+        },
+        {
+          "numero": 10,
+          "texto": "O seu touro gera e não falha; pare a sua vaca e não aborta."
+        },
+        {
+          "numero": 11,
+          "texto": "Fazem sair as suas crianças como a um rebanho, e seus filhos andam saltando."
+        },
+        {
+          "numero": 12,
+          "texto": "Levantam a voz ao som do tamboril e da harpa e alegram-se ao som das flautas."
+        },
+        {
+          "numero": 13,
+          "texto": "Na prosperidade gastam os seus dias e num momento descem à sepultura."
+        },
+        {
+          "numero": 14,
+          "texto": "E, todavia, dizem a Deus: Retira-te de nós; porque não desejamos ter conhecimento dos teus caminhos."
+        },
+        {
+          "numero": 15,
+          "texto": "Quem é o Todo-poderoso, para que nós o sirvamos? E que nos aproveitará que lhe façamos orações?"
+        },
+        {
+          "numero": 16,
+          "texto": "Vede, porém, que o seu bem não está na mão deles; esteja longe de mim o conselho dos ímpios!"
+        },
+        {
+          "numero": 17,
+          "texto": "Quantas vezes sucede que se apaga a candeia dos ímpios, e lhes sobrevém a sua destruição? E Deus, na sua ira, lhes reparte dores!"
+        },
+        {
+          "numero": 18,
+          "texto": "Porque são como a palha diante do vento, e como a pragana, que arrebata o redemoinho."
+        },
+        {
+          "numero": 19,
+          "texto": "Deus guarda a sua violência para os filhos deles, e aos ímpios dá o pago, para que o conheçam."
+        },
+        {
+          "numero": 20,
+          "texto": "Seus olhos vêem a sua ruína, e ele bebe do furor do Todo-poderoso."
+        },
+        {
+          "numero": 21,
+          "texto": "Porque, que prazer teria na sua casa depois de si, cortando-se- lhe o número dos seus meses?"
+        },
+        {
+          "numero": 22,
+          "texto": "Porventura, a Deus se ensinaria ciência, a ele que julga os excelsos?"
+        },
+        {
+          "numero": 23,
+          "texto": "Um morre na força da sua plenitude, estando todo quieto e sossegado."
+        },
+        {
+          "numero": 24,
+          "texto": "Os seus baldes estão cheios de leite, e os seus ossos estão regados de tutanos."
+        },
+        {
+          "numero": 25,
+          "texto": "E outro morre, ao contrário, na amargura do seu coração, não havendo provado do bem."
+        },
+        {
+          "numero": 26,
+          "texto": "Juntamente jazem no pó, e os bichos os cobrem."
+        },
+        {
+          "numero": 27,
+          "texto": "Eis que conheço bem os vossos pensamentos; e os maus intentos com que injustamente me fazeis violência."
+        },
+        {
+          "numero": 28,
+          "texto": "Porque direis: Onde está a casa do príncipe e onde a tenda em que morava o ímpio?"
+        },
+        {
+          "numero": 29,
+          "texto": "Porventura, o não perguntastes aos que passam pelo caminho e não conheceis os seus sinais?"
+        },
+        {
+          "numero": 30,
+          "texto": "Que o mau é preservado para o dia da destruição e arrebatado no dia do furor?"
+        },
+        {
+          "numero": 31,
+          "texto": "Quem acusará diante dele o seu caminho? E quem lhe dará o pago do que faz?"
+        },
+        {
+          "numero": 32,
+          "texto": "Finalmente, é levado à sepultura e vigia no túmulo."
+        },
+        {
+          "numero": 33,
+          "texto": "Os torrões do vale lhe são doces, e ele arrasta após si a todos os homens; e antes dele havia inumeráveis."
+        },
+        {
+          "numero": 34,
+          "texto": "Como, pois, me consolais em vão? Pois nas vossas respostas só há falsidade."
+        }
+      ]
+    },
+    {
+      "numero": 22,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Então, respondeu Elifaz, o temanita, e disse:"
+        },
+        {
+          "numero": 2,
+          "texto": "Porventura, o homem será de algum proveito a Deus? Antes, a si mesmo o prudente será proveitoso."
+        },
+        {
+          "numero": 3,
+          "texto": "Ou tem o Todo-poderoso prazer em que tu sejas justo, ou lucro algum em que tu faças perfeitos os teus caminhos?"
+        },
+        {
+          "numero": 4,
+          "texto": "Ou te repreende pelo temor que tem de ti, ou entra contigo em juízo?"
+        },
+        {
+          "numero": 5,
+          "texto": "Porventura, não é grande a tua malícia; e sem termo, as tuas iniqüidades?"
+        },
+        {
+          "numero": 6,
+          "texto": "Porque penhoraste a teus irmãos sem causa alguma e aos nus despojaste das vestes."
+        },
+        {
+          "numero": 7,
+          "texto": "Não deste água a beber ao cansado e ao faminto retiveste o pão."
+        },
+        {
+          "numero": 8,
+          "texto": "Mas para o violento era a terra, e o homem tido em respeito habitava nela."
+        },
+        {
+          "numero": 9,
+          "texto": "As viúvas despediste vazias, e os braços dos órfãos foram quebrantados."
+        },
+        {
+          "numero": 10,
+          "texto": "Por isso, é que estás cercado de laços, e te perturbou um pavor repentino,"
+        },
+        {
+          "numero": 11,
+          "texto": "ou trevas, em que nada vês; e a abundância de águas te cobre."
+        },
+        {
+          "numero": 12,
+          "texto": "Porventura, Deus não está na altura dos céus? Olha para a altura das estrelas; quão elevadas estão!"
+        },
+        {
+          "numero": 13,
+          "texto": "E dizes: Que sabe Deus disto? Porventura, julgará por entre a escuridão?"
+        },
+        {
+          "numero": 14,
+          "texto": "As nuvens são o escondedouro dele, para que não veja; e ele passeia pelo circuito dos céus."
+        },
+        {
+          "numero": 15,
+          "texto": "Porventura, consideraste a vereda do século passado, que pisaram os homens iníquos?"
+        },
+        {
+          "numero": 16,
+          "texto": "Eles foram arrebatados antes do seu tempo; sobre o seu fundamento um dilúvio se derramou."
+        },
+        {
+          "numero": 17,
+          "texto": "Diziam a Deus: Retira-te de nós. E: Que foi que o Todo-poderoso nos fez?"
+        },
+        {
+          "numero": 18,
+          "texto": "Ora, ele enchera de bens as suas casas; pelo que, longe de mim o conselho dos ímpios!"
+        },
+        {
+          "numero": 19,
+          "texto": "Os justos o viram e se alegraram, e o inocente escarneceu deles,"
+        },
+        {
+          "numero": 20,
+          "texto": "dizendo: Na verdade, os ímpios foram destruídos, e o fogo consumiu o resto deles."
+        },
+        {
+          "numero": 21,
+          "texto": "Une-te, pois, a Deus, e tem paz, e, assim, te sobrevirá o bem."
+        },
+        {
+          "numero": 22,
+          "texto": "Aceita, peço-te, a lei da sua boca e põe as suas palavras no teu coração."
+        },
+        {
+          "numero": 23,
+          "texto": "Se te converteres ao Todo-poderoso, serás edificado; afasta a iniqüidade da tua tenda."
+        },
+        {
+          "numero": 24,
+          "texto": "Então, amontoarás ouro como pó e o ouro de Ofir, como pedras dos ribeiros."
+        },
+        {
+          "numero": 25,
+          "texto": "E até o Todo-poderoso te será por ouro e por prata amontoada."
+        },
+        {
+          "numero": 26,
+          "texto": "Porque, então, te deleitarás no Todo-poderoso e levantarás o teu rosto para Deus."
+        },
+        {
+          "numero": 27,
+          "texto": "Tu orarás a ele, e ele te ouvirá; e pagarás os teus votos."
+        },
+        {
+          "numero": 28,
+          "texto": "Determinando tu algum negócio, ser-te-á firme, e a luz brilhará em teus caminhos."
+        },
+        {
+          "numero": 29,
+          "texto": "Quando te abaterem, então, tu dirás: Haja exaltação! E Deus salvará ao humilde"
+        },
+        {
+          "numero": 30,
+          "texto": "e livrará até ao que não é inocente; sim, ele será libertado pela pureza de tuas mãos."
+        }
+      ]
+    },
+    {
+      "numero": 23,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Respondeu, porém, Jó e disse:"
+        },
+        {
+          "numero": 2,
+          "texto": "Ainda hoje a minha queixa está em amargura; a violência da minha praga mais se agrava do que o meu gemido."
+        },
+        {
+          "numero": 3,
+          "texto": "Ah! Se eu soubesse que o poderia achar! Então me chegaria ao seu tribunal."
+        },
+        {
+          "numero": 4,
+          "texto": "Com boa ordem exporia ante ele a minha causa e a minha boca encheria de argumentos."
+        },
+        {
+          "numero": 5,
+          "texto": "Saberia as palavras com que ele me responderia e entenderia o que me dissesse."
+        },
+        {
+          "numero": 6,
+          "texto": "Porventura, segundo a grandeza de seu poder contenderia comigo? Não; antes, cuidaria de mim."
+        },
+        {
+          "numero": 7,
+          "texto": "Ali, o reto pleitearia com ele, e eu me livraria para sempre do meu juiz."
+        },
+        {
+          "numero": 8,
+          "texto": "Eis que, se me adianto, ali não está; se torno para trás, não o percebo."
+        },
+        {
+          "numero": 9,
+          "texto": "Se opera à mão esquerda, não o vejo; encobre-se à mão direita, e não o diviso."
+        },
+        {
+          "numero": 10,
+          "texto": "Mas ele sabe o meu caminho; prove-me, e sairei como o ouro."
+        },
+        {
+          "numero": 11,
+          "texto": "Nas suas pisadas os meus pés se afirmaram; guardei o seu caminho e não me desviei dele."
+        },
+        {
+          "numero": 12,
+          "texto": "Do preceito de seus lábios nunca me apartei e as palavras da sua boca prezei mais do que o meu alimento."
+        },
+        {
+          "numero": 13,
+          "texto": "Mas, se ele está contra alguém, quem, então, o desviará? O que a sua alma quiser, isso fará."
+        },
+        {
+          "numero": 14,
+          "texto": "Porque cumprirá o que está ordenado a meu respeito e muitas coisas como estas ainda tem consigo."
+        },
+        {
+          "numero": 15,
+          "texto": "Por isso, me perturbo perante ele; e quando isto considero, temo-me dele."
+        },
+        {
+          "numero": 16,
+          "texto": "Porque Deus macerou o meu coração, e o Todo-poderoso me perturbou."
+        },
+        {
+          "numero": 17,
+          "texto": "Porquanto não fui desarraigado antes das trevas, nem encobriu a escuridão o meu rosto."
+        }
+      ]
+    },
+    {
+      "numero": 24,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Visto que do Todo-poderoso se não encobriram os tempos, por que não vêem os seus dias os que o conhecem?"
+        },
+        {
+          "numero": 2,
+          "texto": "Há os que até os limites removem; roubam os rebanhos e os apascentam."
+        },
+        {
+          "numero": 3,
+          "texto": "Levam o jumento do órfão; tomam em penhor o boi da viúva."
+        },
+        {
+          "numero": 4,
+          "texto": "Desviam do caminho os necessitados; e os miseráveis da terra juntos se escondem."
+        },
+        {
+          "numero": 5,
+          "texto": "Eis que, como jumentos monteses no deserto, saem à sua obra, madrugando para a presa; o campo raso dá mantimento a eles e aos seus filhos."
+        },
+        {
+          "numero": 6,
+          "texto": "No campo, segam o seu pasto e vindimam a vinha do ímpio."
+        },
+        {
+          "numero": 7,
+          "texto": "Ao nu fazem passar a noite sem roupa, não tendo ele coberta contra o frio."
+        },
+        {
+          "numero": 8,
+          "texto": "Pelas correntes das montanhas são molhados e, não tendo refúgio, abraçam-se com as rochas."
+        },
+        {
+          "numero": 9,
+          "texto": "Ao orfãozinho arrancam do peito e aceitam o penhor do pobre."
+        },
+        {
+          "numero": 10,
+          "texto": "Fazem com que os nus vão sem veste e aos famintos tiram as espigas."
+        },
+        {
+          "numero": 11,
+          "texto": "Dentro dos seus muros fazem o azeite; pisam os lagares e ainda têm sede."
+        },
+        {
+          "numero": 12,
+          "texto": "Desde as cidades gemem os homens, e a alma dos feridos clama; e, contudo, Deus lho não imputa como loucura."
+        },
+        {
+          "numero": 13,
+          "texto": "Eles estão entre os que se opõem à luz; não conhecem os seus caminhos e não permanecem nas suas veredas."
+        },
+        {
+          "numero": 14,
+          "texto": "De madrugada se levanta o homicida, mata o pobre e necessitado e de noite é como o ladrão."
+        },
+        {
+          "numero": 15,
+          "texto": "Assim como os olhos do adúltero aguardam o crepúsculo, dizendo: Não me verá olho nenhum, e oculta o rosto,"
+        },
+        {
+          "numero": 16,
+          "texto": "nas trevas minam as casas que de dia assinalaram; não conhecem a luz."
+        },
+        {
+          "numero": 17,
+          "texto": "Porque a manhã, para todos eles, é como sombra de morte; porque, sendo conhecidos, sentem os pavores da sombra da morte."
+        },
+        {
+          "numero": 18,
+          "texto": "São ligeiros sobre a face das águas; maldita é a sua porção sobre a terra; não voltam pelo caminho das vinhas."
+        },
+        {
+          "numero": 19,
+          "texto": "A secura e o calor desfazem as águas da neve; assim desfará a sepultura aos que pecaram."
+        },
+        {
+          "numero": 20,
+          "texto": "A madre se esquecerá deles, os vermes os comerão gostosamente; nunca mais haverá lembrança deles, e a iniqüidade se quebrará como a árvore."
+        },
+        {
+          "numero": 21,
+          "texto": "Afligem a estéril que não dá à luz e à viúva não fazem bem;"
+        },
+        {
+          "numero": 22,
+          "texto": "até aos poderosos arrastam com a sua força; se eles se levantam, não há vida segura."
+        },
+        {
+          "numero": 23,
+          "texto": "Se Deus lhes dá descanso, estribam-se nisso; seus olhos, porém, estão nos caminhos deles."
+        },
+        {
+          "numero": 24,
+          "texto": "Por um pouco se alçam e logo desaparecem; são abatidos, encerrados como todos os outros e cortados como as pontas das espigas."
+        },
+        {
+          "numero": 25,
+          "texto": "Se agora não é assim, quem me desmentirá e desfará as minhas razões?"
+        }
+      ]
+    },
+    {
+      "numero": 25,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Então, respondeu Bildade, o suíta, e disse:"
+        },
+        {
+          "numero": 2,
+          "texto": "Com ele estão domínio e temor; ele faz paz nas suas alturas."
+        },
+        {
+          "numero": 3,
+          "texto": "Porventura, têm número os seus exércitos? E para quem não se levanta a sua luz?"
+        },
+        {
+          "numero": 4,
+          "texto": "Como, pois, seria justo o homem perante Deus, e como seria puro aquele que nasce da mulher?"
+        },
+        {
+          "numero": 5,
+          "texto": "Olha, até a lua não resplandece, e as estrelas não são puras aos seus olhos."
+        },
+        {
+          "numero": 6,
+          "texto": "E quanto menos o homem, que é um verme, e o filho do homem, que é um bicho!"
+        }
+      ]
+    },
+    {
+      "numero": 26,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Jó, porém, respondeu e disse:"
+        },
+        {
+          "numero": 2,
+          "texto": "Como ajudaste aquele que não tinha força e sustentaste o braço que não tinha vigor!"
+        },
+        {
+          "numero": 3,
+          "texto": "Como aconselhaste aquele que não tinha sabedoria e plenamente lhe fizeste saber a causa, assim como era!"
+        },
+        {
+          "numero": 4,
+          "texto": "Para quem proferiste palavras? E de quem é o espírito que saiu de ti?"
+        },
+        {
+          "numero": 5,
+          "texto": "Os mortos tremem debaixo das águas com os seus moradores."
+        },
+        {
+          "numero": 6,
+          "texto": "O inferno está nu perante ele, e não há coberta para a perdição."
+        },
+        {
+          "numero": 7,
+          "texto": "O norte estende sobre o vazio; suspende a terra sobre o nada."
+        },
+        {
+          "numero": 8,
+          "texto": "Prende as águas em densas nuvens, e a nuvem não se rasga debaixo delas."
+        },
+        {
+          "numero": 9,
+          "texto": "Encobre a face do seu trono e sobre ela estende a sua nuvem."
+        },
+        {
+          "numero": 10,
+          "texto": "Marcou um limite à superfície das águas em redor, até aos confins da luz e das trevas."
+        },
+        {
+          "numero": 11,
+          "texto": "As colunas do céu tremem e se espantam da sua ameaça."
+        },
+        {
+          "numero": 12,
+          "texto": "Com a sua força fende o mar e com o seu entendimento abate a sua soberba."
+        },
+        {
+          "numero": 13,
+          "texto": "Pelo seu Espírito ornou os céus; a sua mão formou a serpente enroscadiça."
+        },
+        {
+          "numero": 14,
+          "texto": "Eis que isto são apenas as orlas dos seus caminhos; e quão pouco é o que temos ouvido dele! Quem, pois, entenderia o trovão do seu poder?"
+        }
+      ]
+    },
+    {
+      "numero": 27,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "E prosseguindo Jó em sua parábola, disse:"
+        },
+        {
+          "numero": 2,
+          "texto": "Vive Deus, que desviou a minha causa, e o Todo-poderoso, que amargurou a minha alma."
+        },
+        {
+          "numero": 3,
+          "texto": "Enquanto em mim houver alento, e o sopro de Deus no meu nariz,"
+        },
+        {
+          "numero": 4,
+          "texto": "não falarão os meus lábios iniqüidade, nem a minha língua pronunciará engano."
+        },
+        {
+          "numero": 5,
+          "texto": "Longe de mim que eu vos justifique; até que eu expire, nunca apartarei de mim a minha sinceridade."
+        },
+        {
+          "numero": 6,
+          "texto": "À minha justiça me apegarei e não a largarei; não me remorderá o meu coração em toda a minha vida."
+        },
+        {
+          "numero": 7,
+          "texto": "Seja como o ímpio o meu inimigo; e o que se levantar contra mim, como o perverso."
+        },
+        {
+          "numero": 8,
+          "texto": "Porque qual será a esperança do hipócrita, havendo sido avaro, quando Deus lhe arrancar a sua alma?"
+        },
+        {
+          "numero": 9,
+          "texto": "Porventura, Deus ouvirá o seu clamor, sobrevindo-lhe a tribulação?"
+        },
+        {
+          "numero": 10,
+          "texto": "Ou deleitar-se-á no Todo-poderoso ou invocará a Deus em todo o tempo?"
+        },
+        {
+          "numero": 11,
+          "texto": "Ensinar-vos-ei o que é concernente à mão de Deus, e não vos encobrirei o que está com o Todo-poderoso."
+        },
+        {
+          "numero": 12,
+          "texto": "Eis que todos vós já vistes isso; por que, pois, vos desvaneceis na vossa vaidade?"
+        },
+        {
+          "numero": 13,
+          "texto": "Eis qual será, da parte de Deus, a porção do homem ímpio e a herança que os tiranos receberão do Todo-poderoso:"
+        },
+        {
+          "numero": 14,
+          "texto": "Se os seus filhos se multiplicarem, será para a espada, e os seus renovos se não fartarão de pão."
+        },
+        {
+          "numero": 15,
+          "texto": "Os que ficarem dele, na morte serão enterrados, e as suas viúvas não chorarão."
+        },
+        {
+          "numero": 16,
+          "texto": "Se amontoar prata como pó, e aparelhar vestes como lodo,"
+        },
+        {
+          "numero": 17,
+          "texto": "ele as aparelhará, mas o justo as vestirá, e o inocente repartirá a prata."
+        },
+        {
+          "numero": 18,
+          "texto": "Ele edifica a sua casa como a traça, e como o guarda que faz a cabana."
+        },
+        {
+          "numero": 19,
+          "texto": "Rico se deita e não será recolhido; seus olhos abre e ele não será."
+        },
+        {
+          "numero": 20,
+          "texto": "Pavores se apoderam dele como águas; de noite, o arrebatará a tempestade."
+        },
+        {
+          "numero": 21,
+          "texto": "O vento oriental o levará, e ir-se-á; varrê-lo-á com ímpeto do seu lugar."
+        },
+        {
+          "numero": 22,
+          "texto": "E Deus lançará isto sobre ele e não o poupará; irá fugindo da sua mão."
+        },
+        {
+          "numero": 23,
+          "texto": "Cada um baterá contra ele as palmas das mãos e do seu lugar o assobiará."
+        }
+      ]
+    },
+    {
+      "numero": 28,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Na verdade, há veios de onde se extrai a prata, e, para o ouro, lugar em que o derretem."
+        },
+        {
+          "numero": 2,
+          "texto": "O ferro tira-se da terra, e da pedra se funde o metal."
+        },
+        {
+          "numero": 3,
+          "texto": "O homem pôs fim às trevas e até à extremidade ele esquadrinha, procurando as pedras na escuridão e na sombra da morte."
+        },
+        {
+          "numero": 4,
+          "texto": "Trasborda o ribeiro até ao que junto dele habita, de maneira que se não pode passar a pé; então, intervém o homem, e as águas se vão."
+        },
+        {
+          "numero": 5,
+          "texto": "A terra, de onde procede o pão, embaixo é revolvida como por fogo."
+        },
+        {
+          "numero": 6,
+          "texto": "As suas pedras são o lugar da safira e têm pós de ouro."
+        },
+        {
+          "numero": 7,
+          "texto": "Essa vereda, a ignora a ave de rapina, e não a viram os olhos da gralha."
+        },
+        {
+          "numero": 8,
+          "texto": "Nunca a pisaram filhos de animais altivos, nem o feroz leão passou por ela."
+        },
+        {
+          "numero": 9,
+          "texto": "Ele estende a sua mão contra o rochedo, e revolve os montes desde as suas raízes."
+        },
+        {
+          "numero": 10,
+          "texto": "Dos rochedos faz sair rios, e o seu olho descobre todas as coisas preciosas."
+        },
+        {
+          "numero": 11,
+          "texto": "Os rios tapa, e nem uma gota sai deles, e tira para a luz o que estava escondido."
+        },
+        {
+          "numero": 12,
+          "texto": "Mas onde se achará a sabedoria? E onde está o lugar da inteligência?"
+        },
+        {
+          "numero": 13,
+          "texto": "O homem não lhe conhece o valor; não se acha na terra dos viventes."
+        },
+        {
+          "numero": 14,
+          "texto": "O abismo diz: Não está em mim; e o mar diz: Ela não está comigo."
+        },
+        {
+          "numero": 15,
+          "texto": "Não se dará por ela ouro fino, nem se pesará prata em câmbio dela."
+        },
+        {
+          "numero": 16,
+          "texto": "Nem se pode comprar por ouro fino de Ofir, nem pelo precioso ônix, nem pela safira."
+        },
+        {
+          "numero": 17,
+          "texto": "Com ela se não pode comparar o ouro ou o cristal; nem se trocará por jóia de ouro fino."
+        },
+        {
+          "numero": 18,
+          "texto": "Ela faz esquecer o coral e as pérolas; porque a aquisição da sabedoria é melhor que a dos rubis."
+        },
+        {
+          "numero": 19,
+          "texto": "Não se lhe igualará o topázio da Etiópia, nem se pode comprar por ouro puro."
+        },
+        {
+          "numero": 20,
+          "texto": "De onde, pois, vem a sabedoria, e onde está o lugar da inteligência?"
+        },
+        {
+          "numero": 21,
+          "texto": "Porque está encoberta aos olhos de todo vivente e oculta às aves do céu."
+        },
+        {
+          "numero": 22,
+          "texto": "A perdição e a morte dizem: Ouvimos com os nossos ouvidos a sua fama."
+        },
+        {
+          "numero": 23,
+          "texto": "Deus entende o seu caminho, e ele sabe o seu lugar."
+        },
+        {
+          "numero": 24,
+          "texto": "Porque ele vê as extremidades da terra; e vê tudo o que há debaixo dos céus."
+        },
+        {
+          "numero": 25,
+          "texto": "Quando deu peso ao vento e tomou a medida das águas;"
+        },
+        {
+          "numero": 26,
+          "texto": "quando prescreveu uma lei para a chuva e caminho para o relâmpago dos trovões,"
+        },
+        {
+          "numero": 27,
+          "texto": "então, a viu e a manifestou; estabeleceu-a e também a esquadrinhou."
+        },
+        {
+          "numero": 28,
+          "texto": "Mas disse ao homem: Eis que o temor do Senhor é a sabedoria, e apartar-se do mal é a inteligência."
+        }
+      ]
+    },
+    {
+      "numero": 29,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "E, prosseguindo Jó em sua parábola, disse:"
+        },
+        {
+          "numero": 2,
+          "texto": "Ah! Quem me dera ser como eu fui nos meses passados, como nos dias em que Deus me guardava!"
+        },
+        {
+          "numero": 3,
+          "texto": "Quando fazia resplandecer a sua candeia sobre a minha cabeça, e eu, com a sua luz, caminhava pelas trevas;"
+        },
+        {
+          "numero": 4,
+          "texto": "como era nos dias da minha mocidade, quando o segredo de Deus estava sobre a minha tenda;"
+        },
+        {
+          "numero": 5,
+          "texto": "quando o Todo-poderoso ainda estava comigo, e os meus meninos, em redor de mim;"
+        },
+        {
+          "numero": 6,
+          "texto": "quando lavava os meus passos em manteiga, e da rocha me corriam ribeiros de azeite;"
+        },
+        {
+          "numero": 7,
+          "texto": "quando saía para a porta da cidade e na praça fazia preparar a minha cadeira."
+        },
+        {
+          "numero": 8,
+          "texto": "Os moços me viam e se escondiam; e os idosos se levantavam e se punham em pé;"
+        },
+        {
+          "numero": 9,
+          "texto": "os príncipes continham as suas palavras e punham a mão sobre a boca;"
+        },
+        {
+          "numero": 10,
+          "texto": "a voz dos chefes se escondia, e a sua língua se pegava ao seu paladar;"
+        },
+        {
+          "numero": 11,
+          "texto": "ouvindo- me algum ouvido, me tinha por bem-aventurado; vendo- me algum olho, dava testemunho de mim;"
+        },
+        {
+          "numero": 12,
+          "texto": "porque eu livrava o miserável, que clamava, como também o órfão que não tinha quem o socorresse."
+        },
+        {
+          "numero": 13,
+          "texto": "A bênção do que ia perecendo vinha sobre mim, e eu fazia que rejubilasse o coração da viúva."
+        },
+        {
+          "numero": 14,
+          "texto": "Cobria-me de justiça, e ela me servia de veste; como manto e diadema era o meu juízo."
+        },
+        {
+          "numero": 15,
+          "texto": "Eu era o olho do cego e os pés do coxo;"
+        },
+        {
+          "numero": 16,
+          "texto": "dos necessitados era pai e as causas de que não tinha conhecimento inquiria com diligência;"
+        },
+        {
+          "numero": 17,
+          "texto": "e quebrava os queixais do perverso e dos seus dentes tirava a presa."
+        },
+        {
+          "numero": 18,
+          "texto": "E dizia: no meu ninho expirarei e multiplicarei os meus dias como a areia."
+        },
+        {
+          "numero": 19,
+          "texto": "A minha raiz se estendia junto às águas, e o orvalho fazia assento sobre os meus ramos;"
+        },
+        {
+          "numero": 20,
+          "texto": "a minha honra se renovava em mim, e o meu arco se reforçava na minha mão."
+        },
+        {
+          "numero": 21,
+          "texto": "Ouvindo-me, esperavam e em silêncio atendiam ao meu conselho."
+        },
+        {
+          "numero": 22,
+          "texto": "Acabada a minha palavra, não replicavam, e minhas razões destilavam sobre eles;"
+        },
+        {
+          "numero": 23,
+          "texto": "porque me esperavam como à chuva; e abriam a boca como à chuva tardia."
+        },
+        {
+          "numero": 24,
+          "texto": "Se me ria para eles, não o criam e não faziam abater a luz do meu rosto;"
+        },
+        {
+          "numero": 25,
+          "texto": "se eu escolhia o seu caminho, assentava-me como chefe; e habitava como rei entre as suas tropas, como aquele que consola os que pranteiam."
+        }
+      ]
+    },
+    {
+      "numero": 30,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Mas agora se riem de mim os de menos idade do que eu, e cujos pais eu teria desdenhado de pôr com os cães do meu rebanho."
+        },
+        {
+          "numero": 2,
+          "texto": "De que também me serviria a força das suas mãos, força de homens cuja velhice esgotou-lhes o vigor?"
+        },
+        {
+          "numero": 3,
+          "texto": "De míngua e fome se debilitaram; e recolhiam-se para os lugares secos, tenebrosos, assolados e desertos."
+        },
+        {
+          "numero": 4,
+          "texto": "Apanhavam malvas junto aos arbustos, e o seu mantimento eram raízes dos zimbros."
+        },
+        {
+          "numero": 5,
+          "texto": "Do meio dos homens eram expulsos (gritava-se contra eles como contra um ladrão),"
+        },
+        {
+          "numero": 6,
+          "texto": "para habitarem nos barrancos dos vales e nas cavernas da terra e das rochas."
+        },
+        {
+          "numero": 7,
+          "texto": "Bramavam entre os arbustos e ajuntavam-se debaixo das urtigas."
+        },
+        {
+          "numero": 8,
+          "texto": "Eram filhos de doidos e filhos de gente sem nome e da terra eram expulsos."
+        },
+        {
+          "numero": 9,
+          "texto": "Mas agora sou a sua canção e lhes sirvo de provérbio."
+        },
+        {
+          "numero": 10,
+          "texto": "Abominam-me, e fogem para longe de mim, e no meu rosto não se privam de cuspir."
+        },
+        {
+          "numero": 11,
+          "texto": "Porque Deus desatou a sua corda e me oprimiu; pelo que sacudiram de si o freio perante o meu rosto."
+        },
+        {
+          "numero": 12,
+          "texto": "À direita se levantam os moços; empurram os meus pés e preparam contra mim os seus caminhos de destruição."
+        },
+        {
+          "numero": 13,
+          "texto": "Desbaratam-me o meu caminho; promovem a minha miséria; uma gente que não tem nenhum ajudador."
+        },
+        {
+          "numero": 14,
+          "texto": "Vêm contra mim como por uma grande brecha e revolvem-se entre a assolação."
+        },
+        {
+          "numero": 15,
+          "texto": "Sobrevieram-me pavores; como vento perseguem a minha honra, e como nuvem passou a minha felicidade."
+        },
+        {
+          "numero": 16,
+          "texto": "E agora derrama-se em mim a minha alma; os dias da aflição se apoderaram de mim."
+        },
+        {
+          "numero": 17,
+          "texto": "De noite, se me traspassam os meus ossos, e o mal que me corrói não descansa."
+        },
+        {
+          "numero": 18,
+          "texto": "Pela grande força do meu mal se demudou a minha veste, que, como a gola da minha túnica, me cinge."
+        },
+        {
+          "numero": 19,
+          "texto": "Lançou-me na lama, e fiquei semelhante ao pó e à cinza."
+        },
+        {
+          "numero": 20,
+          "texto": "Clamo a ti, mas tu não me respondes; estou em pé, mas para mim não atentas."
+        },
+        {
+          "numero": 21,
+          "texto": "Tornaste-te cruel contra mim; com a força da tua mão resistes violentamente."
+        },
+        {
+          "numero": 22,
+          "texto": "Levantas-me sobre o vento, fazes-me cavalgar sobre ele e derretes-me o ser."
+        },
+        {
+          "numero": 23,
+          "texto": "Porque eu sei que me levarás à morte e à casa do ajuntamento destinada a todos os viventes."
+        },
+        {
+          "numero": 24,
+          "texto": "Mas não estenderás a mão para um montão de terra, se houver clamor nele na sua desventura?"
+        },
+        {
+          "numero": 25,
+          "texto": "Porventura, não chorei sobre aquele que estava aflito, ou não se angustiou a minha alma pelo necessitado?"
+        },
+        {
+          "numero": 26,
+          "texto": "Todavia, aguardando eu o bem, eis que me veio o mal; e, esperando eu a luz, veio a escuridão."
+        },
+        {
+          "numero": 27,
+          "texto": "O meu íntimo ferve e não está quieto; os dias da aflição me surpreenderam."
+        },
+        {
+          "numero": 28,
+          "texto": "Denegrido ando, mas não do sol; levantando-me na congregação, clamo por socorro."
+        },
+        {
+          "numero": 29,
+          "texto": "Irmão me fiz dos dragões, e companheiro dos avestruzes."
+        },
+        {
+          "numero": 30,
+          "texto": "Enegreceu-se a minha pele sobre mim, e os meus ossos estão queimados do calor."
+        },
+        {
+          "numero": 31,
+          "texto": "Pelo que se tornou a minha harpa em lamentação, e a minha flauta, em voz dos que choram."
+        }
+      ]
+    },
+    {
+      "numero": 31,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Fiz concerto com os meus olhos; como, pois, os fixaria numa virgem?"
+        },
+        {
+          "numero": 2,
+          "texto": "Porque qual seria a parte de Deus vinda de cima, ou a herança do Todo-poderoso desde as alturas?"
+        },
+        {
+          "numero": 3,
+          "texto": "Porventura, não é a perdição para o perverso, e o desastre, para os que praticam iniqüidade?"
+        },
+        {
+          "numero": 4,
+          "texto": "Ou não vê ele os meus caminhos e não conta todos os meus passos?"
+        },
+        {
+          "numero": 5,
+          "texto": "Se andei com vaidade, e se o meu pé se apressou para o engano"
+        },
+        {
+          "numero": 6,
+          "texto": "(pese-me em balanças fiéis, e saberá Deus a minha sinceridade);"
+        },
+        {
+          "numero": 7,
+          "texto": "se os meus passos se desviaram do caminho, e se o meu coração segue os meus olhos, e se às minhas mãos se apegou alguma coisa,"
+        },
+        {
+          "numero": 8,
+          "texto": "então, semeie eu, e outro coma, e seja a minha descendência arrancada até à raiz."
+        },
+        {
+          "numero": 9,
+          "texto": "Se o meu coração se deixou seduzir por uma mulher, ou se eu andei rondando à porta do meu próximo,"
+        },
+        {
+          "numero": 10,
+          "texto": "então, moa minha mulher para outro, e outros se encurvem sobre ela."
+        },
+        {
+          "numero": 11,
+          "texto": "Porque isso seria uma infâmia e delito, pertencente aos juízes."
+        },
+        {
+          "numero": 12,
+          "texto": "Porque é fogo que consome até à perdição e desarraigaria toda a minha renda."
+        },
+        {
+          "numero": 13,
+          "texto": "Se desprezei o direito do meu servo ou da minha serva, quando eles contendiam comigo,"
+        },
+        {
+          "numero": 14,
+          "texto": "então, que faria eu quando Deus se levantasse? E, inquirindo a causa, que lhe responderia?"
+        },
+        {
+          "numero": 15,
+          "texto": "Aquele que me formou no ventre não o fez também a ele? Ou não nos formou do mesmo modo na madre?"
+        },
+        {
+          "numero": 16,
+          "texto": "Se retive o que os pobres desejavam ou fiz desfalecer os olhos da viúva;"
+        },
+        {
+          "numero": 17,
+          "texto": "ou sozinho comi o meu bocado, e o órfão não comeu dele"
+        },
+        {
+          "numero": 18,
+          "texto": "(porque desde a minha mocidade cresceu comigo como com seu pai, e o guiei desde o ventre da minha mãe);"
+        },
+        {
+          "numero": 19,
+          "texto": "se a alguém vi perecer por falta de veste e, ao necessitado, por não ter coberta;"
+        },
+        {
+          "numero": 20,
+          "texto": "se os seus lombos me não abençoaram, se ele não se aquentava com as peles dos meus cordeiros;"
+        },
+        {
+          "numero": 21,
+          "texto": "se eu levantei a mão contra o órfão, porque na porta via a minha ajuda,"
+        },
+        {
+          "numero": 22,
+          "texto": "então, caia do ombro a minha espádua, e quebre-se o meu braço desde o osso."
+        },
+        {
+          "numero": 23,
+          "texto": "Porque o castigo de Deus era para mim um assombro, e eu não podia suportar a sua grandeza."
+        },
+        {
+          "numero": 24,
+          "texto": "Se no ouro pus a minha esperança ou disse ao ouro fino: Tu és a minha confiança;"
+        },
+        {
+          "numero": 25,
+          "texto": "se me alegrei de que era muita a minha fazenda e de que a minha mão tinha alcançado muito;"
+        },
+        {
+          "numero": 26,
+          "texto": "se olhei para o sol, quando resplandecia, ou para a lua, caminhando gloriosa;"
+        },
+        {
+          "numero": 27,
+          "texto": "e o meu coração se deixou enganar em oculto, e a minha boca beijou a minha mão,"
+        },
+        {
+          "numero": 28,
+          "texto": "também isto seria delito pertencente ao juiz; pois assim negaria a Deus, que está em cima."
+        },
+        {
+          "numero": 29,
+          "texto": "Se me alegrei da desgraça do que me tem ódio, e se eu exultei quando o mal o achou"
+        },
+        {
+          "numero": 30,
+          "texto": "(também não deixei pecar o meu paladar, desejando a sua morte com maldição);"
+        },
+        {
+          "numero": 31,
+          "texto": "se a gente da minha tenda não disse: Ah! Quem se não terá saciado com a sua carne!"
+        },
+        {
+          "numero": 32,
+          "texto": "O estrangeiro não passava a noite na rua; as minhas portas abria ao viandante."
+        },
+        {
+          "numero": 33,
+          "texto": "Se, como Adão, encobri as minhas transgressões, ocultando o meu delito no meu seio,"
+        },
+        {
+          "numero": 34,
+          "texto": "trema eu perante uma grande multidão, e o desprezo das famílias me apavore, e eu me cale, e não saia da porta."
+        },
+        {
+          "numero": 35,
+          "texto": "Ah! Quem me dera um que me ouvisse! Eis que o meu intento é que o Todo-poderoso me responda e que o meu adversário escreva um livro."
+        },
+        {
+          "numero": 36,
+          "texto": "Por certo que o levaria sobre o meu ombro, sobre mim o ataria como coroa."
+        },
+        {
+          "numero": 37,
+          "texto": "O número dos meus passos lhe mostraria; como príncipe me chegaria a ele."
+        },
+        {
+          "numero": 38,
+          "texto": "Se a minha terra clamar contra mim, e se os seus regos juntamente chorarem;"
+        },
+        {
+          "numero": 39,
+          "texto": "se comi a sua novidade sem dinheiro e sufoquei a alma dos seus donos,"
+        },
+        {
+          "numero": 40,
+          "texto": "por trigo me produza cardos, e por cevada, joio. Acabaram-se as palavras de Jó."
+        }
+      ]
+    },
+    {
+      "numero": 32,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Então, aqueles três homens cessaram de responder a Jó; porque era justo aos seus próprios olhos."
+        },
+        {
+          "numero": 2,
+          "texto": "E acendeu-se a ira de Eliú, filho de Baraquel, o buzita, da família de Rão; contra Jó se acendeu a sua ira, porque se justificava a si mesmo, mais do que a Deus."
+        },
+        {
+          "numero": 3,
+          "texto": "Também a sua ira se acendeu contra os seus três amigos; porque, não achando que responder, todavia, condenavam a Jó."
+        },
+        {
+          "numero": 4,
+          "texto": "Eliú, porém, esperou para falar a Jó, porquanto tinham mais idade do que ele."
+        },
+        {
+          "numero": 5,
+          "texto": "Vendo, pois, Eliú que já não havia resposta na boca daqueles três homens, a sua ira se acendeu."
+        },
+        {
+          "numero": 6,
+          "texto": "E respondeu Eliú, filho de Baraquel, o buzita, e disse: Eu sou de menos idade, e vós sois idosos; arreceei-me e temi de vos declarar a minha opinião."
+        },
+        {
+          "numero": 7,
+          "texto": "Dizia eu: Falem os dias, e a multidão dos anos ensine a sabedoria."
+        },
+        {
+          "numero": 8,
+          "texto": "Na verdade, há um espírito no homem, e a inspiração do Todo-poderoso os faz sábios."
+        },
+        {
+          "numero": 9,
+          "texto": "Os grandes não são os sábios, nem os velhos entendem o que é reto."
+        },
+        {
+          "numero": 10,
+          "texto": "Pelo que digo: Dai-me ouvidos, e também eu declararei a minha opinião."
+        },
+        {
+          "numero": 11,
+          "texto": "Eis que aguardei as vossas palavras, e dei ouvidos às vossas considerações, até que buscásseis razões."
+        },
+        {
+          "numero": 12,
+          "texto": "Atentando, pois, para vós, eis que nenhum de vós há que possa convencer a Jó, nem que responda às suas razões."
+        },
+        {
+          "numero": 13,
+          "texto": "Pelo que não digais: Achamos a sabedoria, Deus o derribou, e não homem algum."
+        },
+        {
+          "numero": 14,
+          "texto": "Ora, ele não dirigiu contra mim palavra alguma, nem lhe responderei com as vossas palavras."
+        },
+        {
+          "numero": 15,
+          "texto": "Estais pasmados, não respondeis mais, faltam-vos as palavras."
+        },
+        {
+          "numero": 16,
+          "texto": "Esperei, pois, mas não falais; porque já parastes, e não respondeis mais."
+        },
+        {
+          "numero": 17,
+          "texto": "Também eu responderei pela minha parte; também eu declararei a minha opinião."
+        },
+        {
+          "numero": 18,
+          "texto": "Porque estou cheio de palavras; o meu espírito me constrange."
+        },
+        {
+          "numero": 19,
+          "texto": "Eis que o meu ventre é como o mosto, sem respiradouro, e virá a arrebentar como odres novos."
+        },
+        {
+          "numero": 20,
+          "texto": "Falarei e respirarei; abrirei os meus lábios e responderei."
+        },
+        {
+          "numero": 21,
+          "texto": "Queira Deus que eu não faça acepção de pessoas, nem use de lisonjas com o homem!"
+        },
+        {
+          "numero": 22,
+          "texto": "Porque não sei usar de lisonjas; em breve me levaria o meu Criador."
+        }
+      ]
+    },
+    {
+      "numero": 33,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Assim, na verdade, ó Jó, ouve as minhas razões e dá ouvidos a todas as minhas palavras."
+        },
+        {
+          "numero": 2,
+          "texto": "Eis que já abri a minha boca; já falou a minha língua debaixo do meu paladar."
+        },
+        {
+          "numero": 3,
+          "texto": "As minhas razões sairão da sinceridade do meu coração; e a pura ciência, dos meus lábios."
+        },
+        {
+          "numero": 4,
+          "texto": "O Espírito de Deus me fez; e a inspiração do Todo-Poderoso me deu vida."
+        },
+        {
+          "numero": 5,
+          "texto": "Se podes, responde-me; dispõe bem as tuas razões e levanta-te."
+        },
+        {
+          "numero": 6,
+          "texto": "Eis que vim de Deus, como tu; do lodo também eu fui formado."
+        },
+        {
+          "numero": 7,
+          "texto": "Eis que não te perturbará o meu terror, nem será pesada sobre ti a minha mão."
+        },
+        {
+          "numero": 8,
+          "texto": "Na verdade, tu falaste aos meus ouvidos; e eu ouvi a voz das tuas palavras; dizias:"
+        },
+        {
+          "numero": 9,
+          "texto": "Limpo estou, sem transgressão; puro sou; e não tenho culpa."
+        },
+        {
+          "numero": 10,
+          "texto": "Eis que ele acha contra mim ocasiões e me considerou como seu inimigo."
+        },
+        {
+          "numero": 11,
+          "texto": "Põe no tronco os meus pés e observa todas as minhas veredas."
+        },
+        {
+          "numero": 12,
+          "texto": "Eis que nisto te respondo: Não foste justo; porque maior é Deus do que o homem."
+        },
+        {
+          "numero": 13,
+          "texto": "Por que razão contendes com ele? Porque ele não dá contas de nenhum dos seus feitos."
+        },
+        {
+          "numero": 14,
+          "texto": "Antes, Deus fala uma e duas vezes; porém ninguém atenta para isso."
+        },
+        {
+          "numero": 15,
+          "texto": "Em sonho ou em visão de noite, quando cai sono profundo sobre os homens, e adormecem na cama,"
+        },
+        {
+          "numero": 16,
+          "texto": "então, abre os ouvidos dos homens, e lhes sela a sua instrução,"
+        },
+        {
+          "numero": 17,
+          "texto": "para apartar o homem do seu desígnio e esconder do homem a soberba;"
+        },
+        {
+          "numero": 18,
+          "texto": "para desviar a sua alma da cova e a sua vida, de passar pela espada."
+        },
+        {
+          "numero": 19,
+          "texto": "Também na sua cama é com dores castigado, e com a incessante contenda dos seus ossos;"
+        },
+        {
+          "numero": 20,
+          "texto": "de modo que a sua vida abomina até o pão; e a sua alma, a comida apetecível."
+        },
+        {
+          "numero": 21,
+          "texto": "Desaparece a sua carne a olhos vistos; e os seus ossos, que se não viam, agora aparecem;"
+        },
+        {
+          "numero": 22,
+          "texto": "e a sua alma se vai chegando à cova; e a sua vida, ao que traz morte."
+        },
+        {
+          "numero": 23,
+          "texto": "Se com ele, pois, houver um mensageiro, um intérprete, um entre milhares para declarar ao homem a sua retidão,"
+        },
+        {
+          "numero": 24,
+          "texto": "então, terá misericórdia dele e lhe dirá: Livra-o, que não desça à cova; já achei resgate."
+        },
+        {
+          "numero": 25,
+          "texto": "Sua carne se reverdecerá mais do que na sua infância e tornará aos dias da sua juventude."
+        },
+        {
+          "numero": 26,
+          "texto": "Deveras, orará a Deus, que se agradará dele, e verá a sua face com júbilo, e restituirá ao homem a sua justiça."
+        },
+        {
+          "numero": 27,
+          "texto": "Olhará para os homens e dirá: Pequei e perverti o direito, o que de nada me aproveitou."
+        },
+        {
+          "numero": 28,
+          "texto": "Mas Deus livrou a minha alma de ir para a cova; e a minha vida verá a luz."
+        },
+        {
+          "numero": 29,
+          "texto": "Eis que tudo isto é obra de Deus, duas e três vezes para com o homem,"
+        },
+        {
+          "numero": 30,
+          "texto": "para desviar a sua alma da perdição e o alumiar com a luz dos viventes."
+        },
+        {
+          "numero": 31,
+          "texto": "Escuta, pois, ó Jó, ouve-me; cala-te, e eu falarei."
+        },
+        {
+          "numero": 32,
+          "texto": "Se tens alguma coisa que dizer, responde-me; fala, porque desejo justificar-te."
+        },
+        {
+          "numero": 33,
+          "texto": "Se não, escuta-me tu; cala-te, e ensinar-te-ei a sabedoria."
+        }
+      ]
+    },
+    {
+      "numero": 34,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Respondeu mais Eliú e disse:"
+        },
+        {
+          "numero": 2,
+          "texto": "Ouvi vós, sábios, as minhas razões; e vós, instruídos, inclinai os ouvidos para mim."
+        },
+        {
+          "numero": 3,
+          "texto": "Porque o ouvido prova as palavras como o paladar prova a comida."
+        },
+        {
+          "numero": 4,
+          "texto": "O que é direito escolhamos para nós; e conheçamos entre nós o que é bom."
+        },
+        {
+          "numero": 5,
+          "texto": "Porque Jó disse: Sou justo, e Deus tirou o meu direito."
+        },
+        {
+          "numero": 6,
+          "texto": "Apesar do meu direito, sou considerado mentiroso; a minha ferida é incurável, embora eu esteja sem transgressão."
+        },
+        {
+          "numero": 7,
+          "texto": "Que homem há como Jó, que bebe a zombaria como água?"
+        },
+        {
+          "numero": 8,
+          "texto": "E caminha em companhia dos que praticam a iniqüidade, e anda com homens ímpios?"
+        },
+        {
+          "numero": 9,
+          "texto": "Porque disse: De nada aproveita ao homem o comprazer-se em Deus."
+        },
+        {
+          "numero": 10,
+          "texto": "Pelo que vós, homens de entendimento, escutai-me: longe de Deus a impiedade, e do Todo-poderoso, a perversidade!"
+        },
+        {
+          "numero": 11,
+          "texto": "Porque, segundo a obra do homem, ele lhe paga; e faz que cada um ache segundo o seu caminho."
+        },
+        {
+          "numero": 12,
+          "texto": "Também, na verdade, Deus não procede impiamente; nem o Todo-poderoso perverte o juízo."
+        },
+        {
+          "numero": 13,
+          "texto": "Quem lhe entregou o governo da terra? E quem dispôs a todo o mundo?"
+        },
+        {
+          "numero": 14,
+          "texto": "Se ele pusesse o seu coração contra o homem, e recolhesse para si o seu espírito e o seu fôlego,"
+        },
+        {
+          "numero": 15,
+          "texto": "toda a carne juntamente expiraria, e o homem voltaria para o pó."
+        },
+        {
+          "numero": 16,
+          "texto": "Se, pois, há em ti entendimento, ouve isto; inclina os ouvidos à voz do meu discurso."
+        },
+        {
+          "numero": 17,
+          "texto": "Porventura, o que aborrecesse o direito governaria? E quererás tu condenar aquele que é justo e poderoso?"
+        },
+        {
+          "numero": 18,
+          "texto": "Ou dir-se-á a um rei: Oh! Belial? Ou, aos príncipes: Oh! Ímpios?"
+        },
+        {
+          "numero": 19,
+          "texto": "Quanto menos àquele que não faz acepção da pessoa de príncipes, nem estima o rico mais do que o pobre; porque todos são obra de suas mãos."
+        },
+        {
+          "numero": 20,
+          "texto": "Eles, num momento, morrem; e, até à meia-noite, os povos são perturbados e passam, e os poderosos são tomados sem mão."
+        },
+        {
+          "numero": 21,
+          "texto": "Porque os olhos de Deus estão sobre os caminhos de cada um, e ele vê todos os seus passos."
+        },
+        {
+          "numero": 22,
+          "texto": "Não há trevas nem sombra de morte onde se escondam os que praticam a iniqüidade."
+        },
+        {
+          "numero": 23,
+          "texto": "Porque não precisa considerar muito no homem para o fazer ir a juízo diante de Deus."
+        },
+        {
+          "numero": 24,
+          "texto": "Ele quebranta os fortes, sem que se possa inquirir, e põe outros em seu lugar."
+        },
+        {
+          "numero": 25,
+          "texto": "Ele conhece, pois, as suas obras; de noite, os transtorna, e ficam moídos."
+        },
+        {
+          "numero": 26,
+          "texto": "Ele bate-lhes como ímpios que são à vista de quem os contempla;"
+        },
+        {
+          "numero": 27,
+          "texto": "porquanto se desviaram dele, e não compreenderam nenhum de seus caminhos,"
+        },
+        {
+          "numero": 28,
+          "texto": "para fazer que o clamor do pobre subisse até ele, e que ouvisse o clamor dos aflitos."
+        },
+        {
+          "numero": 29,
+          "texto": "Se ele aquietar, quem, então, inquietará? Se encobrir o rosto, quem, então, o poderá contemplar, seja para com um povo, seja para com um homem só?"
+        },
+        {
+          "numero": 30,
+          "texto": "Para que o homem hipócrita nunca mais reine, e não haja laços no povo."
+        },
+        {
+          "numero": 31,
+          "texto": "Na verdade, quem disse a Deus: Sofri, não pecarei mais;"
+        },
+        {
+          "numero": 32,
+          "texto": "o que não vejo, ensina-mo tu; se fiz alguma maldade, nunca mais a hei de fazer?"
+        },
+        {
+          "numero": 33,
+          "texto": "Virá de ti como há de ser a recompensa, para que tu a desprezes? Faze tu, pois, e não eu, a escolha; que é, logo, o que sabes? Fala!"
+        },
+        {
+          "numero": 34,
+          "texto": "Os homens de entendimento dirão comigo, e o varão sábio, que me ouvir:"
+        },
+        {
+          "numero": 35,
+          "texto": "Jó falou sem ciência; e às suas palavras falta prudência."
+        },
+        {
+          "numero": 36,
+          "texto": "Pai meu! Provado seja Jó até ao fim, pelas suas respostas próprias de homens malignos."
+        },
+        {
+          "numero": 37,
+          "texto": "Porque ao seu pecado acrescenta a transgressão; entre nós bate as palmas e multiplica contra Deus as suas razões."
+        }
+      ]
+    },
+    {
+      "numero": 35,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Respondeu mais Eliú e disse:"
+        },
+        {
+          "numero": 2,
+          "texto": "Tens por direito dizeres: Maior é a minha justiça do que a de Deus?"
+        },
+        {
+          "numero": 3,
+          "texto": "Porque disseste: De que te serviria? Que proveito tiraria mais do que do meu pecado?"
+        },
+        {
+          "numero": 4,
+          "texto": "Eu te darei resposta, a ti e aos teus amigos contigo."
+        },
+        {
+          "numero": 5,
+          "texto": "Atenta para os céus e vê; e contempla as mais altas nuvens, que estão mais altas do que tu."
+        },
+        {
+          "numero": 6,
+          "texto": "Se pecares, que efetuarás contra ele? Se as tuas transgressões se multiplicarem, que lhe farás?"
+        },
+        {
+          "numero": 7,
+          "texto": "Se fores justo, que lhe darás, ou que receberá da tua mão?"
+        },
+        {
+          "numero": 8,
+          "texto": "A tua impiedade faria mal a outro tal como tu; e a tua justiça aproveitaria a um filho do homem."
+        },
+        {
+          "numero": 9,
+          "texto": "Por causa da grandeza da opressão eles clamam; eles clamam por causa do braço dos grandes."
+        },
+        {
+          "numero": 10,
+          "texto": "Mas ninguém diz: Onde está Deus, que me fez? Que dá salmos entre a noite?"
+        },
+        {
+          "numero": 11,
+          "texto": "Que nos faz mais doutos do que os animais da terra e nos faz mais sábios do que as aves dos céus?"
+        },
+        {
+          "numero": 12,
+          "texto": "Clamam, porém ele não responde, por causa da arrogância dos maus."
+        },
+        {
+          "numero": 13,
+          "texto": "Certo é que Deus não ouvirá a vaidade, nem atentará para ela o Todo-poderoso."
+        },
+        {
+          "numero": 14,
+          "texto": "E quanto ao que disseste, que o não verás, juízo há perante ele; por isso, espera nele."
+        },
+        {
+          "numero": 15,
+          "texto": "Mas agora, porque a sua ira ainda se não exerce, nem grandemente considera a arrogância,"
+        },
+        {
+          "numero": 16,
+          "texto": "logo, Jó em vão abre a sua boca e sem ciência multiplica palavras."
+        }
+      ]
+    },
+    {
+      "numero": 36,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Prosseguiu ainda Eliú e disse:"
+        },
+        {
+          "numero": 2,
+          "texto": "Espera-me um pouco, e mostrar-te-ei que ainda há razões a favor de Deus."
+        },
+        {
+          "numero": 3,
+          "texto": "Desde longe repetirei a minha opinião; e ao meu Criador atribuirei a justiça."
+        },
+        {
+          "numero": 4,
+          "texto": "Porque, na verdade, as minhas palavras não serão falsas; contigo está um que é sincero na sua opinião."
+        },
+        {
+          "numero": 5,
+          "texto": "Eis que Deus é mui grande; contudo, a ninguém despreza; grande é em força de coração."
+        },
+        {
+          "numero": 6,
+          "texto": "Não deixa viver ao ímpio e faz justiça aos aflitos."
+        },
+        {
+          "numero": 7,
+          "texto": "Dos justos não tira os seus olhos; antes, com os reis no trono os assenta para sempre, e assim são exaltados."
+        },
+        {
+          "numero": 8,
+          "texto": "E, se estão presos em grilhões e amarrados com cordas de aflição,"
+        },
+        {
+          "numero": 9,
+          "texto": "então, lhes faz saber a obra deles e as suas transgressões; porquanto prevaleceram nelas."
+        },
+        {
+          "numero": 10,
+          "texto": "E revela isso aos seus ouvidos, para seu ensino, e lhes diz que se convertam da maldade."
+        },
+        {
+          "numero": 11,
+          "texto": "Se o ouvirem e o servirem, acabarão seus dias em bem e os seus anos, em delícias."
+        },
+        {
+          "numero": 12,
+          "texto": "Porém, se o não ouvirem, à espada serão passados e expirarão sem conhecimento."
+        },
+        {
+          "numero": 13,
+          "texto": "E os hipócritas de coração amontoam para si a ira; e amarrando-os ele, não clamam por socorro."
+        },
+        {
+          "numero": 14,
+          "texto": "Eles morrem na mocidade, e a sua vida perece entre os sodomitas."
+        },
+        {
+          "numero": 15,
+          "texto": "Ao aflito livra da sua aflição e, na opressão, se revela aos seus ouvidos."
+        },
+        {
+          "numero": 16,
+          "texto": "Assim também te desviará da angústia para um lugar espaçoso, em que não há aperto, e as iguarias da tua mesa serão cheias de gordura."
+        },
+        {
+          "numero": 17,
+          "texto": "Mas tu estás cheio do juízo do ímpio; o juízo e a justiça te alcançam."
+        },
+        {
+          "numero": 18,
+          "texto": "Porquanto há furor, guarda-te de que, porventura, não sejas levado pela tua suficiência, nem te desvie a grandeza do resgate."
+        },
+        {
+          "numero": 19,
+          "texto": "Estimaria ele tanto tuas riquezas, ou todos os esforços da tua força, que por isso não estivesses em aperto?"
+        },
+        {
+          "numero": 20,
+          "texto": "Não suspires pela noite, em que os povos sejam tomados do seu lugar."
+        },
+        {
+          "numero": 21,
+          "texto": "Guarda-te e não te inclines para a iniqüidade; porquanto isto escolheste antes que a tua miséria."
+        },
+        {
+          "numero": 22,
+          "texto": "Eis que Deus exalta com a sua força; quem ensina como ele?"
+        },
+        {
+          "numero": 23,
+          "texto": "Quem lhe pedirá conta do seu caminho, ou quem lhe disse: Tu cometeste maldade?"
+        },
+        {
+          "numero": 24,
+          "texto": "Lembra-te de engrandecer a sua obra que os homens contemplam."
+        },
+        {
+          "numero": 25,
+          "texto": "Todos os homens a vêem, e o homem a enxerga de longe."
+        },
+        {
+          "numero": 26,
+          "texto": "Eis que Deus é grande, e nós o não compreendemos, e o número dos seus anos não se pode calcular."
+        },
+        {
+          "numero": 27,
+          "texto": "Porque reúne as gotas das águas que derrama em chuva do seu vapor,"
+        },
+        {
+          "numero": 28,
+          "texto": "a qual as nuvens destilam e gotejam sobre o homem abundantemente."
+        },
+        {
+          "numero": 29,
+          "texto": "Porventura, também se poderão entender a extensão das nuvens e os trovões da sua tenda?"
+        },
+        {
+          "numero": 30,
+          "texto": "Eis que estende sobre elas a sua luz e encobre os altos do mar."
+        },
+        {
+          "numero": 31,
+          "texto": "Porque por estas coisas julga os povos e lhes dá mantimento em abundância."
+        },
+        {
+          "numero": 32,
+          "texto": "Com as mãos encobre a luz e a proíbe de passar por entre elas."
+        },
+        {
+          "numero": 33,
+          "texto": "O que nos dá a entender o seu pensamento, como também aos gados, acerca do temporal que sobe."
+        }
+      ]
+    },
+    {
+      "numero": 37,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Sobre isto também treme o meu coração e salta do seu lugar."
+        },
+        {
+          "numero": 2,
+          "texto": "Atentamente ouvi o movimento da sua voz e o sonido que sai da sua boca."
+        },
+        {
+          "numero": 3,
+          "texto": "Ele o envia por debaixo de todos os céus e a sua luz, até aos confins da terra."
+        },
+        {
+          "numero": 4,
+          "texto": "Depois disto, brama com grande voz, troveja com a sua alta voz; e, ouvida a sua voz, não tarda com estas coisas."
+        },
+        {
+          "numero": 5,
+          "texto": "Com a sua voz troveja Deus maravilhosamente; faz grandes coisas que nós não compreendemos."
+        },
+        {
+          "numero": 6,
+          "texto": "Porque à neve diz: Cai na terra; como também ao aguaceiro e à sua forte chuva."
+        },
+        {
+          "numero": 7,
+          "texto": "Ele sela as mãos de todo homem, para que conheçam todos os homens a sua obra."
+        },
+        {
+          "numero": 8,
+          "texto": "E as alimárias entram nos seus esconderijos e ficam nas suas cavernas."
+        },
+        {
+          "numero": 9,
+          "texto": "Das recâmaras do sul sai o pé de vento e, do norte, o frio."
+        },
+        {
+          "numero": 10,
+          "texto": "Pelo assopro de Deus, se dá a geada, e as largas águas se endurecem."
+        },
+        {
+          "numero": 11,
+          "texto": "Também com a umidade carrega as grossas nuvens e esparge a nuvem da sua luz."
+        },
+        {
+          "numero": 12,
+          "texto": "Então, ela, segundo o seu prudente conselho, se espalha em roda, para que faça tudo quanto lhe ordena sobre a superfície do mundo habitável;"
+        },
+        {
+          "numero": 13,
+          "texto": "seja para correção, ou para a sua terra, ou para beneficência, que a faça vir."
+        },
+        {
+          "numero": 14,
+          "texto": "A isto, ó Jó, inclina os teus ouvidos; atende e considera as maravilhas de Deus."
+        },
+        {
+          "numero": 15,
+          "texto": "Porventura, sabes tu como Deus as opera e faz resplandecer a luz da sua nuvem?"
+        },
+        {
+          "numero": 16,
+          "texto": "Tens tu notícia do equilíbrio das grossas nuvens e das maravilhas daquele que é perfeito nos conhecimentos?"
+        },
+        {
+          "numero": 17,
+          "texto": "Ou de como as tuas vestes aquecem, quando do sul há calma sobre a terra?"
+        },
+        {
+          "numero": 18,
+          "texto": "Ou estendeste com ele os céus, que estão firmes como espelho fundido?"
+        },
+        {
+          "numero": 19,
+          "texto": "Ensina-nos o que lhe diremos; porque nós nada poderemos pôr em boa ordem, por causa das trevas."
+        },
+        {
+          "numero": 20,
+          "texto": "Contar-lhe-ia alguém o que tenho dito? Ou desejaria um homem que ele fosse devorado?"
+        },
+        {
+          "numero": 21,
+          "texto": "E agora não se pode ver o sol, que resplandece nos céus; mas, passando o vento e purificando-os,"
+        },
+        {
+          "numero": 22,
+          "texto": "o esplendor de ouro vem do norte; pois em Deus há uma tremenda majestade."
+        },
+        {
+          "numero": 23,
+          "texto": "Ao Todo-poderoso não podemos alcançar; grande é em poder; porém a ninguém oprime em juízo e grandeza de justiça."
+        },
+        {
+          "numero": 24,
+          "texto": "Por isso, o temem os homens; ele não respeita os que são sábios no coração."
+        }
+      ]
+    },
+    {
+      "numero": 38,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Depois disto, o SENHOR respondeu a Jó de um redemoinho e disse:"
+        },
+        {
+          "numero": 2,
+          "texto": "Quem é este que escurece o conselho com palavras sem conhecimento?"
+        },
+        {
+          "numero": 3,
+          "texto": "Agora cinge os teus lombos como homem; e perguntar-te-ei, e, tu, responde-me."
+        },
+        {
+          "numero": 4,
+          "texto": "Onde estavas tu quando eu fundava a terra? Faze- mo saber, se tens inteligência."
+        },
+        {
+          "numero": 5,
+          "texto": "Quem lhe pôs as medidas, se tu o sabes? Ou quem estendeu sobre ela o cordel?"
+        },
+        {
+          "numero": 6,
+          "texto": "Sobre que estão fundadas as suas bases, ou quem assentou a sua pedra de esquina,"
+        },
+        {
+          "numero": 7,
+          "texto": "quando as estrelas da alva juntas alegremente cantavam, e todos os filhos de Deus rejubilavam?"
+        },
+        {
+          "numero": 8,
+          "texto": "Ou quem encerrou o mar com portas, quando trasbordou e saiu da madre,"
+        },
+        {
+          "numero": 9,
+          "texto": "quando eu pus as nuvens por sua vestidura e, a escuridão, por envolvedouro?"
+        },
+        {
+          "numero": 10,
+          "texto": "Quando passei sobre ele o meu decreto, e lhe pus portas e ferrolhos,"
+        },
+        {
+          "numero": 11,
+          "texto": "e disse: Até aqui virás, e não mais adiante, e aqui se quebrarão as tuas ondas empoladas?"
+        },
+        {
+          "numero": 12,
+          "texto": "Ou desde os teus dias deste ordem à madrugada ou mostraste à alva o seu lugar,"
+        },
+        {
+          "numero": 13,
+          "texto": "para que agarrasse nas extremidades da terra, e os ímpios fossem sacudidos dela?"
+        },
+        {
+          "numero": 14,
+          "texto": "Tudo se modela como o barro sob o selo e se põe como vestes;"
+        },
+        {
+          "numero": 15,
+          "texto": "e dos ímpios se desvia a sua luz, e o braço altivo se quebranta."
+        },
+        {
+          "numero": 16,
+          "texto": "Ou entraste tu até às origens do mar, ou passeaste no mais profundo do abismo?"
+        },
+        {
+          "numero": 17,
+          "texto": "Ou descobriram-se-te as portas da morte, ou viste as portas da sombra da morte?"
+        },
+        {
+          "numero": 18,
+          "texto": "Ou com o teu entendimento chegaste às larguras da terra? Faze- mo saber, se sabes tudo isto."
+        },
+        {
+          "numero": 19,
+          "texto": "Onde está o caminho da morada da luz? E, quanto às trevas, onde está o seu lugar,"
+        },
+        {
+          "numero": 20,
+          "texto": "para que as tragas aos seus limites, e para que saibas as veredas da sua casa?"
+        },
+        {
+          "numero": 21,
+          "texto": "Decerto, tu o sabes, porque já então eras nascido, e porque é grande o número dos teus dias!"
+        },
+        {
+          "numero": 22,
+          "texto": "Ou entraste tu até aos tesouros da neve e viste os tesouros da saraiva,"
+        },
+        {
+          "numero": 23,
+          "texto": "que eu retenho até ao tempo da angústia, até ao dia da peleja e da guerra?"
+        },
+        {
+          "numero": 24,
+          "texto": "Onde está o caminho em que se reparte a luz, e se espalha o vento oriental sobre a terra?"
+        },
+        {
+          "numero": 25,
+          "texto": "Quem abriu para a inundação um leito e um caminho para os relâmpagos dos trovões,"
+        },
+        {
+          "numero": 26,
+          "texto": "para chover sobre uma terra onde não há ninguém e no deserto, em que não há gente;"
+        },
+        {
+          "numero": 27,
+          "texto": "para fartar a terra deserta e assolada e para fazer crescer os renovos da erva?"
+        },
+        {
+          "numero": 28,
+          "texto": "A chuva, porventura, tem pai? Ou quem gera as gotas do orvalho?"
+        },
+        {
+          "numero": 29,
+          "texto": "De que ventre procede o gelo? E quem gera a geada do céu,"
+        },
+        {
+          "numero": 30,
+          "texto": "quando debaixo de pedras as águas se escondem, e a superfície do abismo se coalha?"
+        },
+        {
+          "numero": 31,
+          "texto": "Ou poderás tu ajuntar as cadeias do Sete-estrelo ou soltar os atilhos do Órion?"
+        },
+        {
+          "numero": 32,
+          "texto": "Ou produzir as constelações a seu tempo e guiar a Ursa com seus filhos?"
+        },
+        {
+          "numero": 33,
+          "texto": "Sabes tu as ordenanças dos céus, ou podes dispor do domínio deles sobre a terra?"
+        },
+        {
+          "numero": 34,
+          "texto": "Ou podes levantar a tua voz até às nuvens, para que a abundância das águas te cubra?"
+        },
+        {
+          "numero": 35,
+          "texto": "Ou ordenarás aos raios que saiam e te digam: Eis-nos aqui?"
+        },
+        {
+          "numero": 36,
+          "texto": "Quem pôs a sabedoria no íntimo, ou quem à mente deu o entendimento?"
+        },
+        {
+          "numero": 37,
+          "texto": "Quem numerará as nuvens pela sabedoria? Ou os odres dos céus, quem os abaixará,"
+        },
+        {
+          "numero": 38,
+          "texto": "quando se funde o pó numa massa, e se pegam os torrões uns aos outros?"
+        },
+        {
+          "numero": 39,
+          "texto": "Porventura, caçarás tu presa para a leoa ou satisfarás a fome dos filhos dos leões,"
+        },
+        {
+          "numero": 40,
+          "texto": "quando se agacham nos covis e estão à espreita nas covas?"
+        },
+        {
+          "numero": 41,
+          "texto": "Quem prepara para os corvos o seu alimento, quando os seus pintainhos gritam a Deus e andam vagueando, por não terem que comer?"
+        }
+      ]
+    },
+    {
+      "numero": 39,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Sabes tu o tempo em que as cabras monteses têm os filhos, ou consideraste as dores das cervas?"
+        },
+        {
+          "numero": 2,
+          "texto": "Contarás os meses que cumprem ou sabes o tempo do seu parto?"
+        },
+        {
+          "numero": 3,
+          "texto": "Elas encurvam-se, para terem seus filhos, e lançam de si as suas dores."
+        },
+        {
+          "numero": 4,
+          "texto": "Seus filhos enrijam, crescem com o trigo, saem, e nunca mais tornam para elas."
+        },
+        {
+          "numero": 5,
+          "texto": "Quem despediu livre o jumento montês, e quem soltou as prisões ao jumento bravo,"
+        },
+        {
+          "numero": 6,
+          "texto": "ao qual dei o ermo por casa e a terra salgada, por moradas?"
+        },
+        {
+          "numero": 7,
+          "texto": "Ri-se do arruído da cidade; não ouve os muitos gritos do exator."
+        },
+        {
+          "numero": 8,
+          "texto": "O que descobre nos montes é o seu pasto, e anda buscando tudo que está verde."
+        },
+        {
+          "numero": 9,
+          "texto": "Querer-te-á servir o unicórnio ou ficará na tua cavalariça?"
+        },
+        {
+          "numero": 10,
+          "texto": "Ou amarrarás o unicórnio ao rego com uma corda, ou estorroará após ti os vales?"
+        },
+        {
+          "numero": 11,
+          "texto": "Ou confiarás nele, por ser grande a sua força, ou deixarás a seu cargo o teu trabalho?"
+        },
+        {
+          "numero": 12,
+          "texto": "Ou te fiarás dele que te torne o que semeaste e o recolha na tua eira?"
+        },
+        {
+          "numero": 13,
+          "texto": "Bate alegre as asas o avestruz, que tem penas de cegonha;"
+        },
+        {
+          "numero": 14,
+          "texto": "ele deixa os seus ovos na terra e os aquenta no pó."
+        },
+        {
+          "numero": 15,
+          "texto": "E se esquece de que algum pé os pode pisar, ou de que podem calcá-los os animais do campo."
+        },
+        {
+          "numero": 16,
+          "texto": "Endurece-se para com seus filhos, como se não fossem seus; debalde é seu trabalho, porquanto está sem temor."
+        },
+        {
+          "numero": 17,
+          "texto": "Porque Deus o privou de sabedoria e não lhe repartiu entendimento."
+        },
+        {
+          "numero": 18,
+          "texto": "A seu tempo se levanta ao alto; ri-se do cavalo e do que vai montado nele."
+        },
+        {
+          "numero": 19,
+          "texto": "Ou darás tu força ao cavalo, ou revestirás o seu pescoço de crinas?"
+        },
+        {
+          "numero": 20,
+          "texto": "Ou espantá-lo-ás, como ao gafanhoto? Terrível é o fogoso respirar das suas ventas."
+        },
+        {
+          "numero": 21,
+          "texto": "Escarva a terra, e folga na sua força, e sai ao encontro dos armados."
+        },
+        {
+          "numero": 22,
+          "texto": "Ri-se do temor, e não se espanta, e não torna atrás por causa da espada."
+        },
+        {
+          "numero": 23,
+          "texto": "Contra ele rangem a aljava, o ferro flamante da lança e o dardo."
+        },
+        {
+          "numero": 24,
+          "texto": "Sacudindo-se e removendo-se, escarva a terra e não faz caso do som da buzina."
+        },
+        {
+          "numero": 25,
+          "texto": "Ao soar das buzinas, diz: Eia! E de longe cheira a guerra, e o trovão dos príncipes, e o alarido."
+        },
+        {
+          "numero": 26,
+          "texto": "Ou voa o gavião pela tua inteligência, estendendo as suas asas para o sul?"
+        },
+        {
+          "numero": 27,
+          "texto": "Ou se remonta a águia ao teu mandado e põe no alto o seu ninho?"
+        },
+        {
+          "numero": 28,
+          "texto": "Nas penhas, mora e habita; no cume das penhas, e nos lugares seguros."
+        },
+        {
+          "numero": 29,
+          "texto": "Dali, descobre a presa; seus olhos a avistam desde longe."
+        },
+        {
+          "numero": 30,
+          "texto": "Seus filhos chupam o sangue; e onde há mortos, ela aí está."
+        }
+      ]
+    },
+    {
+      "numero": 40,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Respondeu mais o SENHOR a Jó e disse:"
+        },
+        {
+          "numero": 2,
+          "texto": "Porventura, o contender contra o Todo-poderoso é ensinar? Quem assim argúi a Deus, que responda a estas coisas."
+        },
+        {
+          "numero": 3,
+          "texto": "Então, Jó respondeu ao SENHOR e disse:"
+        },
+        {
+          "numero": 4,
+          "texto": "Eis que sou vil; que te responderia eu? A minha mão ponho na minha boca."
+        },
+        {
+          "numero": 5,
+          "texto": "Uma vez tenho falado e não replicarei; ou ainda duas vezes, porém não prosseguirei."
+        },
+        {
+          "numero": 6,
+          "texto": "Então, o SENHOR respondeu a Jó desde a tempestade e disse:"
+        },
+        {
+          "numero": 7,
+          "texto": "Cinge agora os teus lombos como varão; eu te perguntarei a ti, e tu me responderás."
+        },
+        {
+          "numero": 8,
+          "texto": "Porventura, também farás tu vão o meu juízo ou me condenarás, para te justificares?"
+        },
+        {
+          "numero": 9,
+          "texto": "Ou tens braço como Deus, ou podes trovejar com voz como a sua?"
+        },
+        {
+          "numero": 10,
+          "texto": "Orna-te, pois, de excêlencia e alteza; e veste-te de majestade e de glória."
+        },
+        {
+          "numero": 11,
+          "texto": "Derrama os furores da tua ira, e atenta para todo soberbo, e abate-o."
+        },
+        {
+          "numero": 12,
+          "texto": "Olha para todo soberbo, e humilha-o, e atropela os ímpios no seu lugar."
+        },
+        {
+          "numero": 13,
+          "texto": "Esconde-os juntamente no pó; ata- lhes os rostos em oculto."
+        },
+        {
+          "numero": 14,
+          "texto": "Então, também eu de ti confessarei que a tua mão direita te haverá livrado."
+        },
+        {
+          "numero": 15,
+          "texto": "Contempla agora o beemote, que eu fiz contigo, que come erva como o boi."
+        },
+        {
+          "numero": 16,
+          "texto": "Eis que a sua força está nos seus lombos, e o seu poder, nos músculos do seu ventre."
+        },
+        {
+          "numero": 17,
+          "texto": "Quando quer, move a sua cauda como cedro; os nervos da suas coxas estão entretecidos."
+        },
+        {
+          "numero": 18,
+          "texto": "Os seus ossos são como tubos de bronze; a sua ossada é como barras de ferro."
+        },
+        {
+          "numero": 19,
+          "texto": "Ele é obra-prima dos caminhos de Deus; o que o fez o proveu da sua espada."
+        },
+        {
+          "numero": 20,
+          "texto": "Em verdade, os montes lhe produzem pasto, onde todos os animais do campo folgam."
+        },
+        {
+          "numero": 21,
+          "texto": "Deita-se debaixo das árvores sombrias, no esconderijo dos canaviais e da lama."
+        },
+        {
+          "numero": 22,
+          "texto": "As árvores sombrias o cobrem com a sua sombra; os salgueiros do ribeiro o cercam."
+        },
+        {
+          "numero": 23,
+          "texto": "Eis que um rio trasborda, e ele não se apressa, confiando que o Jordão possa entrar na sua boca."
+        },
+        {
+          "numero": 24,
+          "texto": "Podê-lo-iam, porventura, caçar à vista de seus olhos, ou com laços lhe furar o nariz?"
+        }
+      ]
+    },
+    {
+      "numero": 41,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Poderás pescar com anzol o leviatã ou ligarás a sua língua com a corda?"
+        },
+        {
+          "numero": 2,
+          "texto": "Podes pôr uma corda no seu nariz ou com um espinho furarás a sua queixada?"
+        },
+        {
+          "numero": 3,
+          "texto": "Porventura, multiplicará as suas suplicações para contigo? Ou brandamente te falará?"
+        },
+        {
+          "numero": 4,
+          "texto": "Fará ele concertos contigo, ou o tomarás tu por escravo para sempre?"
+        },
+        {
+          "numero": 5,
+          "texto": "Brincarás com ele, como se fora um passarinho, ou o prenderás para tuas meninas?"
+        },
+        {
+          "numero": 6,
+          "texto": "Os teus companheiros farão dele um banquete, ou o repartirão entre os negociantes?"
+        },
+        {
+          "numero": 7,
+          "texto": "Encherás a sua pele de ganchos, ou a sua cabeça de arpéus de pescadores?"
+        },
+        {
+          "numero": 8,
+          "texto": "Põe a tua mão sobre ele, lembra-te da peleja e nunca mais tal intentarás."
+        },
+        {
+          "numero": 9,
+          "texto": "Eis que a sua esperança falhará; porventura, nenhum à sua vista será derribado?"
+        },
+        {
+          "numero": 10,
+          "texto": "Ninguém há tão atrevido, que a despertá-lo se atreva; quem, pois, é aquele que ousa erguer-se diante de mim?"
+        },
+        {
+          "numero": 11,
+          "texto": "Quem primeiro me deu, para que eu haja de retribuir- lhe? Pois o que está debaixo de todos os céus é meu."
+        },
+        {
+          "numero": 12,
+          "texto": "Não me calarei a respeito dos seus membros, nem da relação das suas forças, nem da graça da sua compostura."
+        },
+        {
+          "numero": 13,
+          "texto": "Quem descobriria a superfície da sua veste? Quem entrará entre as suas queixadas dobradas?"
+        },
+        {
+          "numero": 14,
+          "texto": "Quem abriria as portas do seu rosto? Pois em roda dos seus dentes está o terror."
+        },
+        {
+          "numero": 15,
+          "texto": "As suas fortes escamas são excelentíssimas, cada uma fechada como com selo apertado."
+        },
+        {
+          "numero": 16,
+          "texto": "Uma à outra se chega tão perto, que nem um assopro passa por entre elas."
+        },
+        {
+          "numero": 17,
+          "texto": "Umas às outras se ligam; tanto aderem entre si, que não se podem separar."
+        },
+        {
+          "numero": 18,
+          "texto": "Cada um dos seus espirros faz resplandecer a luz, e os seus olhos são como as pestanas da alva."
+        },
+        {
+          "numero": 19,
+          "texto": "Da sua boca saem tochas; faíscas de fogo saltam dela."
+        },
+        {
+          "numero": 20,
+          "texto": "Do seu nariz procede fumaça, como de uma panela fervente, ou de uma grande caldeira."
+        },
+        {
+          "numero": 21,
+          "texto": "O seu hálito faz acender os carvões; e da sua boca sai chama."
+        },
+        {
+          "numero": 22,
+          "texto": "No seu pescoço pousa a força; perante ele, até a tristeza salta de prazer."
+        },
+        {
+          "numero": 23,
+          "texto": "Os músculos da sua carne estão pegados entre si; cada um está firme nele, e nenhum se move."
+        },
+        {
+          "numero": 24,
+          "texto": "O seu coração é firme como uma pedra e firme como a mó de baixo."
+        },
+        {
+          "numero": 25,
+          "texto": "Levantando-se ele, tremem os valentes; em razão dos seus abalos, ficam fora de si."
+        },
+        {
+          "numero": 26,
+          "texto": "Se alguém lhe tocar com a espada, essa não poderá penetrar, nem lança, dardo ou flecha."
+        },
+        {
+          "numero": 27,
+          "texto": "Ele reputa o ferro palha, e o cobre, pau podre."
+        },
+        {
+          "numero": 28,
+          "texto": "A seta o não fará fugir; as pedras das fundas se lhe tornam em restolho."
+        },
+        {
+          "numero": 29,
+          "texto": "As pedras atiradas são para ele como arestas, e ri-se do brandir da lança."
+        },
+        {
+          "numero": 30,
+          "texto": "Debaixo de si tem conchas pontiagudas; estende-se sobre coisas pontiagudas como na lama."
+        },
+        {
+          "numero": 31,
+          "texto": "As profundezas faz ferver, como uma panela; torna o mar como quando os ungüentos fervem."
+        },
+        {
+          "numero": 32,
+          "texto": "Após ele alumia o caminho; parece o abismo tornado em brancura de cãs."
+        },
+        {
+          "numero": 33,
+          "texto": "Na terra, não há coisa que se lhe possa comparar, pois foi feito para estar sem pavor."
+        },
+        {
+          "numero": 34,
+          "texto": "Todo o alto vê; é rei sobre todos os filhos de animais altivos."
+        }
+      ]
+    },
+    {
+      "numero": 42,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Então, respondeu Jó ao SENHOR e disse:"
+        },
+        {
+          "numero": 2,
+          "texto": "Bem sei eu que tudo podes, e nenhum dos teus pensamentos pode ser impedido."
+        },
+        {
+          "numero": 3,
+          "texto": "Quem é aquele, dizes tu, que sem conhecimento encobre o conselho? Por isso, falei do que não entendia; coisas que para mim eram maravilhosíssimas, e que eu não compreendia."
+        },
+        {
+          "numero": 4,
+          "texto": "Escuta-me, pois, e eu falarei; eu te perguntarei, e tu ensina-me."
+        },
+        {
+          "numero": 5,
+          "texto": "Com o ouvir dos meus ouvidos ouvi, mas agora te vêem os meus olhos."
+        },
+        {
+          "numero": 6,
+          "texto": "Por isso, me abomino e me arrependo no pó e na cinza."
+        },
+        {
+          "numero": 7,
+          "texto": "Sucedeu, pois, que, acabando o SENHOR de dizer a Jó aquelas palavras, o SENHOR disse a Elifaz, o temanita: A minha ira se acendeu contra ti, e contra os teus dois amigos; porque não dissestes de mim o que era reto, como o meu servo Jó."
+        },
+        {
+          "numero": 8,
+          "texto": "Tomai, pois, sete bezerros e sete carneiros, e ide ao meu servo Jó, e oferecei holocaustos por vós, e o meu servo Jó orará por vós; porque deveras a ele aceitarei, para que eu vos não trate conforme a vossa loucura; porque vós não falastes de mim o que era reto como o meu servo Jó."
+        },
+        {
+          "numero": 9,
+          "texto": "Então, foram Elifaz, o temanita, e Bildade, o suíta, e Zofar, o naamatita, e fizeram como o SENHOR lhes dissera; e o SENHOR aceitou a face de Jó."
+        },
+        {
+          "numero": 10,
+          "texto": "E o SENHOR virou o cativeiro de Jó, quando orava pelos seus amigos; e o SENHOR acrescentou a Jó outro tanto em dobro a tudo quanto dantes possuía."
+        },
+        {
+          "numero": 11,
+          "texto": "Então, vieram a ele todos os seus irmãos e todas as suas irmãs e todos quantos dantes o conheceram, e comeram com ele pão em sua casa, e se condoeram dele, e o consolaram de todo o mal que o SENHOR lhe havia enviado; e cada um deles lhe deu uma peça de dinheiro, e cada um, um pendente de ouro."
+        },
+        {
+          "numero": 12,
+          "texto": "E, assim, abençoou o SENHOR o último estado de Jó, mais do que o primeiro; porque teve catorze mil ovelhas, e seis mil camelos, e mil juntas de bois, e mil jumentas."
+        },
+        {
+          "numero": 13,
+          "texto": "Também teve sete filhos e três filhas."
+        },
+        {
+          "numero": 14,
+          "texto": "E chamou o nome da primeira, Jemima, e o nome da outra, Quezia, e o nome da terceira, Quéren-Hapuque."
+        },
+        {
+          "numero": 15,
+          "texto": "E em toda a terra não se acharam mulheres tão formosas como as filhas de Jó; e seu pai lhes deu herança entre seus irmãos."
+        },
+        {
+          "numero": 16,
+          "texto": "E, depois disto, viveu Jó cento e quarenta anos; e viu a seus filhos e aos filhos de seus filhos, até à quarta geração."
+        },
+        {
+          "numero": 17,
+          "texto": "Então, morreu Jó, velho e farto de dias."
+        }
+      ]
+    }
+  ]
+}

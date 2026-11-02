@@ -1,0 +1,2593 @@
+{
+  "colecao": "Caminhar com Cristo",
+  "total_registros": 365,
+  "secoes": [
+    {
+      "inicio": 181,
+      "fim": 210,
+      "titulo": "Cristo no centro"
+    },
+    {
+      "inicio": 211,
+      "fim": 240,
+      "titulo": "Sabedoria e decisões"
+    },
+    {
+      "inicio": 241,
+      "fim": 270,
+      "titulo": "Oração"
+    },
+    {
+      "inicio": 271,
+      "fim": 300,
+      "titulo": "Sofrimento e perseverança"
+    },
+    {
+      "inicio": 301,
+      "fim": 330,
+      "titulo": "Serviço, amor e humildade"
+    },
+    {
+      "inicio": 331,
+      "fim": 365,
+      "titulo": "Esperança final"
+    }
+  ],
+  "textos": [
+    {
+      "identificador": "caminhar_com_cristo_001",
+      "numero": 1,
+      "texto": "Você não precisa conhecer todo o caminho para seguir Aquele que conhece o caminho.",
+      "referencia": "Gênesis 12:1–4; João 14:6",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_002",
+      "numero": 2,
+      "texto": "A fé não exige que você veja o amanhã; exige que confie no Deus que já está lá.",
+      "referencia": "Hebreus 11:8",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_003",
+      "numero": 3,
+      "texto": "Quando Deus chama você para avançar, a segurança não está no caminho, mas naquele que conduz.",
+      "referencia": "Êxodo 13:21–22",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_004",
+      "numero": 4,
+      "texto": "Você pode dar o próximo passo mesmo sem enxergar os passos seguintes.",
+      "referencia": "Êxodo 14:15; Hebreus 11:29",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_005",
+      "numero": 5,
+      "texto": "Não confunda desconhecer o caminho com estar sem direção; o Senhor sabe conduzir você.",
+      "referencia": "Provérbios 3:5–6",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_006",
+      "numero": 6,
+      "texto": "O caminho pode mudar, mas a fidelidade de Deus permanece.",
+      "referencia": "Salmo 37:23–24",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_007",
+      "numero": 7,
+      "texto": "Deus não precisa revelar todo o plano para merecer sua confiança no próximo passo.",
+      "referencia": "Deuteronômio 29:29",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_008",
+      "numero": 8,
+      "texto": "Caminhar com Deus é aprender a avançar sem transformar o desconhecido em motivo para desobedecer.",
+      "referencia": "Gênesis 12:4; Hebreus 11:8",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_009",
+      "numero": 9,
+      "texto": "Quando você não souber para onde ir, comece permanecendo perto de Cristo.",
+      "referencia": "João 15:4–5",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_010",
+      "numero": 10,
+      "texto": "O passo de hoje pode ser pequeno, mas ainda pode ser dado pela fé.",
+      "referencia": "Zacarias 4:10; Hebreus 11:1",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_011",
+      "numero": 11,
+      "texto": "Você não precisa carregar o mapa inteiro quando tem o Senhor como guia.",
+      "referencia": "Salmo 32:8",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_012",
+      "numero": 12,
+      "texto": "A confiança não elimina a necessidade de caminhar; muda em quem você confia enquanto caminha.",
+      "referencia": "Salmo 37:5",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_013",
+      "numero": 13,
+      "texto": "Quem entrega o caminho ao Senhor não deixa de caminhar; aprende a caminhar com confiança.",
+      "referencia": "Salmo 37:5",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_014",
+      "numero": 14,
+      "texto": "Nem todo caminho fácil vem de Deus, e nem todo caminho difícil significa que Ele o abandonou.",
+      "referencia": "Tiago 1:2–4",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_015",
+      "numero": 15,
+      "texto": "Você pode prosseguir mesmo quando a estrada não parece fazer sentido, porque Deus vê além do que seus olhos alcançam.",
+      "referencia": "Isaías 55:8–9",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_016",
+      "numero": 16,
+      "texto": "A direção de Deus nem sempre será explicada antes de ser obedecida.",
+      "referencia": "Gênesis 22:1–3",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_017",
+      "numero": 17,
+      "texto": "Não espere compreender tudo para obedecer ao que Deus já deixou claro.",
+      "referencia": "Deuteronômio 29:29; Tiago 1:22",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_018",
+      "numero": 18,
+      "texto": "O próximo passo de fé não precisa de certeza sobre o amanhã, mas de confiança no Senhor hoje.",
+      "referencia": "Mateus 6:34",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_019",
+      "numero": 19,
+      "texto": "Quando Cristo é seu caminho, você não precisa transformar o futuro em objeto de controle.",
+      "referencia": "João 14:6; Mateus 6:25–34",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_020",
+      "numero": 20,
+      "texto": "Prossiga: a mão que o conduz é mais segura que o caminho que você consegue enxergar.",
+      "referencia": "Salmo 23:3–4",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_021",
+      "numero": 21,
+      "texto": "Você pode caminhar devagar sem caminhar sozinho.",
+      "referencia": "Isaías 40:11; Mateus 28:20",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_022",
+      "numero": 22,
+      "texto": "Há momentos em que confiar em Deus significa simplesmente dar o próximo passo sem fugir.",
+      "referencia": "Êxodo 14:13–14",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_023",
+      "numero": 23,
+      "texto": "O Senhor não promete que você entenderá cada curva, mas promete não abandonar os seus.",
+      "referencia": "Salmo 23:4; Hebreus 13:5",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_024",
+      "numero": 24,
+      "texto": "Não deixe a falta de visão sobre o futuro roubar sua fidelidade no presente.",
+      "referencia": "Mateus 6:34",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_025",
+      "numero": 25,
+      "texto": "Siga em frente, não porque você sabe tudo, mas porque sabe em quem confiou.",
+      "referencia": "2 Timóteo 1:12",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_026",
+      "numero": 26,
+      "texto": "Você pode avançar sem ter todas as respostas quando tem uma confiança maior que suas perguntas.",
+      "referencia": "Provérbios 3:5–6",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_027",
+      "numero": 27,
+      "texto": "O Senhor pode conduzir seus passos mesmo quando você ainda não consegue compreender seu destino.",
+      "referencia": "Provérbios 16:9",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_028",
+      "numero": 28,
+      "texto": "A fé não precisa de uma estrada previsível; precisa de um Deus digno de confiança.",
+      "referencia": "Salmo 9:10",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_029",
+      "numero": 29,
+      "texto": "Não permita que aquilo que você ainda não sabe impeça aquilo que Deus já lhe mostrou.",
+      "referencia": "Deuteronômio 29:29",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_030",
+      "numero": 30,
+      "texto": "Caminhe com humildade: você conhece apenas uma parte, mas Deus conhece o todo.",
+      "referencia": "1 Coríntios 13:9–12",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_031",
+      "numero": 31,
+      "texto": "Você não foi criado para ser autossuficiente; foi criado para depender de Deus.",
+      "referencia": "Atos 17:25; João 15:5",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_032",
+      "numero": 32,
+      "texto": "Sua insuficiência não é o fim quando sua confiança está na suficiência de Cristo.",
+      "referencia": "2 Coríntios 3:5",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_033",
+      "numero": 33,
+      "texto": "Quanto mais você reconhece que precisa de Cristo, mais aprende a viver pela graça.",
+      "referencia": "João 15:5; 2 Coríntios 12:9",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_034",
+      "numero": 34,
+      "texto": "Não tente produzir sozinho aquilo que somente Deus pode realizar em você.",
+      "referencia": "Filipenses 2:13",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_035",
+      "numero": 35,
+      "texto": "Você pode trabalhar com diligência sem viver como se tudo dependesse de você.",
+      "referencia": "Salmo 127:1–2",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_036",
+      "numero": 36,
+      "texto": "Faça sua parte com fidelidade e deixe o resultado nas mãos de Deus.",
+      "referencia": "1 Coríntios 3:6–7",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_037",
+      "numero": 37,
+      "texto": "A dependência de Deus não produz passividade; produz obediência sem presunção.",
+      "referencia": "1 Coríntios 15:10",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_038",
+      "numero": 38,
+      "texto": "Você pode se esforçar muito e ainda reconhecer que é Deus quem sustenta o fruto.",
+      "referencia": "Salmo 127:1; João 15:5",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_039",
+      "numero": 39,
+      "texto": "A força cristã não está em precisar menos de Deus, mas em depender mais dEle.",
+      "referencia": "2 Coríntios 12:9–10",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_040",
+      "numero": 40,
+      "texto": "Quando você deixa de confiar em sua própria força, começa a descobrir a força que vem do Senhor.",
+      "referencia": "Isaías 40:29–31",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_041",
+      "numero": 41,
+      "texto": "Cristo não é apenas aquele a quem você recorre quando falta força; Ele é a fonte da sua força.",
+      "referencia": "Filipenses 4:13",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_042",
+      "numero": 42,
+      "texto": "Você pode ser responsável sem tentar ocupar o lugar de Deus.",
+      "referencia": "Provérbios 16:9",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_043",
+      "numero": 43,
+      "texto": "Planeje com sabedoria, mas mantenha o coração rendido à vontade do Senhor.",
+      "referencia": "Provérbios 16:3; Tiago 4:13–15",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_044",
+      "numero": 44,
+      "texto": "Faça planos, mas não faça do seu plano um deus.",
+      "referencia": "Provérbios 16:9; Tiago 4:15",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_045",
+      "numero": 45,
+      "texto": "A verdadeira segurança começa quando o coração aprende a descansar fora de si mesmo.",
+      "referencia": "Salmo 62:5–8",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_046",
+      "numero": 46,
+      "texto": "Você não precisa sustentar o mundo; Deus continua sendo Deus quando você descansa.",
+      "referencia": "Salmo 55:22",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_047",
+      "numero": 47,
+      "texto": "Há pesos que devem ser enfrentados e pesos que devem ser entregues.",
+      "referencia": "Gálatas 6:2,5; 1 Pedro 5:7",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_048",
+      "numero": 48,
+      "texto": "A graça de Cristo não diminui sua responsabilidade; ela torna possível caminhar sem confiar em si mesmo.",
+      "referencia": "1 Coríntios 15:10",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_049",
+      "numero": 49,
+      "texto": "Trabalhe como quem recebeu uma missão e dependa de Deus como quem reconhece sua limitação.",
+      "referencia": "Colossenses 3:23; João 15:5",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_050",
+      "numero": 50,
+      "texto": "Você pode fazer tudo o que Deus lhe confiou sem acreditar que pode fazer tudo.",
+      "referencia": "1 Coríntios 12:4–6",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_051",
+      "numero": 51,
+      "texto": "Aquele que conhece sua fraqueza não precisa fingir força diante de Deus.",
+      "referencia": "Salmo 103:13–14",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_052",
+      "numero": 52,
+      "texto": "A oração começa onde termina a ilusão de autossuficiência.",
+      "referencia": "Salmo 121:1–2; Filipenses 4:6",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_053",
+      "numero": 53,
+      "texto": "Quando você reconhece sua necessidade, não está perdendo dignidade; está encontrando dependência.",
+      "referencia": "João 15:5",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_054",
+      "numero": 54,
+      "texto": "Cristo não pede que você seja suficiente; Ele chama você a permanecer nEle.",
+      "referencia": "João 15:4–5",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_055",
+      "numero": 55,
+      "texto": "A vida com Deus não é aprender a precisar menos dEle, mas conhecê-lo o bastante para depender mais.",
+      "referencia": "Salmo 63:1–3",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_056",
+      "numero": 56,
+      "texto": "A dependência começa quando você para de perguntar apenas “o que consigo fazer?” e pergunta “Senhor, como devo caminhar?”.",
+      "referencia": "Atos 9:6",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_057",
+      "numero": 57,
+      "texto": "Deus não se torna menor porque você precisa dEle; sua necessidade apenas revela quem Ele é para você.",
+      "referencia": "Salmo 46:1",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_058",
+      "numero": 58,
+      "texto": "Você pode trabalhar com suas mãos enquanto mantém o coração descansando nas mãos de Deus.",
+      "referencia": "Salmo 90:17",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_059",
+      "numero": 59,
+      "texto": "A força que vem de Deus não torna você independente; torna sua dependência mais consciente.",
+      "referencia": "Isaías 40:31",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_060",
+      "numero": 60,
+      "texto": "Quanto menos você precisa provar que consegue sozinho, mais livre fica para depender de Cristo.",
+      "referencia": "Gálatas 2:20",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_061",
+      "numero": 61,
+      "texto": "Esperar em Deus não é ficar sem esperança; é permanecer fiel enquanto Ele conduz o tempo.",
+      "referencia": "Salmo 27:14",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_062",
+      "numero": 62,
+      "texto": "A demora de Deus não significa ausência de Deus.",
+      "referencia": "Habacuque 2:3",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_063",
+      "numero": 63,
+      "texto": "Quando Deus parece demorar, continue confiando no caráter daquele que prometeu.",
+      "referencia": "Hebreus 10:23",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_064",
+      "numero": 64,
+      "texto": "Você não precisa apressar aquilo que Deus decidiu amadurecer no tempo certo.",
+      "referencia": "Eclesiastes 3:1",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_065",
+      "numero": 65,
+      "texto": "Esperar pode ser parte da obediência, não uma interrupção dela.",
+      "referencia": "Salmo 130:5–6",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_066",
+      "numero": 66,
+      "texto": "Enquanto você espera pela resposta, Deus continua sendo digno de confiança.",
+      "referencia": "Salmo 62:5–8",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_067",
+      "numero": 67,
+      "texto": "Nem todo silêncio de Deus é vazio; às vezes, ele nos ensina a esperar nEle.",
+      "referencia": "Salmo 130:5",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_068",
+      "numero": 68,
+      "texto": "A fé permanece firme mesmo quando a resposta ainda não chegou.",
+      "referencia": "Hebreus 11:1",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_069",
+      "numero": 69,
+      "texto": "Você pode esperar sem perder o caminho quando mantém os olhos no Senhor.",
+      "referencia": "Isaías 40:31",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_070",
+      "numero": 70,
+      "texto": "O tempo de Deus pode desafiar sua paciência sem jamais ameaçar sua fidelidade.",
+      "referencia": "Gálatas 6:9",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_071",
+      "numero": 71,
+      "texto": "Não transforme a ansiedade pela resposta em pressa para sair da vontade de Deus.",
+      "referencia": "1 Samuel 13:8–14",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_072",
+      "numero": 72,
+      "texto": "Às vezes, a fé precisa aprender a esperar aquilo que a pressa gostaria de tomar.",
+      "referencia": "1 Samuel 24:4–7",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_073",
+      "numero": 73,
+      "texto": "Davi precisou esperar pelo trono sem tomar o trono pelas próprias mãos.",
+      "referencia": "1 Samuel 24:6",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_074",
+      "numero": 74,
+      "texto": "Você pode confiar no tempo de Deus sem fabricar sua própria solução.",
+      "referencia": "Gênesis 16:1–4",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_075",
+      "numero": 75,
+      "texto": "O que Deus prometeu não precisa da sua ansiedade para acontecer.",
+      "referencia": "Gênesis 21:1–2",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_076",
+      "numero": 76,
+      "texto": "Enquanto você espera, continue sendo fiel naquilo que Deus já colocou diante de você.",
+      "referencia": "Lucas 16:10",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_077",
+      "numero": 77,
+      "texto": "A espera não precisa ser tempo perdido quando é vivida diante de Deus.",
+      "referencia": "Salmo 37:7",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_078",
+      "numero": 78,
+      "texto": "Quem espera no Senhor não está esperando no vazio.",
+      "referencia": "Isaías 40:31",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_079",
+      "numero": 79,
+      "texto": "A promessa pode parecer distante, mas o Deus da promessa continua perto.",
+      "referencia": "Hebreus 10:23; Mateus 28:20",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_080",
+      "numero": 80,
+      "texto": "Não abandone a confiança apenas porque a resposta ainda não apareceu.",
+      "referencia": "Hebreus 10:35–36",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_081",
+      "numero": 81,
+      "texto": "Deus pode estar preparando você enquanto você espera aquilo que pediu.",
+      "referencia": "Tiago 1:2–4",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_082",
+      "numero": 82,
+      "texto": "A espera pode mudar suas circunstâncias, mas também pode mudar você.",
+      "referencia": "Romanos 5:3–5",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_083",
+      "numero": 83,
+      "texto": "Há respostas que Deus entrega no tempo certo e caráter que Ele forma enquanto esperamos.",
+      "referencia": "Romanos 5:3–5",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_084",
+      "numero": 84,
+      "texto": "Continue esperando: a fidelidade de Deus não envelhece com o tempo.",
+      "referencia": "Lamentações 3:22–26",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_085",
+      "numero": 85,
+      "texto": "Quando não puder fazer nada além de esperar, ainda poderá confiar.",
+      "referencia": "Salmo 62:5",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_086",
+      "numero": 86,
+      "texto": "O relógio da ansiedade não determina o tempo da providência de Deus.",
+      "referencia": "Eclesiastes 3:11",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_087",
+      "numero": 87,
+      "texto": "Não interprete o silêncio de hoje como esquecimento de Deus.",
+      "referencia": "Isaías 49:15–16",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_088",
+      "numero": 88,
+      "texto": "A espera testa sua pressa, mas pode fortalecer sua confiança.",
+      "referencia": "Salmo 27:14",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_089",
+      "numero": 89,
+      "texto": "Deus pode estar trabalhando antes que você consiga perceber o que Ele está fazendo.",
+      "referencia": "Rute 2:12; 4:13–17",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_090",
+      "numero": 90,
+      "texto": "Continue fiel enquanto espera; o Senhor não perdeu o controle do que prometeu.",
+      "referencia": "Habacuque 2:3; Hebreus 10:23",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_091",
+      "numero": 91,
+      "texto": "O medo pode estar presente sem precisar ocupar o lugar da confiança.",
+      "referencia": "Salmo 56:3–4",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_092",
+      "numero": 92,
+      "texto": "Quando tiver medo, não finja coragem; leve o medo ao Senhor.",
+      "referencia": "Salmo 56:3",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_093",
+      "numero": 93,
+      "texto": "Você não precisa negar o medo para confiar em Deus; pode confiar justamente enquanto sente medo.",
+      "referencia": "Salmo 56:3–4",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_094",
+      "numero": 94,
+      "texto": "A presença de Deus muda a maneira como atravessamos o medo.",
+      "referencia": "Salmo 23:4",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_095",
+      "numero": 95,
+      "texto": "Não permita que aquilo que você não controla controle seu coração.",
+      "referencia": "Salmo 55:22; Filipenses 4:6–7",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_096",
+      "numero": 96,
+      "texto": "O amanhã pertence a Deus; a fidelidade de hoje pertence a você.",
+      "referencia": "Mateus 6:34",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_097",
+      "numero": 97,
+      "texto": "Você pode deixar o amanhã nas mãos de Deus e cuidar fielmente do hoje.",
+      "referencia": "Mateus 6:34",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_098",
+      "numero": 98,
+      "texto": "A ansiedade tenta viver amanhã antes da hora; a fé aprende a receber a graça de hoje.",
+      "referencia": "Mateus 6:34",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_099",
+      "numero": 99,
+      "texto": "Quando sua mente correr para o futuro, faça seu coração voltar para Cristo.",
+      "referencia": "Filipenses 4:6–8",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_100",
+      "numero": 100,
+      "texto": "A paz de Cristo não depende de circunstâncias tranquilas.",
+      "referencia": "João 16:33",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_101",
+      "numero": 101,
+      "texto": "Você pode atravessar uma tempestade sem abandonar a confiança naquele que continua no barco.",
+      "referencia": "Marcos 4:35–41",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_102",
+      "numero": 102,
+      "texto": "A tempestade pode ser grande sem ser maior que Cristo.",
+      "referencia": "Marcos 4:39–41",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_103",
+      "numero": 103,
+      "texto": "Quando você não puder acalmar a tempestade, lembre-se de quem está com você nela.",
+      "referencia": "Marcos 4:38–41",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_104",
+      "numero": 104,
+      "texto": "Descansar em Cristo não significa ausência de problemas; significa não enfrentá-los sozinho.",
+      "referencia": "Mateus 11:28–30",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_105",
+      "numero": 105,
+      "texto": "Entregue a Deus o peso que sua ansiedade insiste em carregar.",
+      "referencia": "1 Pedro 5:7",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_106",
+      "numero": 106,
+      "texto": "Você pode pensar sobre o problema sem permitir que o problema se torne seu senhor.",
+      "referencia": "Filipenses 4:6–8",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_107",
+      "numero": 107,
+      "texto": "A oração não muda apenas o que está diante de você; também transforma o coração que enfrenta aquilo.",
+      "referencia": "Filipenses 4:6–7",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_108",
+      "numero": 108,
+      "texto": "Quando a preocupação aumentar, transforme-a em oração.",
+      "referencia": "Filipenses 4:6",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_109",
+      "numero": 109,
+      "texto": "O coração aprende a descansar quando lembra que Deus continua governando.",
+      "referencia": "Salmo 46:10",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_110",
+      "numero": 110,
+      "texto": "Você não precisa controlar tudo para estar seguro nas mãos de Deus.",
+      "referencia": "João 10:28–29",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_111",
+      "numero": 111,
+      "texto": "A paz não nasce de saber tudo, mas de confiar naquele que sabe.",
+      "referencia": "Isaías 26:3",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_112",
+      "numero": 112,
+      "texto": "Quando seus pensamentos estiverem inquietos, volte sua atenção para aquilo que é verdadeiro em Cristo.",
+      "referencia": "Filipenses 4:8",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_113",
+      "numero": 113,
+      "texto": "O medo pergunta o que acontecerá; a fé lembra quem permanece com você.",
+      "referencia": "Isaías 41:10",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_114",
+      "numero": 114,
+      "texto": "Você pode descansar porque sua vida não está sendo conduzida pelo acaso.",
+      "referencia": "Provérbios 16:9; Romanos 8:28",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_115",
+      "numero": 115,
+      "texto": "A ansiedade olha para o que pode acontecer; a confiança olha para quem Deus é.",
+      "referencia": "Salmo 46:1–3",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_116",
+      "numero": 116,
+      "texto": "O medo cresce quando você contempla apenas o tamanho da ameaça; a fé contempla a grandeza de Deus.",
+      "referencia": "Números 14:6–9",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_117",
+      "numero": 117,
+      "texto": "Não deixe aquilo que assusta você ocupar o lugar daquele que sustenta você.",
+      "referencia": "Isaías 41:10",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_118",
+      "numero": 118,
+      "texto": "Deus não prometeu que você nunca enfrentaria vales, mas prometeu sua presença neles.",
+      "referencia": "Salmo 23:4",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_119",
+      "numero": 119,
+      "texto": "A coragem cristã não é ausência de medo; é fidelidade apesar dele.",
+      "referencia": "Josué 1:9",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_120",
+      "numero": 120,
+      "texto": "Quando o coração estremecer, lembre-se de quem não pode ser abalado.",
+      "referencia": "Hebreus 12:28",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_121",
+      "numero": 121,
+      "texto": "Você não precisa esconder sua fraqueza de Cristo; pode encontrá-lo justamente nela.",
+      "referencia": "2 Coríntios 12:9",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_122",
+      "numero": 122,
+      "texto": "A graça de Cristo não exige que você seja forte o tempo todo.",
+      "referencia": "2 Coríntios 12:9–10",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_123",
+      "numero": 123,
+      "texto": "Sua fraqueza pode revelar aquilo que sua autossuficiência escondia: sua necessidade de Cristo.",
+      "referencia": "2 Coríntios 12:9",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_124",
+      "numero": 124,
+      "texto": "Quando suas forças diminuírem, não abandone a fonte delas.",
+      "referencia": "Isaías 40:29–31",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_125",
+      "numero": 125,
+      "texto": "Cair não precisa ser o fim da caminhada quando Deus ainda chama você a levantar-se.",
+      "referencia": "Miqueias 7:8",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_126",
+      "numero": 126,
+      "texto": "Você não pode mudar o que fez, mas pode voltar-se para Deus e caminhar de outra maneira.",
+      "referencia": "Provérbios 28:13; 1 João 1:9",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_127",
+      "numero": 127,
+      "texto": "O arrependimento não muda o passado, mas muda a direção do coração.",
+      "referencia": "Atos 3:19",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_128",
+      "numero": 128,
+      "texto": "Seu fracasso pode fazer parte da história sem precisar ser o capítulo final.",
+      "referencia": "João 21:15–19",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_129",
+      "numero": 129,
+      "texto": "Pedro caiu, mas Cristo ainda o chamou para segui-lo.",
+      "referencia": "João 21:15–19",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_130",
+      "numero": 130,
+      "texto": "Depois da queda, não faça da culpa sua morada; volte para Cristo.",
+      "referencia": "1 João 1:9",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_131",
+      "numero": 131,
+      "texto": "Você pode recomeçar não porque o passado deixou de existir, mas porque a graça de Deus continua existindo.",
+      "referencia": "Lamentações 3:22–23",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_132",
+      "numero": 132,
+      "texto": "A misericórdia de Deus não é licença para permanecer no pecado; é esperança para abandoná-lo.",
+      "referencia": "Romanos 6:1–2",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_133",
+      "numero": 133,
+      "texto": "Quem confessa seu pecado não precisa fingir que nunca caiu.",
+      "referencia": "1 João 1:9",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_134",
+      "numero": 134,
+      "texto": "Não use sua fraqueza como desculpa para desistir; leve-a a Cristo como motivo para depender.",
+      "referencia": "2 Coríntios 12:9",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_135",
+      "numero": 135,
+      "texto": "Deus pode fazer do lugar da sua vergonha um lugar de testemunho da graça.",
+      "referencia": "João 21:15–19",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_136",
+      "numero": 136,
+      "texto": "Você não precisa reconstruir sozinho aquilo que o pecado destruiu; comece voltando-se para Deus.",
+      "referencia": "Joel 2:12–13",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_137",
+      "numero": 137,
+      "texto": "O fracasso não torna a graça menor; pode tornar sua necessidade dela mais evidente.",
+      "referencia": "Romanos 5:20",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_138",
+      "numero": 138,
+      "texto": "Quando não conseguir confiar em sua própria força, confie ainda mais profundamente em Cristo.",
+      "referencia": "Filipenses 3:3",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_139",
+      "numero": 139,
+      "texto": "Aquele que o sustenta não depende da perfeição da sua caminhada.",
+      "referencia": "Judas 24",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_140",
+      "numero": 140,
+      "texto": "Você pode tropeçar sem ser abandonado pelo Senhor.",
+      "referencia": "Salmo 37:23–24",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_141",
+      "numero": 141,
+      "texto": "A mão de Deus é capaz de sustentar quem aprendeu a cair de joelhos diante dEle.",
+      "referencia": "Salmo 145:14",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_142",
+      "numero": 142,
+      "texto": "Não permaneça preso ao que Deus já chamou você a confessar e abandonar.",
+      "referencia": "Provérbios 28:13",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_143",
+      "numero": 143,
+      "texto": "O passado pode ensinar você sem precisar governar você.",
+      "referencia": "Filipenses 3:13–14",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_144",
+      "numero": 144,
+      "texto": "Você não precisa voltar ao homem que era quando Cristo está formando em você um novo caminho.",
+      "referencia": "2 Coríntios 5:17",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_145",
+      "numero": 145,
+      "texto": "Recomeçar com Deus é melhor que permanecer confortável longe dEle.",
+      "referencia": "Oséias 6:1",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_146",
+      "numero": 146,
+      "texto": "A graça não diz que o pecado não importa; ela mostra que Cristo é maior que o pecado.",
+      "referencia": "Romanos 5:20–21",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_147",
+      "numero": 147,
+      "texto": "Você pode ter falhado ontem e ainda ser chamado à fidelidade hoje.",
+      "referencia": "João 21:15–17",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_148",
+      "numero": 148,
+      "texto": "Não transforme um erro em uma identidade quando Cristo oferece uma nova vida.",
+      "referencia": "2 Coríntios 5:17",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_149",
+      "numero": 149,
+      "texto": "A restauração começa quando você para de esconder-se e volta-se para Deus.",
+      "referencia": "Gênesis 3:8–9; 1 João 1:9",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_150",
+      "numero": 150,
+      "texto": "A graça de Deus não apenas perdoa seus passos errados; também ensina seus próximos passos.",
+      "referencia": "Tito 2:11–12",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_151",
+      "numero": 151,
+      "texto": "Confiar em Deus não é apenas descansar; é obedecer quando Ele chama.",
+      "referencia": "João 14:15",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_152",
+      "numero": 152,
+      "texto": "A fé verdadeira não apenas olha para Cristo; ela caminha atrás dEle.",
+      "referencia": "Lucas 9:23",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_153",
+      "numero": 153,
+      "texto": "Você não precisa saber o resultado para ser fiel ao próximo dever.",
+      "referencia": "Lucas 16:10",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_154",
+      "numero": 154,
+      "texto": "Obedecer hoje pode ser mais importante do que entender amanhã.",
+      "referencia": "Deuteronômio 29:29",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_155",
+      "numero": 155,
+      "texto": "Não espere sentir coragem para obedecer; caminhe confiando no Deus que está com você.",
+      "referencia": "Josué 1:9",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_156",
+      "numero": 156,
+      "texto": "A perseverança começa quando você decide continuar confiando depois que o entusiasmo passa.",
+      "referencia": "Hebreus 10:36",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_157",
+      "numero": 157,
+      "texto": "Nem todo dia será fácil, mas Cristo continua sendo digno de ser seguido em todos eles.",
+      "referencia": "Lucas 9:23",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_158",
+      "numero": 158,
+      "texto": "Você pode continuar mesmo cansado quando sua esperança não está em suas forças.",
+      "referencia": "Isaías 40:31",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_159",
+      "numero": 159,
+      "texto": "Não abandone a fidelidade porque o fruto ainda não apareceu.",
+      "referencia": "Gálatas 6:9",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_160",
+      "numero": 160,
+      "texto": "Deus não chamou você para controlar o fruto, mas para permanecer fiel àquilo que recebeu.",
+      "referencia": "1 Coríntios 3:6–7",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_161",
+      "numero": 161,
+      "texto": "Continue fazendo o bem; a fidelidade de Deus não depende da rapidez dos resultados.",
+      "referencia": "Gálatas 6:9",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_162",
+      "numero": 162,
+      "texto": "Há obediências que parecem pequenas aos olhos humanos, mas grandes aos olhos de Deus.",
+      "referencia": "Lucas 16:10",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_163",
+      "numero": 163,
+      "texto": "Não despreze o pequeno começo quando Deus está nele.",
+      "referencia": "Zacarias 4:10",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_164",
+      "numero": 164,
+      "texto": "Você não precisa fazer algo extraordinário todos os dias; precisa permanecer fiel ao Senhor.",
+      "referencia": "Lucas 16:10",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_165",
+      "numero": 165,
+      "texto": "A perseverança não é confiar que será fácil; é confiar que Cristo continuará sendo suficiente.",
+      "referencia": "Filipenses 4:11–13",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_166",
+      "numero": 166,
+      "texto": "Quando a caminhada ficar difícil, não confunda dificuldade com ausência de Deus.",
+      "referencia": "Tiago 1:2–4",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_167",
+      "numero": 167,
+      "texto": "Continue correndo com os olhos em Cristo, não comparando sua corrida com a dos outros.",
+      "referencia": "Hebreus 12:1–2",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_168",
+      "numero": 168,
+      "texto": "Você corre melhor quando sabe para quem está correndo.",
+      "referencia": "Hebreus 12:1–2",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_169",
+      "numero": 169,
+      "texto": "Não permita que a demora do caminho faça você esquecer o destino prometido.",
+      "referencia": "Hebreus 10:35–36",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_170",
+      "numero": 170,
+      "texto": "A fidelidade de hoje é uma forma de confiar no Deus que cuidará do amanhã.",
+      "referencia": "Mateus 6:34",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_171",
+      "numero": 171,
+      "texto": "Continue sem depender do aplauso; Cristo vê aquilo que os homens não veem.",
+      "referencia": "Mateus 6:4",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_172",
+      "numero": 172,
+      "texto": "Faça o que Deus colocou diante de você, mesmo quando ninguém estiver olhando.",
+      "referencia": "Colossenses 3:23",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_173",
+      "numero": 173,
+      "texto": "A obediência não precisa de plateia quando Cristo é o seu Senhor.",
+      "referencia": "Mateus 6:1–6",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_174",
+      "numero": 174,
+      "texto": "Não desista apenas porque ninguém percebeu sua fidelidade; Deus não deixou de vê-la.",
+      "referencia": "Hebreus 6:10",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_175",
+      "numero": 175,
+      "texto": "Permaneça fiel: o Senhor não pede que você controle tudo, mas que seja fiel no que recebeu.",
+      "referencia": "1 Coríntios 4:2",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_176",
+      "numero": 176,
+      "texto": "A obediência começa onde termina a negociação com aquilo que Deus já revelou.",
+      "referencia": "1 Samuel 15:22",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_177",
+      "numero": 177,
+      "texto": "Não peça direção para aquilo que Deus já deixou claro nas Escrituras.",
+      "referencia": "Salmo 119:105",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_178",
+      "numero": 178,
+      "texto": "Você não precisa de uma nova revelação para obedecer à verdade que já conhece.",
+      "referencia": "Tiago 1:22",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_179",
+      "numero": 179,
+      "texto": "A confiança verdadeira não pergunta apenas “posso?”, mas também “isso agrada ao Senhor?”.",
+      "referencia": "Efésios 5:10",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_180",
+      "numero": 180,
+      "texto": "Quem ama Cristo não procura apenas saber sua vontade; procura vivê-la.",
+      "referencia": "João 14:21",
+      "secao": null
+    },
+    {
+      "identificador": "caminhar_com_cristo_181",
+      "numero": 181,
+      "texto": "Cristo não é apenas parte da sua vida; Ele é o centro para o qual toda a vida deve convergir.",
+      "referencia": "Colossenses 1:16–18",
+      "secao": "Cristo no centro"
+    },
+    {
+      "identificador": "caminhar_com_cristo_182",
+      "numero": 182,
+      "texto": "Quando Cristo ocupa o centro, as outras coisas encontram seu devido lugar.",
+      "referencia": "Mateus 6:33",
+      "secao": "Cristo no centro"
+    },
+    {
+      "identificador": "caminhar_com_cristo_183",
+      "numero": 183,
+      "texto": "Não construa sua identidade sobre aquilo que pode perder; construa-a em Cristo.",
+      "referencia": "Colossenses 3:1–4",
+      "secao": "Cristo no centro"
+    },
+    {
+      "identificador": "caminhar_com_cristo_184",
+      "numero": 184,
+      "texto": "Sua esperança é mais segura quando está presa a Cristo, não às circunstâncias.",
+      "referencia": "Colossenses 1:27",
+      "secao": "Cristo no centro"
+    },
+    {
+      "identificador": "caminhar_com_cristo_185",
+      "numero": 185,
+      "texto": "Você pode perder muitas coisas sem perder aquilo que realmente o sustenta: Cristo.",
+      "referencia": "Filipenses 3:7–8",
+      "secao": "Cristo no centro"
+    },
+    {
+      "identificador": "caminhar_com_cristo_186",
+      "numero": 186,
+      "texto": "Quando Cristo é seu tesouro, nenhuma perda precisa ser o fim da esperança.",
+      "referencia": "Filipenses 3:8",
+      "secao": "Cristo no centro"
+    },
+    {
+      "identificador": "caminhar_com_cristo_187",
+      "numero": 187,
+      "texto": "Não faça das bênçãos de Deus substitutos do Deus que as concede.",
+      "referencia": "Deuteronômio 8:11–18",
+      "secao": "Cristo no centro"
+    },
+    {
+      "identificador": "caminhar_com_cristo_188",
+      "numero": 188,
+      "texto": "O maior presente de Deus não é aquilo que Ele coloca em suas mãos, mas o próprio Cristo.",
+      "referencia": "Romanos 8:32",
+      "secao": "Cristo no centro"
+    },
+    {
+      "identificador": "caminhar_com_cristo_189",
+      "numero": 189,
+      "texto": "Você pode receber muito de Deus sem deixar que as dádivas ocupem o lugar do Doador.",
+      "referencia": "Deuteronômio 8:10–18",
+      "secao": "Cristo no centro"
+    },
+    {
+      "identificador": "caminhar_com_cristo_190",
+      "numero": 190,
+      "texto": "A vida cristã começa em Cristo, continua por Cristo e termina para a glória de Cristo.",
+      "referencia": "Colossenses 1:16–17; Romanos 11:36",
+      "secao": "Cristo no centro"
+    },
+    {
+      "identificador": "caminhar_com_cristo_191",
+      "numero": 191,
+      "texto": "Não procure em outras fontes aquilo que Cristo prometeu ser para os seus.",
+      "referencia": "João 6:35",
+      "secao": "Cristo no centro"
+    },
+    {
+      "identificador": "caminhar_com_cristo_192",
+      "numero": 192,
+      "texto": "Quando Cristo é suficiente, você aprende a receber as circunstâncias sem fazer delas sua esperança.",
+      "referencia": "Filipenses 4:11–13",
+      "secao": "Cristo no centro"
+    },
+    {
+      "identificador": "caminhar_com_cristo_193",
+      "numero": 193,
+      "texto": "A presença de Cristo vale mais que a previsibilidade do caminho.",
+      "referencia": "Êxodo 33:15; Mateus 28:20",
+      "secao": "Cristo no centro"
+    },
+    {
+      "identificador": "caminhar_com_cristo_194",
+      "numero": 194,
+      "texto": "Não peça apenas que Deus mude o caminho; peça que Cristo governe seu coração enquanto você caminha.",
+      "referencia": "Salmo 139:23–24",
+      "secao": "Cristo no centro"
+    },
+    {
+      "identificador": "caminhar_com_cristo_195",
+      "numero": 195,
+      "texto": "A melhor direção é aquela que mantém você perto de Cristo.",
+      "referencia": "João 15:4",
+      "secao": "Cristo no centro"
+    },
+    {
+      "identificador": "caminhar_com_cristo_196",
+      "numero": 196,
+      "texto": "Você pode perder a direção quando olha apenas para as circunstâncias; volte os olhos para Cristo.",
+      "referencia": "Hebreus 12:2",
+      "secao": "Cristo no centro"
+    },
+    {
+      "identificador": "caminhar_com_cristo_197",
+      "numero": 197,
+      "texto": "Cristo não é o prêmio depois da caminhada; Ele é o Senhor presente durante toda ela.",
+      "referencia": "Mateus 28:20",
+      "secao": "Cristo no centro"
+    },
+    {
+      "identificador": "caminhar_com_cristo_198",
+      "numero": 198,
+      "texto": "Não corra apenas para chegar a algum lugar; caminhe para conhecer mais profundamente Cristo.",
+      "referencia": "Filipenses 3:8–10",
+      "secao": "Cristo no centro"
+    },
+    {
+      "identificador": "caminhar_com_cristo_199",
+      "numero": 199,
+      "texto": "O centro da fé não é o tamanho da sua confiança, mas a grandeza daquele em quem você confia.",
+      "referencia": "Marcos 9:24; Hebreus 12:2",
+      "secao": "Cristo no centro"
+    },
+    {
+      "identificador": "caminhar_com_cristo_200",
+      "numero": 200,
+      "texto": "Sua fé pode ser pequena, mas Cristo continua sendo grande.",
+      "referencia": "Mateus 17:20",
+      "secao": "Cristo no centro"
+    },
+    {
+      "identificador": "caminhar_com_cristo_201",
+      "numero": 201,
+      "texto": "Você não precisa tornar Cristo suficiente; precisa aprender a descansar porque Ele já é.",
+      "referencia": "Colossenses 2:9–10",
+      "secao": "Cristo no centro"
+    },
+    {
+      "identificador": "caminhar_com_cristo_202",
+      "numero": 202,
+      "texto": "Quando tudo ao redor mudar, Cristo continuará sendo o mesmo.",
+      "referencia": "Hebreus 13:8",
+      "secao": "Cristo no centro"
+    },
+    {
+      "identificador": "caminhar_com_cristo_203",
+      "numero": 203,
+      "texto": "A estabilidade da sua esperança depende mais da fidelidade de Cristo que da firmeza das suas circunstâncias.",
+      "referencia": "Hebreus 10:23",
+      "secao": "Cristo no centro"
+    },
+    {
+      "identificador": "caminhar_com_cristo_204",
+      "numero": 204,
+      "texto": "Olhe menos para o tamanho do problema e mais para a suficiência de Cristo.",
+      "referencia": "2 Coríntios 12:9",
+      "secao": "Cristo no centro"
+    },
+    {
+      "identificador": "caminhar_com_cristo_205",
+      "numero": 205,
+      "texto": "Se Cristo é seu fundamento, a tempestade pode abalá-lo sem destruí-lo.",
+      "referencia": "Mateus 7:24–25",
+      "secao": "Cristo no centro"
+    },
+    {
+      "identificador": "caminhar_com_cristo_206",
+      "numero": 206,
+      "texto": "Não deixe que as circunstâncias determinem o tamanho de Cristo em seus pensamentos.",
+      "referencia": "Colossenses 3:1–2",
+      "secao": "Cristo no centro"
+    },
+    {
+      "identificador": "caminhar_com_cristo_207",
+      "numero": 207,
+      "texto": "Quanto mais Cristo ocupa seus olhos, menos espaço o desespero encontra em seu coração.",
+      "referencia": "Hebreus 12:2",
+      "secao": "Cristo no centro"
+    },
+    {
+      "identificador": "caminhar_com_cristo_208",
+      "numero": 208,
+      "texto": "A suficiência de Cristo não aumenta quando tudo dá certo nem diminui quando tudo dá errado.",
+      "referencia": "Hebreus 13:8",
+      "secao": "Cristo no centro"
+    },
+    {
+      "identificador": "caminhar_com_cristo_209",
+      "numero": 209,
+      "texto": "Você não precisa procurar outro fundamento quando Cristo já é a pedra sobre a qual sua vida deve estar firmada.",
+      "referencia": "1 Coríntios 3:11",
+      "secao": "Cristo no centro"
+    },
+    {
+      "identificador": "caminhar_com_cristo_210",
+      "numero": 210,
+      "texto": "Se Cristo estiver no centro, até suas perdas poderão ser vistas à luz de uma esperança maior.",
+      "referencia": "Filipenses 3:7–8",
+      "secao": "Cristo no centro"
+    },
+    {
+      "identificador": "caminhar_com_cristo_211",
+      "numero": 211,
+      "texto": "Antes de perguntar qual caminho parece melhor, pergunte qual caminho honra o Senhor.",
+      "referencia": "Provérbios 3:5–7",
+      "secao": "Sabedoria e decisões"
+    },
+    {
+      "identificador": "caminhar_com_cristo_212",
+      "numero": 212,
+      "texto": "Nem tudo que parece vantajoso é sábio; leve suas escolhas diante de Deus.",
+      "referencia": "Provérbios 14:12; Tiago 1:5",
+      "secao": "Sabedoria e decisões"
+    },
+    {
+      "identificador": "caminhar_com_cristo_213",
+      "numero": 213,
+      "texto": "Quando faltar sabedoria, não esconda sua necessidade; peça-a a Deus.",
+      "referencia": "Tiago 1:5",
+      "secao": "Sabedoria e decisões"
+    },
+    {
+      "identificador": "caminhar_com_cristo_214",
+      "numero": 214,
+      "texto": "Uma decisão tomada em oração pode ser mais sábia que uma decisão tomada na pressa.",
+      "referencia": "Filipenses 4:6; Provérbios 19:2",
+      "secao": "Sabedoria e decisões"
+    },
+    {
+      "identificador": "caminhar_com_cristo_215",
+      "numero": 215,
+      "texto": "Não deixe a pressa escolher aquilo que a sabedoria deveria discernir.",
+      "referencia": "Provérbios 19:2",
+      "secao": "Sabedoria e decisões"
+    },
+    {
+      "identificador": "caminhar_com_cristo_216",
+      "numero": 216,
+      "texto": "Deus pode usar conselhos sábios para proteger você de decisões precipitadas.",
+      "referencia": "Provérbios 11:14",
+      "secao": "Sabedoria e decisões"
+    },
+    {
+      "identificador": "caminhar_com_cristo_217",
+      "numero": 217,
+      "texto": "Ouvir bons conselhos não diminui sua autonomia; pode aumentar sua sabedoria.",
+      "referencia": "Provérbios 12:15",
+      "secao": "Sabedoria e decisões"
+    },
+    {
+      "identificador": "caminhar_com_cristo_218",
+      "numero": 218,
+      "texto": "Quem confia no Senhor não precisa transformar sua própria opinião em autoridade absoluta.",
+      "referencia": "Provérbios 3:7",
+      "secao": "Sabedoria e decisões"
+    },
+    {
+      "identificador": "caminhar_com_cristo_219",
+      "numero": 219,
+      "texto": "A humildade deixa espaço para Deus corrigir aquilo que você julgava certo.",
+      "referencia": "Provérbios 12:1",
+      "secao": "Sabedoria e decisões"
+    },
+    {
+      "identificador": "caminhar_com_cristo_220",
+      "numero": 220,
+      "texto": "Não peça apenas que Deus abençoe seus planos; esteja disposto a abandonar aqueles que não correspondem à vontade dEle.",
+      "referencia": "Tiago 4:15",
+      "secao": "Sabedoria e decisões"
+    },
+    {
+      "identificador": "caminhar_com_cristo_221",
+      "numero": 221,
+      "texto": "Uma porta fechada pode ser frustrante sem deixar de estar debaixo da providência de Deus.",
+      "referencia": "Atos 16:6–10",
+      "secao": "Sabedoria e decisões"
+    },
+    {
+      "identificador": "caminhar_com_cristo_222",
+      "numero": 222,
+      "texto": "Quando Deus redirecionar seus passos, não confunda mudança de rota com fracasso.",
+      "referencia": "Atos 16:6–10",
+      "secao": "Sabedoria e decisões"
+    },
+    {
+      "identificador": "caminhar_com_cristo_223",
+      "numero": 223,
+      "texto": "A sabedoria não consiste em saber tudo, mas em reconhecer de quem você precisa para decidir.",
+      "referencia": "Tiago 1:5",
+      "secao": "Sabedoria e decisões"
+    },
+    {
+      "identificador": "caminhar_com_cristo_224",
+      "numero": 224,
+      "texto": "Você pode planejar cuidadosamente sem esquecer que seus passos dependem do Senhor.",
+      "referencia": "Provérbios 16:9",
+      "secao": "Sabedoria e decisões"
+    },
+    {
+      "identificador": "caminhar_com_cristo_225",
+      "numero": 225,
+      "texto": "A melhor decisão nem sempre é a mais confortável, mas a que pode ser tomada diante de Deus com consciência limpa.",
+      "referencia": "Atos 24:16",
+      "secao": "Sabedoria e decisões"
+    },
+    {
+      "identificador": "caminhar_com_cristo_226",
+      "numero": 226,
+      "texto": "Não sacrifique convicções por conveniência.",
+      "referencia": "Daniel 1:8",
+      "secao": "Sabedoria e decisões"
+    },
+    {
+      "identificador": "caminhar_com_cristo_227",
+      "numero": 227,
+      "texto": "Há escolhas que parecem pequenas, mas revelam quem realmente governa seu coração.",
+      "referencia": "Lucas 16:10",
+      "secao": "Sabedoria e decisões"
+    },
+    {
+      "identificador": "caminhar_com_cristo_228",
+      "numero": 228,
+      "texto": "O coração sábio não pergunta apenas o que pode fazer, mas o que deve fazer.",
+      "referencia": "Efésios 5:15–17",
+      "secao": "Sabedoria e decisões"
+    },
+    {
+      "identificador": "caminhar_com_cristo_229",
+      "numero": 229,
+      "texto": "A liberdade cristã não é fazer tudo que você quer; é aprender a querer aquilo que agrada a Deus.",
+      "referencia": "Gálatas 5:13; Salmo 40:8",
+      "secao": "Sabedoria e decisões"
+    },
+    {
+      "identificador": "caminhar_com_cristo_230",
+      "numero": 230,
+      "texto": "Nem toda oportunidade precisa ser aproveitada; algumas precisam ser discernidas.",
+      "referencia": "Efésios 5:15–17",
+      "secao": "Sabedoria e decisões"
+    },
+    {
+      "identificador": "caminhar_com_cristo_231",
+      "numero": 231,
+      "texto": "Quando não souber decidir, aproxime-se de Deus antes de aproximar-se da pressa.",
+      "referencia": "Tiago 1:5",
+      "secao": "Sabedoria e decisões"
+    },
+    {
+      "identificador": "caminhar_com_cristo_232",
+      "numero": 232,
+      "texto": "A sabedoria começa quando você reconhece que não é sábio o bastante para viver sem Deus.",
+      "referencia": "Provérbios 9:10",
+      "secao": "Sabedoria e decisões"
+    },
+    {
+      "identificador": "caminhar_com_cristo_233",
+      "numero": 233,
+      "texto": "Deus não chama você a adivinhar o futuro, mas a andar sabiamente no presente.",
+      "referencia": "Efésios 5:15–16",
+      "secao": "Sabedoria e decisões"
+    },
+    {
+      "identificador": "caminhar_com_cristo_234",
+      "numero": 234,
+      "texto": "Não permita que o desejo de controlar o resultado impeça você de escolher o que é fiel.",
+      "referencia": "Daniel 3:16–18",
+      "secao": "Sabedoria e decisões"
+    },
+    {
+      "identificador": "caminhar_com_cristo_235",
+      "numero": 235,
+      "texto": "A fé pode dizer “não sei o que acontecerá” sem deixar de dizer “continuarei confiando”.",
+      "referencia": "Daniel 3:17–18",
+      "secao": "Sabedoria e decisões"
+    },
+    {
+      "identificador": "caminhar_com_cristo_236",
+      "numero": 236,
+      "texto": "Decida com sabedoria, caminhe com humildade e deixe o resultado com Deus.",
+      "referencia": "Provérbios 16:3,9",
+      "secao": "Sabedoria e decisões"
+    },
+    {
+      "identificador": "caminhar_com_cristo_237",
+      "numero": 237,
+      "texto": "Você não precisa conhecer todas as consequências para obedecer àquilo que é claramente correto.",
+      "referencia": "Miquéias 6:8",
+      "secao": "Sabedoria e decisões"
+    },
+    {
+      "identificador": "caminhar_com_cristo_238",
+      "numero": 238,
+      "texto": "O temor do Senhor protege o coração de fazer da própria vontade sua única bússola.",
+      "referencia": "Provérbios 1:7",
+      "secao": "Sabedoria e decisões"
+    },
+    {
+      "identificador": "caminhar_com_cristo_239",
+      "numero": 239,
+      "texto": "Quando a vontade de Deus contrariar sua vontade, a confiança será chamada a escolher quem governará.",
+      "referencia": "Lucas 22:42",
+      "secao": "Sabedoria e decisões"
+    },
+    {
+      "identificador": "caminhar_com_cristo_240",
+      "numero": 240,
+      "texto": "A maturidade espiritual também é aprender a dizer: “Senhor, seja feita a tua vontade”.",
+      "referencia": "Mateus 6:10; Lucas 22:42",
+      "secao": "Sabedoria e decisões"
+    },
+    {
+      "identificador": "caminhar_com_cristo_241",
+      "numero": 241,
+      "texto": "Ore antes de carregar sozinho aquilo que Deus deseja que você coloque diante dEle.",
+      "referencia": "Filipenses 4:6",
+      "secao": "Oração"
+    },
+    {
+      "identificador": "caminhar_com_cristo_242",
+      "numero": 242,
+      "texto": "A oração não é último recurso; é expressão de dependência.",
+      "referencia": "1 Tessalonicenses 5:17",
+      "secao": "Oração"
+    },
+    {
+      "identificador": "caminhar_com_cristo_243",
+      "numero": 243,
+      "texto": "Quem ora reconhece que há coisas que suas mãos não podem realizar.",
+      "referencia": "Salmo 121:1–2",
+      "secao": "Oração"
+    },
+    {
+      "identificador": "caminhar_com_cristo_244",
+      "numero": 244,
+      "texto": "Você pode chegar a Deus com perguntas sem precisar esconder sua confiança.",
+      "referencia": "Salmo 13:1–6",
+      "secao": "Oração"
+    },
+    {
+      "identificador": "caminhar_com_cristo_245",
+      "numero": 245,
+      "texto": "A oração sincera não precisa de palavras perfeitas, mas de um coração voltado para Deus.",
+      "referencia": "Romanos 8:26",
+      "secao": "Oração"
+    },
+    {
+      "identificador": "caminhar_com_cristo_246",
+      "numero": 246,
+      "texto": "Quando você não souber o que dizer, ainda poderá permanecer diante de Deus.",
+      "referencia": "Romanos 8:26",
+      "secao": "Oração"
+    },
+    {
+      "identificador": "caminhar_com_cristo_247",
+      "numero": 247,
+      "texto": "Ore pelo que deseja, mas permaneça disposto a receber a resposta de Deus.",
+      "referencia": "1 João 5:14",
+      "secao": "Oração"
+    },
+    {
+      "identificador": "caminhar_com_cristo_248",
+      "numero": 248,
+      "texto": "A oração muda nossa postura diante do problema antes mesmo de mudar o problema.",
+      "referencia": "Filipenses 4:6–7",
+      "secao": "Oração"
+    },
+    {
+      "identificador": "caminhar_com_cristo_249",
+      "numero": 249,
+      "texto": "Leve a Deus aquilo que você leva para a cama em forma de preocupação.",
+      "referencia": "Salmo 4:8; 1 Pedro 5:7",
+      "secao": "Oração"
+    },
+    {
+      "identificador": "caminhar_com_cristo_250",
+      "numero": 250,
+      "texto": "Antes de tentar controlar a situação, experimente colocá-la diante do Senhor.",
+      "referencia": "Salmo 55:22",
+      "secao": "Oração"
+    },
+    {
+      "identificador": "caminhar_com_cristo_251",
+      "numero": 251,
+      "texto": "Uma oração pode ser pequena e ainda assim revelar uma grande dependência.",
+      "referencia": "Mateus 14:30",
+      "secao": "Oração"
+    },
+    {
+      "identificador": "caminhar_com_cristo_252",
+      "numero": 252,
+      "texto": "“Senhor, ajuda-me” também é uma oração de fé.",
+      "referencia": "Mateus 15:25",
+      "secao": "Oração"
+    },
+    {
+      "identificador": "caminhar_com_cristo_253",
+      "numero": 253,
+      "texto": "Você não precisa resolver tudo antes de orar; ore justamente porque não consegue resolver tudo.",
+      "referencia": "2 Crônicas 20:12",
+      "secao": "Oração"
+    },
+    {
+      "identificador": "caminhar_com_cristo_254",
+      "numero": 254,
+      "texto": "Quando você não sabe o que fazer, pode começar reconhecendo para quem deve olhar.",
+      "referencia": "2 Crônicas 20:12",
+      "secao": "Oração"
+    },
+    {
+      "identificador": "caminhar_com_cristo_255",
+      "numero": 255,
+      "texto": "A oração não informa Deus sobre sua necessidade; ela ensina você a depender dEle.",
+      "referencia": "Mateus 6:8–13",
+      "secao": "Oração"
+    },
+    {
+      "identificador": "caminhar_com_cristo_256",
+      "numero": 256,
+      "texto": "Ore com confiança, mas deixe Deus continuar sendo Deus.",
+      "referencia": "1 João 5:14",
+      "secao": "Oração"
+    },
+    {
+      "identificador": "caminhar_com_cristo_257",
+      "numero": 257,
+      "texto": "A oração madura não apenas pede mudança; também pede um coração disposto à vontade de Deus.",
+      "referencia": "Mateus 6:10",
+      "secao": "Oração"
+    },
+    {
+      "identificador": "caminhar_com_cristo_258",
+      "numero": 258,
+      "texto": "Às vezes, a resposta que Deus transforma primeiro é você.",
+      "referencia": "2 Coríntios 12:7–10",
+      "secao": "Oração"
+    },
+    {
+      "identificador": "caminhar_com_cristo_259",
+      "numero": 259,
+      "texto": "Não abandone a oração porque a resposta demorou; a demora não anulou sua dependência.",
+      "referencia": "Lucas 18:1",
+      "secao": "Oração"
+    },
+    {
+      "identificador": "caminhar_com_cristo_260",
+      "numero": 260,
+      "texto": "Continue batendo à porta sem esquecer quem está do outro lado.",
+      "referencia": "Mateus 7:7–11",
+      "secao": "Oração"
+    },
+    {
+      "identificador": "caminhar_com_cristo_261",
+      "numero": 261,
+      "texto": "Ore como quem espera de Deus aquilo que não pode produzir sozinho.",
+      "referencia": "Salmo 123:2",
+      "secao": "Oração"
+    },
+    {
+      "identificador": "caminhar_com_cristo_262",
+      "numero": 262,
+      "texto": "A oração coloca seus desejos diante de Deus sem colocá-los acima da vontade dEle.",
+      "referencia": "Mateus 26:39",
+      "secao": "Oração"
+    },
+    {
+      "identificador": "caminhar_com_cristo_263",
+      "numero": 263,
+      "texto": "Jesus também ensinou seus discípulos a pedir; dependência não é fraqueza, é vida de fé.",
+      "referencia": "Mateus 6:9–13",
+      "secao": "Oração"
+    },
+    {
+      "identificador": "caminhar_com_cristo_264",
+      "numero": 264,
+      "texto": "Quando o coração estiver pesado, transforme o peso em conversa com Deus.",
+      "referencia": "Salmo 62:8",
+      "secao": "Oração"
+    },
+    {
+      "identificador": "caminhar_com_cristo_265",
+      "numero": 265,
+      "texto": "Você pode contar tudo a Deus sem precisar controlar a resposta.",
+      "referencia": "Salmo 142:1–7",
+      "secao": "Oração"
+    },
+    {
+      "identificador": "caminhar_com_cristo_266",
+      "numero": 266,
+      "texto": "A oração abre espaço para a confiança ocupar o lugar da ansiedade.",
+      "referencia": "Filipenses 4:6–7",
+      "secao": "Oração"
+    },
+    {
+      "identificador": "caminhar_com_cristo_267",
+      "numero": 267,
+      "texto": "Ore até que seu coração consiga dizer: “Ainda assim, confiarei”.",
+      "referencia": "Habacuque 3:17–18",
+      "secao": "Oração"
+    },
+    {
+      "identificador": "caminhar_com_cristo_268",
+      "numero": 268,
+      "texto": "A oração não promete que tudo acontecerá como você deseja; promete que você pode levar tudo a Deus.",
+      "referencia": "Filipenses 4:6",
+      "secao": "Oração"
+    },
+    {
+      "identificador": "caminhar_com_cristo_269",
+      "numero": 269,
+      "texto": "Deus não precisa que você seja eloquente para ouvi-lo; precisa apenas que você venha.",
+      "referencia": "Mateus 6:7–8",
+      "secao": "Oração"
+    },
+    {
+      "identificador": "caminhar_com_cristo_270",
+      "numero": 270,
+      "texto": "Quem aprende a orar aprende pouco a pouco a deixar de carregar sozinho aquilo que pertence a Deus.",
+      "referencia": "1 Pedro 5:7",
+      "secao": "Oração"
+    },
+    {
+      "identificador": "caminhar_com_cristo_271",
+      "numero": 271,
+      "texto": "O sofrimento pode mudar seus planos sem precisar destruir sua esperança.",
+      "referencia": "Romanos 5:3–5",
+      "secao": "Sofrimento e perseverança"
+    },
+    {
+      "identificador": "caminhar_com_cristo_272",
+      "numero": 272,
+      "texto": "Você pode sofrer e ainda continuar pertencendo a Cristo.",
+      "referencia": "Romanos 8:35–39",
+      "secao": "Sofrimento e perseverança"
+    },
+    {
+      "identificador": "caminhar_com_cristo_273",
+      "numero": 273,
+      "texto": "A presença de Deus não desaparece quando a estrada passa pelo vale.",
+      "referencia": "Salmo 23:4",
+      "secao": "Sofrimento e perseverança"
+    },
+    {
+      "identificador": "caminhar_com_cristo_274",
+      "numero": 274,
+      "texto": "Não meça a fidelidade de Deus pela ausência de sofrimento.",
+      "referencia": "João 16:33",
+      "secao": "Sofrimento e perseverança"
+    },
+    {
+      "identificador": "caminhar_com_cristo_275",
+      "numero": 275,
+      "texto": "Cristo não prometeu uma caminhada sem aflições, mas prometeu que venceu o mundo.",
+      "referencia": "João 16:33",
+      "secao": "Sofrimento e perseverança"
+    },
+    {
+      "identificador": "caminhar_com_cristo_276",
+      "numero": 276,
+      "texto": "A dor não precisa ser desperdiçada quando pode produzir perseverança e esperança.",
+      "referencia": "Romanos 5:3–5",
+      "secao": "Sofrimento e perseverança"
+    },
+    {
+      "identificador": "caminhar_com_cristo_277",
+      "numero": 277,
+      "texto": "Deus pode usar aquilo que você não escolheria para formar aquilo que você ainda precisa aprender.",
+      "referencia": "Tiago 1:2–4",
+      "secao": "Sofrimento e perseverança"
+    },
+    {
+      "identificador": "caminhar_com_cristo_278",
+      "numero": 278,
+      "texto": "Nem todo sofrimento terá uma explicação imediata, mas você pode atravessá-lo confiando no Senhor.",
+      "referencia": "Jó 13:15",
+      "secao": "Sofrimento e perseverança"
+    },
+    {
+      "identificador": "caminhar_com_cristo_279",
+      "numero": 279,
+      "texto": "Jó não recebeu todas as respostas antes de continuar confiando.",
+      "referencia": "Jó 13:15; 42:5–6",
+      "secao": "Sofrimento e perseverança"
+    },
+    {
+      "identificador": "caminhar_com_cristo_280",
+      "numero": 280,
+      "texto": "Há momentos em que a fé não entende, mas continua segurando-se em Deus.",
+      "referencia": "Habacuque 3:17–18",
+      "secao": "Sofrimento e perseverança"
+    },
+    {
+      "identificador": "caminhar_com_cristo_281",
+      "numero": 281,
+      "texto": "A ausência de respostas não precisa produzir ausência de fé.",
+      "referencia": "Habacuque 2:3–4",
+      "secao": "Sofrimento e perseverança"
+    },
+    {
+      "identificador": "caminhar_com_cristo_282",
+      "numero": 282,
+      "texto": "Quando as circunstâncias perderem sua estabilidade, procure estabilidade em Cristo.",
+      "referencia": "Hebreus 13:8",
+      "secao": "Sofrimento e perseverança"
+    },
+    {
+      "identificador": "caminhar_com_cristo_283",
+      "numero": 283,
+      "texto": "O sofrimento pode ferir você sem definir toda a sua história.",
+      "referencia": "Romanos 8:18",
+      "secao": "Sofrimento e perseverança"
+    },
+    {
+      "identificador": "caminhar_com_cristo_284",
+      "numero": 284,
+      "texto": "O presente pode ser pesado sem ser eterno.",
+      "referencia": "2 Coríntios 4:17–18",
+      "secao": "Sofrimento e perseverança"
+    },
+    {
+      "identificador": "caminhar_com_cristo_285",
+      "numero": 285,
+      "texto": "Continue olhando para aquilo que é eterno quando o presente parecer pesado demais.",
+      "referencia": "2 Coríntios 4:18",
+      "secao": "Sofrimento e perseverança"
+    },
+    {
+      "identificador": "caminhar_com_cristo_286",
+      "numero": 286,
+      "texto": "A esperança cristã não ignora a dor; olha para além dela.",
+      "referencia": "Romanos 8:18",
+      "secao": "Sofrimento e perseverança"
+    },
+    {
+      "identificador": "caminhar_com_cristo_287",
+      "numero": 287,
+      "texto": "Você pode chorar diante de Deus sem abandonar sua confiança nEle.",
+      "referencia": "Salmo 42:5",
+      "secao": "Sofrimento e perseverança"
+    },
+    {
+      "identificador": "caminhar_com_cristo_288",
+      "numero": 288,
+      "texto": "As lágrimas não anulam a fé; os Salmos estão cheios delas.",
+      "referencia": "Salmo 56:8",
+      "secao": "Sofrimento e perseverança"
+    },
+    {
+      "identificador": "caminhar_com_cristo_289",
+      "numero": 289,
+      "texto": "Quando não houver força para correr, permaneça; quando não houver força para permanecer, clame.",
+      "referencia": "Isaías 40:31; Salmo 130:1",
+      "secao": "Sofrimento e perseverança"
+    },
+    {
+      "identificador": "caminhar_com_cristo_290",
+      "numero": 290,
+      "texto": "Deus não despreza o coração quebrantado que se volta para Ele.",
+      "referencia": "Salmo 51:17",
+      "secao": "Sofrimento e perseverança"
+    },
+    {
+      "identificador": "caminhar_com_cristo_291",
+      "numero": 291,
+      "texto": "Não tenha vergonha de precisar de consolo; Cristo também se aproxima dos quebrantados.",
+      "referencia": "Mateus 5:4; Salmo 34:18",
+      "secao": "Sofrimento e perseverança"
+    },
+    {
+      "identificador": "caminhar_com_cristo_292",
+      "numero": 292,
+      "texto": "O vale não é sua morada definitiva; continue caminhando com o Pastor.",
+      "referencia": "Salmo 23:4",
+      "secao": "Sofrimento e perseverança"
+    },
+    {
+      "identificador": "caminhar_com_cristo_293",
+      "numero": 293,
+      "texto": "A noite pode parecer longa, mas a esperança cristã olha para a manhã de Deus.",
+      "referencia": "Salmo 30:5",
+      "secao": "Sofrimento e perseverança"
+    },
+    {
+      "identificador": "caminhar_com_cristo_294",
+      "numero": 294,
+      "texto": "Perseverar não significa gostar da dor; significa continuar confiando em Deus através dela.",
+      "referencia": "Tiago 1:12",
+      "secao": "Sofrimento e perseverança"
+    },
+    {
+      "identificador": "caminhar_com_cristo_295",
+      "numero": 295,
+      "texto": "A fé não precisa chamar o sofrimento de bom para confiar que Deus continua sendo bom.",
+      "referencia": "Salmo 119:68; Romanos 8:28",
+      "secao": "Sofrimento e perseverança"
+    },
+    {
+      "identificador": "caminhar_com_cristo_296",
+      "numero": 296,
+      "texto": "Quando não puder mudar sua circunstância, ainda poderá escolher sua fidelidade diante dela.",
+      "referencia": "Daniel 1:8",
+      "secao": "Sofrimento e perseverança"
+    },
+    {
+      "identificador": "caminhar_com_cristo_297",
+      "numero": 297,
+      "texto": "A adversidade pode revelar onde seu coração estava apoiado.",
+      "referencia": "Mateus 7:24–27",
+      "secao": "Sofrimento e perseverança"
+    },
+    {
+      "identificador": "caminhar_com_cristo_298",
+      "numero": 298,
+      "texto": "Não desperdice a dor tentando apenas escapar dela; pergunte também o que Deus está formando em você.",
+      "referencia": "Tiago 1:2–4",
+      "secao": "Sofrimento e perseverança"
+    },
+    {
+      "identificador": "caminhar_com_cristo_299",
+      "numero": 299,
+      "texto": "A provação pode testar sua fé sem precisar destruí-la.",
+      "referencia": "1 Pedro 1:6–7",
+      "secao": "Sofrimento e perseverança"
+    },
+    {
+      "identificador": "caminhar_com_cristo_300",
+      "numero": 300,
+      "texto": "Continue confiando: a fé provada pode tornar-se uma fé mais firme.",
+      "referencia": "1 Pedro 1:6–7",
+      "secao": "Sofrimento e perseverança"
+    },
+    {
+      "identificador": "caminhar_com_cristo_301",
+      "numero": 301,
+      "texto": "Você não precisa ser grande aos olhos dos homens para ser fiel aos olhos de Deus.",
+      "referencia": "Mateus 20:26–28",
+      "secao": "Serviço, amor e humildade"
+    },
+    {
+      "identificador": "caminhar_com_cristo_302",
+      "numero": 302,
+      "texto": "Servir a Cristo é colocar suas mãos à disposição daquele que governa sua vida.",
+      "referencia": "Romanos 12:1",
+      "secao": "Serviço, amor e humildade"
+    },
+    {
+      "identificador": "caminhar_com_cristo_303",
+      "numero": 303,
+      "texto": "Faça o bem sem precisar transformar sua fidelidade em espetáculo.",
+      "referencia": "Mateus 6:1–4",
+      "secao": "Serviço, amor e humildade"
+    },
+    {
+      "identificador": "caminhar_com_cristo_304",
+      "numero": 304,
+      "texto": "A grandeza no Reino começa quando o coração aprende a servir.",
+      "referencia": "Marcos 10:43–45",
+      "secao": "Serviço, amor e humildade"
+    },
+    {
+      "identificador": "caminhar_com_cristo_305",
+      "numero": 305,
+      "texto": "Você pode servir sem controlar o reconhecimento que receberá.",
+      "referencia": "Colossenses 3:23–24",
+      "secao": "Serviço, amor e humildade"
+    },
+    {
+      "identificador": "caminhar_com_cristo_306",
+      "numero": 306,
+      "texto": "O valor do serviço não depende do tamanho da tarefa, mas da fidelidade com que ela é realizada.",
+      "referencia": "Lucas 16:10",
+      "secao": "Serviço, amor e humildade"
+    },
+    {
+      "identificador": "caminhar_com_cristo_307",
+      "numero": 307,
+      "texto": "Não espere uma grande oportunidade para começar a ser fiel; seja fiel onde Deus já colocou você.",
+      "referencia": "Lucas 16:10",
+      "secao": "Serviço, amor e humildade"
+    },
+    {
+      "identificador": "caminhar_com_cristo_308",
+      "numero": 308,
+      "texto": "Deus pode usar uma pequena ação feita com amor para tocar uma vida.",
+      "referencia": "Mateus 25:40",
+      "secao": "Serviço, amor e humildade"
+    },
+    {
+      "identificador": "caminhar_com_cristo_309",
+      "numero": 309,
+      "texto": "Não procure apenas oportunidades extraordinárias; aprenda a amar nas pequenas coisas.",
+      "referencia": "1 Coríntios 16:14",
+      "secao": "Serviço, amor e humildade"
+    },
+    {
+      "identificador": "caminhar_com_cristo_310",
+      "numero": 310,
+      "texto": "Servir é deixar que o amor de Cristo alcance outras pessoas através de você.",
+      "referencia": "2 Coríntios 5:14–15",
+      "secao": "Serviço, amor e humildade"
+    },
+    {
+      "identificador": "caminhar_com_cristo_311",
+      "numero": 311,
+      "texto": "A humildade não diminui você; coloca você no lugar certo diante de Deus.",
+      "referencia": "Miqueias 6:8",
+      "secao": "Serviço, amor e humildade"
+    },
+    {
+      "identificador": "caminhar_com_cristo_312",
+      "numero": 312,
+      "texto": "Quem sabe que tudo recebeu de Deus encontra menos motivos para se vangloriar.",
+      "referencia": "1 Coríntios 4:7",
+      "secao": "Serviço, amor e humildade"
+    },
+    {
+      "identificador": "caminhar_com_cristo_313",
+      "numero": 313,
+      "texto": "Você pode reconhecer seus dons sem esquecer de quem os concedeu.",
+      "referencia": "1 Coríntios 12:4–7",
+      "secao": "Serviço, amor e humildade"
+    },
+    {
+      "identificador": "caminhar_com_cristo_314",
+      "numero": 314,
+      "texto": "Não compare sua missão com a de outra pessoa; seja fiel àquilo que Deus confiou a você.",
+      "referencia": "João 21:21–22",
+      "secao": "Serviço, amor e humildade"
+    },
+    {
+      "identificador": "caminhar_com_cristo_315",
+      "numero": 315,
+      "texto": "A comparação rouba energia que poderia ser usada na fidelidade.",
+      "referencia": "João 21:21–22",
+      "secao": "Serviço, amor e humildade"
+    },
+    {
+      "identificador": "caminhar_com_cristo_316",
+      "numero": 316,
+      "texto": "Seu chamado não precisa parecer com o de outra pessoa para ser importante diante de Deus.",
+      "referencia": "1 Coríntios 12:12–27",
+      "secao": "Serviço, amor e humildade"
+    },
+    {
+      "identificador": "caminhar_com_cristo_317",
+      "numero": 317,
+      "texto": "O corpo de Cristo precisa de diferentes membros; sua função não precisa ser igual à de ninguém.",
+      "referencia": "1 Coríntios 12:14–20",
+      "secao": "Serviço, amor e humildade"
+    },
+    {
+      "identificador": "caminhar_com_cristo_318",
+      "numero": 318,
+      "texto": "Use aquilo que recebeu para servir, não para provar que é superior.",
+      "referencia": "1 Pedro 4:10",
+      "secao": "Serviço, amor e humildade"
+    },
+    {
+      "identificador": "caminhar_com_cristo_319",
+      "numero": 319,
+      "texto": "A graça recebida se transforma em serviço quando o coração entende para que recebeu.",
+      "referencia": "1 Pedro 4:10",
+      "secao": "Serviço, amor e humildade"
+    },
+    {
+      "identificador": "caminhar_com_cristo_320",
+      "numero": 320,
+      "texto": "Não faça do serviço uma tentativa de merecer aquilo que Deus já oferece pela graça.",
+      "referencia": "Efésios 2:8–10",
+      "secao": "Serviço, amor e humildade"
+    },
+    {
+      "identificador": "caminhar_com_cristo_321",
+      "numero": 321,
+      "texto": "Você serve porque foi alcançado pela graça, não para comprar a graça.",
+      "referencia": "Efésios 2:8–10",
+      "secao": "Serviço, amor e humildade"
+    },
+    {
+      "identificador": "caminhar_com_cristo_322",
+      "numero": 322,
+      "texto": "A humildade permite que Cristo seja visto mesmo quando seu nome não aparece.",
+      "referencia": "João 3:30",
+      "secao": "Serviço, amor e humildade"
+    },
+    {
+      "identificador": "caminhar_com_cristo_323",
+      "numero": 323,
+      "texto": "João Batista encontrou liberdade quando entendeu que sua missão era apontar para Cristo.",
+      "referencia": "João 1:29; 3:30",
+      "secao": "Serviço, amor e humildade"
+    },
+    {
+      "identificador": "caminhar_com_cristo_324",
+      "numero": 324,
+      "texto": "Quanto menos você precisar ser o centro, mais espaço haverá para Cristo aparecer.",
+      "referencia": "João 3:30",
+      "secao": "Serviço, amor e humildade"
+    },
+    {
+      "identificador": "caminhar_com_cristo_325",
+      "numero": 325,
+      "texto": "Faça tudo para a glória de Deus, inclusive aquilo que ninguém considera importante.",
+      "referencia": "1 Coríntios 10:31",
+      "secao": "Serviço, amor e humildade"
+    },
+    {
+      "identificador": "caminhar_com_cristo_326",
+      "numero": 326,
+      "texto": "O serviço cristão começa quando deixamos de perguntar “o que ganho?” e começamos a perguntar “como posso servir?”.",
+      "referencia": "Filipenses 2:3–5",
+      "secao": "Serviço, amor e humildade"
+    },
+    {
+      "identificador": "caminhar_com_cristo_327",
+      "numero": 327,
+      "texto": "Amar como Cristo amou exige mais que palavras; exige disposição para servir.",
+      "referencia": "João 13:14–15",
+      "secao": "Serviço, amor e humildade"
+    },
+    {
+      "identificador": "caminhar_com_cristo_328",
+      "numero": 328,
+      "texto": "A cruz ensina que amor verdadeiro não vive apenas para si.",
+      "referencia": "Filipenses 2:5–8",
+      "secao": "Serviço, amor e humildade"
+    },
+    {
+      "identificador": "caminhar_com_cristo_329",
+      "numero": 329,
+      "texto": "Quando Cristo é o centro, o próximo deixa de ser concorrente e passa a ser alguém a quem amar.",
+      "referencia": "Filipenses 2:3–4",
+      "secao": "Serviço, amor e humildade"
+    },
+    {
+      "identificador": "caminhar_com_cristo_330",
+      "numero": 330,
+      "texto": "Sirva com humildade, ame com sinceridade e deixe Deus cuidar do reconhecimento.",
+      "referencia": "Romanos 12:9–10",
+      "secao": "Serviço, amor e humildade"
+    },
+    {
+      "identificador": "caminhar_com_cristo_331",
+      "numero": 331,
+      "texto": "Sua esperança não termina onde suas forças terminam.",
+      "referencia": "Isaías 40:29–31",
+      "secao": "Esperança final"
+    },
+    {
+      "identificador": "caminhar_com_cristo_332",
+      "numero": 332,
+      "texto": "O futuro do cristão não está preso ao que ele consegue controlar, mas à promessa de Deus.",
+      "referencia": "Romanos 8:18–25",
+      "secao": "Esperança final"
+    },
+    {
+      "identificador": "caminhar_com_cristo_333",
+      "numero": 333,
+      "texto": "A esperança cristã olha para frente porque sabe que Cristo está vindo.",
+      "referencia": "Tito 2:13",
+      "secao": "Esperança final"
+    },
+    {
+      "identificador": "caminhar_com_cristo_334",
+      "numero": 334,
+      "texto": "O mundo presente não terá a palavra final sobre aqueles que pertencem a Cristo.",
+      "referencia": "Apocalipse 21:1–5",
+      "secao": "Esperança final"
+    },
+    {
+      "identificador": "caminhar_com_cristo_335",
+      "numero": 335,
+      "texto": "Continue caminhando: a história ainda está sendo conduzida pelo Senhor.",
+      "referencia": "Romanos 8:28",
+      "secao": "Esperança final"
+    },
+    {
+      "identificador": "caminhar_com_cristo_336",
+      "numero": 336,
+      "texto": "Você pode enfrentar o presente sem perder a esperança no futuro que Deus prometeu.",
+      "referencia": "Romanos 8:18",
+      "secao": "Esperança final"
+    },
+    {
+      "identificador": "caminhar_com_cristo_337",
+      "numero": 337,
+      "texto": "O sofrimento de hoje não é grande o bastante para apagar a glória que Deus prepara.",
+      "referencia": "2 Coríntios 4:17",
+      "secao": "Esperança final"
+    },
+    {
+      "identificador": "caminhar_com_cristo_338",
+      "numero": 338,
+      "texto": "Quando o presente parecer sem sentido, lembre-se de que Deus ainda está conduzindo a história.",
+      "referencia": "Romanos 8:28",
+      "secao": "Esperança final"
+    },
+    {
+      "identificador": "caminhar_com_cristo_339",
+      "numero": 339,
+      "texto": "A promessa de Deus é maior que a circunstância que hoje ocupa seus olhos.",
+      "referencia": "2 Coríntios 4:18",
+      "secao": "Esperança final"
+    },
+    {
+      "identificador": "caminhar_com_cristo_340",
+      "numero": 340,
+      "texto": "Não construa sua esperança sobre aquilo que passa; coloque-a naquilo que permanece.",
+      "referencia": "2 Coríntios 4:18; Hebreus 13:8",
+      "secao": "Esperança final"
+    },
+    {
+      "identificador": "caminhar_com_cristo_341",
+      "numero": 341,
+      "texto": "O que hoje parece definitivo pode ser apenas uma página diante da eternidade.",
+      "referencia": "2 Coríntios 4:17–18",
+      "secao": "Esperança final"
+    },
+    {
+      "identificador": "caminhar_com_cristo_342",
+      "numero": 342,
+      "texto": "Cristo é suficiente para hoje e será suficiente para a eternidade.",
+      "referencia": "Hebreus 13:8; Apocalipse 21:23",
+      "secao": "Esperança final"
+    },
+    {
+      "identificador": "caminhar_com_cristo_343",
+      "numero": 343,
+      "texto": "Aquele que prometeu voltar é fiel para cumprir sua promessa.",
+      "referencia": "João 14:3; Hebreus 10:23",
+      "secao": "Esperança final"
+    },
+    {
+      "identificador": "caminhar_com_cristo_344",
+      "numero": 344,
+      "texto": "Você não caminha para um futuro vazio; caminha para a presença plena de Cristo.",
+      "referencia": "João 14:2–3",
+      "secao": "Esperança final"
+    },
+    {
+      "identificador": "caminhar_com_cristo_345",
+      "numero": 345,
+      "texto": "A esperança cristã não termina em uma vida melhor, mas na presença eterna de Deus.",
+      "referencia": "Apocalipse 21:3–4",
+      "secao": "Esperança final"
+    },
+    {
+      "identificador": "caminhar_com_cristo_346",
+      "numero": 346,
+      "texto": "Um dia, aquilo que hoje exige fé será contemplado diante dos nossos olhos.",
+      "referencia": "1 Coríntios 13:12; Apocalipse 21:1–4",
+      "secao": "Esperança final"
+    },
+    {
+      "identificador": "caminhar_com_cristo_347",
+      "numero": 347,
+      "texto": "Até lá, continue fiel no caminho que Cristo colocou diante de você.",
+      "referencia": "Apocalipse 2:10",
+      "secao": "Esperança final"
+    },
+    {
+      "identificador": "caminhar_com_cristo_348",
+      "numero": 348,
+      "texto": "Persevere: a corrida tem um fim, e Cristo é o alvo.",
+      "referencia": "Filipenses 3:14; Hebreus 12:1–2",
+      "secao": "Esperança final"
+    },
+    {
+      "identificador": "caminhar_com_cristo_349",
+      "numero": 349,
+      "texto": "Não abandone a corrida porque está cansado; olhe novamente para Cristo.",
+      "referencia": "Hebreus 12:2–3",
+      "secao": "Esperança final"
+    },
+    {
+      "identificador": "caminhar_com_cristo_350",
+      "numero": 350,
+      "texto": "Aquele que começou a boa obra em você ainda está trabalhando.",
+      "referencia": "Filipenses 1:6",
+      "secao": "Esperança final"
+    },
+    {
+      "identificador": "caminhar_com_cristo_351",
+      "numero": 351,
+      "texto": "Sua perseverança não depende apenas da sua capacidade de permanecer; Deus também é poderoso para sustentá-lo.",
+      "referencia": "Judas 24",
+      "secao": "Esperança final"
+    },
+    {
+      "identificador": "caminhar_com_cristo_352",
+      "numero": 352,
+      "texto": "Quando suas mãos enfraquecerem, lembre-se de que Deus continua segurando você.",
+      "referencia": "Isaías 41:13",
+      "secao": "Esperança final"
+    },
+    {
+      "identificador": "caminhar_com_cristo_353",
+      "numero": 353,
+      "texto": "Você pode continuar porque a graça que o trouxe até aqui ainda está presente hoje.",
+      "referencia": "2 Coríntios 12:9; Filipenses 1:6",
+      "secao": "Esperança final"
+    },
+    {
+      "identificador": "caminhar_com_cristo_354",
+      "numero": 354,
+      "texto": "O Deus que foi fiel ontem não deixou de ser fiel hoje.",
+      "referencia": "Lamentações 3:22–23",
+      "secao": "Esperança final"
+    },
+    {
+      "identificador": "caminhar_com_cristo_355",
+      "numero": 355,
+      "texto": "Sua esperança não depende da perfeição da sua caminhada, mas da perfeição do Salvador.",
+      "referencia": "Hebreus 7:25",
+      "secao": "Esperança final"
+    },
+    {
+      "identificador": "caminhar_com_cristo_356",
+      "numero": 356,
+      "texto": "Quando olhar para sua própria fraqueza, olhe também para a fidelidade de Cristo.",
+      "referencia": "2 Timóteo 2:13",
+      "secao": "Esperança final"
+    },
+    {
+      "identificador": "caminhar_com_cristo_357",
+      "numero": 357,
+      "texto": "Você pode falhar em sua força, mas Cristo não falha em sua fidelidade.",
+      "referencia": "2 Timóteo 2:13",
+      "secao": "Esperança final"
+    },
+    {
+      "identificador": "caminhar_com_cristo_358",
+      "numero": 358,
+      "texto": "A segurança do cristão não está em nunca cair, mas em pertencer Àquele que pode sustentá-lo.",
+      "referencia": "Judas 24",
+      "secao": "Esperança final"
+    },
+    {
+      "identificador": "caminhar_com_cristo_359",
+      "numero": 359,
+      "texto": "Continue confiando: a mão que o sustenta não está cansada.",
+      "referencia": "Isaías 40:28–31",
+      "secao": "Esperança final"
+    },
+    {
+      "identificador": "caminhar_com_cristo_360",
+      "numero": 360,
+      "texto": "Caminhe pela fé, permaneça em Cristo e deixe o futuro nas mãos do Senhor.",
+      "referencia": "2 Coríntios 5:7; João 15:4; Salmo 37:5",
+      "secao": "Esperança final"
+    },
+    {
+      "identificador": "caminhar_com_cristo_361",
+      "numero": 361,
+      "texto": "Você pode seguir em frente: Cristo é o caminho, a graça é suficiente e o Senhor continua sustentando você.",
+      "referencia": "João 14:6; 2 Coríntios 12:9; Judas 24",
+      "secao": "Esperança final"
+    },
+    {
+      "identificador": "caminhar_com_cristo_362",
+      "numero": 362,
+      "texto": "Quando não souber como continuar, permaneça em Cristo e dê o próximo passo possível.",
+      "referencia": "João 15:4–5; Salmo 119:105",
+      "secao": "Esperança final"
+    },
+    {
+      "identificador": "caminhar_com_cristo_363",
+      "numero": 363,
+      "texto": "O caminho ainda pode ter lutas, mas você não precisa atravessá-lo sem esperança: Cristo está com os seus.",
+      "referencia": "João 16:33; Mateus 28:20",
+      "secao": "Esperança final"
+    },
+    {
+      "identificador": "caminhar_com_cristo_364",
+      "numero": 364,
+      "texto": "Prossiga sem confiar em si mesmo, espere sem abandonar a fé e obedeça sem exigir conhecer o amanhã.",
+      "referencia": "Provérbios 3:5–6; Hebreus 11:8",
+      "secao": "Esperança final"
+    },
+    {
+      "identificador": "caminhar_com_cristo_365",
+      "numero": 365,
+      "texto": "Você pode continuar: não porque é forte o bastante para sustentar a caminhada, mas porque Cristo é fiel o bastante para sustentá-lo até o fim.",
+      "referencia": "Filipenses 1:6; Judas 24; Hebreus 10:23",
+      "secao": "Esperança final"
+    }
+  ]
+}

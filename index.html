@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#172d35">
+  <meta name="description" content="Renova-me Deus Meu — uma jornada diária de renovação em Deus.">
+  <meta name="application-name" content="Renova-me">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Renova-me">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <title>Renova-me — Palavra, fé e vida</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#" aria-label="Renova-me início">
+      <img class="brand-logo" src="Logo-Renova-me.jpg" alt="Logo Renova-me Deus Meu">
+      <span><strong>Renova-me</strong><small>Palavra, fé e vida</small></span>
+    </a>
+    <div class="topbar-actions">
+      <button class="install-button" id="installButton" type="button" hidden>＋ Instalar</button>
+      <button class="menu-button" id="menuButton" aria-label="Abrir menu" aria-expanded="false">☰</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="welcome">
+      <p class="eyebrow">UM ESPAÇO PARA CRESCER NA FÉ</p>
+      <h1>Alimente sua fé.<br><em>Caminhe com Cristo.</em></h1>
+      <p class="intro">Acesse as Escrituras, aprofunde seu conhecimento e encontre recursos para sua caminhada cristã.</p>
+    </section>
+
+    <section class="section-heading">
+      <div><p class="eyebrow">EXPLORE</p><h2>Escolha por onde começar</h2></div>
+    </section>
+
+    <section class="category-grid" id="categoryGrid" aria-label="Áreas do aplicativo">
+      <a class="category-card bible" href="#biblia" data-section="biblia">
+        <img src="Bíblia.png" alt="" onerror="this.style.display='none'">
+        <span class="card-shade"></span><span class="card-content"><strong>Bíblia</strong><small>Leia e consulte as Escrituras</small></span>
+      </a>
+      <a class="category-card sermons" href="#sermoes" data-section="sermoes">
+        <img src="Sermões.png" alt="" onerror="this.style.display='none'">
+        <span class="card-shade"></span><span class="card-content"><strong>Sermões</strong><small>Exposição bíblica e edificação</small></span>
+      </a>
+      <a class="category-card liturgies" href="#liturgias" data-section="liturgias">
+        <img src="Liturgias.png" alt="" onerror="this.style.display='none'">
+        <span class="card-shade"></span><span class="card-content"><strong>Liturgias</strong><small>Recursos para o culto cristão</small></span>
+      </a>
+      <a class="category-card devotions" href="#devocionais" data-section="devocionais">
+        <img src="Devocional.png" alt="" onerror="this.style.display='none'">
+        <span class="card-shade"></span><span class="card-content"><strong>Devocionais</strong><small>Reflexão e aplicação diária</small></span>
+      </a>
+      <a class="category-card promises" href="#promessas" data-section="promessas">
+        <img src="Caixinha das Promessas.png" alt="" onerror="this.style.display='none'">
+        <span class="card-shade"></span><span class="card-content"><strong>Caixinha das Promessas</strong><small>Uma palavra para cada dia</small></span>
+      </a>
+    </section>
+
+    <section class="view-panel" id="viewPanel" hidden>
+      <button class="back-button" id="backButton">← Voltar ao início</button>
+      <p class="eyebrow" id="viewEyebrow">BIBLIOTECA</p>
+      <h2 id="viewTitle"></h2>
+      <p id="viewDescription" class="intro"></p>
+      <div id="viewContent" class="view-content"></div>
+    </section>
+  </main>
+
+  <footer><img src="Logo-Renova-me.jpg" alt="Renova-me Deus Meu"><p>Renova-me — um projeto a serviço da Palavra de Deus.</p></footer>
+  <script src="js/catalogo-biblia.js"></script>
+  <script src="js/app.js"></script>
+  <script>
+    (() => {
+      const installButton = document.getElementById('installButton');
+      let installPrompt = null;
+      const standalone = window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone === true;
+      if (standalone) { installButton.hidden = true; return; }
+      window.addEventListener('beforeinstallprompt', (event) => {
+        event.preventDefault(); installPrompt = event; installButton.hidden = false;
+      });
+      installButton.addEventListener('click', async () => {
+        if (!installPrompt) {
+          alert('Para instalar: no Android, abra o menu do navegador e escolha “Instalar app” ou “Adicionar à tela inicial”. No iPhone, toque em Compartilhar e depois “Adicionar à Tela de Início”.');
+          return;
+        }
+        installPrompt.prompt();
+        await installPrompt.userChoice;
+        installPrompt = null; installButton.hidden = true;
+      });
+      window.addEventListener('appinstalled', () => { installButton.hidden = true; installPrompt = null; });
+      if ('serviceWorker' in navigator && (location.protocol === 'https:' || location.hostname === 'localhost' || location.hostname === '127.0.0.1')) {
+        window.addEventListener('load', () => navigator.serviceWorker.register('./service-worker.js').catch(err => console.warn('Não foi possível registrar o modo offline:', err)));
+      }
+    })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,42 @@
+RENOVA-ME DEUS MEU — ATUALIZAÇÃO PWA 06
+
+ESTE ZIP É UM PACOTE DE ATUALIZAÇÃO (SOBREPOSIÇÃO), NÃO É O PROJETO COMPLETO.
+Não apague nem substitua Dados_JSON, DadosBase, as imagens das categorias ou outros conteúdos já existentes.
+
+1) Copie os itens deste pacote para a pasta principal App Renova-me, mantendo a estrutura:
+   - index.html                  -> raiz do projeto (substituir)
+   - Logo-Renova-me.jpg          -> raiz do projeto (adicionar/substituir)
+   - manifest.webmanifest        -> raiz do projeto
+   - service-worker.js           -> raiz do projeto
+   - css/style.css               -> pasta css (substituir)
+   - js/app.js                   -> pasta js (substituir; já é o arquivo correto, não renomear)
+   - icons/                      -> pasta icons
+   - assets/capa-app.png         -> pasta assets
+
+2) Mantenha também os arquivos e pastas originais do projeto:
+   - Dados_JSON/
+   - DadosBase/ (pode manter)
+   - js/catalogo-biblia.js
+   - Bíblia.png, Sermões.png, Liturgias.png, Devocional.png,
+     Caixinha das Promessas.png, Ver a Jesus.png, Caminhar com Cristo.png,
+     Preciosa.png e Preciosa e Segura.png.
+
+PUBLICAÇÃO NO GITHUB PAGES
+1) Entre em https://github.com e crie um repositório novo, por exemplo: renova-me-deus-meu.
+2) Deixe o repositório como Public.
+3) Envie para a raiz do repositório TODO o conteúdo da pasta App Renova-me (não envie apenas este ZIP e não coloque tudo dentro de uma subpasta adicional).
+4) No GitHub, abra Settings > Pages.
+5) Em Build and deployment, escolha Deploy from a branch.
+6) Em Branch, selecione main e / (root); clique Save.
+7) Aguarde a publicação. O GitHub mostrará o endereço do site na própria página Settings > Pages.
+
+INSTALAÇÃO
+- Android: abra o endereço HTTPS do GitHub Pages no Chrome; use Instalar aplicativo ou menu ⋮ > Instalar app / Adicionar à tela inicial.
+- iPhone: abra o endereço no Safari > Compartilhar > Adicionar à Tela de Início.
+- Computador: use o botão Instalar quando o navegador o oferecer.
+
+OBSERVAÇÕES
+- O PWA precisa ser publicado em HTTPS para instalação e Service Worker. GitHub Pages oferece HTTPS.
+- O modo offline só fica disponível para recursos que já foram carregados/cacheados com sucesso. Faça uma primeira visita online aos módulos e conteúdos antes de testar offline.
+- Não publique dados pessoais, senhas, tokens ou arquivos privados no repositório público.
+- Depois de cada atualização do app, o Service Worker pode levar alguns instantes para substituir o cache antigo; atualize a página.

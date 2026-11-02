@@ -1,0 +1,453 @@
+{
+  "livro": "1 Pedro",
+  "identificador": "1-pedro",
+  "testamento": "Novo Testamento",
+  "traducao": "JFAC1948",
+  "capitulos": [
+    {
+      "numero": 1,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Pedro, apóstolo de Jesus Cristo, aos estrangeiros dispersos no Ponto, Galácia, Capadócia, Ásia e Bitínia,"
+        },
+        {
+          "numero": 2,
+          "texto": "eleitos segundo a presciência de Deus Pai, em santificação do Espírito, para a obediência e aspersão do sangue de Jesus Cristo: graça e paz vos sejam multiplicadas."
+        },
+        {
+          "numero": 3,
+          "texto": "Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, que, segundo a sua grande misericórdia, nos gerou de novo para uma viva esperança, pela ressurreição de Jesus Cristo dentre os mortos,"
+        },
+        {
+          "numero": 4,
+          "texto": "para uma herança incorruptível, incontaminável e que se não pode murchar, guardada nos céus para vós"
+        },
+        {
+          "numero": 5,
+          "texto": "que, mediante a fé, estais guardados na virtude de Deus, para a salvação já prestes para se revelar no último tempo,"
+        },
+        {
+          "numero": 6,
+          "texto": "em que vós grandemente vos alegrais, ainda que agora importa, sendo necessário, que estejais por um pouco contristados com várias tentações,"
+        },
+        {
+          "numero": 7,
+          "texto": "para que a prova da vossa fé, muito mais preciosa do que o ouro que perece e é provado pelo fogo, se ache em louvor, e honra, e glória na revelação de Jesus Cristo;"
+        },
+        {
+          "numero": 8,
+          "texto": "ao qual, não o havendo visto, amais; no qual, não o vendo agora, mas crendo, vos alegrais com gozo inefável e glorioso,"
+        },
+        {
+          "numero": 9,
+          "texto": "alcançando o fim da vossa fé, a salvação da alma."
+        },
+        {
+          "numero": 10,
+          "texto": "Da qual salvação inquiriram e trataram diligentemente os profetas que profetizaram da graça que vos foi dada,"
+        },
+        {
+          "numero": 11,
+          "texto": "indagando que tempo ou que ocasião de tempo o Espírito de Cristo, que estava neles, indicava, anteriormente testificando os sofrimentos que a Cristo haviam de vir e a glória que se lhes havia de seguir."
+        },
+        {
+          "numero": 12,
+          "texto": "Aos quais foi revelado que, não para si mesmos, mas para nós, eles ministravam estas coisas que, agora, vos foram anunciadas por aqueles que, pelo Espírito Santo enviado do céu, vos pregaram o evangelho, para as quais coisas os anjos desejam bem atentar."
+        },
+        {
+          "numero": 13,
+          "texto": "Portanto, cingindo os lombos do vosso entendimento, sede sóbrios e esperai inteiramente na graça que se vos ofereceu na revelação de Jesus Cristo,"
+        },
+        {
+          "numero": 14,
+          "texto": "como filhos obedientes, não vos conformando com as concupiscências que antes havia em vossa ignorância;"
+        },
+        {
+          "numero": 15,
+          "texto": "mas, como é santo aquele que vos chamou, sede vós também santos em toda a vossa maneira de viver,"
+        },
+        {
+          "numero": 16,
+          "texto": "porquanto escrito está: Sede santos, porque eu sou santo."
+        },
+        {
+          "numero": 17,
+          "texto": "E, se invocais por Pai aquele que, sem acepção de pessoas, julga segundo a obra de cada um, andai em temor, durante o tempo da vossa peregrinação,"
+        },
+        {
+          "numero": 18,
+          "texto": "sabendo que não foi com coisas corruptíveis, como prata ou ouro, que fostes resgatados da vossa vã maneira de viver que, por tradição, recebestes dos vossos pais,"
+        },
+        {
+          "numero": 19,
+          "texto": "mas com o precioso sangue de Cristo, como de um cordeiro imaculado e incontaminado,"
+        },
+        {
+          "numero": 20,
+          "texto": "o qual, na verdade, em outro tempo, foi conhecido, ainda antes da fundação do mundo, mas manifestado, nestes últimos tempos, por amor de vós;"
+        },
+        {
+          "numero": 21,
+          "texto": "e por ele credes em Deus, que o ressuscitou dos mortos e lhe deu glória, para que a vossa fé e esperança estivessem em Deus."
+        },
+        {
+          "numero": 22,
+          "texto": "Purificando a vossa alma na obediência à verdade, para caridade fraternal, não fingida, amai-vos ardentemente uns aos outros, com um coração puro;"
+        },
+        {
+          "numero": 23,
+          "texto": "sendo de novo gerados, não de semente corruptível, mas da incorruptível, pela palavra de Deus, viva e que permanece para sempre."
+        },
+        {
+          "numero": 24,
+          "texto": "Porque toda carne é como erva, e toda a glória do homem, como a flor da erva. Secou-se a erva, e caiu a sua flor;"
+        },
+        {
+          "numero": 25,
+          "texto": "mas a palavra do Senhor permanece para sempre. E esta é a palavra que entre vós foi evangelizada."
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Deixando, pois, toda malícia, e todo engano, e fingimentos, e invejas, e todas as murmurações,"
+        },
+        {
+          "numero": 2,
+          "texto": "desejai afetuosamente, como meninos novamente nascidos, o leite racional, não falsificado, para que, por ele, vades crescendo,"
+        },
+        {
+          "numero": 3,
+          "texto": "se é que já provastes que o Senhor é benigno."
+        },
+        {
+          "numero": 4,
+          "texto": "E, chegando-vos para ele, a pedra viva, reprovada, na verdade, pelos homens, mas para com Deus eleita e preciosa,"
+        },
+        {
+          "numero": 5,
+          "texto": "vós também, como pedras vivas, sois edificados casa espiritual e sacerdócio santo, para oferecerdes sacrifícios espirituais, agradáveis a Deus, por Jesus Cristo."
+        },
+        {
+          "numero": 6,
+          "texto": "Pelo que também na Escritura se contém: Eis que ponho em Sião a pedra principal da esquina, eleita e preciosa; e quem nela crer não será confundido."
+        },
+        {
+          "numero": 7,
+          "texto": "E assim para vós, os que credes, é preciosa, mas, para os rebeldes, a pedra que os edificadores reprovaram, essa foi a principal da esquina;"
+        },
+        {
+          "numero": 8,
+          "texto": "e uma pedra de tropeço e rocha de escândalo, para aqueles que tropeçam na palavra, sendo desobedientes; para o que também foram destinados."
+        },
+        {
+          "numero": 9,
+          "texto": "Mas vós sois a geração eleita, o sacerdócio real, a nação santa, o povo adquirido, para que anuncieis as virtudes daquele que vos chamou das trevas para a sua maravilhosa luz;"
+        },
+        {
+          "numero": 10,
+          "texto": "vós que, em outro tempo, não éreis povo, mas, agora, sois povo de Deus; que não tínheis alcançado misericórdia, mas, agora, alcançastes misericórdia."
+        },
+        {
+          "numero": 11,
+          "texto": "Amados, peço-vos, como a peregrinos e forasteiros, que vos abstenhais das concupiscências carnais, que combatem contra a alma,"
+        },
+        {
+          "numero": 12,
+          "texto": "tendo o vosso viver honesto entre os gentios, para que, naquilo em que falam mal de vós, como de malfeitores, glorifiquem a Deus no Dia da visitação, pelas boas obras que em vós observem."
+        },
+        {
+          "numero": 13,
+          "texto": "Sujeitai-vos, pois, a toda ordenação humana por amor do Senhor; quer ao rei, como superior;"
+        },
+        {
+          "numero": 14,
+          "texto": "quer aos governadores, como por ele enviados para castigo dos malfeitores e para louvor dos que fazem o bem."
+        },
+        {
+          "numero": 15,
+          "texto": "Porque assim é a vontade de Deus, que, fazendo o bem, tapeis a boca à ignorância dos homens loucos;"
+        },
+        {
+          "numero": 16,
+          "texto": "como livres e não tendo a liberdade por cobertura da malícia, mas como servos de Deus."
+        },
+        {
+          "numero": 17,
+          "texto": "Honrai a todos. Amai a fraternidade. Temei a Deus. Honrai o rei."
+        },
+        {
+          "numero": 18,
+          "texto": "Vós, servos, sujeitai-vos com todo o temor ao senhor, não somente ao bom e humano, mas também ao mau;"
+        },
+        {
+          "numero": 19,
+          "texto": "porque é coisa agradável que alguém, por causa da consciência para com Deus, sofra agravos, padecendo injustamente."
+        },
+        {
+          "numero": 20,
+          "texto": "Porque que glória será essa, se, pecando, sois esbofeteados e sofreis? Mas, se fazendo o bem, sois afligidos e o sofreis, isso é agradável a Deus."
+        },
+        {
+          "numero": 21,
+          "texto": "Porque para isto sois chamados, pois também Cristo padeceu por nós, deixando-nos o exemplo, para que sigais as suas pisadas,"
+        },
+        {
+          "numero": 22,
+          "texto": "o qual não cometeu pecado, nem na sua boca se achou engano,"
+        },
+        {
+          "numero": 23,
+          "texto": "o qual, quando o injuriavam, não injuriava e, quando padecia, não ameaçava, mas entregava-se àquele que julga justamente,"
+        },
+        {
+          "numero": 24,
+          "texto": "levando ele mesmo em seu corpo os nossos pecados sobre o madeiro, para que, mortos para os pecados, pudéssemos viver para a justiça; e pelas suas feridas fostes sarados."
+        },
+        {
+          "numero": 25,
+          "texto": "Porque éreis como ovelhas desgarradas; mas, agora, tendes voltado ao Pastor e Bispo da vossa alma."
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Semelhantemente, vós, mulheres, sede sujeitas ao vosso próprio marido, para que também, se algum não obedece à palavra, pelo procedimento de sua mulher seja ganho sem palavra,"
+        },
+        {
+          "numero": 2,
+          "texto": "considerando a vossa vida casta, em temor."
+        },
+        {
+          "numero": 3,
+          "texto": "O enfeite delas não seja o exterior, no frisado dos cabelos, no uso de jóias de ouro, na compostura de vestes,"
+        },
+        {
+          "numero": 4,
+          "texto": "mas o homem encoberto no coração, no incorruptível trajo de um espírito manso e quieto, que é precioso diante de Deus."
+        },
+        {
+          "numero": 5,
+          "texto": "Porque assim se adornavam também antigamente as santas mulheres que esperavam em Deus e estavam sujeitas ao seu próprio marido,"
+        },
+        {
+          "numero": 6,
+          "texto": "como Sara obedecia a Abraão, chamando-lhe senhor, da qual vós sois filhas, fazendo o bem e não temendo nenhum espanto."
+        },
+        {
+          "numero": 7,
+          "texto": "Igualmente vós, maridos, coabitai com ela com entendimento, dando honra à mulher, como vaso mais fraco; como sendo vós os seus co-herdeiros da graça da vida; para que não sejam impedidas as vossas orações."
+        },
+        {
+          "numero": 8,
+          "texto": "E, finalmente, sede todos de um mesmo sentimento, compassivos, amando os irmãos, entranhavelmente misericordiosos e afáveis,"
+        },
+        {
+          "numero": 9,
+          "texto": "não tornando mal por mal ou injúria por injúria; antes, pelo contrário, bendizendo, sabendo que para isto fostes chamados, para que, por herança, alcanceis a bênção."
+        },
+        {
+          "numero": 10,
+          "texto": "Porque quem quer amar a vida e ver os dias bons, refreie a sua língua do mal, e os seus lábios não falem engano;"
+        },
+        {
+          "numero": 11,
+          "texto": "aparte-se do mal e faça o bem; busque a paz e siga-a."
+        },
+        {
+          "numero": 12,
+          "texto": "Porque os olhos do Senhor estão sobre os justos, e os seus ouvidos, atentos às suas orações; mas o rosto do Senhor é contra os que fazem males."
+        },
+        {
+          "numero": 13,
+          "texto": "E qual é aquele que vos fará mal, se fordes zelosos do bem?"
+        },
+        {
+          "numero": 14,
+          "texto": "Mas também, se padecerdes por amor da justiça, sois bem-aventurados. E não temais com medo deles, nem vos turbeis;"
+        },
+        {
+          "numero": 15,
+          "texto": "antes, santificai a Cristo, como Senhor, em vosso coração; e estai sempre preparados para responder com mansidão e temor a qualquer que vos pedir a razão da esperança que há em vós,"
+        },
+        {
+          "numero": 16,
+          "texto": "tendo uma boa consciência, para que, naquilo em que falam mal de vós, como de malfeitores, fiquem confundidos os que blasfemam do vosso bom procedimento em Cristo,"
+        },
+        {
+          "numero": 17,
+          "texto": "porque melhor é que padeçais fazendo o bem (se a vontade de Deus assim o quer) do que fazendo o mal."
+        },
+        {
+          "numero": 18,
+          "texto": "Porque também Cristo padeceu uma vez pelos pecados, o justo pelos injustos, para levar-nos a Deus; mortificado, na verdade, na carne, mas vivificado pelo Espírito,"
+        },
+        {
+          "numero": 19,
+          "texto": "no qual também foi e pregou aos espíritos em prisão,"
+        },
+        {
+          "numero": 20,
+          "texto": "os quais em outro tempo foram rebeldes, quando a longanimidade de Deus esperava nos dias de Noé, enquanto se preparava a arca; na qual poucas (isto é, oito) almas se salvaram pela água,"
+        },
+        {
+          "numero": 21,
+          "texto": "que também, como uma verdadeira figura, agora vos salva, batismo, não do despojamento da imundícia da carne, mas da indagação de uma boa consciência para com Deus, pela ressurreição de Jesus Cristo;"
+        },
+        {
+          "numero": 22,
+          "texto": "o qual está à destra de Deus, tendo subido ao céu, havendo-se-lhe sujeitado os anjos, e as autoridades, e as potências."
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Ora, pois, já que Cristo padeceu por nós na carne, armai-vos também vós com este pensamento: que aquele que padeceu na carne já cessou do pecado,"
+        },
+        {
+          "numero": 2,
+          "texto": "para que, no tempo que vos resta na carne, não vivais mais segundo as concupiscências dos homens, mas segundo a vontade de Deus."
+        },
+        {
+          "numero": 3,
+          "texto": "Porque é bastante que, no tempo passado da vida, fizéssemos a vontade dos gentios, andando em dissoluções, concupiscências, borracheiras, glutonarias, bebedices e abomináveis idolatrias;"
+        },
+        {
+          "numero": 4,
+          "texto": "e acham estranho não correrdes com eles no mesmo desenfreamento de dissolução, blasfemando de vós,"
+        },
+        {
+          "numero": 5,
+          "texto": "os quais hão de dar conta ao que está preparado para julgar os vivos e os mortos;"
+        },
+        {
+          "numero": 6,
+          "texto": "porque, por isto, foi pregado o evangelho também aos mortos, para que, na verdade, fossem julgados segundo os homens, na carne, mas vivessem segundo Deus, em espírito."
+        },
+        {
+          "numero": 7,
+          "texto": "E já está próximo o fim de todas as coisas; portanto, sede sóbrios e vigiai em oração."
+        },
+        {
+          "numero": 8,
+          "texto": "Mas, sobretudo, tende ardente caridade uns para com os outros, porque a caridade cobrirá a multidão de pecados,"
+        },
+        {
+          "numero": 9,
+          "texto": "sendo hospitaleiros uns para os outros, sem murmurações."
+        },
+        {
+          "numero": 10,
+          "texto": "Cada um administre aos outros o dom como o recebeu, como bons despenseiros da multiforme graça de Deus."
+        },
+        {
+          "numero": 11,
+          "texto": "Se alguém falar, fale segundo as palavras de Deus; se alguém administrar, administre segundo o poder que Deus dá, para que em tudo Deus seja glorificado por Jesus Cristo, a quem pertence a glória e o poder para todo o sempre. Amém!"
+        },
+        {
+          "numero": 12,
+          "texto": "Amados, não estranheis a ardente prova que vem sobre vós, para vos tentar, como se coisa estranha vos acontecesse;"
+        },
+        {
+          "numero": 13,
+          "texto": "mas alegrai-vos no fato de serdes participantes das aflições de Cristo, para que também na revelação da sua glória vos regozijeis e alegreis."
+        },
+        {
+          "numero": 14,
+          "texto": "Se, pelo nome de Cristo, sois vituperados, bem-aventurados sois, porque sobre vós repousa o Espírito da glória de Deus."
+        },
+        {
+          "numero": 15,
+          "texto": "Que nenhum de vós padeça como homicida, ou ladrão, ou malfeitor, ou como o que se entremete em negócios alheios;"
+        },
+        {
+          "numero": 16,
+          "texto": "mas, se padece como cristão, não se envergonhe; antes, glorifique a Deus nesta parte."
+        },
+        {
+          "numero": 17,
+          "texto": "Porque já é tempo que comece o julgamento pela casa de Deus; e, se primeiro começa por nós, qual será o fim daqueles que são desobedientes ao evangelho de Deus?"
+        },
+        {
+          "numero": 18,
+          "texto": "E, se o justo apenas se salva, onde aparecerá o ímpio e o pecador?"
+        },
+        {
+          "numero": 19,
+          "texto": "Portanto, também os que padecem segundo a vontade de Deus encomendem- lhe a sua alma, como ao fiel Criador, fazendo o bem."
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Aos presbíteros que estão entre vós, admoesto eu, que sou também presbítero com eles, e testemunha das aflições de Cristo, e participante da glória que se há de revelar:"
+        },
+        {
+          "numero": 2,
+          "texto": "apascentai o rebanho de Deus que está entre vós, tendo cuidado dele, não por força, mas voluntariamente; nem por torpe ganância, mas de ânimo pronto;"
+        },
+        {
+          "numero": 3,
+          "texto": "nem como tendo domínio sobre a herança de Deus, mas servindo de exemplo ao rebanho."
+        },
+        {
+          "numero": 4,
+          "texto": "E, quando aparecer o Sumo Pastor, alcançareis a incorruptível coroa de glória."
+        },
+        {
+          "numero": 5,
+          "texto": "Semelhantemente vós, jovens, sede sujeitos aos anciãos; e sede todos sujeitos uns aos outros e revesti-vos de humildade, porque Deus resiste aos soberbos, mas dá graça aos humildes."
+        },
+        {
+          "numero": 6,
+          "texto": "Humilhai-vos, pois, debaixo da potente mão de Deus, para que, a seu tempo, vos exalte,"
+        },
+        {
+          "numero": 7,
+          "texto": "lançando sobre ele toda a vossa ansiedade, porque ele tem cuidado de vós."
+        },
+        {
+          "numero": 8,
+          "texto": "Sede sóbrios, vigiai, porque o diabo, vosso adversário, anda em derredor, bramando como leão, buscando a quem possa tragar;"
+        },
+        {
+          "numero": 9,
+          "texto": "ao qual resisti firmes na fé, sabendo que as mesmas aflições se cumprem entre os vossos irmãos no mundo."
+        },
+        {
+          "numero": 10,
+          "texto": "E o Deus de toda a graça, que em Cristo Jesus vos chamou à sua eterna glória, depois de haverdes padecido um pouco, ele mesmo vos aperfeiçoará, confirmará, fortificará e fortalecerá."
+        },
+        {
+          "numero": 11,
+          "texto": "A ele seja a glória e o poderio, para todo o sempre. Amém!"
+        },
+        {
+          "numero": 12,
+          "texto": "Por Silvano, vosso fiel irmão, como cuido, escrevi abreviadamente, exortando e testificando que esta é a verdadeira graça de Deus, na qual estais firmes."
+        },
+        {
+          "numero": 13,
+          "texto": "A vossa co-eleita em Babilônia vos saúda, e meu filho Marcos."
+        },
+        {
+          "numero": 14,
+          "texto": "Saudai-vos uns aos outros com ósculo de caridade. Paz seja com todos vós que estais em Cristo Jesus. Amém!"
+        }
+      ]
+    }
+  ]
+}

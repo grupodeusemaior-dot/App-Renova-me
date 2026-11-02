@@ -1,0 +1,137 @@
+:root {
+  --navy: #172d35; --navy-2: #24414a; --cream: #f3ecdf;
+  --paper: #fffaf0; --gold: #c5a46b; --ink: #30291f;
+  --muted: #756b5d; --shadow: 0 12px 30px rgba(28, 24, 18, .12);
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { margin: 0; background: var(--cream); color: var(--ink); font-family: Georgia, 'Times New Roman', serif; }
+.topbar { min-height: 76px; padding: 12px clamp(18px, 5vw, 64px); display:flex; align-items:center; justify-content:space-between; background:var(--navy); color:#fff8e9; }
+.brand { display:flex; align-items:center; gap:12px; color:inherit; text-decoration:none; }
+.brand-mark { width:42px; height:42px; display:grid; place-items:center; border:1px solid var(--gold); border-radius:50%; color:var(--gold); font-size:25px; }
+.brand strong { display:block; font-size:20px; letter-spacing:.02em; }
+.brand small { display:block; color:#d6c9b1; font:11px Arial,sans-serif; letter-spacing:.12em; text-transform:uppercase; margin-top:3px; }
+.menu-button { color:#fff8e9; border:0; background:none; font-size:27px; cursor:pointer; }
+main { max-width:1180px; margin:auto; padding:38px clamp(18px, 4vw, 48px) 64px; }
+.welcome { padding:30px 0 36px; max-width:760px; }
+.eyebrow { color:#9b7846; font: bold 11px Arial,sans-serif; letter-spacing:.18em; margin:0 0 12px; }
+h1 { color:var(--navy); font-size:clamp(38px, 6vw, 66px); line-height:1.04; font-weight:500; margin:0; }
+h1 em { color:#9b7846; font-weight:400; }
+.intro { color:var(--muted); font:16px/1.7 Arial,sans-serif; max-width:660px; }
+.section-heading { display:flex; align-items:end; justify-content:space-between; margin:10px 0 18px; }
+h2 { color:var(--navy); font-size:clamp(24px, 3vw, 32px); font-weight:500; margin:0; }
+.category-grid { display:grid; grid-template-columns:repeat(6, 1fr); gap:16px; }
+.category-card { position:relative; min-height:210px; grid-column:span 2; overflow:hidden; border-radius:16px; background:linear-gradient(135deg,#28434b,#172d35); color:white; text-decoration:none; box-shadow:var(--shadow); isolation:isolate; }
+.category-card:nth-child(4), .category-card:nth-child(5) { grid-column:span 3; min-height:235px; }
+.category-card img { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; z-index:-2; transition:transform .35s ease; }
+.category-card:hover img { transform:scale(1.04); }
+.card-shade { position:absolute; inset:0; z-index:-1; background:linear-gradient(0deg,rgba(9,20,24,.88),rgba(9,20,24,.02) 80%); }
+.card-content { position:absolute; left:20px; right:18px; bottom:18px; }
+.card-content strong { display:block; font-size:clamp(20px,2.3vw,28px); font-weight:500; }
+.card-content small { display:block; margin-top:5px; color:#f1e7d5; font:12px Arial,sans-serif; }
+.view-panel { margin-top:28px; padding:26px; background:var(--paper); border-radius:18px; box-shadow:var(--shadow); }
+.back-button { border:0; background:none; color:#86683f; font: bold 13px Arial,sans-serif; cursor:pointer; padding:0 0 24px; }
+.view-content { display:grid; gap:10px; margin-top:22px; }
+.data-link { display:flex; align-items:center; justify-content:space-between; gap:14px; padding:15px 17px; border:1px solid #e6dccb; border-radius:12px; background:#fff; color:var(--ink); text-decoration:none; font:15px Arial,sans-serif; }
+.data-link:hover { border-color:var(--gold); }
+.empty-note { padding:18px; border-radius:12px; background:#f2eadb; color:#685d4d; font:14px/1.6 Arial,sans-serif; }
+footer { padding:24px; text-align:center; background:var(--navy); color:#d8cdb9; font:12px Arial,sans-serif; }
+[hidden] { display:none !important; }
+@media (max-width:700px) {
+  main { padding-top:20px; }
+  .welcome { padding:24px 0 28px; }
+  .category-grid { grid-template-columns:1fr 1fr; gap:11px; }
+  .category-card, .category-card:nth-child(4), .category-card:nth-child(5) { grid-column:span 1; min-height:185px; }
+  .category-card:last-child { grid-column:span 2; min-height:170px; }
+  .card-content { left:14px; bottom:14px; }
+  .card-content strong { font-size:20px; }
+  .card-content small { font-size:11px; }
+}
+/* Identidade oficial Renova-me */
+.topbar { position:relative; }
+.brand-logo { width:58px; height:58px; object-fit:cover; border-radius:50%; border:1px solid rgba(255,248,233,.55); }
+.brand-mark { display:none; }
+.view-panel { overflow:hidden; }
+.view-content { display:block; }
+.view-content > * + * { margin-top:16px; }
+.collection-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:18px; }
+.collection-card { min-height:260px; border:0; border-radius:16px; background-size:cover; background-position:center; color:#fff; text-align:left; padding:22px; display:flex; flex-direction:column; justify-content:end; cursor:pointer; box-shadow:var(--shadow); }
+.collection-card span,.collection-hero span { font:500 clamp(22px,3vw,32px) Georgia,serif; }
+.collection-card small { max-width:360px; margin-top:8px; color:#fff7e9; font:13px/1.5 Arial,sans-serif; }
+.collection-hero { min-height:230px; border-radius:16px; background-size:cover; background-position:center; display:flex; align-items:end; padding:24px; color:#fff; }
+.reading-card { max-width:900px; margin:20px auto; padding:clamp(22px,4vw,42px); background:#fffdf7; border:1px solid #e9dfcf; border-radius:18px; box-shadow:var(--shadow); }
+.reading-kicker { color:#9b7846; font:bold 11px Arial,sans-serif; letter-spacing:.16em; text-transform:uppercase; }
+.reading-card h3 { color:var(--navy); font:500 clamp(25px,4vw,36px) Georgia,serif; margin:8px 0 12px; }
+.reading-reference { color:#9b7846; font:14px/1.6 Arial,sans-serif; }
+.reading-body { color:#40382e; font:16px/1.85 Georgia,serif; white-space:normal; }
+.reading-body p { margin:0 0 1.1em; }
+.reading-nav { max-width:900px; margin:18px auto 0; display:flex; align-items:center; justify-content:space-between; gap:12px; color:var(--muted); font:13px Arial,sans-serif; }
+.nav-button { border:1px solid #dfd2bd; background:#fffaf0; color:var(--navy); border-radius:10px; padding:12px 16px; cursor:pointer; font:14px Arial,sans-serif; }
+.nav-button.primary { background:var(--navy); color:#fff8e9; border-color:var(--navy); }
+.nav-button:disabled { opacity:.4; cursor:not-allowed; }
+.action-link { width:100%; cursor:pointer; text-align:left; }
+.testament-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:18px; }
+.testament-card { min-height:230px; border:0; border-radius:16px; padding:24px; color:#fff; text-align:left; cursor:pointer; display:flex; flex-direction:column; justify-content:end; box-shadow:var(--shadow); }
+.testament-card strong { font:500 clamp(23px,3vw,32px) Georgia,serif; }
+.testament-card small { margin-top:9px; font:13px/1.5 Arial,sans-serif; color:#fff4df; }
+.testament-card.old { background:linear-gradient(145deg,rgba(21,48,56,.55),rgba(13,31,39,.96)),url('../Bíblia.png') center/cover; }
+.testament-card.new { background:linear-gradient(145deg,rgba(105,65,36,.35),rgba(47,35,29,.94)),url('../Bíblia.png') center/cover; }
+.book-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(150px,1fr)); gap:10px; }
+.subheading { color:var(--navy); font:500 25px Georgia,serif; margin:8px 0 14px; }
+.chapter-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(52px,1fr)); gap:9px; }
+.chapter-button { min-height:48px; border:1px solid #e5d8c5; border-radius:10px; background:#fff; color:var(--navy); cursor:pointer; font:16px Georgia,serif; }
+.chapter-button:hover,.data-link:hover { border-color:var(--gold); background:#fffaf0; }
+.bible-text { max-width:850px; margin:12px auto; padding:28px; background:#fffdf7; border-radius:16px; color:#30291f; font:17px/1.9 Georgia,serif; }
+.bible-text p { margin:0 0 1em; }
+.bible-text sup { color:#9b7846; font:bold 11px Arial,sans-serif; margin-right:6px; }
+.back-inline { margin-top:16px; }
+footer img { display:block; width:68px; height:68px; object-fit:cover; border-radius:50%; margin:0 auto 12px; border:1px solid rgba(255,255,255,.45); }
+footer { padding:22px 18px; }
+@media(max-width:700px){.collection-grid,.testament-grid{grid-template-columns:1fr}.collection-card{min-height:210px}.reading-nav{flex-wrap:wrap}.brand-logo{width:48px;height:48px}}
+
+/* Ajustes da integração dos acervos */
+.collection-card { position:relative; overflow:hidden; background-color:#34454a; background-repeat:no-repeat; transition:transform .2s ease, box-shadow .2s ease; }
+.collection-card:hover { transform:translateY(-3px); box-shadow:0 18px 38px rgba(23,45,53,.18); }
+.collection-card span { text-shadow:0 2px 14px rgba(0,0,0,.35); }
+.collection-hero { background-repeat:no-repeat; background-color:#34454a; margin-bottom:18px; }
+.reading-card { line-height:1.75; }
+.reading-card .reading-kicker { color:#9a6a32; font-size:11px; font-weight:700; letter-spacing:.16em; text-transform:uppercase; }
+.reading-card .reading-reference { color:#8a632f; font-family:Georgia,serif; font-size:16px; }
+.reading-card .reading-section { color:#8a632f; font-weight:700; }
+.reading-body p { margin:0 0 1.1em; }
+.reading-nav { align-items:center; }
+.reading-count { color:#7b7164; font-size:13px; }
+.testament-card { background-size:cover; background-position:center; background-repeat:no-repeat; }
+.testament-card.old { border-bottom:4px solid #b18a4d; }
+.testament-card.new { border-bottom:4px solid #8d6b58; }
+.book-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(150px,1fr)); gap:10px; }
+.book-link { text-align:left; }
+.bible-intro { color:#766d61; margin:0 0 14px; }
+.empty-note.error { border-left:4px solid #a84d42; }
+.empty-note.warning { border-left:4px solid #b18a4d; }
+@media(max-width:700px) { .collection-card { min-height:220px; } .reading-card { padding:22px 18px; } }
+
+
+/* Identidade visual das páginas internas: a logo original é preservada sem alterações. */
+.page-identity { display:flex; align-items:center; gap:16px; margin:0 0 22px; padding:16px 20px; border:1px solid rgba(197,164,107,.38); border-radius:16px; background:linear-gradient(115deg,#172d35,#24414a); color:#fff8e9; box-shadow:0 8px 22px rgba(23,45,53,.12); }
+.page-identity img { width:74px; height:74px; object-fit:contain; border-radius:12px; background:#080808; border:1px solid rgba(255,248,233,.45); }
+.page-identity strong { display:block; color:#fff8e9; font:500 clamp(19px,2.5vw,26px) Georgia,serif; letter-spacing:.01em; }
+.page-identity span { display:block; margin-top:5px; color:#d9c69f; font:12px Arial,sans-serif; letter-spacing:.13em; text-transform:uppercase; }
+.daily-stamp { margin:0 0 12px; color:#98733e; font:700 10px Arial,sans-serif; letter-spacing:.14em; text-transform:uppercase; }
+.content-summary { max-width:900px; margin:0 auto 18px; padding:14px 16px; border:1px solid #e4d7c3; border-radius:14px; background:#f8f1e5; }
+.content-summary summary { color:var(--navy); cursor:pointer; font:600 15px Georgia,serif; }
+.summary-search { width:100%; margin:14px 0 10px; padding:12px 14px; border:1px solid #dfd2bd; border-radius:10px; background:#fffdf8; color:var(--ink); font:14px Arial,sans-serif; }
+.summary-results { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:7px; max-height:340px; overflow:auto; }
+.summary-count { grid-column:1/-1; margin:0 0 5px; color:var(--muted); font:12px Arial,sans-serif; }
+.summary-item { padding:10px 12px; border:1px solid #e6dccb; border-radius:9px; background:#fffdf8; color:var(--ink); text-align:left; cursor:pointer; font:13px/1.4 Arial,sans-serif; }
+.summary-item:hover { border-color:var(--gold); background:#fff8e9; }
+@media(max-width:700px) { .page-identity { padding:12px 14px; } .page-identity img { width:60px; height:60px; } .summary-results { grid-template-columns:1fr; } }
+/* Preserva a proporção integral da marca nos cabeçalhos e rodapés. */
+.brand-logo { object-fit:contain; border-radius:8px; background:#080808; padding:2px; }
+footer img { object-fit:contain; border-radius:8px; background:#080808; padding:3px; }
+
+/* Instalação PWA */
+.topbar-actions { display:flex; align-items:center; gap:10px; }
+.install-button { border:1px solid rgba(197,164,107,.65); border-radius:999px; padding:10px 15px; background:#fff8e9; color:#172d35; font:600 13px Arial,sans-serif; cursor:pointer; }
+.install-button[hidden] { display:none; }
+@media(max-width:520px) { .install-button { padding:9px 11px; font-size:12px; } }

@@ -1,0 +1,516 @@
+{
+  "livro": "Cânticos",
+  "identificador": "canticos",
+  "testamento": "Antigo Testamento",
+  "traducao": "JFAC1948",
+  "capitulos": [
+    {
+      "numero": 1,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Cântico de cânticos, que é de Salomão."
+        },
+        {
+          "numero": 2,
+          "texto": "Beije-me ele com os beijos da sua boca; porque melhor é o seu amor do que o vinho."
+        },
+        {
+          "numero": 3,
+          "texto": "Para cheirar são bons os teus ungüentos; como ungüento derramado é o teu nome; por isso, as virgens te amam."
+        },
+        {
+          "numero": 4,
+          "texto": "Leva-me tu, correremos após ti. O rei me introduziu nas suas recâmaras. Em ti nos regozijaremos e nos alegraremos; do teu amor nos lembraremos, mais do que do vinho; os retos te amam."
+        },
+        {
+          "numero": 5,
+          "texto": "Eu sou morena e agradável, ó filhas de Jerusalém, como as tendas de Quedar, como as cortinas de Salomão."
+        },
+        {
+          "numero": 6,
+          "texto": "Não olheis para o eu ser morena, porque o sol resplandeceu sobre mim. Os filhos de minha mãe se indignaram contra mim e me puseram por guarda de vinhas; a vinha que me pertence não guardei."
+        },
+        {
+          "numero": 7,
+          "texto": "Dize-me, ó tu, a quem ama a minha alma: onde apascentas o teu rebanho, onde o recolhes pelo meio-dia, pois por que razão seria eu como a que erra ao pé dos rebanhos de teus companheiros?"
+        },
+        {
+          "numero": 8,
+          "texto": "Se tu o não sabes, ó mais formosa entre as mulheres, sai-te pelas pisadas das ovelhas e apascenta as tuas cabras junto às moradas dos pastores."
+        },
+        {
+          "numero": 9,
+          "texto": "Às éguas dos carros de Faraó te comparo, ó amiga minha."
+        },
+        {
+          "numero": 10,
+          "texto": "Agradáveis são as tuas faces entre os teus enfeites, o teu pescoço com os colares."
+        },
+        {
+          "numero": 11,
+          "texto": "Enfeites de ouro te faremos, com pregos de prata."
+        },
+        {
+          "numero": 12,
+          "texto": "Enquanto o rei está assentado à sua mesa, dá o meu nardo o seu cheiro."
+        },
+        {
+          "numero": 13,
+          "texto": "O meu amado é para mim um ramalhete de mirra; morará entre os meus seios."
+        },
+        {
+          "numero": 14,
+          "texto": "Como um cacho de Chipre nas vinhas de En-Gedi, é para mim o meu amado."
+        },
+        {
+          "numero": 15,
+          "texto": "Eis que és formosa, ó amiga minha, eis que és formosa; os teus olhos são como os das pombas."
+        },
+        {
+          "numero": 16,
+          "texto": "Eis que és gentil e agradável, ó amado meu; o nosso leito é viçoso."
+        },
+        {
+          "numero": 17,
+          "texto": "As traves da nossa casa são de cedro, as nossas varandas, de cipreste."
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Eu sou a rosa de Sarom, o lírio dos vales."
+        },
+        {
+          "numero": 2,
+          "texto": "Qual o lírio entre os espinhos, tal é a minha amiga entre as filhas."
+        },
+        {
+          "numero": 3,
+          "texto": "Qual a macieira entre as árvores do bosque, tal é o meu amado entre os filhos; desejo muito a sua sombra e debaixo dela me assento; e o seu fruto é doce ao meu paladar."
+        },
+        {
+          "numero": 4,
+          "texto": "Levou-me à sala do banquete, e o seu estandarte em mim era o amor."
+        },
+        {
+          "numero": 5,
+          "texto": "Sustentai-me com passas, confortai-me com maçãs, porque desfaleço de amor."
+        },
+        {
+          "numero": 6,
+          "texto": "A sua mão esquerda esteja debaixo da minha cabeça, e a sua mão direita me abrace."
+        },
+        {
+          "numero": 7,
+          "texto": "Conjuro-vos, ó filhas de Jerusalém, pelas gazelas e cervas do campo, que não acordeis nem desperteis o meu amor, até que queira."
+        },
+        {
+          "numero": 8,
+          "texto": "Esta é a voz do meu amado; ei-lo aí, que já vem saltando sobre os montes, pulando sobre os outeiros."
+        },
+        {
+          "numero": 9,
+          "texto": "O meu amado é semelhante ao gamo ou ao filho do corço; eis que está detrás da nossa parede, olhando pelas janelas, reluzindo pelas grades."
+        },
+        {
+          "numero": 10,
+          "texto": "O meu amado fala e me diz: Levanta-te, amiga minha, formosa minha, e vem."
+        },
+        {
+          "numero": 11,
+          "texto": "Porque eis que passou o inverno: a chuva cessou e se foi."
+        },
+        {
+          "numero": 12,
+          "texto": "Aparecem as flores na terra, o tempo de cantar chega, e a voz da rola ouve-se em nossa terra."
+        },
+        {
+          "numero": 13,
+          "texto": "A figueira já deu os seus figuinhos, e as vides em flor exalam o seu aroma. Levanta-te, amiga minha, formosa minha, e vem."
+        },
+        {
+          "numero": 14,
+          "texto": "Pomba minha, que andas pelas fendas das penhas, no oculto das ladeiras, mostra-me a tua face, faze-me ouvir a tua voz, porque a tua voz é doce, e a tua face, aprazível."
+        },
+        {
+          "numero": 15,
+          "texto": "Apanhai-me as raposas, as raposinhas, que fazem mal às vinhas, porque as nossas vinhas estão em flor."
+        },
+        {
+          "numero": 16,
+          "texto": "O meu amado é meu, e eu sou dele; ele apascenta o seu rebanho entre os lírios."
+        },
+        {
+          "numero": 17,
+          "texto": "Antes que refresque o dia e caiam as sombras, volta, amado meu; faze-te semelhante ao gamo ou ao filho dos corços sobre os montes de Beter."
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "De noite busquei em minha cama aquele a quem ama a minha alma; busquei-o e não o achei."
+        },
+        {
+          "numero": 2,
+          "texto": "Levantar-me-ei, pois, e rodearei a cidade; pelas ruas e pelas praças buscarei aquele a quem ama a minha alma; busquei-o e não o achei."
+        },
+        {
+          "numero": 3,
+          "texto": "Acharam-me os guardas, que rondavam pela cidade; eu perguntei- lhes: Vistes aquele a quem ama a minha alma?"
+        },
+        {
+          "numero": 4,
+          "texto": "Apartando-me eu um pouco deles, logo achei aquele a quem ama a minha alma; detive-o, até que o introduzi em casa de minha mãe, na câmara daquela que me gerou."
+        },
+        {
+          "numero": 5,
+          "texto": "Conjuro-vos, ó filhas de Jerusalém, pelas gazelas e cervas do campo, que não acordeis nem desperteis o meu amor, até que queira."
+        },
+        {
+          "numero": 6,
+          "texto": "Quem é esta que sobe do deserto, como colunas de fumaça, perfumada de mirra, de incenso e de toda a sorte de pós aromáticos?"
+        },
+        {
+          "numero": 7,
+          "texto": "Eis que é a liteira de Salomão; sessenta valentes estão ao redor dela, dos valentes de Israel."
+        },
+        {
+          "numero": 8,
+          "texto": "Todos armados de espadas, destros na guerra; cada um com a sua espada à cinta, por causa dos temores noturnos."
+        },
+        {
+          "numero": 9,
+          "texto": "O rei Salomão fez para si um palanquim de madeira do Líbano."
+        },
+        {
+          "numero": 10,
+          "texto": "Fez-lhe as colunas de prata, o estrado de ouro, o assento de púrpura, o interior revestido com amor pelas filhas de Jerusalém."
+        },
+        {
+          "numero": 11,
+          "texto": "Saí, ó filhas de Sião, e contemplai o rei Salomão com a coroa com que o coroou sua mãe no dia do seu desposório e no dia do júbilo do seu coração."
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Eis que és formosa, amiga minha, eis que és formosa; os teus olhos são como os das pombas entre as tuas tranças, o teu cabelo é como o rebanho de cabras que pastam no monte de Gileade."
+        },
+        {
+          "numero": 2,
+          "texto": "Os teus dentes são como o rebanho das ovelhas tosquiadas, que sobem do lavadouro, e das quais todas produzem gêmeos, e nenhuma há estéril entre elas."
+        },
+        {
+          "numero": 3,
+          "texto": "Os teus lábios são como um fio de escarlata, e o teu falar é doce; a tua fronte é qual pedaço de romã entre as tuas tranças."
+        },
+        {
+          "numero": 4,
+          "texto": "O teu pescoço é como a torre de Davi, edificada para pendurar armas; mil escudos pendem dela, todos broquéis de valorosos."
+        },
+        {
+          "numero": 5,
+          "texto": "Os teus dois peitos são como dois filhos gêmeos da gazela, que se apascentam entre os lírios."
+        },
+        {
+          "numero": 6,
+          "texto": "Antes que refresque o dia e caiam as sombras, irei ao monte da mirra e ao outeiro do incenso."
+        },
+        {
+          "numero": 7,
+          "texto": "Tu és toda formosa, amiga minha, e em ti não há mancha."
+        },
+        {
+          "numero": 8,
+          "texto": "Vem comigo do Líbano, minha esposa, vem comigo do Líbano; olha desde o cume de Amana, desde o cume de Senir e de Hermom, desde as moradas dos leões, desde os montes dos leopardos."
+        },
+        {
+          "numero": 9,
+          "texto": "Tiraste-me o coração, minha irmã, minha esposa; tiraste-me o coração com um dos teus olhos, com um colar do teu pescoço."
+        },
+        {
+          "numero": 10,
+          "texto": "Que belos são os teus amores, irmã minha! Ó esposa minha! Quanto melhores são os teus amores do que o vinho! E o aroma dos teus bálsamos do que o de todas as especiarias!"
+        },
+        {
+          "numero": 11,
+          "texto": "Favos de mel manam dos teus lábios, minha esposa! Mel e leite estão debaixo da tua língua, e o cheiro das tuas vestes é como o cheiro do Líbano."
+        },
+        {
+          "numero": 12,
+          "texto": "Jardim fechado és tu, irmã minha, esposa minha, manancial fechado, fonte selada."
+        },
+        {
+          "numero": 13,
+          "texto": "Os teus renovos são um pomar de romãs, com frutos excelentes: o cipreste e o nardo,"
+        },
+        {
+          "numero": 14,
+          "texto": "o nardo e o açafrão, o cálamo e a canela, com toda a sorte de árvores de incenso, a mirra e aloés, com todas as principais especiarias."
+        },
+        {
+          "numero": 15,
+          "texto": "És a fonte dos jardins, poço das águas vivas, que correm do Líbano!"
+        },
+        {
+          "numero": 16,
+          "texto": "Levanta-te, vento norte, e vem tu, vento sul; assopra no meu jardim, para que se derramem os seus aromas. Ah! Se viesse o meu amado para o seu jardim, e comesse os seus frutos excelentes!"
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Já vim para o meu jardim, irmã minha, minha esposa; colhi a minha mirra com a minha especiaria, comi o meu favo com o meu mel, bebi o meu vinho com o meu leite. Comei, amigos, bebei abundantemente, ó amados."
+        },
+        {
+          "numero": 2,
+          "texto": "Eu dormia, mas o meu coração velava; eis a voz do meu amado, que estava batendo: Abre-me, irmã minha, amiga minha, pomba minha, minha imaculada, porque a minha cabeça está cheia de orvalho, os meus cabelos, das gotas da noite."
+        },
+        {
+          "numero": 3,
+          "texto": "Já despi as minhas vestes; como as tornarei a vestir? Já lavei os meus pés; como os tornarei a sujar?"
+        },
+        {
+          "numero": 4,
+          "texto": "O meu amado meteu a sua mão pela fresta da porta, e o meu coração estremeceu por amor dele."
+        },
+        {
+          "numero": 5,
+          "texto": "Eu me levantei para abrir ao meu amado, e as minhas mãos destilavam mirra, e os meus dedos gotejavam mirra sobre as aldravas da fechadura."
+        },
+        {
+          "numero": 6,
+          "texto": "Eu abri ao meu amado, mas já o meu amado se tinha retirado e se tinha ido; a minha alma tinha-se derretido quando ele falara; busquei-o e não o achei; chamei-o, e não me respondeu."
+        },
+        {
+          "numero": 7,
+          "texto": "Acharam-me os guardas que rondavam pela cidade, espancaram-me e feriram-me; tiraram-me o meu manto os guardas dos muros."
+        },
+        {
+          "numero": 8,
+          "texto": "Conjuro-vos, ó filhas de Jerusalém, que, se achardes o meu amado, lhe digais que estou enferma de amor."
+        },
+        {
+          "numero": 9,
+          "texto": "Que é o teu amado mais do que outro amado, ó tu, a mais formosa entre as mulheres? Que é o teu amado mais do que outro amado, que tanto nos conjuraste."
+        },
+        {
+          "numero": 10,
+          "texto": "O meu amado é cândido e rubicundo; ele traz a bandeira entre dez mil."
+        },
+        {
+          "numero": 11,
+          "texto": "A sua cabeça é como o ouro mais apurado, os seus cabelos são crespos, pretos como o corvo."
+        },
+        {
+          "numero": 12,
+          "texto": "Os seus olhos são como os das pombas junto às correntes das águas, lavados em leite, postos em engaste."
+        },
+        {
+          "numero": 13,
+          "texto": "As suas faces são como um canteiro de bálsamo, como colinas de ervas aromáticas; os seus lábios são como lírios que gotejam mirra."
+        },
+        {
+          "numero": 14,
+          "texto": "As suas mãos são como anéis de ouro que têm engastadas as turquesas; o seu ventre, como alvo marfim, coberto de safiras."
+        },
+        {
+          "numero": 15,
+          "texto": "As suas pernas, como colunas de mármore, fundadas sobre bases de ouro puro; o seu aspecto, como o Líbano, excelente como os cedros."
+        },
+        {
+          "numero": 16,
+          "texto": "O seu falar é muitíssimo suave; sim, ele é totalmente desejável. Tal é o meu amado, e tal o meu amigo, ó filhas de Jerusalém."
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Para onde foi o teu amado, ó mais formosa entre as mulheres? Para onde virou a vista o teu amado, e o buscaremos contigo?"
+        },
+        {
+          "numero": 2,
+          "texto": "O meu amado desceu ao seu jardim, aos canteiros de bálsamo, para se alimentar nos jardins e para colher os lírios."
+        },
+        {
+          "numero": 3,
+          "texto": "Eu sou do meu amado, e o meu amado é meu; ele se alimenta entre os lírios."
+        },
+        {
+          "numero": 4,
+          "texto": "Formosa és, amiga minha, como Tirza, aprazível como Jerusalém, formidável como um exército com bandeiras."
+        },
+        {
+          "numero": 5,
+          "texto": "Desvia de mim os teus olhos, porque eles me perturbam. O teu cabelo é como o rebanho das cabras que pastam em Gileade."
+        },
+        {
+          "numero": 6,
+          "texto": "Os teus dentes são como o rebanho de ovelhas que sobem do lavadouro, e das quais todas produzem gêmeos, e não há estéril entre elas."
+        },
+        {
+          "numero": 7,
+          "texto": "Como um pedaço de romã, assim são as tuas faces entre as tuas tranças."
+        },
+        {
+          "numero": 8,
+          "texto": "Sessenta são as rainhas, e oitenta, as concubinas, e as virgens, sem número."
+        },
+        {
+          "numero": 9,
+          "texto": "Mas uma é a minha pomba, a minha imaculada, a única de sua mãe e a mais querida daquela que a deu à luz; vendo-a, as filhas lhe chamarão bem-aventurada, as rainhas e as concubinas a louvarão."
+        },
+        {
+          "numero": 10,
+          "texto": "Quem é esta que aparece como a alva do dia, formosa como a lua, brilhante como o sol, formidável como um exército com bandeiras?"
+        },
+        {
+          "numero": 11,
+          "texto": "Desci ao jardim das nogueiras, para ver os novos frutos do vale, a ver se floresciam as vides, se brotavam as romeiras."
+        },
+        {
+          "numero": 12,
+          "texto": "Antes de eu o sentir, me pôs a minha alma nos carros do meu povo excelente."
+        },
+        {
+          "numero": 13,
+          "texto": "Volta, volta, ó sulamita, volta, volta, para que nós te vejamos. Por que olhas para a sulamita como para as fileiras de dois exércitos?"
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Que formosos são os teus pés nos sapatos, ó filha do príncipe! As voltas de tuas coxas são como jóias, trabalhadas por mãos de artista."
+        },
+        {
+          "numero": 2,
+          "texto": "O teu umbigo, como uma taça redonda, a que não falta bebida; o teu ventre, como monte de trigo, cercado de lírios."
+        },
+        {
+          "numero": 3,
+          "texto": "Os teus dois peitos, como dois filhos gêmeos da gazela."
+        },
+        {
+          "numero": 4,
+          "texto": "O teu pescoço, como a torre de marfim; os teus olhos, como os viveiros de Hesbom, junto à porta de Bate-Rabim; o teu nariz, como a torre do Líbano, que olha para Damasco."
+        },
+        {
+          "numero": 5,
+          "texto": "A tua cabeça sobre ti é como o monte Carmelo, e os cabelos da tua cabeça, como a púrpura; o rei está preso pelas suas tranças."
+        },
+        {
+          "numero": 6,
+          "texto": "Quão formosa e quão aprazível és, ó amor em delícias!"
+        },
+        {
+          "numero": 7,
+          "texto": "A tua estatura é semelhante à palmeira, e os teus peitos, aos cachos de uvas."
+        },
+        {
+          "numero": 8,
+          "texto": "Dizia eu: Subirei à palmeira, pegarei em seus ramos; e, então, os teus peitos serão como os cachos na vide, e o cheiro da tua respiração, como o das maçãs."
+        },
+        {
+          "numero": 9,
+          "texto": "E o teu paladar, como o bom vinho para o meu amado, que se bebe suavemente e faz com que falem os lábios dos que dormem."
+        },
+        {
+          "numero": 10,
+          "texto": "Eu sou do meu amado, e ele me tem afeição."
+        },
+        {
+          "numero": 11,
+          "texto": "Vem, ó meu amado, saiamos ao campo, passemos as noites nas aldeias."
+        },
+        {
+          "numero": 12,
+          "texto": "Levantemo-nos de manhã para ir às vinhas, vejamos se florescem as vides, se se abre a flor, se já brotam as romeiras; ali te darei o meu grande amor."
+        },
+        {
+          "numero": 13,
+          "texto": "As mandrágoras dão cheiro, e às nossas portas há toda sorte de excelentes frutos, novos e velhos; ó amado meu, eu os guardei para ti."
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Ah! Quem me dera que foras meu irmão e que te tivesses amamentado aos seios de minha mãe! Quando te achasse na rua, beijar-te-ia, e não me desprezariam!"
+        },
+        {
+          "numero": 2,
+          "texto": "Levar-te-ia e te introduziria na casa de minha mãe, e tu me ensinarias; e te daria a beber vinho aromático e do mosto das minhas romãs."
+        },
+        {
+          "numero": 3,
+          "texto": "A sua mão esquerda esteja debaixo da minha cabeça, e a sua direita me abrace."
+        },
+        {
+          "numero": 4,
+          "texto": "Conjuro-vos, ó filhas de Jerusalém, que não acordeis nem desperteis o meu amor, até que queira."
+        },
+        {
+          "numero": 5,
+          "texto": "Quem é esta que sobe do deserto e vem encostada tão aprazivelmente ao seu amado? Debaixo de uma macieira te despertei, ali esteve tua mãe com dores; ali esteve com dores aquela que te deu à luz."
+        },
+        {
+          "numero": 6,
+          "texto": "Põe-me como selo sobre o teu coração, como selo sobre o teu braço, porque o amor é forte como a morte, e duro como a sepultura o ciúme; as suas brasas são brasas de fogo, labaredas do SENHOR."
+        },
+        {
+          "numero": 7,
+          "texto": "As muitas águas não poderiam apagar esse amor nem os rios afogá-lo; ainda que alguém desse toda a fazenda de sua casa por este amor, certamente a desprezariam."
+        },
+        {
+          "numero": 8,
+          "texto": "Temos uma irmã pequena, que ainda não tem peitos; que faremos a esta nossa irmã, no dia em que dela se falar?"
+        },
+        {
+          "numero": 9,
+          "texto": "Se ela for um muro, edificaremos sobre ela um palácio de prata; e, se ela for uma porta, cercá-la-emos com tábuas de cedro."
+        },
+        {
+          "numero": 10,
+          "texto": "Eu sou um muro, e os meus peitos, como as suas torres; então, eu era aos seus olhos como aquela que acha paz."
+        },
+        {
+          "numero": 11,
+          "texto": "Teve Salomão uma vinha em Baal-Hamom; entregou essa vinha a uns guardas; e cada um lhe trazia pelo seu fruto mil peças de prata."
+        },
+        {
+          "numero": 12,
+          "texto": "A minha vinha que tenho está diante de mim; as mil peças de prata são para ti, ó Salomão, e duzentas, para os guardas do seu fruto."
+        },
+        {
+          "numero": 13,
+          "texto": "Ó tu que habitas nos jardins, para a tua voz os companheiros atentam; faze-ma, pois, também ouvir."
+        },
+        {
+          "numero": 14,
+          "texto": "Vem depressa, amado meu, e faze-te semelhante ao gamo ou ao filho dos corços sobre os montes dos aromas."
+        }
+      ]
+    }
+  ]
+}

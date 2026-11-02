@@ -1,0 +1,267 @@
+{
+  "livro": "2 Pedro",
+  "identificador": "2-pedro",
+  "testamento": "Novo Testamento",
+  "traducao": "JFAC1948",
+  "capitulos": [
+    {
+      "numero": 1,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Simão Pedro, servo e apóstolo de Jesus Cristo, aos que conosco alcançaram fé igualmente preciosa pela justiça do nosso Deus e Salvador Jesus Cristo:"
+        },
+        {
+          "numero": 2,
+          "texto": "graça e paz vos sejam multiplicadas, pelo conhecimento de Deus e de Jesus, nosso Senhor."
+        },
+        {
+          "numero": 3,
+          "texto": "Visto como o seu divino poder nos deu tudo o que diz respeito à vida e piedade, pelo conhecimento daquele que nos chamou por sua glória e virtude,"
+        },
+        {
+          "numero": 4,
+          "texto": "pelas quais ele nos tem dado grandíssimas e preciosas promessas, para que por elas fiqueis participantes da natureza divina, havendo escapado da corrupção, que, pela concupiscência, há no mundo,"
+        },
+        {
+          "numero": 5,
+          "texto": "e vós também, pondo nisto mesmo toda a diligência, acrescentai à vossa fé a virtude, e à virtude, a ciência,"
+        },
+        {
+          "numero": 6,
+          "texto": "e à ciência, a temperança, e à temperança, a paciência, e à paciência, a piedade,"
+        },
+        {
+          "numero": 7,
+          "texto": "e à piedade, o amor fraternal, e ao amor fraternal, a caridade."
+        },
+        {
+          "numero": 8,
+          "texto": "Porque, se em vós houver e aumentarem estas coisas, não vos deixarão ociosos nem estéreis no conhecimento de nosso Senhor Jesus Cristo."
+        },
+        {
+          "numero": 9,
+          "texto": "Pois aquele em quem não há estas coisas é cego, nada vendo ao longe, havendo-se esquecido da purificação dos seus antigos pecados."
+        },
+        {
+          "numero": 10,
+          "texto": "Portanto, irmãos, procurai fazer cada vez mais firme a vossa vocação e eleição; porque, fazendo isto, nunca jamais tropeçareis."
+        },
+        {
+          "numero": 11,
+          "texto": "Porque assim vos será amplamente concedida a entrada no Reino eterno de nosso Senhor e Salvador Jesus Cristo."
+        },
+        {
+          "numero": 12,
+          "texto": "Pelo que não deixarei de exortar-vos sempre acerca destas coisas, ainda que bem as saibais e estejais confirmados na presente verdade."
+        },
+        {
+          "numero": 13,
+          "texto": "E tenho por justo, enquanto estiver neste tabernáculo, despertar-vos com admoestações,"
+        },
+        {
+          "numero": 14,
+          "texto": "sabendo que brevemente hei de deixar este meu tabernáculo, como também nosso Senhor Jesus Cristo já mo tem revelado."
+        },
+        {
+          "numero": 15,
+          "texto": "Mas também eu procurarei, em toda a ocasião, que depois da minha morte tenhais lembrança destas coisas."
+        },
+        {
+          "numero": 16,
+          "texto": "Porque não vos fizemos saber a virtude e a vinda de nosso Senhor Jesus Cristo, seguindo fábulas artificialmente compostas, mas nós mesmos vimos a sua majestade,"
+        },
+        {
+          "numero": 17,
+          "texto": "porquanto ele recebeu de Deus Pai honra e glória, quando da magnífica glória lhe foi dirigida a seguinte voz: Este é o meu Filho amado, em quem me tenho comprazido."
+        },
+        {
+          "numero": 18,
+          "texto": "E ouvimos esta voz dirigida do céu, estando nós com ele no monte santo."
+        },
+        {
+          "numero": 19,
+          "texto": "E temos, mui firme, a palavra dos profetas, à qual bem fazeis em estar atentos, como a uma luz que alumia em lugar escuro, até que o dia esclareça, e a estrela da alva apareça em vosso coração,"
+        },
+        {
+          "numero": 20,
+          "texto": "sabendo primeiramente isto: que nenhuma profecia da Escritura é de particular interpretação;"
+        },
+        {
+          "numero": 21,
+          "texto": "porque a profecia nunca foi produzida por vontade de homem algum, mas os homens santos de Deus falaram inspirados pelo Espírito Santo."
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "E também houve entre o povo falsos profetas, como entre vós haverá também falsos doutores, que introduzirão encobertamente heresias de perdição e negarão o Senhor que os resgatou, trazendo sobre si mesmos repentina perdição."
+        },
+        {
+          "numero": 2,
+          "texto": "E muitos seguirão as suas dissoluções, pelos quais será blasfemado o caminho da verdade;"
+        },
+        {
+          "numero": 3,
+          "texto": "e, por avareza, farão de vós negócio com palavras fingidas; sobre os quais já de largo tempo não será tardia a sentença, e a sua perdição não dormita."
+        },
+        {
+          "numero": 4,
+          "texto": "Porque, se Deus não perdoou aos anjos que pecaram, mas, havendo-os lançado no inferno, os entregou às cadeias da escuridão, ficando reservados para o Juízo;"
+        },
+        {
+          "numero": 5,
+          "texto": "e não perdoou ao mundo antigo, mas guardou a Noé, pregoeiro da justiça, com mais sete pessoas, ao trazer o dilúvio sobre o mundo dos ímpios;"
+        },
+        {
+          "numero": 6,
+          "texto": "e condenou à subversão as cidades de Sodoma e Gomorra, reduzindo-as a cinza e pondo- as para exemplo aos que vivessem impiamente;"
+        },
+        {
+          "numero": 7,
+          "texto": "e livrou o justo Ló, enfadado da vida dissoluta dos homens abomináveis"
+        },
+        {
+          "numero": 8,
+          "texto": "(porque este justo, habitando entre eles, afligia todos os dias a sua alma justa, pelo que via e ouvia sobre as suas obras injustas)."
+        },
+        {
+          "numero": 9,
+          "texto": "Assim, sabe o Senhor livrar da tentação os piedosos e reservar os injustos para o Dia de Juízo, para serem castigados,"
+        },
+        {
+          "numero": 10,
+          "texto": "mas principalmente aqueles que segundo a carne andam em concupiscências de imundícia e desprezam as dominações. Atrevidos, obstinados, não receiam blasfemar das autoridades;"
+        },
+        {
+          "numero": 11,
+          "texto": "enquanto os anjos, sendo maiores em força e poder, não pronunciam contra eles juízo blasfemo diante do Senhor."
+        },
+        {
+          "numero": 12,
+          "texto": "Mas estes, como animais irracionais, que seguem a natureza, feitos para serem presos e mortos, blasfemando do que não entendem, perecerão na sua corrupção,"
+        },
+        {
+          "numero": 13,
+          "texto": "recebendo o galardão da injustiça; pois que tais homens têm prazer nos deleites cotidianos; nódoas são eles e máculas, deleitando-se em seus enganos, quando se banqueteiam convosco;"
+        },
+        {
+          "numero": 14,
+          "texto": "tendo os olhos cheios de adultério e não cessando de pecar, engodando as almas inconstantes, tendo o coração exercitado na avareza, filhos de maldição;"
+        },
+        {
+          "numero": 15,
+          "texto": "os quais, deixando o caminho direito, erraram seguindo o caminho de Balaão, filho de Beor, que amou o prêmio da injustiça."
+        },
+        {
+          "numero": 16,
+          "texto": "Mas teve a repreensão da sua transgressão; o mudo jumento, falando com voz humana, impediu a loucura do profeta."
+        },
+        {
+          "numero": 17,
+          "texto": "Estes são fontes sem água, nuvens levadas pela força do vento, para os quais a escuridão das trevas eternamente se reserva;"
+        },
+        {
+          "numero": 18,
+          "texto": "porque, falando coisas mui arrogantes de vaidades, engodam com as concupiscências da carne e com dissoluções aqueles que se estavam afastando dos que andam em erro,"
+        },
+        {
+          "numero": 19,
+          "texto": "prometendo-lhes liberdade, sendo eles mesmos servos da corrupção. Porque de quem alguém é vencido, do tal faz-se também servo."
+        },
+        {
+          "numero": 20,
+          "texto": "Porquanto se, depois de terem escapado das corrupções do mundo, pelo conhecimento do Senhor e Salvador Jesus Cristo, forem outra vez envolvidos nelas e vencidos, tornou-se-lhes o último estado pior do que o primeiro."
+        },
+        {
+          "numero": 21,
+          "texto": "Porque melhor lhes fora não conhecerem o caminho da justiça do que, conhecendo- o, desviarem-se do santo mandamento que lhes fora dado."
+        },
+        {
+          "numero": 22,
+          "texto": "Deste modo, sobreveio- lhes o que por um verdadeiro provérbio se diz: O cão voltou ao seu próprio vômito; a porca lavada, ao espojadouro de lama."
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "versiculos": [
+        {
+          "numero": 1,
+          "texto": "Amados, escrevo-vos, agora, esta segunda carta, em ambas as quais desperto com exortação o vosso ânimo sincero,"
+        },
+        {
+          "numero": 2,
+          "texto": "para que vos lembreis das palavras que primeiramente foram ditas pelos santos profetas e do mandamento do Senhor e Salvador, mediante os vossos apóstolos,"
+        },
+        {
+          "numero": 3,
+          "texto": "sabendo primeiro isto: que nos últimos dias virão escarnecedores, andando segundo as suas próprias concupiscências"
+        },
+        {
+          "numero": 4,
+          "texto": "e dizendo: Onde está a promessa da sua vinda? Porque desde que os pais dormiram todas as coisas permanecem como desde o princípio da criação."
+        },
+        {
+          "numero": 5,
+          "texto": "Eles voluntariamente ignoram isto: que pela palavra de Deus já desde a antiguidade existiram os céus e a terra, que foi tirada da água e no meio da água subsiste;"
+        },
+        {
+          "numero": 6,
+          "texto": "pelas quais coisas pereceu o mundo de então, coberto com as águas do dilúvio."
+        },
+        {
+          "numero": 7,
+          "texto": "Mas os céus e a terra que agora existem pela mesma palavra se reservam como tesouro e se guardam para o fogo, até o Dia do Juízo e da perdição dos homens ímpios."
+        },
+        {
+          "numero": 8,
+          "texto": "Mas, amados, não ignoreis uma coisa: que um dia para o Senhor é como mil anos, e mil anos, como um dia."
+        },
+        {
+          "numero": 9,
+          "texto": "O Senhor não retarda a sua promessa, ainda que alguns a têm por tardia; mas é longânimo para convosco, não querendo que alguns se percam, senão que todos venham a arrepender-se."
+        },
+        {
+          "numero": 10,
+          "texto": "Mas o Dia do Senhor virá como o ladrão de noite, no qual os céus passarão com grande estrondo, e os elementos, ardendo, se desfarão, e a terra e as obras que nela há se queimarão."
+        },
+        {
+          "numero": 11,
+          "texto": "Havendo, pois, de perecer todas estas coisas, que pessoas vos convém ser em santo trato e piedade,"
+        },
+        {
+          "numero": 12,
+          "texto": "aguardando e apressando- vos para a vinda do Dia de Deus, em que os céus, em fogo, se desfarão, e os elementos, ardendo, se fundirão?"
+        },
+        {
+          "numero": 13,
+          "texto": "Mas nós, segundo a sua promessa, aguardamos novos céus e nova terra, em que habita a justiça."
+        },
+        {
+          "numero": 14,
+          "texto": "Pelo que, amados, aguardando estas coisas, procurai que dele sejais achados imaculados e irrepreensíveis em paz"
+        },
+        {
+          "numero": 15,
+          "texto": "e tende por salvação a longanimidade de nosso Senhor, como também o nosso amado irmão Paulo vos escreveu, segundo a sabedoria que lhe foi dada,"
+        },
+        {
+          "numero": 16,
+          "texto": "falando disto, como em todas as suas epístolas, entre as quais há pontos difíceis de entender, que os indoutos e inconstantes torcem e igualmente as outras Escrituras, para sua própria perdição."
+        },
+        {
+          "numero": 17,
+          "texto": "Vós, portanto, amados, sabendo isto de antemão, guardai-vos de que, pelo engano dos homens abomináveis, sejais juntamente arrebatados e descaiais da vossa firmeza;"
+        },
+        {
+          "numero": 18,
+          "texto": "antes, crescei na graça e conhecimento de nosso Senhor e Salvador Jesus Cristo. A ele seja dada a glória, assim agora como no dia da eternidade. Amém!"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1097 @@
+{
+  "colecao": "Preciosa",
+  "subtitulo": "Lições sobre desejo, amor e relacionamentos",
+  "total_registros": 180,
+  "secoes": [
+    {
+      "numero": 13,
+      "titulo": "Relacionamentos digitais e redes sociais"
+    },
+    {
+      "numero": 17,
+      "titulo": "Frases curtas para a identidade Preciosa"
+    }
+  ],
+  "textos": [
+    {
+      "identificador": "preciosa_001",
+      "numero": 1,
+      "titulo": "Atração não é posse",
+      "licao": "Sentir atração por alguém não lhe dá o direito de controlar essa pessoa. O desejo pode aproximar dois corações, mas somente o respeito permite que essa aproximação seja saudável."
+    },
+    {
+      "identificador": "preciosa_002",
+      "numero": 2,
+      "titulo": "O desejo não justifica tudo",
+      "licao": "Sentir vontade de estar com alguém é natural, mas agir com responsabilidade é uma escolha. Uma pessoa madura sabe que nem todo desejo precisa ser satisfeito."
+    },
+    {
+      "identificador": "preciosa_003",
+      "numero": 3,
+      "titulo": "A beleza não é um convite",
+      "licao": "A maneira como uma mulher se veste ou expressa sua beleza não determina o que ela deseja permitir. Respeitar significa não presumir aquilo que ela não disse."
+    },
+    {
+      "identificador": "preciosa_004",
+      "numero": 4,
+      "titulo": "O respeito também é atraente",
+      "licao": "A aparência pode despertar interesse, mas a delicadeza, a honestidade e o respeito revelam qualidades que sustentam uma relação para além da primeira impressão."
+    },
+    {
+      "identificador": "preciosa_005",
+      "numero": 5,
+      "titulo": "Desejar sem dominar",
+      "licao": "É possível sentir uma atração intensa sem tentar controlar o outro. O desejo saudável não transforma a pessoa admirada em propriedade, mas reconhece sua liberdade."
+    },
+    {
+      "identificador": "preciosa_006",
+      "numero": 6,
+      "titulo": "A diferença entre querer e merecer",
+      "licao": "Querer alguém não significa que você tenha direito ao seu amor. Afeto, intimidade e compromisso são construídos por escolhas mútuas, não conquistados por insistência."
+    },
+    {
+      "identificador": "preciosa_007",
+      "numero": 7,
+      "titulo": "O desejo precisa de consciência",
+      "licao": "Nossos sentimentos podem ser intensos, mas nossas atitudes precisam ser responsáveis. Maturidade é reconhecer o que sentimos sem esquecer o impacto que nossas ações causam nos outros."
+    },
+    {
+      "identificador": "preciosa_008",
+      "numero": 8,
+      "titulo": "A atração não apaga os limites",
+      "licao": "Mesmo quando existe química entre duas pessoas, os limites individuais continuam importantes. Uma conexão verdadeira respeita o ritmo e as escolhas de ambos."
+    },
+    {
+      "identificador": "preciosa_009",
+      "numero": 9,
+      "titulo": "A sensualidade não diminui a dignidade",
+      "licao": "Uma mulher pode gostar de sua aparência, valorizar suas curvas e expressar sua sensualidade sem perder seus valores. Sua dignidade não depende da aprovação alheia."
+    },
+    {
+      "identificador": "preciosa_010",
+      "numero": 10,
+      "titulo": "O desejo também sabe esperar",
+      "licao": "Nem toda aproximação precisa acontecer imediatamente. Saber esperar, ouvir e respeitar o tempo do outro demonstra autocontrole e consideração."
+    },
+    {
+      "identificador": "preciosa_011",
+      "numero": 11,
+      "titulo": "Um não merece respeito",
+      "licao": "Uma recusa não é um desafio a ser vencido. Quando alguém diz não, respeitar essa resposta é mais importante do que insistir para conseguir o que se deseja."
+    },
+    {
+      "identificador": "preciosa_012",
+      "numero": 12,
+      "titulo": "O sim precisa ser livre",
+      "licao": "Uma resposta só representa consentimento quando é dada livremente, sem medo, ameaça, chantagem ou pressão. O verdadeiro encontro acontece quando ambos podem escolher."
+    },
+    {
+      "identificador": "preciosa_013",
+      "numero": 13,
+      "titulo": "O silêncio não é consentimento",
+      "licao": "A ausência de resistência não significa necessariamente vontade. Quando houver dúvida, a atitude correta é conversar, perguntar e respeitar a resposta."
+    },
+    {
+      "identificador": "preciosa_014",
+      "numero": 14,
+      "titulo": "O consentimento pode mudar",
+      "licao": "Alguém pode mudar de ideia a qualquer momento, mesmo depois de ter concordado anteriormente. Respeitar essa mudança é reconhecer que a liberdade continua existindo durante toda a relação."
+    },
+    {
+      "identificador": "preciosa_015",
+      "numero": 15,
+      "titulo": "Carinho não cria obrigação",
+      "licao": "Receber atenção, presentes ou demonstrações de afeto não obriga ninguém a oferecer intimidade em troca. O carinho perde seu valor quando é usado como instrumento de cobrança."
+    },
+    {
+      "identificador": "preciosa_016",
+      "numero": 16,
+      "titulo": "Não transforme insistência em romance",
+      "licao": "Persistir depois de uma recusa não é necessariamente prova de amor. Às vezes, a atitude mais respeitosa é aceitar a resposta e seguir em frente."
+    },
+    {
+      "identificador": "preciosa_017",
+      "numero": 17,
+      "titulo": "A liberdade também faz parte do amor",
+      "licao": "Amar alguém significa permitir que essa pessoa tenha voz, escolhas e espaço próprio. Uma relação saudável não precisa eliminar a liberdade para construir compromisso."
+    },
+    {
+      "identificador": "preciosa_018",
+      "numero": 18,
+      "titulo": "Perguntar também é cuidar",
+      "licao": "Perguntar o que o outro deseja, do que gosta e com o que se sente confortável demonstra consideração. Não precisamos adivinhar tudo quando podemos conversar com honestidade."
+    },
+    {
+      "identificador": "preciosa_019",
+      "numero": 19,
+      "titulo": "A intimidade não é uma dívida",
+      "licao": "Ninguém deve intimidade para provar amor, manter um relacionamento ou evitar uma separação. A proximidade física deve ser uma escolha livre e compartilhada."
+    },
+    {
+      "identificador": "preciosa_020",
+      "numero": 20,
+      "titulo": "Respeitar é ouvir até o fim",
+      "licao": "Escutar não significa esperar uma oportunidade para convencer o outro. Significa estar disposto a compreender, inclusive quando a resposta não corresponde àquilo que desejamos."
+    },
+    {
+      "identificador": "preciosa_021",
+      "numero": 21,
+      "titulo": "Você é mais do que sua aparência",
+      "licao": "Sua beleza pode chamar a atenção, mas sua identidade não se resume ao que os outros enxergam. Seus pensamentos, valores, talentos e sentimentos também merecem ser reconhecidos."
+    },
+    {
+      "identificador": "preciosa_022",
+      "numero": 22,
+      "titulo": "Beleza não é autorização",
+      "licao": "Admirar o corpo de alguém não significa ter liberdade para invadir seu espaço. A admiração saudável reconhece a beleza sem ultrapassar os limites da pessoa admirada."
+    },
+    {
+      "identificador": "preciosa_023",
+      "numero": 23,
+      "titulo": "Não diminua sua luz para agradar",
+      "licao": "Você não precisa esconder sua personalidade, seus sonhos ou suas qualidades para tornar outra pessoa mais confortável. Uma relação saudável permite que ambos cresçam."
+    },
+    {
+      "identificador": "preciosa_024",
+      "numero": 24,
+      "titulo": "Seu valor não depende de elogios",
+      "licao": "Elogios são agradáveis, mas não devem ser a única fonte da sua autoestima. Aprenda a reconhecer seu próprio valor mesmo quando ninguém estiver olhando."
+    },
+    {
+      "identificador": "preciosa_025",
+      "numero": 25,
+      "titulo": "Ser desejada não é ser conhecida",
+      "licao": "Alguém pode admirar sua aparência sem compreender seus sentimentos. Permita que as atitudes revelem quem realmente deseja conhecer você além da primeira impressão."
+    },
+    {
+      "identificador": "preciosa_026",
+      "numero": 26,
+      "titulo": "Não confunda atenção com valorização",
+      "licao": "Receber muitas mensagens ou olhares pode alimentar a vaidade, mas valorização verdadeira aparece no respeito, na constância e na consideração demonstrados no cotidiano."
+    },
+    {
+      "identificador": "preciosa_027",
+      "numero": 27,
+      "titulo": "Seu corpo não define seus limites",
+      "licao": "Nenhum tipo de roupa, formato corporal ou expressão de sensualidade elimina seu direito de decidir como deseja ser tratada. Seus limites merecem respeito em qualquer circunstância."
+    },
+    {
+      "identificador": "preciosa_028",
+      "numero": 28,
+      "titulo": "A autoestima não precisa de competição",
+      "licao": "Você não precisa ser mais bonita do que outra mulher para reconhecer sua própria beleza. A segurança pessoal cresce quando deixamos de transformar outras pessoas em rivais."
+    },
+    {
+      "identificador": "preciosa_029",
+      "numero": 29,
+      "titulo": "A maturidade está além do espelho",
+      "licao": "Cuidar da aparência pode ser uma forma de expressão pessoal, mas cuidar do caráter exige honestidade, empatia e responsabilidade. A beleza exterior não substitui o crescimento interior."
+    },
+    {
+      "identificador": "preciosa_030",
+      "numero": 30,
+      "titulo": "Seja admirada sem ser aprisionada",
+      "licao": "Você merece viver sua beleza sem que alguém use a admiração como desculpa para controlar suas escolhas. Ser amada deve ampliar sua liberdade, não diminuí-la."
+    },
+    {
+      "identificador": "preciosa_031",
+      "numero": 31,
+      "titulo": "Amar não é controlar",
+      "licao": "O amor saudável não exige acesso a cada conversa, decisão ou pensamento do outro. Confiança significa construir segurança sem transformar o relacionamento em vigilância."
+    },
+    {
+      "identificador": "preciosa_032",
+      "numero": 32,
+      "titulo": "Presença vale mais do que promessas",
+      "licao": "Palavras bonitas podem emocionar, mas são as atitudes repetidas que demonstram compromisso. Observe como alguém trata você quando não há aplausos nem vantagens envolvidas."
+    },
+    {
+      "identificador": "preciosa_033",
+      "numero": 33,
+      "titulo": "Amor não deveria exigir medo",
+      "licao": "Você não precisa viver com medo de discordar, expressar sentimentos ou estabelecer limites. Uma relação saudável permite conversas difíceis sem ameaças ou humilhações."
+    },
+    {
+      "identificador": "preciosa_034",
+      "numero": 34,
+      "titulo": "Escolher também é amar",
+      "licao": "O compromisso ganha significado quando duas pessoas continuam escolhendo uma à outra com liberdade. O amor não é uma prisão, mas uma decisão renovada por atitudes."
+    },
+    {
+      "identificador": "preciosa_035",
+      "numero": 35,
+      "titulo": "O ciúme não prova amor",
+      "licao": "Sentir ciúme pode acontecer, mas controlar, acusar ou restringir a liberdade do outro não é demonstração de afeto. O amor precisa aprender a conversar sobre inseguranças."
+    },
+    {
+      "identificador": "preciosa_036",
+      "numero": 36,
+      "titulo": "Amar é conhecer, não imaginar",
+      "licao": "Às vezes, apaixonamo-nos pela imagem que criamos de alguém. Um relacionamento amadurece quando conhecemos a pessoa real, com suas qualidades, limitações e diferenças."
+    },
+    {
+      "identificador": "preciosa_037",
+      "numero": 37,
+      "titulo": "O amor não apaga identidades",
+      "licao": "Duas pessoas podem compartilhar a vida sem abandonar seus interesses, amizades e projetos individuais. A união mais saudável não exige que ninguém deixe de ser quem é."
+    },
+    {
+      "identificador": "preciosa_038",
+      "numero": 38,
+      "titulo": "Compromisso exige reciprocidade",
+      "licao": "Uma relação não pode depender eternamente do esforço de uma única pessoa. Ambos precisam demonstrar interesse, disposição para conversar e responsabilidade pelo vínculo que construíram."
+    },
+    {
+      "identificador": "preciosa_039",
+      "numero": 39,
+      "titulo": "O amor também é paciência",
+      "licao": "Conhecer alguém profundamente exige tempo. A paciência permite que a confiança cresça sem pressionar o outro a revelar sentimentos ou assumir compromissos antes de estar preparado."
+    },
+    {
+      "identificador": "preciosa_040",
+      "numero": 40,
+      "titulo": "Não confunda intensidade com profundidade",
+      "licao": "Uma relação pode começar com emoções intensas e ainda não possuir confiança. A profundidade se revela quando existe respeito constante, honestidade e cuidado ao longo do tempo."
+    },
+    {
+      "identificador": "preciosa_041",
+      "numero": 41,
+      "titulo": "Amar não é salvar alguém sozinho",
+      "licao": "Podemos apoiar quem amamos, mas não podemos assumir sozinhos a responsabilidade pelas escolhas dessa pessoa. Uma relação saudável combina apoio, autonomia e responsabilidade individual."
+    },
+    {
+      "identificador": "preciosa_042",
+      "numero": 42,
+      "titulo": "A confiança se constrói nos detalhes",
+      "licao": "Cumprir promessas, respeitar confidências e falar a verdade são atitudes pequenas que produzem segurança. A confiança raramente nasce de um único gesto grandioso."
+    },
+    {
+      "identificador": "preciosa_043",
+      "numero": 43,
+      "titulo": "O amor não usa fraquezas como armas",
+      "licao": "Aquilo que alguém compartilha em um momento de vulnerabilidade deve ser tratado com cuidado. Usar segredos ou inseguranças para ferir é quebrar a confiança que sustenta a intimidade."
+    },
+    {
+      "identificador": "preciosa_044",
+      "numero": 44,
+      "titulo": "Escolher ficar não significa aceitar tudo",
+      "licao": "Compromisso não exige tolerar humilhação, violência ou desrespeito constante. Amar alguém não elimina o direito de estabelecer limites e proteger a própria dignidade."
+    },
+    {
+      "identificador": "preciosa_045",
+      "numero": 45,
+      "titulo": "O amor precisa de amizade",
+      "licao": "Além da atração, uma relação duradoura se fortalece quando existe companheirismo, humor, admiração e liberdade para conversar sobre a vida sem medo de julgamento."
+    },
+    {
+      "identificador": "preciosa_046",
+      "numero": 46,
+      "titulo": "A intimidade começa na conversa",
+      "licao": "Antes de compartilhar o corpo, duas pessoas podem aprender a compartilhar pensamentos, dúvidas e expectativas. A comunicação honesta ajuda a criar segurança para a proximidade."
+    },
+    {
+      "identificador": "preciosa_047",
+      "numero": 47,
+      "titulo": "Valores diferentes exigem diálogo",
+      "licao": "Duas pessoas não precisam pensar exatamente da mesma forma, mas precisam conversar sobre aquilo que consideram essencial. Respeitar diferenças não significa abandonar convicções pessoais."
+    },
+    {
+      "identificador": "preciosa_048",
+      "numero": 48,
+      "titulo": "Não traia sua consciência para ser aceita",
+      "licao": "O medo de perder alguém pode nos levar a ultrapassar nossos próprios limites. Uma relação saudável não exige que você negue seus valores para merecer companhia."
+    },
+    {
+      "identificador": "preciosa_049",
+      "numero": 49,
+      "titulo": "A confiança não combina com manipulação",
+      "licao": "Mentiras calculadas, ameaças de abandono e chantagens emocionais enfraquecem a intimidade. A confiança floresce quando ambos podem expressar necessidades sem tentar controlar o outro."
+    },
+    {
+      "identificador": "preciosa_050",
+      "numero": 50,
+      "titulo": "A intimidade exige reciprocidade",
+      "licao": "Os desejos, as necessidades e o conforto de ambas as pessoas importam. A proximidade se torna mais saudável quando ninguém é tratado como instrumento para a satisfação do outro."
+    },
+    {
+      "identificador": "preciosa_051",
+      "numero": 51,
+      "titulo": "Respeite o ritmo de cada coração",
+      "licao": "Nem todos desenvolvem confiança ou sentimentos na mesma velocidade. Dar espaço para que o vínculo amadureça é mais saudável do que exigir provas constantes de interesse."
+    },
+    {
+      "identificador": "preciosa_052",
+      "numero": 52,
+      "titulo": "Privacidade também é dignidade",
+      "licao": "Estar em um relacionamento não significa perder o direito à privacidade. Compartilhar a vida não autoriza expor mensagens, imagens íntimas ou confidências sem consentimento."
+    },
+    {
+      "identificador": "preciosa_053",
+      "numero": 53,
+      "titulo": "A vulnerabilidade merece cuidado",
+      "licao": "Quando alguém revela medos, inseguranças ou experiências dolorosas, oferece uma oportunidade de aproximação. Receba essa confiança com empatia, sem ridicularizar nem explorar a fragilidade."
+    },
+    {
+      "identificador": "preciosa_054",
+      "numero": 54,
+      "titulo": "Honestidade antes da expectativa",
+      "licao": "Conversar sobre intenções, compromisso e expectativas evita que duas pessoas construam relações diferentes acreditando estar vivendo a mesma história. A clareza também é uma forma de cuidado."
+    },
+    {
+      "identificador": "preciosa_055",
+      "numero": 55,
+      "titulo": "A fidelidade começa nas escolhas",
+      "licao": "Fidelidade não é apenas evitar uma traição física. Também envolve honestidade, responsabilidade com os acordos estabelecidos e disposição para proteger a confiança construída a dois."
+    },
+    {
+      "identificador": "preciosa_056",
+      "numero": 56,
+      "titulo": "A intimidade não deve ser uma moeda de troca",
+      "licao": "Afeto não deve ser oferecido apenas para conseguir algo, nem retirado como punição. Relações saudáveis tratam a proximidade como expressão de vontade, não como ferramenta de negociação."
+    },
+    {
+      "identificador": "preciosa_057",
+      "numero": 57,
+      "titulo": "Desejos podem ser conversados sem vergonha",
+      "licao": "Conversar com respeito sobre desejos e preferências pode fortalecer a intimidade. O importante é que ninguém seja ridicularizado, pressionado ou obrigado a fazer algo contra a própria vontade."
+    },
+    {
+      "identificador": "preciosa_058",
+      "numero": 58,
+      "titulo": "A confiança precisa de coerência",
+      "licao": "Não basta exigir sinceridade enquanto escondemos informações importantes. A confiança cresce quando nossas palavras, escolhas e atitudes caminham na mesma direção."
+    },
+    {
+      "identificador": "preciosa_059",
+      "numero": 59,
+      "titulo": "O respeito continua depois da intimidade",
+      "licao": "A proximidade física não concede poder sobre a outra pessoa. O cuidado, a discrição e a consideração devem permanecer antes, durante e depois de qualquer momento íntimo."
+    },
+    {
+      "identificador": "preciosa_060",
+      "numero": 60,
+      "titulo": "Intimidade verdadeira não apaga a liberdade",
+      "licao": "A conexão mais profunda não é aquela em que duas pessoas se tornam dependentes uma da outra, mas aquela em que escolhem compartilhar a vida sem perder sua individualidade."
+    },
+    {
+      "identificador": "preciosa_061",
+      "numero": 61,
+      "titulo": "Fale para construir, não para vencer",
+      "licao": "Uma conversa amorosa não deveria ser uma disputa em que alguém precisa sair derrotado. Procure compreender o problema e encontrar soluções, em vez de transformar cada desacordo em uma batalha."
+    },
+    {
+      "identificador": "preciosa_062",
+      "numero": 62,
+      "titulo": "Ouvir também é uma demonstração de amor",
+      "licao": "Escutar com atenção, sem interromper ou preparar imediatamente uma defesa, ajuda o outro a sentir-se compreendido. Nem toda conversa precisa de uma solução; algumas precisam primeiro de acolhimento."
+    },
+    {
+      "identificador": "preciosa_063",
+      "numero": 63,
+      "titulo": "Não espere que o outro adivinhe",
+      "licao": "Expectativas silenciosas podem produzir frustração. Expresse suas necessidades com clareza e permita que a outra pessoa responda honestamente, sem presumir que o amor deve tornar alguém capaz de ler pensamentos."
+    },
+    {
+      "identificador": "preciosa_064",
+      "numero": 64,
+      "titulo": "Peça desculpas sem justificativas vazias",
+      "licao": "Um pedido de desculpas verdadeiro reconhece o dano causado e demonstra disposição para mudar. Dizer “desculpe” enquanto repetimos a mesma atitude enfraquece a confiança."
+    },
+    {
+      "identificador": "preciosa_065",
+      "numero": 65,
+      "titulo": "Discordar não significa desamar",
+      "licao": "Duas pessoas podem discordar e continuar se respeitando. A maturidade aparece quando conseguimos defender nossas opiniões sem atacar a dignidade de quem pensa diferente."
+    },
+    {
+      "identificador": "preciosa_066",
+      "numero": 66,
+      "titulo": "Não use o silêncio para punir",
+      "licao": "Precisar de tempo para se acalmar é legítimo, mas ignorar alguém deliberadamente para provocar sofrimento não resolve o conflito. Comunique sua necessidade de espaço e retome a conversa quando possível."
+    },
+    {
+      "identificador": "preciosa_067",
+      "numero": 67,
+      "titulo": "Emoções merecem atenção, não domínio",
+      "licao": "Sentir raiva, tristeza ou insegurança não torna ninguém incapaz de amar. Precisamos aprender a reconhecer nossas emoções e escolher respostas que não machuquem quem está ao nosso redor."
+    },
+    {
+      "identificador": "preciosa_068",
+      "numero": 68,
+      "titulo": "Vulnerabilidade não é fraqueza",
+      "licao": "Admitir que estamos com medo, tristes ou inseguros exige coragem. Em uma relação saudável, ambos podem revelar suas fragilidades sem perder o respeito um pelo outro."
+    },
+    {
+      "identificador": "preciosa_069",
+      "numero": 69,
+      "titulo": "Fale sobre o que incomoda antes que vire ressentimento",
+      "licao": "Pequenas mágoas ignoradas podem se acumular. Conversas respeitosas, feitas no momento adequado, ajudam a resolver problemas antes que eles se transformem em distanciamento."
+    },
+    {
+      "identificador": "preciosa_070",
+      "numero": 70,
+      "titulo": "Maturidade é saber reparar",
+      "licao": "Todos podemos errar, mas nem todos assumimos a responsabilidade pelo que fizemos. Uma relação cresce quando as pessoas reconhecem danos, escutam as consequências e mudam suas atitudes."
+    },
+    {
+      "identificador": "preciosa_071",
+      "numero": 71,
+      "titulo": "Estabelecer limites é se respeitar",
+      "licao": "Dizer o que você aceita e o que não aceita não é falta de amor. Limites claros ajudam a construir relações em que a consideração seja uma prática, não apenas uma promessa."
+    },
+    {
+      "identificador": "preciosa_072",
+      "numero": 72,
+      "titulo": "Você pode amar e dizer não",
+      "licao": "O amor não elimina sua autonomia. Você pode gostar profundamente de alguém e, ainda assim, recusar um pedido, discordar de uma escolha ou precisar de tempo para si."
+    },
+    {
+      "identificador": "preciosa_073",
+      "numero": 73,
+      "titulo": "Não abandone sua vida para manter alguém",
+      "licao": "Um relacionamento pode ocupar um lugar importante sem se tornar a totalidade da sua existência. Preserve suas amizades, seus interesses e seus projetos, cultivando uma vida que também seja sua."
+    },
+    {
+      "identificador": "preciosa_074",
+      "numero": 74,
+      "titulo": "Quem respeita você não exige que desapareça",
+      "licao": "Uma relação saudável não precisa afastar você de todas as pessoas importantes nem controlar cada atividade. Cuidado não deve ser usado como desculpa para isolamento e dominação."
+    },
+    {
+      "identificador": "preciosa_075",
+      "numero": 75,
+      "titulo": "Sua paz também importa",
+      "licao": "Estar apaixonado não significa ignorar continuamente o sofrimento que uma relação provoca. Observe se existe espaço para diálogo, segurança e respeito, e leve a sério aquilo que afeta seu bem-estar."
+    },
+    {
+      "identificador": "preciosa_076",
+      "numero": 76,
+      "titulo": "Não confunda sacrifício com anulação",
+      "licao": "Amar pode exigir concessões, mas elas precisam ser razoáveis e compartilhadas. Se apenas uma pessoa renuncia aos próprios sonhos e necessidades, a relação perde o equilíbrio."
+    },
+    {
+      "identificador": "preciosa_077",
+      "numero": 77,
+      "titulo": "Você não precisa provar seu valor sofrendo",
+      "licao": "A quantidade de dor suportada não mede a profundidade do amor. Um relacionamento saudável pode enfrentar dificuldades sem transformar o sofrimento constante em prova de compromisso."
+    },
+    {
+      "identificador": "preciosa_078",
+      "numero": 78,
+      "titulo": "A solidão não deve decidir por você",
+      "licao": "O medo de ficar sozinho pode nos levar a aceitar relações incompatíveis com nossos valores. Aprender a estar bem consigo mesmo ajuda a escolher vínculos por desejo genuíno, não por desespero."
+    },
+    {
+      "identificador": "preciosa_079",
+      "numero": 79,
+      "titulo": "Não aceite migalhas como banquete",
+      "licao": "Pequenos gestos podem ser significativos, mas não substituem a consideração necessária a uma relação. Reconheça a diferença entre imperfeições humanas e um padrão persistente de negligência."
+    },
+    {
+      "identificador": "preciosa_080",
+      "numero": 80,
+      "titulo": "Amor-próprio não é egoísmo",
+      "licao": "Cuidar de suas necessidades não significa desprezar as necessidades alheias. O amor-próprio saudável permite oferecer carinho sem se abandonar para agradar."
+    },
+    {
+      "identificador": "preciosa_081",
+      "numero": 81,
+      "titulo": "Confiança não é vigilância",
+      "licao": "Conferir continuamente mensagens, localização e contatos não cria intimidade verdadeira. A segurança de uma relação depende de acordos claros, honestidade e respeito mútuo."
+    },
+    {
+      "identificador": "preciosa_082",
+      "numero": 82,
+      "titulo": "Insegurança precisa de diálogo",
+      "licao": "Sentir medo de perder alguém pode revelar necessidades emocionais que merecem atenção. Falar sobre elas é mais construtivo do que acusar, proibir ou exigir demonstrações intermináveis."
+    },
+    {
+      "identificador": "preciosa_083",
+      "numero": 83,
+      "titulo": "Não transforme o passado em prisão",
+      "licao": "As experiências anteriores de alguém podem ajudar a compreender sua história, mas não devem ser usadas para humilhar ou controlar essa pessoa. O presente também merece ser avaliado por suas próprias atitudes."
+    },
+    {
+      "identificador": "preciosa_084",
+      "numero": 84,
+      "titulo": "A comparação rouba a tranquilidade",
+      "licao": "Comparar constantemente sua relação com a de outras pessoas pode criar expectativas irreais. Cada casal precisa descobrir o que funciona para si, com base em respeito e acordos próprios."
+    },
+    {
+      "identificador": "preciosa_085",
+      "numero": 85,
+      "titulo": "Amor não precisa de testes secretos",
+      "licao": "Provocar ciúmes de propósito, desaparecer para testar sentimentos ou inventar situações para verificar a lealdade prejudica a confiança. Se precisa de segurança, converse abertamente sobre isso."
+    },
+    {
+      "identificador": "preciosa_086",
+      "numero": 86,
+      "titulo": "Ciúme não é autorização para agressão",
+      "licao": "Nenhum sentimento justifica ameaças, intimidação ou violência. Uma pessoa é responsável por suas atitudes, mesmo quando sente raiva, insegurança ou medo de perder o relacionamento."
+    },
+    {
+      "identificador": "preciosa_087",
+      "numero": 87,
+      "titulo": "A segurança emocional se constrói a dois",
+      "licao": "Ser confiável e comunicar-se com clareza ajuda a criar estabilidade. Entretanto, ninguém pode eliminar sozinho todas as inseguranças do parceiro; cada pessoa também precisa cuidar das próprias emoções."
+    },
+    {
+      "identificador": "preciosa_088",
+      "numero": 88,
+      "titulo": "Liberdade não é deslealdade",
+      "licao": "Ter amizades, interesses e momentos individuais não significa amar menos. A liberdade pode coexistir com o compromisso quando existem confiança e respeito pelos acordos do casal."
+    },
+    {
+      "identificador": "preciosa_089",
+      "numero": 89,
+      "titulo": "A confiança não se exige, conquista-se",
+      "licao": "Pedir confiança sem agir de forma confiável produz palavras vazias. Seja coerente, cumpra acordos e reconheça seus erros para que a segurança tenha bases reais."
+    },
+    {
+      "identificador": "preciosa_090",
+      "numero": 90,
+      "titulo": "Não chame controle de proteção",
+      "licao": "Preocupar-se com alguém é diferente de decidir por essa pessoa. O cuidado saudável oferece apoio e consideração sem retirar sua capacidade de fazer escolhas."
+    },
+    {
+      "identificador": "preciosa_091",
+      "numero": 91,
+      "titulo": "O conflito revela hábitos",
+      "licao": "Todo relacionamento enfrenta divergências, mas a maneira de lidar com elas revela muito sobre o vínculo. Observe se existe disposição para ouvir, reconhecer erros e buscar soluções respeitosas."
+    },
+    {
+      "identificador": "preciosa_092",
+      "numero": 92,
+      "titulo": "Perdoar não significa esquecer os limites",
+      "licao": "O perdão pode ajudar a lidar com uma mágoa, mas não exige restaurar imediatamente a confiança nem permanecer em uma relação prejudicial. Reconciliação saudável também precisa de responsabilidade e mudança."
+    },
+    {
+      "identificador": "preciosa_093",
+      "numero": 93,
+      "titulo": "Desculpas precisam de atitudes",
+      "licao": "Palavras podem iniciar uma reparação, mas a transformação se demonstra na prática. Quando o mesmo dano se repete sem esforço real de mudança, é importante reconhecer esse padrão."
+    },
+    {
+      "identificador": "preciosa_094",
+      "numero": 94,
+      "titulo": "Não use a verdade para humilhar",
+      "licao": "Ser sincero não significa falar de maneira cruel. Podemos expressar algo difícil com firmeza e clareza sem atacar a aparência, a inteligência ou a dignidade de alguém."
+    },
+    {
+      "identificador": "preciosa_095",
+      "numero": 95,
+      "titulo": "Discussões não precisam deixar cicatrizes",
+      "licao": "É possível discordar sem insultar, ameaçar ou expor segredos. Aprender a interromper uma conversa quando a raiva está excessiva pode evitar palavras e atitudes que depois serão difíceis de reparar."
+    },
+    {
+      "identificador": "preciosa_096",
+      "numero": 96,
+      "titulo": "Reconhecer o erro é força",
+      "licao": "Assumir responsabilidade não diminui seu valor. Ao contrário, demonstra maturidade e abre espaço para reconstruir a confiança com mais honestidade."
+    },
+    {
+      "identificador": "preciosa_097",
+      "numero": 97,
+      "titulo": "Nem toda história precisa continuar",
+      "licao": "Algumas relações chegam ao fim mesmo quando ainda existem sentimentos. Reconhecer incompatibilidades ou danos persistentes pode ser doloroso, mas também pode representar uma escolha responsável."
+    },
+    {
+      "identificador": "preciosa_098",
+      "numero": 98,
+      "titulo": "Recomeçar exige mais do que saudade",
+      "licao": "Sentir falta de alguém não significa que os problemas anteriores desapareceram. Antes de recomeçar, é importante compreender o que aconteceu e verificar se existem condições reais para mudanças."
+    },
+    {
+      "identificador": "preciosa_099",
+      "numero": 99,
+      "titulo": "Não faça da vingança uma resposta",
+      "licao": "Quando somos feridos, pode surgir o desejo de devolver a mesma dor. Mas a vingança prolonga o conflito; proteger seus limites e agir com dignidade oferece um caminho mais saudável."
+    },
+    {
+      "identificador": "preciosa_100",
+      "numero": 100,
+      "titulo": "Reconstruir confiança exige tempo",
+      "licao": "Depois de uma quebra de confiança, não basta exigir que tudo volte ao normal. A reconstrução depende de transparência, responsabilidade, consistência e disposição de ambas as pessoas."
+    },
+    {
+      "identificador": "preciosa_101",
+      "numero": 101,
+      "titulo": "Reciprocidade não é contabilidade",
+      "licao": "Amar não significa calcular cada favor ou gesto, mas também não significa aceitar uma relação em que somente uma pessoa se esforça. A reciprocidade aparece na disposição de ambos para cuidar do vínculo."
+    },
+    {
+      "identificador": "preciosa_102",
+      "numero": 102,
+      "titulo": "Pequenos gestos sustentam grandes amores",
+      "licao": "Perguntar como foi o dia, lembrar de algo importante e oferecer ajuda nos momentos difíceis são maneiras de demonstrar atenção. O cuidado cotidiano dá consistência às declarações de amor."
+    },
+    {
+      "identificador": "preciosa_103",
+      "numero": 103,
+      "titulo": "Seja parceiro, não proprietário",
+      "licao": "Uma pessoa amada não é alguém que você possui, mas alguém com quem escolhe compartilhar a vida. Parceria significa caminhar junto, respeitando a individualidade e as decisões de cada um."
+    },
+    {
+      "identificador": "preciosa_104",
+      "numero": 104,
+      "titulo": "Admiração também alimenta o amor",
+      "licao": "Um vínculo se fortalece quando cada pessoa reconhece as qualidades, os esforços e as conquistas da outra. Admirar não é idealizar, mas enxergar valor sem ignorar a realidade."
+    },
+    {
+      "identificador": "preciosa_105",
+      "numero": 105,
+      "titulo": "Amor maduro não vive de adivinhações",
+      "licao": "Em vez de esperar que o parceiro descubra todas as suas necessidades, converse com clareza. A comunicação direta reduz mal-entendidos e permite que o cuidado seja oferecido de maneira consciente."
+    },
+    {
+      "identificador": "preciosa_106",
+      "numero": 106,
+      "titulo": "A rotina também merece romance",
+      "licao": "O carinho não precisa depender de ocasiões especiais. Atenção, gentileza e tempo de qualidade podem manter a conexão viva mesmo nos períodos mais comuns da vida."
+    },
+    {
+      "identificador": "preciosa_107",
+      "numero": 107,
+      "titulo": "Crescer junto é celebrar mudanças",
+      "licao": "As pessoas mudam com o tempo. Um relacionamento saudável permite conversar sobre novos sonhos, interesses e necessidades, sem exigir que ambos permaneçam exatamente como eram no início."
+    },
+    {
+      "identificador": "preciosa_108",
+      "numero": 108,
+      "titulo": "Amar também é apoiar sonhos",
+      "licao": "Um parceiro não precisa sentir os mesmos desejos profissionais ou pessoais para oferecer incentivo. O apoio saudável respeita as ambições individuais e busca conciliar os projetos compartilhados."
+    },
+    {
+      "identificador": "preciosa_109",
+      "numero": 109,
+      "titulo": "A parceria aparece nos dias difíceis",
+      "licao": "É fácil demonstrar carinho quando tudo está bem. A maturidade também se revela na capacidade de conversar, colaborar e manter a consideração durante períodos de estresse e incerteza."
+    },
+    {
+      "identificador": "preciosa_110",
+      "numero": 110,
+      "titulo": "O amor precisa continuar sendo escolhido",
+      "licao": "Um compromisso não se sustenta apenas pela lembrança do que foi vivido. Ele cresce quando ambos continuam demonstrando interesse, respeito e disposição para cuidar da relação no presente."
+    },
+    {
+      "identificador": "preciosa_111",
+      "numero": 111,
+      "titulo": "Seja sensual sem pedir desculpas por existir",
+      "licao": "A sensualidade pode ser uma expressão pessoal de confiança e estilo. Você não precisa definir sua identidade pelos julgamentos alheios, mas pode escolher livremente como deseja se apresentar ao mundo."
+    },
+    {
+      "identificador": "preciosa_112",
+      "numero": 112,
+      "titulo": "Sua feminilidade não pertence a ninguém",
+      "licao": "Não existe uma única maneira correta de ser mulher. Cada uma pode expressar sua feminilidade de acordo com sua personalidade, seus valores e suas escolhas, sem precisar corresponder a expectativas externas."
+    },
+    {
+      "identificador": "preciosa_113",
+      "numero": 113,
+      "titulo": "Você pode ser delicada e firme",
+      "licao": "Gentileza não exige submissão, assim como firmeza não exige agressividade. É possível falar com doçura e, ainda assim, defender com clareza os próprios limites."
+    },
+    {
+      "identificador": "preciosa_114",
+      "numero": 114,
+      "titulo": "Ser independente não impede amar",
+      "licao": "Uma mulher pode valorizar sua autonomia e desejar um relacionamento profundo. Independência não é ausência de afeto; é a possibilidade de compartilhar a vida sem depender da perda da própria identidade."
+    },
+    {
+      "identificador": "preciosa_115",
+      "numero": 115,
+      "titulo": "Não confunda atenção masculina com valor pessoal",
+      "licao": "Ser desejada pode ser agradável, mas sua autoestima não precisa depender da quantidade de pessoas interessadas em você. Seu valor permanece mesmo quando nenhum olhar está voltado para sua direção."
+    },
+    {
+      "identificador": "preciosa_116",
+      "numero": 116,
+      "titulo": "Sua voz também é parte da sua beleza",
+      "licao": "Uma mulher não precisa apenas ser admirada; merece ser ouvida. Suas opiniões, experiências e decisões são parte essencial de quem ela é."
+    },
+    {
+      "identificador": "preciosa_117",
+      "numero": 117,
+      "titulo": "Curvas não contam uma história inteira",
+      "licao": "O corpo pode ser admirado, mas não revela sozinho os sonhos, as experiências, os medos e as qualidades de uma pessoa. Conhecer alguém exige ir além da aparência."
+    },
+    {
+      "identificador": "preciosa_118",
+      "numero": 118,
+      "titulo": "Você pode mudar de opinião",
+      "licao": "Descobrir novos desejos, rever escolhas e estabelecer limites diferentes faz parte do crescimento pessoal. Ter mudado de ideia não significa que você perdeu o direito de ser respeitada."
+    },
+    {
+      "identificador": "preciosa_119",
+      "numero": 119,
+      "titulo": "Não viva para corresponder a fantasias",
+      "licao": "Você não precisa representar a mulher idealizada por outra pessoa. Um relacionamento saudável permite que ambos conheçam a realidade um do outro, sem exigir a atuação permanente de personagens."
+    },
+    {
+      "identificador": "preciosa_120",
+      "numero": 120,
+      "titulo": "Ser preciosa é não negociar a própria dignidade",
+      "licao": "Seu valor não depende de ser escolhida, desejada ou aprovada por alguém. Uma relação merece espaço em sua vida quando pode coexistir com sua dignidade, seus valores e sua liberdade."
+    },
+    {
+      "identificador": "preciosa_121",
+      "numero": 121,
+      "titulo": "Nem toda química significa compatibilidade",
+      "licao": "Uma atração intensa pode aproximar duas pessoas, mas não garante que compartilhem valores, expectativas ou objetivos. Conhecer alguém com calma ajuda a distinguir paixão de compatibilidade."
+    },
+    {
+      "identificador": "preciosa_122",
+      "numero": 122,
+      "titulo": "Não se apaixone apenas pelo potencial",
+      "licao": "É fácil imaginar quem alguém poderia se tornar, mas uma relação acontece com a pessoa que existe hoje. Observe suas atitudes presentes, não apenas as promessas de quem ela poderá ser."
+    },
+    {
+      "identificador": "preciosa_123",
+      "numero": 123,
+      "titulo": "O primeiro encontro merece respeito",
+      "licao": "Conhecer alguém não cria obrigação de continuar, beijar ou assumir compromisso. Um encontro saudável permite que ambos descubram se desejam uma nova aproximação."
+    },
+    {
+      "identificador": "preciosa_124",
+      "numero": 124,
+      "titulo": "Atenção não é compromisso",
+      "licao": "Mensagens frequentes e conversas intensas podem indicar interesse, mas não definem automaticamente as intenções de alguém. Quando suas expectativas importarem, converse sobre elas com clareza."
+    },
+    {
+      "identificador": "preciosa_125",
+      "numero": 125,
+      "titulo": "Paixão não dispensa prudência",
+      "licao": "Sentimentos fortes podem dificultar a percepção de incompatibilidades. Dê tempo para conhecer o caráter, observar a coerência das atitudes e perceber se a relação oferece segurança."
+    },
+    {
+      "identificador": "preciosa_126",
+      "numero": 126,
+      "titulo": "Escolha quem também escolhe você",
+      "licao": "Não é necessário convencer alguém a reconhecer seu valor. Invista em relações nas quais o interesse seja demonstrado de maneira clara, respeitosa e recíproca."
+    },
+    {
+      "identificador": "preciosa_127",
+      "numero": 127,
+      "titulo": "Não transforme a conquista em disputa",
+      "licao": "Relacionamentos não precisam ser jogos de poder. Ser honesto sobre seu interesse é mais saudável do que manipular sentimentos para provocar insegurança ou obter vantagem."
+    },
+    {
+      "identificador": "preciosa_128",
+      "numero": 128,
+      "titulo": "Dê espaço para o amor real",
+      "licao": "Expectativas irreais podem impedir que você conheça uma pessoa de verdade. Permita que o relacionamento se desenvolva sem exigir perfeição, mas sem abrir mão do respeito essencial."
+    },
+    {
+      "identificador": "preciosa_129",
+      "numero": 129,
+      "titulo": "Compatibilidade também é saber conversar",
+      "licao": "A atração pode iniciar uma história, mas a capacidade de lidar com diferenças ajuda a sustentá-la. Aprender a conversar sobre assuntos difíceis é tão importante quanto compartilhar momentos agradáveis."
+    },
+    {
+      "identificador": "preciosa_130",
+      "numero": 130,
+      "titulo": "Escolher com calma não é perder oportunidades",
+      "licao": "Você não precisa acelerar um relacionamento para evitar que alguém vá embora. Quem deseja construir algo saudável deve estar disposto a respeitar o tempo necessário para que a confiança se desenvolva."
+    },
+    {
+      "identificador": "preciosa_131",
+      "numero": 131,
+      "titulo": "Curtidas não medem amor",
+      "licao": "A quantidade de curtidas, comentários ou demonstrações públicas não revela, por si só, a qualidade de um relacionamento. O cuidado verdadeiro também existe longe das telas."
+    },
+    {
+      "identificador": "preciosa_132",
+      "numero": 132,
+      "titulo": "Não exponha para provar que ama",
+      "licao": "Publicar fotos do casal pode ser uma escolha agradável, mas não deve ser uma obrigação. Cada pessoa tem direito de conversar sobre privacidade e decidir quanto deseja compartilhar."
+    },
+    {
+      "identificador": "preciosa_133",
+      "numero": 133,
+      "titulo": "Mensagens não substituem presença",
+      "licao": "Conversar durante o dia ajuda a manter a conexão, mas a qualidade da comunicação importa mais do que a quantidade de mensagens. Presença também significa escutar, participar e demonstrar atenção."
+    },
+    {
+      "identificador": "preciosa_134",
+      "numero": 134,
+      "titulo": "Não use a internet para vigiar",
+      "licao": "Acompanhar cada interação do parceiro em busca de sinais de traição pode alimentar inseguranças sem resolver suas causas. Prefira conversas honestas e acordos claros sobre confiança."
+    },
+    {
+      "identificador": "preciosa_135",
+      "numero": 135,
+      "titulo": "Fotografias íntimas exigem responsabilidade",
+      "licao": "Compartilhar uma imagem íntima é uma decisão pessoal que exige confiança e consentimento. Essas imagens nunca devem ser divulgadas, encaminhadas ou utilizadas para ameaçar alguém sem autorização."
+    },
+    {
+      "identificador": "preciosa_136",
+      "numero": 136,
+      "titulo": "Respeite os limites também no ambiente virtual",
+      "licao": "Insistir em mensagens, exigir respostas imediatas ou enviar conteúdo íntimo não solicitado são atitudes que desconsideram o espaço do outro. O respeito vale tanto online quanto presencialmente."
+    },
+    {
+      "identificador": "preciosa_137",
+      "numero": 137,
+      "titulo": "Não compare seu amor com vitrines digitais",
+      "licao": "As redes sociais mostram recortes cuidadosamente selecionados da vida. Não use essas imagens como medida absoluta para julgar seu relacionamento ou o valor de sua própria história."
+    },
+    {
+      "identificador": "preciosa_138",
+      "numero": 138,
+      "titulo": "A vida privada não precisa de plateia",
+      "licao": "Nem toda discussão, reconciliação ou demonstração de afeto precisa ser publicada. Proteger a intimidade do casal pode ser uma maneira de preservar a confiança e a tranquilidade."
+    },
+    {
+      "identificador": "preciosa_139",
+      "numero": 139,
+      "titulo": "Uma resposta tardia não conta a história inteira",
+      "licao": "A demora em responder pode ter diversas explicações. Antes de concluir que existe desinteresse ou deslealdade, procure compreender a situação e conversar sem acusações precipitadas."
+    },
+    {
+      "identificador": "preciosa_140",
+      "numero": 140,
+      "titulo": "Seja verdadeiro também atrás da tela",
+      "licao": "É fácil criar uma imagem idealizada pela internet. Um relacionamento saudável depende de sinceridade sobre intenções, identidade e expectativas, tanto nas conversas digitais quanto nos encontros presenciais."
+    },
+    {
+      "identificador": "preciosa_141",
+      "numero": 141,
+      "titulo": "O amor também precisa de direção",
+      "licao": "Sentimentos são importantes, mas planos de vida incompatíveis podem produzir dificuldades. Conversar sobre futuro, compromisso, família e prioridades ajuda a compreender se ambos desejam caminhar na mesma direção."
+    },
+    {
+      "identificador": "preciosa_142",
+      "numero": 142,
+      "titulo": "Valores compartilhados sustentam escolhas",
+      "licao": "Gostos diferentes podem enriquecer uma relação, mas diferenças profundas sobre respeito, honestidade e responsabilidade merecem atenção. O vínculo precisa de princípios que permitam convivência saudável."
+    },
+    {
+      "identificador": "preciosa_143",
+      "numero": 143,
+      "titulo": "Não confunda potencial com promessa cumprida",
+      "licao": "Alguém pode ter boas intenções e ainda não estar preparado para um compromisso. Observe se existe disposição concreta para agir, crescer e assumir responsabilidades."
+    },
+    {
+      "identificador": "preciosa_144",
+      "numero": 144,
+      "titulo": "A distância exige clareza",
+      "licao": "Relacionamentos à distância precisam de comunicação, confiança e expectativas realistas. Conversar sobre frequência de contato, visitas e planos futuros ajuda a evitar interpretações desencontradas."
+    },
+    {
+      "identificador": "preciosa_145",
+      "numero": 145,
+      "titulo": "O futuro precisa de duas vozes",
+      "licao": "Decisões importantes que afetam o casal devem ser discutidas com respeito. Um projeto compartilhado não pode depender de uma pessoa impondo seus planos à outra."
+    },
+    {
+      "identificador": "preciosa_146",
+      "numero": 146,
+      "titulo": "Nem todo amor precisa terminar em casamento",
+      "licao": "As pessoas podem ter objetivos diferentes sobre compromisso formal, e essas diferenças merecem ser discutidas honestamente. O importante é não prometer um futuro que não se deseja construir."
+    },
+    {
+      "identificador": "preciosa_147",
+      "numero": 147,
+      "titulo": "Não ignore incompatibilidades essenciais",
+      "licao": "A atração e o carinho podem ser verdadeiros mesmo quando duas pessoas não conseguem construir a vida que desejam. Reconhecer isso não invalida o que sentiram."
+    },
+    {
+      "identificador": "preciosa_148",
+      "numero": 148,
+      "titulo": "Um relacionamento não precisa seguir o relógio alheio",
+      "licao": "Não existe uma única idade ou prazo universal para namorar, casar ou formar uma família. Decisões importantes devem considerar maturidade, vontade e circunstâncias, não apenas pressão social."
+    },
+    {
+      "identificador": "preciosa_149",
+      "numero": 149,
+      "titulo": "Crescimento individual fortalece a parceria",
+      "licao": "Aprender, desenvolver habilidades e buscar objetivos próprios pode enriquecer a vida compartilhada. O relacionamento se torna mais equilibrado quando ambos podem crescer sem competir."
+    },
+    {
+      "identificador": "preciosa_150",
+      "numero": 150,
+      "titulo": "O amor deve caber na vida real",
+      "licao": "Uma relação saudável não vive apenas de promessas e momentos extraordinários. Ela precisa encontrar espaço na rotina, nas responsabilidades, nas diferenças e nos planos concretos de duas pessoas."
+    },
+    {
+      "identificador": "preciosa_151",
+      "numero": 151,
+      "titulo": "Trate bem quem não pode lhe oferecer nada",
+      "licao": "O caráter aparece na maneira como tratamos pessoas de quem não precisamos obter vantagens. Gentileza verdadeira não depende de interesse, status ou recompensa."
+    },
+    {
+      "identificador": "preciosa_152",
+      "numero": 152,
+      "titulo": "A empatia começa quando deixamos de presumir",
+      "licao": "Não conhecemos toda a história de alguém apenas por sua aparência ou por uma atitude isolada. Antes de julgar, procure compreender o contexto e escutar o que a pessoa tem a dizer."
+    },
+    {
+      "identificador": "preciosa_153",
+      "numero": 153,
+      "titulo": "Não use a vulnerabilidade para vencer discussões",
+      "licao": "Conhecer as fragilidades de alguém deveria ampliar nossa compreensão, não oferecer novas armas para ferir. A intimidade responsável protege aquilo que foi compartilhado com confiança."
+    },
+    {
+      "identificador": "preciosa_154",
+      "numero": 154,
+      "titulo": "A gentileza não é fraqueza",
+      "licao": "É possível ser gentil e estabelecer limites firmes. A verdadeira gentileza nasce da consideração, não da obrigação de aceitar tudo para evitar conflitos."
+    },
+    {
+      "identificador": "preciosa_155",
+      "numero": 155,
+      "titulo": "Respeite mesmo quando o interesse termina",
+      "licao": "O fim da atração ou do relacionamento não elimina a dignidade da outra pessoa. É possível encerrar uma história com honestidade, sem humilhação, ameaças ou exposição desnecessária."
+    },
+    {
+      "identificador": "preciosa_156",
+      "numero": 156,
+      "titulo": "O caráter aparece quando ninguém observa",
+      "licao": "Respeito e honestidade não devem depender da presença de testemunhas. A coerência entre valores e atitudes revela quem escolhemos ser nos momentos privados."
+    },
+    {
+      "identificador": "preciosa_157",
+      "numero": 157,
+      "titulo": "Não faça promessas para alimentar esperanças",
+      "licao": "Prometer compromisso apenas para manter alguém por perto é uma forma de desonestidade. Seja claro sobre suas intenções, mesmo quando a verdade puder causar uma decepção."
+    },
+    {
+      "identificador": "preciosa_158",
+      "numero": 158,
+      "titulo": "Reconheça o valor das diferenças",
+      "licao": "Pessoas diferentes podem ensinar novas perspectivas e enriquecer nossa experiência. Respeitar não significa concordar com tudo, mas reconhecer que a dignidade não depende de pensar igual."
+    },
+    {
+      "identificador": "preciosa_159",
+      "numero": 159,
+      "titulo": "Seja cuidadoso com as palavras",
+      "licao": "Uma frase dita em um momento de raiva pode permanecer na memória por muito tempo. Escolher palavras responsáveis não significa esconder a verdade, mas comunicá-la sem crueldade desnecessária."
+    },
+    {
+      "identificador": "preciosa_160",
+      "numero": 160,
+      "titulo": "O respeito é uma prática diária",
+      "licao": "Não basta afirmar que valorizamos alguém. Precisamos demonstrar isso ao escutar, discordar, estabelecer limites, cumprir acordos e reconhecer a liberdade da outra pessoa em nossas decisões cotidianas."
+    },
+    {
+      "identificador": "preciosa_161",
+      "numero": 161,
+      "titulo": "Seu passado não determina todo o seu futuro",
+      "licao": "Experiências dolorosas podem influenciar a forma como nos relacionamos, mas não precisam definir todas as nossas escolhas. Com reflexão, apoio e tempo, podemos aprender a construir vínculos mais saudáveis."
+    },
+    {
+      "identificador": "preciosa_162",
+      "numero": 162,
+      "titulo": "Curar-se não exige pressa",
+      "licao": "Depois de uma decepção, cada pessoa precisa de seu próprio tempo para compreender o que viveu. Não é necessário iniciar outro relacionamento rapidamente para provar que você superou o anterior."
+    },
+    {
+      "identificador": "preciosa_163",
+      "numero": 163,
+      "titulo": "Aprenda sem endurecer o coração",
+      "licao": "Proteger-se de novas decepções não exige desconfiar de todas as pessoas. É possível manter a sensibilidade enquanto desenvolvemos critérios mais claros para escolher em quem confiar."
+    },
+    {
+      "identificador": "preciosa_164",
+      "numero": 164,
+      "titulo": "Recomeçar também é escolher diferente",
+      "licao": "Um novo relacionamento não precisa repetir os padrões anteriores. Reconhecer aquilo que não funcionou permite estabelecer limites, comunicar necessidades e tomar decisões mais conscientes."
+    },
+    {
+      "identificador": "preciosa_165",
+      "numero": 165,
+      "titulo": "Não transforme uma rejeição em sentença",
+      "licao": "O fato de alguém não corresponder aos seus sentimentos não significa que você não seja digno de amor. Compatibilidade e interesse não são medidas universais do valor de uma pessoa."
+    },
+    {
+      "identificador": "preciosa_166",
+      "numero": 166,
+      "titulo": "Você merece uma relação em que possa respirar",
+      "licao": "O amor não deve exigir tensão constante, medo de errar ou vigilância permanente. Uma relação saudável oferece espaço para existir, conversar, crescer e descansar emocionalmente."
+    },
+    {
+      "identificador": "preciosa_167",
+      "numero": 167,
+      "titulo": "Aprenda a despedir-se com dignidade",
+      "licao": "Nem sempre conseguimos encerrar uma relação da maneira que desejávamos. Ainda assim, podemos escolher não transformar a dor em vingança e preservar o respeito por nós mesmos e pelo outro."
+    },
+    {
+      "identificador": "preciosa_168",
+      "numero": 168,
+      "titulo": "Não confunda saudade com sinal de retorno",
+      "licao": "Sentir falta de alguém é uma reação natural à perda de um vínculo. Antes de voltar, avalie se as razões que levaram ao término foram realmente enfrentadas."
+    },
+    {
+      "identificador": "preciosa_169",
+      "numero": 169,
+      "titulo": "O amor-próprio também sabe pedir ajuda",
+      "licao": "Ser forte não significa resolver tudo sozinho. Conversar com pessoas de confiança ou buscar apoio profissional quando necessário pode ser uma forma de cuidar da própria saúde emocional."
+    },
+    {
+      "identificador": "preciosa_170",
+      "numero": 170,
+      "titulo": "Sua história ainda está sendo escrita",
+      "licao": "Uma experiência ruim pode ensinar, mas não precisa determinar todos os capítulos seguintes. Você continua tendo a possibilidade de aprender, escolher melhor e construir relações alinhadas aos seus valores."
+    },
+    {
+      "identificador": "preciosa_171",
+      "numero": 171,
+      "titulo": "Beleza com propósito",
+      "licao": "Sua beleza pode ser uma forma de expressão, mas seus valores dão profundidade à maneira como você vive e se relaciona."
+    },
+    {
+      "identificador": "preciosa_172",
+      "numero": 172,
+      "titulo": "Desejo com consciência",
+      "licao": "Sentir intensamente não nos dispensa de agir com responsabilidade. O desejo é mais saudável quando caminha junto com a consideração pelo outro."
+    },
+    {
+      "identificador": "preciosa_173",
+      "numero": 173,
+      "titulo": "Liberdade com responsabilidade",
+      "licao": "Ser livre é poder fazer escolhas conscientes e respeitar a mesma liberdade nas outras pessoas."
+    },
+    {
+      "identificador": "preciosa_174",
+      "numero": 174,
+      "titulo": "Carinho sem cobrança",
+      "licao": "Um gesto de amor não deveria se transformar em dívida. Ofereça carinho porque deseja cuidar, não para exigir algo em troca."
+    },
+    {
+      "identificador": "preciosa_175",
+      "numero": 175,
+      "titulo": "Presença sem prisão",
+      "licao": "Compartilhar a vida não significa controlar cada passo. O compromisso saudável une pessoas livres que desejam estar juntas."
+    },
+    {
+      "identificador": "preciosa_176",
+      "numero": 176,
+      "titulo": "Intimidade sem pressão",
+      "licao": "A proximidade verdadeira nasce quando ambos se sentem seguros para expressar desejos, estabelecer limites e escolher livremente."
+    },
+    {
+      "identificador": "preciosa_177",
+      "numero": 177,
+      "titulo": "Paixão com maturidade",
+      "licao": "A paixão pode ser intensa, mas a maturidade nos ajuda a agir com respeito, reconhecer diferenças e tomar decisões conscientes."
+    },
+    {
+      "identificador": "preciosa_178",
+      "numero": 178,
+      "titulo": "Amor sem humilhação",
+      "licao": "Nenhuma relação saudável exige que uma pessoa seja diminuída para que a outra se sinta superior. O amor precisa preservar a dignidade de ambos."
+    },
+    {
+      "identificador": "preciosa_179",
+      "numero": 179,
+      "titulo": "Feminilidade sem imposição",
+      "licao": "Cada mulher pode expressar sua identidade à sua maneira. O respeito começa quando deixamos de impor padrões como condição para reconhecer seu valor."
+    },
+    {
+      "identificador": "preciosa_180",
+      "numero": 180,
+      "titulo": "Preciosa por inteiro",
+      "licao": "Você não é apenas sua beleza, seu corpo, seus relacionamentos ou a opinião dos outros. Sua história, seus valores, suas escolhas e sua dignidade fazem parte de quem você é."
+    }
+  ]
+}
