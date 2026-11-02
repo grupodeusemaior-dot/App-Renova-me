@@ -1,0 +1,46 @@
+INTEGRAÇÃO — CHAMADOS PARA SERVIR
+=====================================
+
+1) Faça uma cópia de segurança da pasta atual do aplicativo.
+
+2) Copie os arquivos:
+   - chamados-para-servir.js para a pasta js/ (ou pasta principal)
+   - chamados-para-servir.css para a pasta css/ (ou pasta principal)
+   - os três JSONs para a pasta dados/
+   - Chamados-para-Servir.jpg para a pasta imagens/
+
+3) No <head> do index.html, adicione:
+   <link rel="stylesheet" href="css/chamados-para-servir.css">
+
+   Ajuste o caminho se guardar o CSS na raiz.
+
+4) No menu da tela inicial, dentro da navegação principal, adicione:
+   <button id="btn-chamados-servir" type="button">Chamados para Servir</button>
+   <button id="btn-creditos-rdm" type="button">Créditos</button>
+   <button id="btn-nosso-site" type="button">Nosso Site!</button>
+
+5) Antes de </body>, depois dos scripts atuais, adicione:
+   <script src="js/chamados-para-servir.js"></script>
+
+   Ajuste o caminho se guardar o JS na raiz.
+
+6) Estrutura esperada:
+   index.html
+   js/chamados-para-servir.js
+   css/chamados-para-servir.css
+   dados/O-profissional-que-Deus-Aprova.json
+   dados/como_deus_ensinou.json
+   dados/liderar_sem_perder_a_alma.json
+   imagens/Chamados-para-Servir.jpg
+
+7) Os botões de créditos e site usam IDs próprios para não conflitar com
+   os créditos já existentes no app. O crédito abre uma janela; Nosso Site!
+   abre o endereço informado em nova aba.
+
+IMPORTANTE:
+O código é um módulo de integração isolado. Como os arquivos-fonte da
+aplicação principal Renova-me Deus Meu não estavam entre os arquivos
+localizados — os arquivos de código disponíveis eram do jogo Renova-me:
+a jornada! — este pacote não substitui nem reescreve index.html, style.css
+ou script.js do app principal. Os três botões precisam ser inseridos no
+menu inicial conforme o passo 4.

@@ -1,0 +1,115 @@
+/* Estilos do módulo Chamados para Servir */
+.rm-cs {
+  display: block;
+  min-height: 100vh;
+  padding: clamp(16px, 3vw, 36px);
+  color: #172b43;
+  background: #f5f1e8;
+  overflow-y: auto;
+}
+.rm-cs-header {
+  max-width: 980px;
+  margin: 0 auto 18px;
+  text-align: center;
+}
+.rm-cs-header h1 {
+  margin: 0 0 6px;
+  color: #102b4c;
+  font-size: clamp(1.8rem, 4vw, 3rem);
+}
+.rm-cs-header p {
+  margin: 0;
+  color: #9b742b;
+  font-weight: 700;
+}
+.rm-cs-capa {
+  display: block;
+  width: min(100%, 980px);
+  max-height: 440px;
+  object-fit: cover;
+  object-position: center;
+  margin: 0 auto 24px;
+  border-radius: 18px;
+  box-shadow: 0 12px 32px #14253a30;
+}
+.rm-cs-lista, .rm-cs-capitulos {
+  display: grid;
+  gap: 14px;
+  width: min(100%, 980px);
+  margin: 0 auto 22px;
+}
+.rm-cs-livro {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 5px;
+  width: 100%;
+  padding: 18px 22px;
+  border: 1px solid #d9c99f;
+  border-left: 7px solid #c59a3d;
+  border-radius: 14px;
+  color: #fff;
+  background: #102b4c;
+  text-align: left;
+  cursor: pointer;
+}
+.rm-cs-livro strong { font-size: 1.08rem; }
+.rm-cs-livro span { color: #f3dfb4; font-size: .94rem; font-weight: 400; }
+.rm-cs-livro:hover { background: #1d4269; }
+.rm-cs-texto {
+  padding: clamp(16px, 3vw, 28px);
+  border: 1px solid #e2d7c0;
+  border-radius: 14px;
+  background: #fffdf8;
+  box-shadow: 0 5px 18px #14253a12;
+}
+.rm-cs-texto h2 { color: #102b4c; font-size: clamp(1.2rem, 2.5vw, 1.65rem); }
+.rm-cs-texto h3.rm-cs-rotulo { margin: 18px 0 6px; color: #94702c; font-size: 1rem; }
+.rm-cs-subtitulo { color: #6c6252; font-style: italic; }
+.rm-cs-versiculo {
+  margin: 14px 0;
+  padding: 12px 16px;
+  border-left: 4px solid #c59a3d;
+  color: #173553;
+  background: #f5f0e4;
+}
+.rm-cs-paragrafo { white-space: pre-wrap; line-height: 1.75; }
+.rm-cs-voltar {
+  display: block;
+  margin: 18px auto;
+  padding: 12px 22px;
+  border: 0;
+  border-radius: 10px;
+  color: white;
+  background: #173553;
+  font: inherit;
+  font-weight: 700;
+  cursor: pointer;
+}
+.rm-cs-voltar:hover { background: #28577f; }
+.rm-cs-status { text-align: center; }
+.rm-cs-erro { color: #9b2525; font-weight: 700; }
+.rm-cs-modal {
+  position: fixed;
+  z-index: 99999;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  padding: 20px;
+  background: #071321c9;
+}
+.rm-cs-modal-caixa {
+  width: min(100%, 560px);
+  padding: 28px;
+  border-radius: 16px;
+  color: #172b43;
+  background: #fffdf8;
+  box-shadow: 0 16px 48px #0005;
+}
+.rm-cs-modal-caixa h2 { color: #102b4c; }
+.rm-cs-modal-caixa p { line-height: 1.7; }
+@media (max-width: 600px) {
+  .rm-cs { padding: 14px; }
+  .rm-cs-capa { max-height: 260px; }
+  .rm-cs-livro { padding: 16px; }
+}
