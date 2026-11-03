@@ -219,88 +219,80 @@ footer img { object-fit:contain; border-radius:8px; background:#080808; padding:
 }
 .chamados-listen-button:hover { background: var(--navy-2); }
 
-/* AJUSTE CIRÚRGICO DE PROPORÇÕES — somente as quatro áreas solicitadas */
-/* a) Cartões dos livros dentro de Chamados para Servir */
+/* Ajuste exclusivo de enquadramento das capas solicitadas: nenhuma arte é recortada. */
 .category-card.chamados,
-.category-card.formados {
+.category-card.formados,
+.category-card.sermons,
+.category-card.liturgies {
   min-height: 0;
-  aspect-ratio: 1.9 / 1;
-}
-.chamados-book-grid {
-  align-items: stretch;
-  grid-auto-rows: 1fr;
-}
-.chamados-book-card {
-  min-width: 0;
-  min-height: 0;
-  height: 100%;
-  justify-content: flex-start;
-  gap: 10px;
-  padding: 14px;
-}
-.chamados-book-image {
-  display: block;
-  width: 100%;
-  height: auto;
-  aspect-ratio: 16 / 9;
-  object-fit: cover;
-  object-position: center;
-  flex: 0 0 auto;
-  margin: 0 0 3px;
-}
-.chamados-book-card strong { margin-top: 0; }
-.chamados-book-card small { line-height: 1.45; }
-
-/* b) Caixinha de Promessas: quatro capas em proporção uniforme */
-.collection-grid {
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  align-items: stretch;
-}
-.collection-card {
-  width: 100%;
-  min-width: 0;
-  min-height: 0;
-  aspect-ratio: 1.62 / 1;
-  background-size: cover;
-  background-position: center center;
-  background-repeat: no-repeat;
-  padding: clamp(16px, 2.5vw, 24px);
-}
-.collection-hero {
-  width: 100%;
-  min-height: 0;
-  aspect-ratio: 3.25 / 1;
-  background-size: cover;
-  background-position: center center;
-  padding: clamp(16px, 2.5vw, 24px);
-}
-
-/* c) e d) Capas de Chamados para Servir e Formados para Amar */
-.chamados-hero {
-  width: 100%;
-  min-height: 0;
-  aspect-ratio: 3.25 / 1;
-  background-size: cover;
-  background-position: center center;
-  background-repeat: no-repeat;
-  padding: clamp(16px, 2.5vw, 26px);
-  gap: 5px;
+  aspect-ratio: 2.15 / 1;
+  background-color: #172d35;
 }
 .category-card.chamados img,
-.category-card.formados img {
+.category-card.formados img,
+.category-card.sermons img,
+.category-card.liturgies img {
+  object-fit: contain;
+  object-position: center;
+  background: #172d35;
+}
+.chamados-hero {
+  min-height: 0;
+  aspect-ratio: 3.2 / 1;
+  background-size: 100% 100%, contain !important;
+  background-position: center, center !important;
+  background-repeat: no-repeat;
+  background-color: #172d35;
+}
+.chamados-book-grid { align-items: stretch; }
+.chamados-book-card {
+  min-width: 0;
+  justify-content: flex-start;
+  align-items: stretch;
+}
+.chamados-book-image {
+  width: 100%;
+  height: auto !important;
+  aspect-ratio: 16 / 9;
+  object-fit: contain !important;
+  object-position: center;
+  background: #fffaf0;
+  margin: 0 0 8px;
+}
+.chamados-book-banner {
+  max-height: none;
+  aspect-ratio: 16 / 5;
+  background: #172d35;
+}
+.chamados-book-banner img {
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  max-height: none;
+  object-fit: contain !important;
   object-position: center;
 }
-
-@media (max-width: 700px) {
+.collection-card {
+  min-height: 0;
+  aspect-ratio: 16 / 9;
+  background-size: 100% 100%, contain !important;
+  background-position: center, center !important;
+  background-repeat: no-repeat;
+  background-color: #172d35;
+}
+.collection-hero {
+  min-height: 0;
+  aspect-ratio: 16 / 5;
+  background-size: 100% 100%, contain !important;
+  background-position: center, center !important;
+  background-repeat: no-repeat;
+  background-color: #172d35;
+}
+@media (max-width:700px) {
   .category-card.chamados,
-  .category-card.formados { aspect-ratio: 1.65 / 1; }
+  .category-card.formados,
+  .category-card.sermons,
+  .category-card.liturgies { aspect-ratio: 16 / 9; }
+  .chamados-hero { aspect-ratio: 16 / 7; }
   .chamados-book-grid { grid-template-columns: 1fr; }
-  .chamados-book-image { aspect-ratio: 16 / 9; }
-  .collection-grid { grid-template-columns: 1fr; }
-  .collection-card { aspect-ratio: 1.7 / 1; }
-  .collection-hero,
-  .chamados-hero { aspect-ratio: 2.4 / 1; }
+  .collection-card { aspect-ratio: 16 / 9; }
 }
