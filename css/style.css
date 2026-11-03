@@ -218,3 +218,37 @@ footer img { object-fit:contain; border-radius:8px; background:#080808; padding:
   cursor: pointer;
 }
 .chamados-listen-button:hover { background: var(--navy-2); }
+
+
+/* Ajuste de proporção das capas — Formados para Amar.
+   Mantém a arte inteira visível, sem cortar títulos e ilustrações. */
+.formados-hero {
+  min-height: clamp(280px, 34vw, 390px);
+  background-size: contain;
+  background-position: center;
+  background-color: #172d35;
+  background-repeat: no-repeat;
+  aspect-ratio: 2.35 / 1;
+}
+.formados-hero strong, .formados-hero span {
+  max-width: 48%;
+  text-shadow: 0 2px 10px rgba(0,0,0,.75);
+}
+.chamados-book-card .chamados-book-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1 / 1;
+  max-height: none;
+  object-fit: contain;
+  object-position: center;
+  background: #fffaf0;
+  border-radius: 10px;
+  margin: 0 0 4px;
+}
+.formados .category-card img { object-position: center; }
+@media (max-width:700px) {
+  .formados-hero { min-height: 245px; aspect-ratio: 1.35 / 1; background-size: contain; }
+  .formados-hero strong, .formados-hero span { max-width: 70%; }
+  .chamados-book-card .chamados-book-image { aspect-ratio: 1 / 1; }
+}

@@ -595,7 +595,7 @@ function formadosImageUrl(path) { return new URL(`imagens/formados-para-amar/${p
 function openFormados() {
   state.currentDailyType = null; clearTimeout(state.dailyTimer); formadosCurrentBook = null;
   showPanel("Formados para Amar", "Preparando o coração para um amor segundo o coração de Deus.", "AMOR, HONRA E ALIANÇA", "formados");
-  const hero = document.createElement("div"); hero.className = "chamados-hero";
+  const hero = document.createElement("div"); hero.className = "chamados-hero formados-hero";
   hero.style.backgroundImage = `linear-gradient(0deg,rgba(9,20,24,.72),rgba(9,20,24,.04)),url("${formadosImageUrl("Formados-para-Amar.png")}")`;
   const ht = document.createElement("strong"); ht.textContent = "Formados para Amar";
   const hs = document.createElement("span"); hs.textContent = "Preparando o coração para um amor segundo o coração de Deus.";
