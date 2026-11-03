@@ -219,80 +219,125 @@ footer img { object-fit:contain; border-radius:8px; background:#080808; padding:
 }
 .chamados-listen-button:hover { background: var(--navy-2); }
 
-/* Ajuste exclusivo de enquadramento das capas solicitadas: nenhuma arte é recortada. */
-.category-card.chamados,
-.category-card.formados,
-.category-card.sermons,
-.category-card.liturgies {
-  min-height: 0;
-  aspect-ratio: 2.15 / 1;
-  background-color: #172d35;
+
+/* Atualização 2026-11 — cartões móveis uniformes e capas sem recorte */
+@media (max-width: 700px) {
+  .category-grid { display:grid; grid-template-columns:1fr; gap:14px; }
+  .category-card,
+  .category-card:nth-child(4),
+  .category-card:nth-child(5),
+  .category-card.chamados,
+  .category-card:last-child {
+    grid-column:1 / -1;
+    display:flex;
+    align-items:stretch;
+    min-height:142px;
+    height:142px;
+    padding:0;
+  }
+  .category-card img {
+    position:absolute;
+    inset:0 auto 0 0;
+    width:44%;
+    height:100%;
+    object-fit:contain;
+    object-position:center;
+    padding:5px;
+    background:#172d35;
+    transform:none !important;
+  }
+  .category-card .card-shade {
+    background:linear-gradient(90deg,rgba(23,45,53,0) 0%,rgba(23,45,53,.10) 35%,#172d35 48%,#172d35 100%);
+  }
+  .category-card .card-content {
+    left:48%;
+    right:14px;
+    top:50%;
+    bottom:auto;
+    transform:translateY(-50%);
+    text-align:left;
+  }
+  .category-card .card-content strong { font-size:clamp(17px,4.7vw,21px); line-height:1.15; }
+  .category-card .card-content small { font-size:11px; line-height:1.35; }
+  .category-card.formados .card-content small { font-size:10px; }
 }
-.category-card.chamados img,
-.category-card.formados img,
-.category-card.sermons img,
-.category-card.liturgies img {
-  object-fit: contain;
-  object-position: center;
-  background: #172d35;
-}
+.category-card img { object-fit:contain; background:#172d35; }
 .chamados-hero {
-  min-height: 0;
-  aspect-ratio: 3.2 / 1;
-  background-size: 100% 100%, contain !important;
-  background-position: center, center !important;
-  background-repeat: no-repeat;
-  background-color: #172d35;
-}
-.chamados-book-grid { align-items: stretch; }
-.chamados-book-card {
-  min-width: 0;
-  justify-content: flex-start;
-  align-items: stretch;
+  min-height:0;
+  aspect-ratio:16 / 9;
+  background-size:contain;
+  background-position:center;
+  background-repeat:no-repeat;
+  background-color:#172d35;
 }
 .chamados-book-image {
-  width: 100%;
-  height: auto !important;
-  aspect-ratio: 16 / 9;
-  object-fit: contain !important;
-  object-position: center;
-  background: #fffaf0;
-  margin: 0 0 8px;
+  width:100%;
+  height:auto;
+  aspect-ratio:16 / 9;
+  object-fit:contain;
+  object-position:center;
+  background:#172d35;
 }
-.chamados-book-banner {
-  max-height: none;
-  aspect-ratio: 16 / 5;
-  background: #172d35;
-}
-.chamados-book-banner img {
-  width: 100%;
-  height: 100%;
-  max-height: none;
-  object-fit: contain !important;
-  object-position: center;
+.chamados-book-card { justify-content:flex-start; }
+.collection-grid {
+  display:grid;
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:16px;
 }
 .collection-card {
-  min-height: 0;
-  aspect-ratio: 16 / 9;
-  background-size: 100% 100%, contain !important;
-  background-position: center, center !important;
-  background-repeat: no-repeat;
-  background-color: #172d35;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  align-items:stretch;
+  min-height:0;
+  padding:0;
+  overflow:hidden;
+  background:#172d35;
+  color:#fff8e9;
 }
-.collection-hero {
-  min-height: 0;
-  aspect-ratio: 16 / 5;
-  background-size: 100% 100%, contain !important;
-  background-position: center, center !important;
-  background-repeat: no-repeat;
-  background-color: #172d35;
+.collection-cover {
+  display:block;
+  width:100%;
+  aspect-ratio:16 / 9;
+  height:auto;
+  object-fit:contain;
+  object-position:center;
+  background:#172d35;
 }
-@media (max-width:700px) {
-  .category-card.chamados,
-  .category-card.formados,
-  .category-card.sermons,
-  .category-card.liturgies { aspect-ratio: 16 / 9; }
-  .chamados-hero { aspect-ratio: 16 / 7; }
-  .chamados-book-grid { grid-template-columns: 1fr; }
-  .collection-card { aspect-ratio: 16 / 9; }
+.collection-details {
+  display:flex;
+  flex-direction:column;
+  align-items:flex-start;
+  gap:7px;
+  padding:15px 17px 17px;
+  text-align:left;
+}
+.collection-details strong {
+  font:500 clamp(20px,2.6vw,26px)/1.2 Georgia,serif;
+  color:#fff8e9;
+}
+.collection-details small {
+  color:#f1e7d5;
+  font:13px/1.5 Arial,sans-serif;
+}
+.collection-details em {
+  color:#e4c88e;
+  font: bold 12px Arial,sans-serif;
+  font-style:normal;
+  margin-top:3px;
+}
+.audio-controls {
+  display:flex;
+  flex-wrap:wrap;
+  gap:8px;
+  margin:12px 0 16px;
+}
+.audio-controls .nav-button { min-height:42px; }
+@media(max-width:700px) {
+  .collection-grid { grid-template-columns:1fr; gap:14px; }
+  .collection-card { width:100%; }
+  .collection-cover { aspect-ratio:16 / 9; }
+  .chamados-book-grid { grid-template-columns:1fr; }
+  .chamados-book-image { aspect-ratio:16 / 9; height:auto; }
+  .chamados-hero { aspect-ratio:16 / 9; min-height:0; padding:16px; }
 }

@@ -158,35 +158,56 @@ function renderItem(type, heroImage = null, showSummary = false) {
   // Leitura em voz alta usa a voz instalada no próprio navegador/sistema.
   // Disponível somente nos módulos solicitados: promessas, devocionais e sermões.
   if (["promessas", "devocionais", "sermoes"].includes(type)) {
+    const controls = document.createElement("div");
+    controls.className = "audio-controls";
+    const spokenText = [item.titulo, reference, item.secao, rawText].filter(Boolean).join(". ");
+    const supported = ("speechSynthesis" in window) && typeof SpeechSynthesisUtterance !== "undefined";
     const speakButton = document.createElement("button");
-    speakButton.type = "button";
-    speakButton.className = "nav-button listen-button";
+    speakButton.type = "button"; speakButton.className = "nav-button listen-button";
     speakButton.textContent = "🔊 Ouvir texto";
     speakButton.setAttribute("aria-label", "Ouvir texto em voz alta");
-    const spokenText = [item.titulo, reference, item.secao, rawText].filter(Boolean).join(". ");
-    speakButton.addEventListener("click", () => {
-      const speech = window.speechSynthesis;
-      if (!("speechSynthesis" in window) || typeof SpeechSynthesisUtterance === "undefined") {
-        message("Este navegador ou dispositivo não oferece leitura em voz alta. Experimente abrir o aplicativo em outro navegador atualizado.", "warning");
-        return;
-      }
-      if (speech.speaking || speech.paused) {
+    if (type === "sermoes") {
+      const pauseButton = document.createElement("button");
+      pauseButton.type = "button"; pauseButton.className = "nav-button"; pauseButton.textContent = "Ⅱ Pausar";
+      const resumeButton = document.createElement("button");
+      resumeButton.type = "button"; resumeButton.className = "nav-button"; resumeButton.textContent = "▶ Continuar";
+      const stopButton = document.createElement("button");
+      stopButton.type = "button"; stopButton.className = "nav-button"; stopButton.textContent = "■ Parar";
+      const resetAudioLabel = () => { speakButton.textContent = "🔊 Ouvir texto"; };
+      speakButton.addEventListener("click", () => {
+        if (!supported) { message("Este navegador ou dispositivo não oferece leitura em voz alta. No Android, use o Chrome atualizado e instale uma voz em português nas configurações de texto para fala.", "warning"); return; }
+        const speech = window.speechSynthesis;
         speech.cancel();
-        speakButton.textContent = "🔊 Ouvir texto";
-        state.speechText = null;
-        return;
-      }
-      speech.cancel();
-      const utterance = new SpeechSynthesisUtterance(spokenText);
-      utterance.lang = "pt-BR";
-      utterance.rate = 0.95;
-      utterance.onend = () => { speakButton.textContent = "🔊 Ouvir texto"; state.speechText = null; };
-      utterance.onerror = () => { speakButton.textContent = "🔊 Ouvir texto"; state.speechText = null; };
-      state.speechText = utterance;
-      speakButton.textContent = "■ Parar áudio";
-      speech.speak(utterance);
-    });
-    card.append(speakButton);
+        const utterance = new SpeechSynthesisUtterance(spokenText);
+        utterance.lang = "pt-BR"; utterance.rate = 0.95;
+        const voices = speech.getVoices();
+        const ptVoice = voices.find(v => /^pt-BR$/i.test(v.lang)) || voices.find(v => /^pt/i.test(v.lang));
+        if (ptVoice) utterance.voice = ptVoice;
+        utterance.onend = resetAudioLabel; utterance.onerror = resetAudioLabel;
+        state.speechText = utterance; speakButton.textContent = "■ Áudio em reprodução";
+        speech.speak(utterance);
+      });
+      pauseButton.addEventListener("click", () => { if (supported && window.speechSynthesis.speaking && !window.speechSynthesis.paused) window.speechSynthesis.pause(); });
+      resumeButton.addEventListener("click", () => { if (supported && window.speechSynthesis.paused) window.speechSynthesis.resume(); });
+      stopButton.addEventListener("click", () => { if (supported) window.speechSynthesis.cancel(); state.speechText = null; resetAudioLabel(); });
+      [pauseButton,resumeButton,stopButton].forEach(b => { b.disabled = !supported; controls.append(b); });
+    } else {
+      speakButton.addEventListener("click", () => {
+        if (!supported) { message("Este navegador ou dispositivo não oferece leitura em voz alta. Experimente abrir o aplicativo em outro navegador atualizado.", "warning"); return; }
+        const speech = window.speechSynthesis;
+        if (speech.speaking || speech.paused) { speech.cancel(); speakButton.textContent = "🔊 Ouvir texto"; state.speechText = null; return; }
+        speech.cancel();
+        const utterance = new SpeechSynthesisUtterance(spokenText);
+        utterance.lang = "pt-BR"; utterance.rate = 0.95;
+        const voices = speech.getVoices();
+        const ptVoice = voices.find(v => /^pt-BR$/i.test(v.lang)) || voices.find(v => /^pt/i.test(v.lang));
+        if (ptVoice) utterance.voice = ptVoice;
+        utterance.onend = () => { speakButton.textContent = "🔊 Ouvir texto"; state.speechText = null; };
+        utterance.onerror = () => { speakButton.textContent = "🔊 Ouvir texto"; state.speechText = null; };
+        state.speechText = utterance; speakButton.textContent = "■ Parar áudio"; speech.speak(utterance);
+      });
+    }
+    controls.prepend(speakButton); card.append(controls);
   }
   rawText.split(/\n\s*\n/).filter(Boolean).forEach(paragraph => { const p = document.createElement("p"); p.textContent = paragraph; body.append(p); });
   if (!rawText && item.inspiracao_biblica && !reference) { const p = document.createElement("p"); p.textContent = item.inspiracao_biblica; body.append(p); }
@@ -247,10 +268,14 @@ async function openPromises() {
   collections.forEach(collection => {
     const button = document.createElement("button"); button.type = "button";
     button.className = `collection-card collection-${collection.theme}`;
-    button.style.backgroundImage = `linear-gradient(0deg,rgba(12,25,29,.82),rgba(12,25,29,.04)),url("${collection.image}")`;
-    const name = document.createElement("span"); name.textContent = collection.title;
+    const image = document.createElement("img"); image.className = "collection-cover";
+    image.src = collection.image; image.alt = `Capa da coleção ${collection.title}`; image.loading = "lazy";
+    const details = document.createElement("span"); details.className = "collection-details";
+    const name = document.createElement("strong"); name.textContent = collection.title;
     const subtitle = document.createElement("small"); subtitle.textContent = `${collection.subtitle} ${collection.count} leituras`;
-    button.append(name, subtitle); button.addEventListener("click", () => openCollection(collection)); wrap.append(button);
+    const action = document.createElement("em"); action.textContent = "Abrir coleção →";
+    details.append(name, subtitle, action); button.append(image, details);
+    button.addEventListener("click", () => openCollection(collection)); wrap.append(button);
   });
   content.append(wrap);
 }
@@ -595,7 +620,7 @@ function formadosImageUrl(path) { return new URL(`imagens/formados-para-amar/${p
 function openFormados() {
   state.currentDailyType = null; clearTimeout(state.dailyTimer); formadosCurrentBook = null;
   showPanel("Formados para Amar", "Preparando o coração para um amor segundo o coração de Deus.", "AMOR, HONRA E ALIANÇA", "formados");
-  const hero = document.createElement("div"); hero.className = "chamados-hero formados-hero";
+  const hero = document.createElement("div"); hero.className = "chamados-hero";
   hero.style.backgroundImage = `linear-gradient(0deg,rgba(9,20,24,.72),rgba(9,20,24,.04)),url("${formadosImageUrl("Formados-para-Amar.png")}")`;
   const ht = document.createElement("strong"); ht.textContent = "Formados para Amar";
   const hs = document.createElement("span"); hs.textContent = "Preparando o coração para um amor segundo o coração de Deus.";
