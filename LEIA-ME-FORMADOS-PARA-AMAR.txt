@@ -1,0 +1,7 @@
+ATUALIZAÇÃO — FORMADOS PARA AMAR
+
+Este pacote acrescenta o módulo Formados para Amar ao aplicativo Renova-me Deus Meu. O módulo Chamados para Servir foi mantido e sua implementação original não foi substituída.
+
+Submódulos: Para Conquistá-la com Honra; Antes do Altar; Edifique o Seu Casamento. Cada submódulo possui sumário próprio, leitura diária automática, navegação livre, botões anterior/próximo e leitura em voz alta em português brasileiro.
+
+Os arquivos JSON de origem foram incorporados sem reescrever os textos.

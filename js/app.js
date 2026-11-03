@@ -582,6 +582,82 @@ function renderChamadosSummary(book) {
   }, "back-inline"));
 }
 
+
+// FORMADOS PARA AMAR — módulo independente; não altera Chamados para Servir.
+const formadosBooks = [
+  { key:"honra", title:"Para Conquistá-la com Honra", subtitle:"Aprendendo a amar com pureza, respeito e honra.", image:"01-Para-Conquista-la-com-Honra.png", file:`${ROOT}/FormadosParaAmar/para_conquista_la_com_honra.json` },
+  { key:"altar", title:"Antes do Altar", subtitle:"Preparando o coração para a aliança do casamento.", image:"02-Antes-do-Altar.png", file:`${ROOT}/FormadosParaAmar/antes_do_altar.json` },
+  { key:"casamento", title:"Edifique o Seu Casamento", subtitle:"Construindo o lar sobre o amor e a Palavra de Deus.", image:"03-Edifique-o-Seu-Casamento.png", file:`${ROOT}/FormadosParaAmar/edifique_o_seu_casamento.json` }
+];
+let formadosCurrentBook = null;
+let formadosRecords = [];
+function formadosImageUrl(path) { return new URL(`imagens/formados-para-amar/${path}`, APP_ROOT).href; }
+function openFormados() {
+  state.currentDailyType = null; clearTimeout(state.dailyTimer); formadosCurrentBook = null;
+  showPanel("Formados para Amar", "Preparando o coração para um amor segundo o coração de Deus.", "AMOR, HONRA E ALIANÇA", "formados");
+  const hero = document.createElement("div"); hero.className = "chamados-hero";
+  hero.style.backgroundImage = `linear-gradient(0deg,rgba(9,20,24,.72),rgba(9,20,24,.04)),url("${formadosImageUrl("Formados-para-Amar.png")}")`;
+  const ht = document.createElement("strong"); ht.textContent = "Formados para Amar";
+  const hs = document.createElement("span"); hs.textContent = "Preparando o coração para um amor segundo o coração de Deus.";
+  hero.append(ht,hs); content.append(hero);
+  const cards = document.createElement("div"); cards.className = "chamados-book-grid";
+  formadosBooks.forEach(book => {
+    const button = document.createElement("button"); button.type="button"; button.className="chamados-book-card";
+    const image=document.createElement("img"); image.className="chamados-book-image"; image.src=formadosImageUrl(book.image); image.alt=`Capa: ${book.title}`; image.loading="lazy";
+    image.onerror=()=>{image.classList.add("image-failed"); image.alt="Imagem indisponível";};
+    const t=document.createElement("strong"); t.textContent=book.title;
+    const sub=document.createElement("small"); sub.textContent=book.subtitle;
+    const action=document.createElement("span"); action.className="chamados-book-action"; action.textContent="Abrir livro →";
+    button.append(image,t,sub,action); button.addEventListener("click",()=>openFormadosBook(book)); cards.append(button);
+  });
+  content.append(cards);
+}
+async function openFormadosBook(book, showContents=false) {
+  state.currentDailyType="formados"; clearTimeout(state.dailyTimer); formadosCurrentBook=book;
+  showPanel(book.title,book.subtitle,"FORMADOS PARA AMAR","formados"); message("Carregando o conteúdo…");
+  try {
+    const data=await loadJson(book.file);
+    formadosRecords=extractRecords(data).slice().sort((a,b)=>Number(a.numero||0)-Number(b.numero||0));
+    if(!formadosRecords.length) throw new Error("O livro não contém textos reconhecidos.");
+    state.items=formadosRecords; state.index=showContents?0:dailyIndex(formadosRecords.length);
+    renderFormadosBook(book,showContents); scheduleFormadosRefresh();
+  } catch(error) {
+    content.replaceChildren(); message(`Não foi possível abrir ${book.title}: ${error.message}`,"error");
+    content.append(makeButton("← Voltar aos três livros",openFormados,"back-inline"));
+  }
+}
+function scheduleFormadosRefresh() {
+  clearTimeout(state.dailyTimer); const now=new Date(); const midnight=new Date(now.getFullYear(),now.getMonth(),now.getDate()+1,0,0,1);
+  state.dailyTimer=setTimeout(()=>{if(state.currentDailyType==="formados"&&formadosCurrentBook&&formadosRecords.length){state.index=dailyIndex(formadosRecords.length);renderFormadosBook(formadosCurrentBook,false);} if(state.currentDailyType==="formados")scheduleFormadosRefresh();},Math.max(1000,midnight.getTime()-now.getTime()));
+}
+function renderFormadosBook(book,showContents=false) {
+  content.replaceChildren(); const tools=document.createElement("div"); tools.className="chamados-tools";
+  tools.append(makeButton("← Três livros",openFormados,"back-inline"),makeButton("☷ Sumário",()=>renderFormadosSummary(book),"back-inline")); content.append(tools);
+  if(showContents){renderFormadosSummary(book);return;}
+  const item=formadosRecords[state.index]; if(!item){message("Texto não encontrado.","warning");return;}
+  const hero=document.createElement("div");hero.className="chamados-book-banner";const image=document.createElement("img");image.src=formadosImageUrl(book.image);image.alt="";hero.append(image);content.append(hero);
+  const card=document.createElement("article");card.className="reading-card chamados-reading-card";
+  const stamp=document.createElement("p");stamp.className="daily-stamp";stamp.textContent=`CONTEÚDO DO DIA · ${formatToday()}`;
+  const kicker=document.createElement("p");kicker.className="reading-kicker";kicker.textContent=`TEXTO ${item.numero??state.index+1} DE ${formadosRecords.length}`;
+  const heading=document.createElement("h3");heading.textContent=item.titulo||"Leitura";card.append(stamp,kicker,heading);
+  const labels={texto_base:"Texto base",acao_pratica:"Ação prática",cuidado_com_a_carne:"Cuidado com a carne",observacao_renova_me_deus_meu:"Observação Renova-me Deus Meu",referencia:"Referência bíblica",versiculo:"Versículo",enfase_teologica:"Ênfase teológica",enfase_pastoral_masculina:"Ênfase pastoral masculina",enfase_pratica:"Ênfase prática",reflexao:"Reflexão",aplicacao_pratica:"Aplicação prática"};
+  const excluded=new Set(["identificador","numero","titulo","texto_integral","texto_original"]);
+  Object.entries(item).forEach(([key,value])=>{if(excluded.has(key)||value==null||value==="")return;const label=document.createElement("h4");label.className="chamados-field-label";label.textContent=labels[key]||key.replaceAll("_"," ");card.append(label);(Array.isArray(value)?value:[value]).forEach(part=>{if(typeof part!=="string"||!part.trim())return;const p=document.createElement("p");p.className="reading-body chamados-paragraph";p.textContent=part;card.append(p);});});
+  const listen=document.createElement("button");listen.type="button";listen.className="nav-button listen-button chamados-listen-button";listen.textContent="🔊 Ouvir leitura";
+  const spokenText=[item.titulo,...Object.entries(item).filter(([k])=>!excluded.has(k)).map(([,v])=>v)].flatMap(v=>Array.isArray(v)?v:[v]).filter(v=>typeof v==="string"&&v.trim()).join(". ");
+  listen.addEventListener("click",()=>{if(!("speechSynthesis" in window)||typeof SpeechSynthesisUtterance==="undefined"){message("Este navegador não oferece leitura em voz alta. Experimente usar Chrome ou Edge atualizado.","warning");return;}const speech=window.speechSynthesis;if(speech.speaking||speech.paused){speech.cancel();listen.textContent="🔊 Ouvir leitura";return;}speech.cancel();const utterance=new SpeechSynthesisUtterance(spokenText);utterance.lang="pt-BR";utterance.rate=.95;utterance.onend=()=>listen.textContent="🔊 Ouvir leitura";utterance.onerror=()=>listen.textContent="🔊 Ouvir leitura";listen.textContent="■ Parar áudio";speech.speak(utterance);});
+  card.append(listen);content.append(card);
+  const nav=document.createElement("div");nav.className="reading-nav";const prev=document.createElement("button");prev.type="button";prev.className="nav-button";prev.textContent="← Anterior";prev.disabled=state.index===0;prev.addEventListener("click",()=>{state.index--;renderFormadosBook(book);});
+  const count=document.createElement("span");count.className="reading-count";count.textContent=`${state.index+1} de ${formadosRecords.length}`;
+  const next=document.createElement("button");next.type="button";next.className="nav-button primary";next.textContent="Próximo →";next.disabled=state.index>=formadosRecords.length-1;next.addEventListener("click",()=>{state.index++;renderFormadosBook(book);});nav.append(prev,count,next);content.append(nav);
+}
+function renderFormadosSummary(book) {
+  content.replaceChildren();const heading=document.createElement("h3");heading.className="chamados-summary-title";heading.textContent=`Sumário — ${book.title}`;
+  const today=document.createElement("p");today.className="chamados-count";today.textContent=`O texto sugerido para hoje é o nº ${formadosRecords[dailyIndex(formadosRecords.length)]?.numero??dailyIndex(formadosRecords.length)+1}. Selecione qualquer título para ler.`;content.append(heading,today);
+  const list=document.createElement("div");list.className="chamados-lesson-list";formadosRecords.forEach((record,index)=>{const button=document.createElement("button");button.type="button";button.className="chamados-lesson-link";const name=document.createElement("span");name.textContent=`${record.numero==null?"Texto":record.numero+"."} ${record.titulo||"Sem título"}`;const arrow=document.createElement("b");arrow.textContent="›";button.append(name,arrow);button.addEventListener("click",()=>{state.index=index;renderFormadosBook(book);});list.append(button);});content.append(list);
+  content.append(makeButton("← Voltar ao conteúdo do dia",()=>{state.index=dailyIndex(formadosRecords.length);renderFormadosBook(book);},"back-inline"));
+}
+
 function openCredits() {
   showPanel("Créditos", "Conheça os responsáveis pela elaboração do aplicativo.", "RENOVA-ME DEUS MEU", "default");
   const card = document.createElement("article");
@@ -600,7 +676,8 @@ const actions = {
   liturgias: () => openSequential("liturgias"),
   devocionais: () => openSequential("devocionais"),
   promessas: openPromises,
-  chamados: openChamados
+  chamados: openChamados,
+  formados: openFormados
 };
 document.querySelectorAll("[data-section]").forEach(card => card.addEventListener("click", event => {
   event.preventDefault(); const key = card.dataset.section; history.replaceState(null, "", `#${key}`); actions[key]?.();
