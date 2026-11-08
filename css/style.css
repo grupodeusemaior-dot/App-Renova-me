@@ -341,3 +341,19 @@ footer img { object-fit:contain; border-radius:8px; background:#080808; padding:
   .chamados-book-image { aspect-ratio:16 / 9; height:auto; }
   .chamados-hero { aspect-ratio:16 / 9; min-height:0; padding:16px; }
 }
+
+
+/* Formatação de leitura: textos de conteúdo justificados */
+.intro,
+.empty-note,
+.reading-body,
+.reading-body p,
+.bible-text,
+.bible-text p,
+.bible-intro,
+.chamados-paragraph,
+.chamados-count,
+.credits-card > p {
+  text-align: justify;
+  text-justify: inter-word;
+}
