@@ -342,18 +342,19 @@ footer img { object-fit:contain; border-radius:8px; background:#080808; padding:
   .chamados-hero { aspect-ratio:16 / 9; min-height:0; padding:16px; }
 }
 
-
-/* Formatação de leitura: textos de conteúdo justificados */
-.intro,
-.empty-note,
-.reading-body,
-.reading-body p,
-.bible-text,
-.bible-text p,
-.bible-intro,
-.chamados-paragraph,
-.chamados-count,
-.credits-card > p {
-  text-align: justify;
+/* Formatação global de conteúdo — atualização 2026-11-08 */
+/* Aplica justificação apenas a blocos de leitura, sem alterar menus, botões ou títulos. */
+#viewDescription,
+#viewContent .intro,
+#viewContent .empty-note,
+#viewContent .reading-body,
+#viewContent .reading-body p,
+#viewContent .bible-intro,
+#viewContent .bible-text,
+#viewContent .bible-text p,
+#viewContent .chamados-paragraph,
+#viewContent .chamados-count,
+#viewContent .credits-card > p {
+  text-align: justify !important;
   text-justify: inter-word;
 }

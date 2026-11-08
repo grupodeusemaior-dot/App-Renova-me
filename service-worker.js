@@ -1,4 +1,4 @@
-const VERSION = 'renova-me-pwa-v8-formados-images-bible';
+const VERSION = 'renova-me-pwa-v9-text-justify';
 const CORE = [
   './', './index.html', './manifest.webmanifest', './css/style.css', './js/app.js',
   './js/catalogo-biblia.js', './Logo-Renova-me.jpg', './assets/capa-app.png',
