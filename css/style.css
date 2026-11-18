@@ -358,3 +358,48 @@ footer img { object-fit:contain; border-radius:8px; background:#080808; padding:
   text-align: justify !important;
   text-justify: inter-word;
 }
+
+
+/* Melhorias de navegação e acessibilidade de leitura — novembro/2026 */
+.panel-toolbar { display:flex; align-items:center; justify-content:space-between; gap:14px; flex-wrap:wrap; margin:0 0 18px; }
+.back-button { display:inline-flex; align-items:center; justify-content:center; min-height:46px; padding:12px 18px; border:1px solid #b18a4d; border-radius:11px; background:var(--navy); color:#fff8e9; font:bold 14px Arial,sans-serif; box-shadow:0 5px 14px rgba(23,45,53,.16); transition:background .2s ease, transform .2s ease; }
+.back-button:hover { background:var(--navy-2); transform:translateY(-1px); }
+.font-controls { display:flex; align-items:center; gap:8px; padding:6px 9px; border:1px solid #e2d5c0; border-radius:12px; background:#fffdf8; color:var(--navy); font:600 12px Arial,sans-serif; }
+.font-controls button { min-width:42px; min-height:38px; border:1px solid #c5a46b; border-radius:9px; background:#172d35; color:#fff8e9; font:bold 15px Arial,sans-serif; cursor:pointer; }
+.font-controls button:disabled { opacity:.4; cursor:not--allowed; }
+.collection-exit-button { max-width:900px; margin:16px auto 0; border:1px solid #b18a4d; background:#f8f1e5; color:#172d35; font-weight:bold; }
+.collection-exit-button:hover { background:#fff8e9; }
+/* Escala tipográfica uniforme, sem ampliar imagens e elementos decorativos. */
+.view-panel { --font-scale:1; }
+.view-panel .reading-body,
+.view-panel .bible-text,
+.view-panel .reading-reference,
+.view-panel .reading-card > p,
+.view-panel .reading-card > h3,
+.view-panel .reading-card > h4,
+.view-panel .reading-card > div,
+.view-panel .chamados-paragraph,
+.view-panel .chamados-lesson-link,
+.view-panel .summary-item,
+.view-panel .summary-count,
+.view-panel .summary-search,
+.view-panel .data-link,
+.view-panel .chapter-button,
+.view-panel .book-link,
+.view-panel .testament-card small,
+.view-panel .collection-card small,
+.view-panel .empty-note,
+.view-panel .reading-count,
+.view-panel .nav-button,
+.view-panel .back-inline,
+.view-panel .bible-intro,
+.view-panel .chamados-count,
+.view-panel .chamados-field-label {
+  font-size:calc(var(--font-scale) * 1rem);
+}
+.view-panel .reading-body { line-height:1.85; }
+@media(max-width:600px) {
+  .panel-toolbar { align-items:stretch; }
+  .back-button { width:100%; }
+  .font-controls { justify-content:center; }
+}

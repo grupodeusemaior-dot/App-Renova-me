@@ -70,7 +70,14 @@
     </section>
 
     <section class="view-panel" id="viewPanel" hidden>
-      <button class="back-button" id="backButton">← Voltar ao início</button>
+      <div class="panel-toolbar">
+        <button class="back-button" id="backButton">← Voltar ao menu inicial</button>
+        <div class="font-controls" role="group" aria-label="Ajustar tamanho dos textos">
+          <span>Tamanho do texto</span>
+          <button type="button" id="decreaseText" aria-label="Diminuir tamanho do texto" title="Diminuir texto">A−</button>
+          <button type="button" id="increaseText" aria-label="Aumentar tamanho do texto" title="Aumentar texto">A+</button>
+        </div>
+      </div>
       <p class="eyebrow" id="viewEyebrow">BIBLIOTECA</p>
       <h2 id="viewTitle"></h2>
       <p id="viewDescription" class="intro"></p>

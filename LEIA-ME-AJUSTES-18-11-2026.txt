@@ -1,0 +1,17 @@
+AJUSTES — RENOVA-ME DEUS MEU (VERSÃO ORIGINAL)
+
+Alterações incluídas:
+- Caixinha das Promessas: botão para sair da coleção atual e retornar à lista das quatro coleções.
+- Navegação: botão “Voltar ao menu inicial” com maior destaque visual.
+- Leitura: controles A− e A+ no cabeçalho das áreas internas. A preferência é salva no armazenamento local do navegador e permanece entre sessões no mesmo dispositivo/navegador.
+- Service Worker: versão do cache atualizada para que os arquivos novos sejam carregados.
+
+Observação sobre políticas de segurança:
+Não foi localizado texto, botão ou seção de política de segurança/privacidade nos arquivos HTML, CSS e JavaScript desta versão original. Por isso, nenhum conteúdo foi removido ou transferido. O rodapé continua sendo a área final do aplicativo, com Créditos e Nosso Site. Se houver uma política externa ou um texto que pertença a esta versão, será necessário fornecer o conteúdo ou indicar o local para incluí-lo no rodapé.
+
+Como testar:
+1. Extraia o ZIP mantendo as pastas.
+2. Abra a pasta App-Renova-me-main no VS Code.
+3. Execute o projeto pelo servidor local (por exemplo, Live Server).
+4. Abra a Caixinha das Promessas, entre em uma coleção e use “Sair desta caixinha e ver as demais”.
+5. Em qualquer módulo, teste A− e A+ e atualize a página para confirmar que o tamanho escolhido permanece salvo.

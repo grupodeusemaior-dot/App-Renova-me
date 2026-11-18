@@ -32,6 +32,19 @@ const title = document.getElementById("viewTitle");
 const desc = document.getElementById("viewDescription");
 const content = document.getElementById("viewContent");
 const eyebrow = document.getElementById("viewEyebrow");
+const FONT_SCALE_KEY = "renovame-font-scale";
+const FONT_SCALE_MIN = 0.85, FONT_SCALE_MAX = 1.4, FONT_SCALE_STEP = 0.1;
+let fontScale = Number(localStorage.getItem(FONT_SCALE_KEY)) || 1;
+fontScale = Math.min(FONT_SCALE_MAX, Math.max(FONT_SCALE_MIN, fontScale));
+function applyFontScale() {
+  panel.style.setProperty("--font-scale", String(fontScale));
+  document.getElementById("decreaseText").disabled = fontScale <= FONT_SCALE_MIN;
+  document.getElementById("increaseText").disabled = fontScale >= FONT_SCALE_MAX;
+  localStorage.setItem(FONT_SCALE_KEY, String(fontScale));
+}
+document.getElementById("decreaseText").addEventListener("click", () => { fontScale = Math.max(FONT_SCALE_MIN, Math.round((fontScale - FONT_SCALE_STEP) * 100) / 100); applyFontScale(); });
+document.getElementById("increaseText").addEventListener("click", () => { fontScale = Math.min(FONT_SCALE_MAX, Math.round((fontScale + FONT_SCALE_STEP) * 100) / 100); applyFontScale(); });
+applyFontScale();
 
 const safe = value => String(value ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 // A sequência começa no primeiro registro em 02/11/2026 e avança uma posição
@@ -289,6 +302,7 @@ async function openCollection(collection) {
     if (!state.items.length) throw new Error("A coleção não contém textos reconhecidos.");
     state.index = dailyIndex(state.items.length);
     renderItem("promessas", collection.image);
+    content.append(makeButton("← Sair desta caixinha e ver as demais", openPromises, "collection-exit-button"));
     scheduleDailyRefresh("promessas", collection.image);
   } catch (error) {
     content.replaceChildren(); message(`Não foi possível abrir ${collection.title}: ${error.message}`, "error");

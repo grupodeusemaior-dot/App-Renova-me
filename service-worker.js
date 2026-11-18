@@ -1,4 +1,4 @@
-const VERSION = 'renova-me-pwa-v9-text-justify';
+const VERSION = 'renova-me-pwa-v10-acessibilidade-navegacao';
 const CORE = [
   './', './index.html', './manifest.webmanifest', './css/style.css', './js/app.js',
   './js/catalogo-biblia.js', './Logo-Renova-me.jpg', './assets/capa-app.png',
